@@ -1,0 +1,75 @@
+name: Daily update
+
+on:
+  schedule:
+    # 05:20 UTC every day. Off the hour on purpose — GitHub's scheduler
+    # is heavily congested at :00 and jobs get delayed or dropped.
+    - cron: '20 5 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'data/places.json'
+      - 'data/tips.json'
+      - 'data/eats.json'
+      - 'data/calendar.json'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch feeds and rebuild live data
+        run: node scripts/update.mjs
+
+      - name: Validate JSON
+        run: |
+          for f in data/*.json; do
+            node -e "JSON.parse(require('fs').readFileSync('$f','utf8'))" \
+              || { echo "::error file=$f::invalid JSON"; exit 1; }
+          done
+          echo "All data files parse cleanly."
+
+      - name: Commit if changed
+        run: |
+          git config user.name  'hidden-atlas-bot'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes today."
+          else
+            git commit -m "Daily update: $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - id: deployment
+        uses: actions/deploy-pages@v4
