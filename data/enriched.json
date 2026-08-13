@@ -514,5 +514,29 @@
     "page": "https://en.wikipedia.org/wiki/Iya_Valley",
     "fetchedAt": "2026-08-13T18:01:30.150Z",
     "triedAt": "2026-08-13T18:01:30.150Z"
+  },
+  "pemba": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Vumawimbi_Beach%2C_Pemba_Island.jpg/960px-Vumawimbi_Beach%2C_Pemba_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Vumawimbi_Beach%2C_Pemba_Island.jpg/960px-Vumawimbi_Beach%2C_Pemba_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "extract": "Pemba Island (Arabic: الجزيرة الخضراء, al-Jazīra al-khadrāʔ; Swahili: Kisiwa cha Pemba) is a Tanzanian island forming part of the Zanzibar Archipelago, lying within the Swahili Coast in the Indian Ocean.",
+    "page": "https://en.wikipedia.org/wiki/Pemba_Island",
+    "fetchedAt": "2026-08-13T20:22:58.082Z",
+    "triedAt": "2026-08-13T20:22:58.082Z"
+  },
+  "niue": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/960px-Flag_of_Niue.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/960px-Flag_of_Niue.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "extract": "Niue is a self-governing island country in free association with New Zealand. It is situated in the South Pacific Ocean, is part of Polynesia, and is predominantly inhabited by Polynesians. As one of the world's largest coral islands, Niue is nicknamed \"The Rock\", which comes from the traditional name \"Rock of Polynesia\".\nNiue's position is inside a triangle drawn between Tonga, Samoa, and the Coo",
+    "page": "https://en.wikipedia.org/wiki/Niue",
+    "fetchedAt": "2026-08-13T20:22:58.448Z",
+    "triedAt": "2026-08-13T20:22:58.448Z"
+  },
+  "chapada": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Chapada_diamantina.jpg/960px-Chapada_diamantina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Chapada_diamantina.jpg/960px-Chapada_diamantina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "extract": "The Chapada Diamantina National Park (Portuguese: Parque Nacional da Chapada Diamantina [ʃaˈpadɐ dʒi.amɐ̃ˈtʃĩnɐ]) is a national park in the Chapada Diamantina region of the State of Bahia, Brazil.\nThe terrain is rugged and mainly covered by the flora of the Caatinga biome.",
+    "page": "https://en.wikipedia.org/wiki/Chapada_Diamantina_National_Park",
+    "fetchedAt": "2026-08-13T20:22:58.777Z",
+    "triedAt": "2026-08-13T20:22:58.777Z"
   }
 }
