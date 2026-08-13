@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T17:45:09.194Z",
+  "generatedAt": "2026-08-13T18:01:36.297Z",
   "date": "2026-08-13",
   "rotation": {
     "places": [
@@ -16,6 +16,17 @@
     "eats": 22
   },
   "feed": [
+    {
+      "title": "South Main Plaza Dog Fountain in Mount Vernon, Ohio",
+      "link": "https://www.atlasobscura.com/places/south-main-plaza-dog-fountain",
+      "date": "Thu, 13 Aug 2026 14:00:00 -0400",
+      "summary": "At the heart of South Main Plaza in Mt. Vernon sits an unexpected menagerie: a fountain crowded with painted cast-aluminum dogs, watched over by a cat, a pony, two pairs of birds, and, inexplicably, an apple. At the very center sits a golden bone, and the cat,",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
     {
       "title": "City of Justice in Vilnius, Lithuania",
       "link": "https://www.atlasobscura.com/places/the-city-of-justice",
@@ -54,17 +65,6 @@
       "link": "https://www.atlasobscura.com/places/hundafoss",
       "date": "Wed, 12 Aug 2026 14:00:00 -0400",
       "summary": "Most walkers leave Skaftafell aiming at Svartifoss , but the trail offers an earlier surprise. Hundafoss drops through Bæjargil in a narrow, green-sided gorge, giving the uphill approach a quieter prelude before the main waterfall’s basalt-column setting. Its ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Bologna Centrale Bombing Memorial in Bologna, Italy",
-      "link": "https://www.atlasobscura.com/places/bologna-centrale-bombing-memorial",
-      "date": "Wed, 12 Aug 2026 12:00:00 -0400",
-      "summary": "On Saturday, 2nd August 1980, at 10.25 am, a bomb exploded in the 2nd-class waiting room at Bologna Centrale. The blast affected the surrounding areas of the station, causing a part of the building to collapse and also struck the stationary Ancona–Chiasso trai",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -206,7 +206,7 @@
     }
   ],
   "enrichment": {
-    "ok": 24,
-    "failed": 1
+    "ok": 63,
+    "failed": 3
   }
 }
