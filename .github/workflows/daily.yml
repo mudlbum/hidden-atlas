@@ -34,13 +34,10 @@ jobs:
       - name: Fetch feeds and rebuild live data
         run: node scripts/update.mjs
 
-      - name: Validate JSON
-        run: |
-          for f in data/*.json; do
-            node -e "JSON.parse(require('fs').readFileSync('$f','utf8'))" \
-              || { echo "::error file=$f::invalid JSON"; exit 1; }
-          done
-          echo "All data files parse cleanly."
+      - name: Validate data
+        # Full schema check, not just JSON.parse: catches duplicate ids, missing
+        # Korean, bad coords, and tags with no UI label. Fails the run before deploy.
+        run: node scripts/validate.mjs
 
       - name: Commit if changed
         run: |
