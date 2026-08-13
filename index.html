@@ -121,7 +121,9 @@ section{ padding:52px 0; border-top:1px solid var(--line) }
 }
 .card:hover{ transform:translateY(-3px); box-shadow:var(--shadow-lg); border-color:var(--line-2) }
 .thumb{ position:relative; aspect-ratio:16/10; background:var(--paper-2); overflow:hidden }
-.thumb img{ width:100%; height:100%; object-fit:cover; display:block }
+/* The placeholder sits underneath every thumb. The image paints on top of it,
+   so if the image 404s and removes itself, the placeholder is already there. */
+.thumb img{ width:100%; height:100%; object-fit:cover; display:block; position:relative; z-index:1 }
 .thumb .ph{
   position:absolute; inset:0; display:grid; place-items:center;
   font-family:var(--serif); font-size:58px; font-weight:800; color:rgba(255,255,255,.82);
@@ -531,10 +533,10 @@ const todayKey = () => new Date().toISOString().slice(0,10);
 function imageFor(p){
   const e = DB.enriched[p.id];
   if(!e) return null;
-  const src = e.thumb || e.image;
-  if(!src) return null;
-  // Wikipedia thumbs come back small; ask for a card-sized render instead.
-  return src.replace(/\/(\d{2,4})px-/, '/900px-');
+  // Use the URL exactly as the API gave it. Never rewrite the width by hand —
+  // the size prefix is not the only "NNNpx-" that can appear in a Commons path,
+  // and a wrong guess makes the thumbnailer return HTTP 400.
+  return e.thumb || e.image || null;
 }
 function hueFor(id){ return hash(id) % 360 }
 function placeholder(p){
@@ -555,8 +557,8 @@ function placeCard(p, {featured=false}={}){
   return `
   <article class="card" data-id="${esc(p.id)}">
     <div class="thumb">
+      ${placeholder(p)}
       ${img ? `<img loading="lazy" decoding="async" src="${esc(img)}" alt="${esc(t(p.name))}" onerror="this.remove()">` : ''}
-      ${img ? '' : placeholder(p)}
       ${featured ? `<span class="ribbon">${esc(T().pick)}</span>` : ''}
       <button class="save" data-save="${esc(p.id)}" aria-pressed="${saved}" title="Save">${saved?'★':'☆'}</button>
       ${p.coords ? `<span class="geo">${coordLabel(p.coords)}</span>` : ''}

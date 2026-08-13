@@ -21,7 +21,8 @@ const DATA = join(ROOT, 'data');
 
 const UA = 'HiddenAtlas/1.0 (https://github.com/; daily static site builder)';
 const TIMEOUT = 20000;
-const ENRICH_BUDGET = 25;        // Wikipedia lookups per run — spreads cost over a few days
+const ENRICH_BUDGET = 80;        // Wikipedia lookups per run — at 250ms spacing the
+                                 // whole catalogue warms in a single run (~20s)
 const ENRICH_MAX_AGE_DAYS = 120; // refresh a successful entry roughly every 4 months
 const ENRICH_RETRY_DAYS = 1;     // retry a failed lookup the next day, not in 4 months
 
@@ -115,20 +116,28 @@ async function enrich(places, cache) {
   let ok = 0;
   let failed = 0;
   for (const p of queue) {
+    // Action API rather than the REST summary endpoint: it lets us ask for an
+    // exact thumbnail width (pithumbsize), so we never have to rewrite the URL
+    // ourselves. Hand-editing a Commons thumb URL yields HTTP 400.
     const url =
-      'https://en.wikipedia.org/api/rest_v1/page/summary/' +
-      encodeURIComponent(p.wiki.replace(/ /g, '_'));
+      'https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2' +
+      '&prop=pageimages|extracts|info&inprop=url&piprop=thumbnail&pithumbsize=800' +
+      '&exintro=1&explaintext=1&redirects=1&titles=' +
+      encodeURIComponent(p.wiki.replace(/_/g, ' '));
     try {
       const j = await get(url, { as: 'json' });
+      const page = j.query?.pages?.[0];
+      if (!page || page.missing) throw new Error('no such article');
       const stamp = new Date().toISOString();
       cache[p.id] = {
-        image: j.originalimage?.source || j.thumbnail?.source || null,
-        thumb: j.thumbnail?.source || null,
-        extract: j.extract || null,
-        page: j.content_urls?.desktop?.page || null,
+        image: page.thumbnail?.source || null,
+        thumb: page.thumbnail?.source || null,
+        extract: (page.extract || '').slice(0, 400) || null,
+        page: page.fullurl || null,
         fetchedAt: stamp,
         triedAt: stamp,
       };
+      if (!cache[p.id].image) log(`enrichment: ${p.id} has no image on Wikipedia`);
       ok++;
     } catch (err) {
       // Keep whatever we already had; only record that we tried, so tomorrow retries.
