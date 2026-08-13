@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T16:30:24.765Z",
+  "generatedAt": "2026-08-13T17:45:09.194Z",
   "date": "2026-08-13",
   "rotation": {
     "places": [
@@ -15,11 +15,198 @@
     "tips": 38,
     "eats": 22
   },
-  "feed": [],
+  "feed": [
+    {
+      "title": "City of Justice in Vilnius, Lithuania",
+      "link": "https://www.atlasobscura.com/places/the-city-of-justice",
+      "date": "Thu, 13 Aug 2026 12:00:00 -0400",
+      "summary": "Parallel worlds are nothing unusual in pop culture. Most films and publications stem from the horror genre; portals into other worlds and dimensions usually portend nothing good for those who open them. One thinks of the \"Upside Down\" or shadow world in Strang",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "RoboCop Statue in Detroit, Michigan",
+      "link": "https://www.atlasobscura.com/places/robocop-statue",
+      "date": "Thu, 13 Aug 2026 10:00:00 -0400",
+      "summary": "RoboCop is a fictional, cybernetically enhanced Detroit police officer from the RoboCop franchise. Beginning in 1987 with the film “RoboCop”, the stories of RoboCop center around, Officer Alex James Murphy after he has been cybernetically enhanced and continue",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Lazareto de Menorca in Es Castell, Spain",
+      "link": "https://www.atlasobscura.com/places/lazareto-de-menorca",
+      "date": "Wed, 12 Aug 2026 16:00:00 -0400",
+      "summary": "Hidden on a small island in the middle of Mahón Harbour, the Lazareto of Menorca is one of Europe's largest and best-preserved maritime quarantine stations. Built during the 19th century, it was designed to isolate ships, passengers, and cargo arriving from po",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Hundafoss in Iceland",
+      "link": "https://www.atlasobscura.com/places/hundafoss",
+      "date": "Wed, 12 Aug 2026 14:00:00 -0400",
+      "summary": "Most walkers leave Skaftafell aiming at Svartifoss , but the trail offers an earlier surprise. Hundafoss drops through Bæjargil in a narrow, green-sided gorge, giving the uphill approach a quieter prelude before the main waterfall’s basalt-column setting. Its ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Bologna Centrale Bombing Memorial in Bologna, Italy",
+      "link": "https://www.atlasobscura.com/places/bologna-centrale-bombing-memorial",
+      "date": "Wed, 12 Aug 2026 12:00:00 -0400",
+      "summary": "On Saturday, 2nd August 1980, at 10.25 am, a bomb exploded in the 2nd-class waiting room at Bologna Centrale. The blast affected the surrounding areas of the station, causing a part of the building to collapse and also struck the stationary Ancona–Chiasso trai",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Holafly Plans: The Best eSIM Plan for Long Term Travelers",
+      "link": "https://www.nomadicmatt.com/travel-blogs/holafly-plans/",
+      "date": "Tue, 28 Jul 2026 16:40:13 +0000",
+      "summary": "There are a lot of eSIM companies in the world. They all work a similar way: you download their app, pick your package, install the eSIM into your smartphone, and off you go. There’s many I like. But one I like more than the rest is Holafly and I’ve been using",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Nomad Citizen: A New Social Safety Net for Entrepreneurs",
+      "link": "https://www.nomadicmatt.com/travel-blogs/nomad-citizen-review/",
+      "date": "Thu, 18 Jun 2026 12:07:22 +0000",
+      "summary": "If you’re a digital nomad or a location-independent business owner, you’re either overpaying for fragmented insurance coverage (travel, medical, etc.) or just badly underinsured. You have a health plan, travel insurance, and maybe some medical evacuation cover",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Faye Travel Insurance: The Best New Company Out there",
+      "link": "https://www.nomadicmatt.com/travel-blogs/faye-travel-insurance-review/",
+      "date": "Wed, 03 Jun 2026 13:05:03 +0000",
+      "summary": "We may receive compensation from Faye as an advertising partner. However, this does not influence our evaluations. Our opinions are our own. I’ve been writing about travel for nearly two decades and, in that time, I’ve watched the travel insurance industry cha",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Madrid 5-Day Itinerary: A Guide to Culture, Gastronomy, and Local Life",
+      "link": "https://www.nomadicmatt.com/travel-blogs/madrid-five-day-itinerary/",
+      "date": "Wed, 06 May 2026 07:50:57 +0000",
+      "summary": "Home to some 3.5 million people, Madrid is the capital of Spain and the country’s largest city. Though it’s somewhat sprawling, the city boasts stunning architecture, incredible food, and an energetic nightlife that stretches until dawn. Over 10 million people",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Capital One Venture Business Card Review",
+      "link": "https://www.nomadicmatt.com/travel-blogs/capital-one-venture-business-review/",
+      "date": "Fri, 01 May 2026 15:30:42 +0000",
+      "summary": "If you’re a traveler like me, chances are you’re always on the lookout for ways to make your trips more affordable. That’s why I collect points and miles: they help me lower my travel costs so I can spend my money on what’s actually important…which is usually ",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Met up after more than 30 years - confusing!",
+      "link": "https://www.reddit.com/r/solotravel/comments/1visp5w/met_up_after_more_than_30_years_confusing/",
+      "date": "2026-08-08T10:40:29+00:00",
+      "summary": "First of all, I've anonymized this post a bit, since this is concerning another real person. Hi, I traveled to a nation just opening up to the west in the early 90s, as a male independent traveler aged in my early 20s. I met a young lady who was on the staff o",
+      "source": "reddit-solotravel",
+      "sourceLabel": {
+        "en": "r/solotravel",
+        "ko": "r/solotravel"
+      }
+    },
+    {
+      "title": "My boyfriend has regulations for me traveling solo – reasonable or unreasonable?",
+      "link": "https://www.reddit.com/r/solotravel/comments/1vkynz2/my_boyfriend_has_regulations_for_me_traveling/",
+      "date": "2026-08-10T21:56:20+00:00",
+      "summary": "My (26F) boyfriend (36M) of 5 years is struggling with me telling him I want to travel solo at least once. He and I love seeing national parks together and have been able to create some really special vacations and memories. I have a strong urge to travel solo",
+      "source": "reddit-solotravel",
+      "sourceLabel": {
+        "en": "r/solotravel",
+        "ko": "r/solotravel"
+      }
+    },
+    {
+      "title": "is this a known scam or am i in danger?",
+      "link": "https://www.reddit.com/r/solotravel/comments/1vi1ube/is_this_a_known_scam_or_am_i_in_danger/",
+      "date": "2026-08-07T14:15:40+00:00",
+      "summary": "i’m a woman solo traveling to a state i’ve never been, haven’t given out my number or been on the apps, and last night i received a text from a number with the area code of where i’m visiting. the texter states their name & asks if i’m in (neighboring state of",
+      "source": "reddit-solotravel",
+      "sourceLabel": {
+        "en": "r/solotravel",
+        "ko": "r/solotravel"
+      }
+    },
+    {
+      "title": "Does not posting on social media while traveling allow you to experience the trip more fully",
+      "link": "https://www.reddit.com/r/solotravel/comments/1vj5lhy/does_not_posting_on_social_media_while_traveling/",
+      "date": "2026-08-08T20:02:35+00:00",
+      "summary": "I’m considering taking a vacation without posting any pictures or updates while I’m away. I would still take photographs for myself, but I’d wait until after the trip—if I share them at all. I enjoy letting friends see where I am and what I’m experiencing, but",
+      "source": "reddit-solotravel",
+      "sourceLabel": {
+        "en": "r/solotravel",
+        "ko": "r/solotravel"
+      }
+    },
+    {
+      "title": "What's a destination that completely exceeded your expectations compared to its reputation?",
+      "link": "https://www.reddit.com/r/solotravel/comments/1vmfbes/whats_a_destination_that_completely_exceeded_your/",
+      "date": "2026-08-12T14:13:38+00:00",
+      "summary": "Would love some insight from solo travelers who went somewhere with fairly low expectations (based on what you'd heard/read beforehand) and ended up being surprised in a positive way- whether that was safety, ease of meeting people, just the overall experience",
+      "source": "reddit-solotravel",
+      "sourceLabel": {
+        "en": "r/solotravel",
+        "ko": "r/solotravel"
+      }
+    }
+  ],
   "feedIsStale": false,
-  "sources": [],
+  "sources": [
+    {
+      "id": "atlas-obscura",
+      "ok": true,
+      "count": 5
+    },
+    {
+      "id": "nomadic-matt",
+      "ok": true,
+      "count": 5
+    },
+    {
+      "id": "broke-backpacker",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "id": "reddit-solotravel",
+      "ok": true,
+      "count": 5
+    }
+  ],
   "enrichment": {
-    "ok": 0,
-    "failed": 0
+    "ok": 24,
+    "failed": 1
   }
 }
