@@ -6,14 +6,11 @@ on:
     # is heavily congested at :00 and jobs get delayed or dropped.
     - cron: '20 5 * * *'
   workflow_dispatch:
+  # Any push to main redeploys. No `paths` filter on purpose: an index.html-only
+  # change still needs to reach Pages. This can't loop, because pushes made with
+  # GITHUB_TOKEN (the bot's daily data commit) never trigger workflows.
   push:
     branches: [main]
-    paths:
-      - 'scripts/**'
-      - 'data/places.json'
-      - 'data/tips.json'
-      - 'data/eats.json'
-      - 'data/calendar.json'
 
 permissions:
   contents: write
