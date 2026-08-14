@@ -105,6 +105,28 @@ All content lives in `data/`. Every user-facing string is `{"en": "...", "ko": "
 
 ---
 
+## Ad slots
+
+Three placements are reserved, currently rendering as dashed placeholders. They're driven by the `ADS` object near the top of the `<script>` in `index.html`:
+
+| Slot | Size | Where |
+| --- | --- | --- |
+| `top` | 970×90 | Leaderboard, between "Right now" and the atlas |
+| `grid` | 300×250 | In-grid card, after the 9th destination |
+| `foot` | 970×90 | Leaderboard, above the footer |
+
+To go live, set `enabled: true` (already on) and paste the network's markup into the matching `html` field:
+
+```js
+top: { w:970, h:90, html:`<ins class="adsbygoogle" ...></ins>` },
+```
+
+Keep `w`/`h` matching the real creative size — the placeholder reserves that height, so the swap causes no layout shift. Set `ADS.enabled = false` to hide every slot, or delete a container (`#ad-top`, `#ad-foot`) from the HTML to drop that one placement. `ADS.grid.after` controls how many cards precede the in-grid slot; it's skipped automatically when a filter leaves too few results for it to land mid-list.
+
+Slots are labelled *Advertisement / 광고* (most networks require this), and hidden in the print stylesheet.
+
+**Note:** if you add a network that sets cookies, the footer currently states the site does no tracking — update that copy and consider whether you need a consent banner for EU/UK visitors.
+
 ## Structure
 
 ```
