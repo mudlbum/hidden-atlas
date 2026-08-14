@@ -251,6 +251,32 @@ footer h3{ font-size:15px; color:var(--ink); margin-bottom:8px }
 .fcols{ display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:26px; margin-bottom:26px }
 footer a{ color:var(--teal) }
 
+/* ------------------------------------------------------------ ad slots */
+/* Placeholders for now. Each reserves its final height so dropping real ad
+   code in later causes no layout shift (CLS). See ADS config in the script. */
+.ad{ display:flex; flex-direction:column; align-items:center; gap:7px; margin:0 auto }
+.ad-label{
+  font-size:9px; font-weight:700; letter-spacing:.2em; text-transform:uppercase;
+  color:var(--ink-3); opacity:.75;
+}
+.ad-box{
+  width:100%; display:grid; place-items:center; text-align:center;
+  border:1px dashed var(--line-2); border-radius:10px;
+  background:
+    repeating-linear-gradient(135deg, transparent 0 9px, rgba(140,125,95,.055) 9px 18px),
+    var(--paper-2);
+  color:var(--ink-3); font-size:12px; font-weight:600; letter-spacing:.04em;
+  font-variant-numeric:tabular-nums;
+}
+.ad-box span{ display:block; font-size:10px; font-weight:500; opacity:.7; margin-top:3px; letter-spacing:.02em }
+/* Banner: full-width leaderboard between sections */
+.ad-banner{ padding:6px 0 }
+.ad-banner .ad-box{ max-width:970px; min-height:90px }
+/* In-grid: occupies one card cell so the grid rhythm is preserved */
+.ad-card .ad-box{ min-height:250px }
+.ad-card{ align-self:start }
+@media (max-width:600px){ .ad-banner .ad-box{ min-height:100px } }
+
 .empty{ text-align:center; padding:44px 20px; color:var(--ink-3); font-size:15px }
 .skel{ height:300px; border-radius:var(--r); background:linear-gradient(90deg,var(--paper-2),var(--card),var(--paper-2)); background-size:200% 100%; animation:sh 1.4s infinite }
 @keyframes sh{to{background-position:-200% 0}}
@@ -261,7 +287,7 @@ footer a{ color:var(--teal) }
   section{ padding:40px 0 }
 }
 @media print{
-  body::before,.controls,.filters,.save,#map,.mapbtn{ display:none }
+  body::before,.controls,.filters,.save,#map,.mapbtn,.ad{ display:none }
   .card,.eat,details.note{ break-inside:avoid; box-shadow:none }
 }
 </style>
@@ -335,6 +361,7 @@ footer a{ color:var(--teal) }
     </div>
     <div class="calwrap" id="cal-grid"></div>
     <div class="valuenote" id="cal-note"></div>
+    <div id="ad-top" style="margin-top:34px"></div>
   </section>
 
   <!-- EXPLORE -->
@@ -411,6 +438,7 @@ footer a{ color:var(--teal) }
       </div>
     </div>
     <div class="feedgrid" id="feed-grid"></div>
+    <div id="ad-foot" style="margin-top:38px"></div>
   </section>
 </main>
 
@@ -464,6 +492,7 @@ const UI = {
     budget:{low:"Low cost",mid:"Mid",high:"Expensive"},
     tags:{nature:"Nature",hiking:"Hiking",coast:"Coast",island:"Island",culture:"Culture",history:"History",food:"Food",wildlife:"Wildlife",mountains:"Mountains",village:"Villages",desert:"Desert",offbeat:"Offbeat",budget:"Cheap",roadtrip:"Road trip",diving:"Diving",stargazing:"Stargazing",wine:"Wine"},
     cats:{entry:"Entry & visas",money:"Money",flights:"Flights",planning:"Planning",safety:"Safety",health:"Health",packing:"Packing",etiquette:"Etiquette",connectivity:"Connectivity",food:"Food"},
+    adLabel:"Advertisement",
     high:"High impact", stale:"Showing yesterday's feed — a source was unreachable this morning.",
     built:"Data last rebuilt", never:"awaiting first automated run",
     months:["January","February","March","April","May","June","July","August","September","October","November","December"]
@@ -495,11 +524,45 @@ const UI = {
     budget:{low:"저렴",mid:"보통",high:"비쌈"},
     tags:{nature:"자연",hiking:"트레킹",coast:"해안",island:"섬",culture:"문화",history:"역사",food:"음식",wildlife:"야생동물",mountains:"산",village:"마을",desert:"사막",offbeat:"오지",budget:"가성비",roadtrip:"로드트립",diving:"다이빙",stargazing:"별보기",wine:"와인"},
     cats:{entry:"입국·비자",money:"돈",flights:"항공",planning:"계획",safety:"안전",health:"건강",packing:"짐 싸기",etiquette:"예절",connectivity:"통신",food:"음식"},
+    adLabel:"광고",
     high:"영향 큼", stale:"오늘 아침 일부 출처에 접속하지 못해 전날 피드를 표시합니다.",
     built:"데이터 최종 갱신", never:"첫 자동 실행 대기 중",
     months:["1월","2월","3월","4월","5월","6월","7월","8월","9월","10월","11월","12월"]
   }
 };
+
+/* ============================================================ ad slots
+ * Placeholders until a real network is wired up.
+ *
+ * To go live: set enabled:true, paste the network's <ins>/<script> markup into
+ * the matching `html` field, and keep the `w`/`h` values matching the creative
+ * size so the reserved space still prevents layout shift.
+ *
+ *   grid.after — how many destination cards to show before the in-grid slot.
+ *
+ * Slots render only where their container exists, so removing a container in
+ * the HTML is enough to drop that placement.
+ */
+const ADS = {
+  enabled: true,          // false hides every slot entirely
+  slots: {
+    top:  { w:970, h:90,  html:null },  // leaderboard, above the atlas
+    grid: { w:300, h:250, html:null },  // in-grid, inside the destination list
+    foot: { w:970, h:90,  html:null },  // leaderboard, above the footer
+  },
+  grid: { after: 9 },
+};
+
+function adSlot(key, kind){
+  if(!ADS.enabled) return '';
+  const s = ADS.slots[key];
+  if(!s) return '';
+  const inner = s.html || `${s.w} × ${s.h}<span>${key} slot</span>`;
+  return `<div class="ad ${kind==='card'?'ad-card':'ad-banner'}" data-ad-slot="${esc(key)}">
+    <div class="ad-label">${esc(T().adLabel)}</div>
+    <div class="ad-box" style="max-width:${s.w}px">${inner}</div>
+  </div>`;
+}
 
 const store = {
   get(k,d){ try{ return JSON.parse(localStorage.getItem('ha:'+k)) ?? d }catch{ return d } },
@@ -657,9 +720,18 @@ function renderSeason(){
 function renderGrid(){
   const list = filtered();
   document.getElementById('count').textContent = `${list.length} ${T().results}`;
-  document.getElementById('grid').innerHTML = list.length
-    ? list.map(p=>placeCard(p)).join('')
-    : `<div class="empty" style="grid-column:1/-1">${esc(T().none)}</div>`;
+  let html;
+  if(!list.length){
+    html = `<div class="empty" style="grid-column:1/-1">${esc(T().none)}</div>`;
+  } else {
+    const cards = list.map(p=>placeCard(p));
+    // Slot the in-grid ad after N cards, but only when there are enough
+    // results that it lands mid-list rather than stranded at the end.
+    const at = ADS.grid.after;
+    if(cards.length > at + 2) cards.splice(at, 0, adSlot('grid','card'));
+    html = cards.join('');
+  }
+  document.getElementById('grid').innerHTML = html;
   if(MAP.on) drawMarkers(list);
 }
 
@@ -729,9 +801,17 @@ function renderChrome(){
     `${T().built}: ${DB.live?.generatedAt ? new Date(DB.live.generatedAt).toLocaleString(LANG==='ko'?'ko-KR':'en-GB') : T().never}`;
 }
 
+function renderBanners(){
+  for(const [id,key] of [['ad-top','top'],['ad-foot','foot']]){
+    const el = document.getElementById(id);
+    if(el) el.innerHTML = adSlot(key,'banner');
+  }
+}
+
 function renderAll(){
   renderChrome(); buildFilters(); renderFilters();
   renderToday(); renderSeason(); renderGrid(); renderNotes(); renderEats(); renderFeed();
+  renderBanners();
 }
 
 /* ================================================================ map */
