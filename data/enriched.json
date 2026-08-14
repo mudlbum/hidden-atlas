@@ -538,5 +538,29 @@
     "page": "https://en.wikipedia.org/wiki/Chapada_Diamantina_National_Park",
     "fetchedAt": "2026-08-13T20:22:58.777Z",
     "triedAt": "2026-08-13T20:22:58.777Z"
+  },
+  "atiu": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Atiu_Aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/53/Atiu_Aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "extract": "Ātiu, also known as ʻEnuamanu (meaning land of the birds), is an island of the Cook Islands archipelago, lying in the central-southern Pacific Ocean. Part of the Nga-pu-Toru, it is 214 km (133 mi) northeast of Rarotonga. The population of the 26.9 square kilometres (10.4 sq mi) island has dropped by two-thirds in the last 50 years.",
+    "page": "https://en.wikipedia.org/wiki/Atiu",
+    "fetchedAt": "2026-08-14T00:08:06.914Z",
+    "triedAt": "2026-08-14T00:08:06.914Z"
+  },
+  "raivavae": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Raivavae.jpg/960px-Raivavae.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Raivavae.jpg/960px-Raivavae.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "extract": "Raivavae (Tahitian: Ra‘ivāvae /ra.ʔi.va:va.e/) is one of the Austral Islands in French Polynesia. Its total land area including offshore islets is 17.9 km2 (6.9 sq mi). At the 2022 census, it had a population of 900. The island is of volcanic origin, and rises to 437 metres (1,434 ft) elevation at Mont Hiro.",
+    "page": "https://en.wikipedia.org/wiki/Raivavae",
+    "fetchedAt": "2026-08-14T00:08:07.263Z",
+    "triedAt": "2026-08-14T00:08:07.263Z"
+  },
+  "liuwa": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lady_Liuwa%2C_November_2012.jpg/960px-Lady_Liuwa%2C_November_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lady_Liuwa%2C_November_2012.jpg/960px-Lady_Liuwa%2C_November_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "extract": "Liuwa Plain National Park  is a 3,369-square-kilometre (1,301 sq mi) national park in Zambia's Western Province. \"Liuwa\" means \"plain\" in the local Liuwa language, a dialect of Lozi language, and the plains originally served as a hunting ground for Lubosi Lewanika, the Litunga (king or paramount chief) of the Lozi people. The area was designated as a protected area by Lubosi Lewanika in the early ",
+    "page": "https://en.wikipedia.org/wiki/Liuwa_Plain_National_Park",
+    "fetchedAt": "2026-08-14T00:08:07.602Z",
+    "triedAt": "2026-08-14T00:08:07.602Z"
   }
 }
