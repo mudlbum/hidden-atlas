@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-13T20:23:04.307Z",
-  "date": "2026-08-13",
+  "generatedAt": "2026-08-14T00:08:12.590Z",
+  "date": "2026-08-14",
   "rotation": {
     "places": [
-      "kotohira",
-      "soca",
-      "bornholm"
+      "chiloe",
+      "flinders",
+      "vjosa"
     ],
-    "tip": "reviews",
-    "eat": "pastelnata"
+    "tip": "soloeat",
+    "eat": "honghapbap"
   },
   "counts": {
-    "places": 69,
+    "places": 72,
     "tips": 38,
     "eats": 22
   },
@@ -160,10 +160,10 @@
       }
     },
     {
-      "title": "Does not posting on social media while traveling allow you to experience the trip more fully",
-      "link": "https://www.reddit.com/r/solotravel/comments/1vj5lhy/does_not_posting_on_social_media_while_traveling/",
-      "date": "2026-08-08T20:02:35+00:00",
-      "summary": "I’m considering taking a vacation without posting any pictures or updates while I’m away. I would still take photographs for myself, but I’d wait until after the trip—if I share them at all. I enjoy letting friends see where I am and what I’m experiencing, but",
+      "title": "Struggling to get over the regret of not starting my solo travel journey at a younger age.",
+      "link": "https://www.reddit.com/r/solotravel/comments/1vndnb9/struggling_to_get_over_the_regret_of_not_starting/",
+      "date": "2026-08-13T15:18:05+00:00",
+      "summary": "I’m 32. I only started travelling this year and it’s EASILY been one of the best things I’ve done in my entire life. Loved the places I’ve been and all the cool people I’ve met. But I wasn’t expecting it to come with quite so much sadness, or even a feeling si",
       "source": "reddit-solotravel",
       "sourceLabel": {
         "en": "r/solotravel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "What's a destination that completely exceeded your expectations compared to its reputation?",
-      "link": "https://www.reddit.com/r/solotravel/comments/1vmfbes/whats_a_destination_that_completely_exceeded_your/",
-      "date": "2026-08-12T14:13:38+00:00",
-      "summary": "Would love some insight from solo travelers who went somewhere with fairly low expectations (based on what you'd heard/read beforehand) and ended up being surprised in a positive way- whether that was safety, ease of meeting people, just the overall experience",
+      "title": "Does not posting on social media while traveling allow you to experience the trip more fully",
+      "link": "https://www.reddit.com/r/solotravel/comments/1vj5lhy/does_not_posting_on_social_media_while_traveling/",
+      "date": "2026-08-08T20:02:35+00:00",
+      "summary": "I’m considering taking a vacation without posting any pictures or updates while I’m away. I would still take photographs for myself, but I’d wait until after the trip—if I share them at all. I enjoy letting friends see where I am and what I’m experiencing, but",
       "source": "reddit-solotravel",
       "sourceLabel": {
         "en": "r/solotravel",
