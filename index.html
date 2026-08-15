@@ -246,9 +246,26 @@ footer h3{ font-size:14.5px; color:var(--ink); margin-bottom:7px }
 footer a{ color:var(--teal) }
 
 @media (max-width:760px){
-  nav.main a{ padding:7px 9px; font-size:13px }
-  .toolbar{ top:52px }
+  /* The header can't fit brand + nav + language + theme on one row at phone
+     widths — the theme button was being pushed off-screen. Wrap nav onto its
+     own row and let it scroll sideways if the labels are long. */
+  .bar{ flex-wrap:wrap; row-gap:8px }
+  .brand{ order:1 }
+  .seg{ order:2; margin-left:auto }
+  #theme{ order:3 }
+  nav.main{ order:4; flex-basis:100%; margin-left:0; overflow-x:auto; scrollbar-width:none }
+  nav.main::-webkit-scrollbar{ display:none }
+  nav.main a{ padding:8px 11px; font-size:13.5px; white-space:nowrap }
+
+  /* Two stacked sticky bars leave almost no room to read on a phone. */
+  .toolbar{ position:static }
+
   .dhero{ aspect-ratio:3/2 }
+  /* Comfortable touch targets */
+  .chip{ padding:8px 14px }
+  select.sel, .search{ padding:11px 14px }
+  .act{ padding:11px 14px }
+  .hero{ padding:24px 0 18px }
 }
 @media print{
   body::before,header.mast,.toolbar,.actions,.save,.ad,nav.main{ display:none }

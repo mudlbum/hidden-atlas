@@ -95,6 +95,63 @@ function parseFeed(xml, limit = 6) {
   })).filter((i) => i.title && i.link);
 }
 
+/* ------------------------------------------------------------ photo picking
+ * Wikipedia's "lead image" for a geographic article is very often a locator
+ * map, an orthographic projection or a coat of arms rather than a photograph.
+ * Those look broken on a travel card, so we reject them and go looking through
+ * the article's other images for an actual photo.
+ */
+const NOT_A_PHOTO = new RegExp(
+  '(^|[_\\-\\s(])(' +
+  [
+    // maps and locators, including the non-English words Commons actually uses
+    'maps?', 'locator', 'location', 'karte', 'mapa', 'carte', 'kaart',
+    'posizione', 'ubicaci[oó]n', 'localisation', 'situation', 'lage', 'plan',
+    // insignia
+    'flag', 'coat[_\\-\\s]?of[_\\-\\s]?arms', 'seal', 'emblem', 'logo', 'banner',
+    // diagrams and abstractions
+    'orthographic', 'projection', 'globe', 'topograph\\w*', 'relief', 'blank',
+    'outline', 'administrative', 'district', 'region', 'province',
+    'chart', 'diagram', 'graph', 'icon', 'symbol',
+    // satellite imagery — technically a photo, but not a travel photo
+    'satellite', 'sentinel\\d*', 'landsat', 'modis', 'nasa', 'esa',
+    // composites read as clutter at card size
+    'montage', 'collage', 'composite',
+  ].join('|') +
+  ')([_\\-\\s.)0-9]|$)', 'i'
+);
+
+function looksLikePhoto(url) {
+  if (!url) return false;
+  let name = '';
+  try { name = decodeURIComponent(url.split('/').pop().split('?')[0]); } catch { name = url; }
+  // SVG is never a photograph; PNG is usually a map or diagram in this context.
+  if (/\.svg$/i.test(name)) return false;
+  if (NOT_A_PHOTO.test(name)) return false;
+  return /\.(jpe?g|webp|png)$/i.test(name);
+}
+
+/** Resized Commons file URL — stable endpoint, no manual thumb-path surgery. */
+const commonsThumb = (file, width = 800) =>
+  `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(file.replace(/^File:/, ''))}?width=${width}`;
+
+/** Fall back to scanning the article's images for the largest real photograph. */
+async function findPhotoInArticle(title) {
+  const url =
+    'https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2' +
+    '&generator=images&gimlimit=40&prop=imageinfo&iiprop=url|size|mime&titles=' +
+    encodeURIComponent(title);
+  const j = await get(url, { as: 'json' });
+  const cands = (j.query?.pages || [])
+    .map((pg) => ({ title: pg.title, info: pg.imageinfo?.[0] }))
+    .filter((x) => x.info && /^image\/(jpeg|webp)$/i.test(x.info.mime))
+    .filter((x) => looksLikePhoto(x.title))
+    // Ignore tiny icons and absurdly wide panoramas that crop to nothing.
+    .filter((x) => x.info.width >= 640 && x.info.width / x.info.height < 4)
+    .sort((a, b) => b.info.width * b.info.height - a.info.width * a.info.height);
+  return cands.length ? commonsThumb(cands[0].title) : null;
+}
+
 /* ------------------------------------------------- 1. Wikipedia enrichment */
 
 async function enrich(places, cache) {
@@ -104,6 +161,8 @@ async function enrich(places, cache) {
   const stale = (e) => {
     if (!e) return true;
     if (e.error || !e.image) return !e.triedAt || now - Date.parse(e.triedAt) > ENRICH_RETRY_DAYS * 864e5;
+    // Cached a locator map from before the photo filter existed — refetch it.
+    if (!e.photoChecked) return true;
     return !e.fetchedAt || now - Date.parse(e.fetchedAt) > ENRICH_MAX_AGE_DAYS * 864e5;
   };
 
@@ -128,16 +187,30 @@ async function enrich(places, cache) {
       const j = await get(url, { as: 'json' });
       const page = j.query?.pages?.[0];
       if (!page || page.missing) throw new Error('no such article');
+
+      let photo = page.thumbnail?.source || null;
+      let source = 'lead';
+      if (photo && !looksLikePhoto(photo)) {
+        // Lead image is a map/diagram — go looking for a real photograph.
+        log(`enrichment: ${p.id} lead image is not a photo, searching article`);
+        await sleep(200);
+        const better = await findPhotoInArticle(p.wiki.replace(/_/g, ' ')).catch(() => null);
+        photo = better;
+        source = better ? 'article' : 'none';
+      }
+
       const stamp = new Date().toISOString();
       cache[p.id] = {
-        image: page.thumbnail?.source || null,
-        thumb: page.thumbnail?.source || null,
+        image: photo,
+        thumb: photo,
+        photoSource: source,
+        photoChecked: true,
         extract: (page.extract || '').slice(0, 400) || null,
         page: page.fullurl || null,
         fetchedAt: stamp,
         triedAt: stamp,
       };
-      if (!cache[p.id].image) log(`enrichment: ${p.id} has no image on Wikipedia`);
+      if (!photo) log(`enrichment: ${p.id} has no usable photo — card will show its pattern`);
       ok++;
     } catch (err) {
       // Keep whatever we already had; only record that we tried, so tomorrow retries.
