@@ -2,106 +2,132 @@
   "gasadalur": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/G%C3%A1sadalur_%2851256491640%29.jpg/960px-G%C3%A1sadalur_%2851256491640%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/G%C3%A1sadalur_%2851256491640%29.jpg/960px-G%C3%A1sadalur_%2851256491640%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Gásadalur (Danish: Gåsedal) is a village located on the west side of Vágar, Faroe Islands, and enjoys a panoramic view over to the island of Mykines.\n\nGásadalur is located on the edge of Mykinesfjørður, surrounded by the highest mountains on Vágar. Árnafjall towers to a height of 722 metres (2,369 ft) to the north, and Eysturtindur to the east is 715 metres (2,346 ft). Here too, the view south to ",
     "page": "https://en.wikipedia.org/wiki/G%C3%A1sadalur",
-    "fetchedAt": "2026-08-13T18:01:05.280Z",
-    "triedAt": "2026-08-13T18:01:05.280Z"
+    "fetchedAt": "2026-08-15T01:13:04.213Z",
+    "triedAt": "2026-08-15T01:13:04.213Z"
   },
   "berat": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Berat_57.jpg/960px-Berat_57.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Berat_57.jpg/960px-Berat_57.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Berat (pronounced [bɛˈɾat]; Albanian definite form: Berati) is the ninth most populous city of Albania and the seat of Berat County and Berat Municipality. By air, it is 71 kilometres (44 miles) north of Gjirokastër, 70 kilometres (43 miles) west of Korçë, 70 kilometres (43 miles) south of Tirana, and 33 kilometres (21 miles) east of Fier.\n\nBerat is located in the south of the country. It is surro",
     "page": "https://en.wikipedia.org/wiki/Berat",
-    "fetchedAt": "2026-08-13T18:01:05.647Z",
-    "triedAt": "2026-08-13T18:01:05.647Z"
+    "fetchedAt": "2026-08-15T01:13:04.575Z",
+    "triedAt": "2026-08-15T01:13:04.575Z"
   },
   "ohrid": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lake_Ohrid%2C_Macedonia-Albania_viewed_from_a_NASA_satellite.jpg/960px-Lake_Ohrid%2C_Macedonia-Albania_viewed_from_a_NASA_satellite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lake_Ohrid%2C_Macedonia-Albania_viewed_from_a_NASA_satellite.jpg/960px-Lake_Ohrid%2C_Macedonia-Albania_viewed_from_a_NASA_satellite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Church%20of%20St.%20John%20at%20Kaneo%206.jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Church%20of%20St.%20John%20at%20Kaneo%206.jpg?width=800",
+    "photoSource": "article",
+    "photoChecked": true,
     "extract": "Lake Ohrid is a lake which straddles the mountainous border between the southwestern part of North Macedonia and eastern Albania. It is one of Europe's deepest and oldest lakes, with a unique aquatic ecosystem of worldwide importance, with more than 200 endemic species.\nNorth Macedonia's side of Lake Ohrid was declared a World Heritage Site by UNESCO in 1979, with the site being extended to also i",
     "page": "https://en.wikipedia.org/wiki/Lake_Ohrid",
-    "fetchedAt": "2026-08-13T18:01:06.005Z",
-    "triedAt": "2026-08-13T18:01:06.005Z"
+    "fetchedAt": "2026-08-15T01:13:05.326Z",
+    "triedAt": "2026-08-15T01:13:05.326Z"
   },
   "soca": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Soca_4.jpg/960px-Soca_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Soca_4.jpg/960px-Soca_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "The Soča (Slovene: [ˈsòːtʃa], in Slovene) or Isonzo (Italian: [iˈzontso], in Italian; other names: Friulian: Lusinç; German: Sontig; Latin: Aesontius or Isontius) is a 138-kilometre (86 mi) long river that flows through western Slovenia (96 kilometres or 60 miles) and northeastern Italy (43 kilometres or 27 miles).\nAn Alpine river in character, its source lies in the Trenta Valley in the Julian Al",
     "page": "https://en.wikipedia.org/wiki/So%C4%8Da",
-    "fetchedAt": "2026-08-13T18:01:06.421Z",
-    "triedAt": "2026-08-13T18:01:06.421Z"
+    "fetchedAt": "2026-08-15T01:13:05.705Z",
+    "triedAt": "2026-08-15T01:13:05.705Z"
   },
   "naxos": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Naxos_%CE%9D%CE%AC%CE%BE%CE%BF%CF%82_2020-08-20_02_Chora_Grotta_and_Vintzi_beaches.jpg/960px-Naxos_%CE%9D%CE%AC%CE%BE%CE%BF%CF%82_2020-08-20_02_Chora_Grotta_and_Vintzi_beaches.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Naxos_%CE%9D%CE%AC%CE%BE%CE%BF%CF%82_2020-08-20_02_Chora_Grotta_and_Vintzi_beaches.jpg/960px-Naxos_%CE%9D%CE%AC%CE%BE%CE%BF%CF%82_2020-08-20_02_Chora_Grotta_and_Vintzi_beaches.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Naxos (; Greek: Νάξος, pronounced [ˈnaksos]) is a Greek island belonging to the Cyclades island group. It is the largest island in the group. The largest town and capital of the island is Chora or Naxos City, with 8,897 inhabitants out of the total 20,578 in the island (2021 census). The main villages are Filoti, Apiranthos, Vivlos, Agios Arsenios, Koronos and Glynado. It was an important centre d",
     "page": "https://en.wikipedia.org/wiki/Naxos",
-    "fetchedAt": "2026-08-13T18:01:06.783Z",
-    "triedAt": "2026-08-13T18:01:06.783Z"
+    "fetchedAt": "2026-08-15T01:13:06.058Z",
+    "triedAt": "2026-08-15T01:13:06.058Z"
   },
   "alentejo": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Mapa_do_Alentejo_em_Portugal.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/21/Mapa_do_Alentejo_em_Portugal.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alentejo%20September%202013-1.jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Alentejo%20September%202013-1.jpg?width=800",
+    "photoSource": "article",
+    "photoChecked": true,
     "extract": "Alentejo ( AL-ən-TAY-zhoh, UK also  -⁠zhoo, Portuguese: [ɐlẽˈtɛʒu] ) is a geographical, historical, and cultural region of south–central and southern Portugal. In Portuguese, its name means \"beyond the Tagus\" (além do Tejo).\nAlentejo includes the regions of Alto Alentejo and Baixo Alentejo. It corresponds to the districts of Beja, Évora, Portalegre, and Alentejo Litoral. Its main cities are Évora,",
     "page": "https://en.wikipedia.org/wiki/Alentejo",
-    "fetchedAt": "2026-08-13T18:01:07.150Z",
-    "triedAt": "2026-08-13T18:01:07.150Z"
+    "fetchedAt": "2026-08-15T01:13:06.774Z",
+    "triedAt": "2026-08-15T01:13:06.774Z"
   },
   "viscri": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Biserica_evanghelic%C4%83_din_Bune%C8%99ti.jpg/960px-Biserica_evanghelic%C4%83_din_Bune%C8%99ti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Biserica_evanghelic%C4%83_din_Bune%C8%99ti.jpg/960px-Biserica_evanghelic%C4%83_din_Bune%C8%99ti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Bunești (formerly Bundorf; German: Bodendorf; Hungarian: Szászbuda) is a commune in Brașov County, Transylvania, Romania. It is composed of five villages: Bunești, Criț, Meșendorf, Roadeș, and Viscri. Each of these has a fortified church. The route of the Via Transilvanica long-distance trail passes through the villages Roadeș and Criț.\nThe commune is located in the northern part of the county, on",
     "page": "https://en.wikipedia.org/wiki/Bune%C8%99ti,_Bra%C8%99ov",
-    "fetchedAt": "2026-08-13T18:01:07.535Z",
-    "triedAt": "2026-08-13T18:01:07.535Z"
+    "fetchedAt": "2026-08-15T01:13:07.178Z",
+    "triedAt": "2026-08-15T01:13:07.178Z"
   },
   "senja": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/S%C3%B6rreisa_Lenvik_IMG_4917_senja_solbergfjorden_reisfjorden.JPG/960px-S%C3%B6rreisa_Lenvik_IMG_4917_senja_solbergfjorden_reisfjorden.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/S%C3%B6rreisa_Lenvik_IMG_4917_senja_solbergfjorden_reisfjorden.JPG/960px-S%C3%B6rreisa_Lenvik_IMG_4917_senja_solbergfjorden_reisfjorden.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Senja (Norwegian) or Sážžá (Northern Sami) is an island in Senja Municipality in Troms county, Norway in northern Europe.  With an area of 1,586.3 square kilometres (612.5 sq mi), it is the second largest island in Norway (outside the Svalbard archipelago). It has a wild, mountainous outer (western) side facing the Atlantic, and a mild and lush inner (eastern) side. The island is located entirely ",
     "page": "https://en.wikipedia.org/wiki/Senja",
-    "fetchedAt": "2026-08-13T18:01:07.891Z",
-    "triedAt": "2026-08-13T18:01:07.891Z"
+    "fetchedAt": "2026-08-15T01:13:07.537Z",
+    "triedAt": "2026-08-15T01:13:07.537Z"
   },
   "saomiguel-alt": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ponta_dos_Rosais%2C_ilha_de_S%C3%A3o_Jorge%2C_A%C3%A7ores%2C_Portugal.jpg/960px-Ponta_dos_Rosais%2C_ilha_de_S%C3%A3o_Jorge%2C_A%C3%A7ores%2C_Portugal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ponta_dos_Rosais%2C_ilha_de_S%C3%A3o_Jorge%2C_A%C3%A7ores%2C_Portugal.jpg/960px-Ponta_dos_Rosais%2C_ilha_de_S%C3%A3o_Jorge%2C_A%C3%A7ores%2C_Portugal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "São Jorge (Portuguese pronunciation: [sɐ̃w ˈʒɔɾʒɨ]; Portuguese for 'Saint George') is an island in the central group of the Azores archipelago and part of the autonomous region of Portugal.  Separated from its nearest neighbours (Pico and Faial islands) by  the 15-kilometre (9.3 mi) Pico-São Jorge Channel, the central group is often referred colloquially as part of the Triângulo (\"Triangle\") group",
     "page": "https://en.wikipedia.org/wiki/S%C3%A3o_Jorge_Island",
-    "fetchedAt": "2026-08-13T18:01:08.247Z",
-    "triedAt": "2026-08-13T18:01:08.247Z"
+    "fetchedAt": "2026-08-15T01:13:07.897Z",
+    "triedAt": "2026-08-15T01:13:07.897Z"
   },
   "ribeira-sacra": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DO_Ribeira_Sacra_location.svg/960px-DO_Ribeira_Sacra_location.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DO_Ribeira_Sacra_location.svg/960px-DO_Ribeira_Sacra_location.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "image": null,
+    "thumb": null,
+    "photoSource": "none",
+    "photoChecked": true,
     "extract": "Ribeira Sacra is a Spanish Denominación de Origen Protegida (DOP) (Denominación de Orixe Protexida in Galician) for wines located in the south of the province of Lugo and in the north of the province of Ourense, in Galicia, Spain. It extends over the territories of 20 different municipalities that make up a zone also called Ribeira Sacra, which could be translated as \"Sacred Riverbank\". Vineyards ",
     "page": "https://en.wikipedia.org/wiki/Ribeira_Sacra_(DO)",
-    "fetchedAt": "2026-08-13T18:01:08.596Z",
-    "triedAt": "2026-08-13T18:01:08.596Z"
+    "fetchedAt": "2026-08-15T01:13:08.562Z",
+    "triedAt": "2026-08-15T01:13:08.562Z"
   },
   "bornholm": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wybrze%C5%BCe_Bornholmu.JPG/960px-Wybrze%C5%BCe_Bornholmu.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wybrze%C5%BCe_Bornholmu.JPG/960px-Wybrze%C5%BCe_Bornholmu.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Bornholm (Danish pronunciation: [pɒːnˈhʌlˀm]) is a Danish island in the Baltic Sea, to the east of the rest of Denmark, south of Sweden, northeast of Germany and north of Poland. \nStrategically located, Bornholm has been fought over for centuries. It has usually been ruled by Denmark, but also by Sweden and by Lübeck. The ruin of Hammershus, at the northwestern tip of the island, is the largest me",
     "page": "https://en.wikipedia.org/wiki/Bornholm",
-    "fetchedAt": "2026-08-13T18:01:08.962Z",
-    "triedAt": "2026-08-13T18:01:08.962Z"
+    "fetchedAt": "2026-08-15T01:13:08.920Z",
+    "triedAt": "2026-08-15T01:13:08.920Z"
   },
   "assynt": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ardvreck_Castle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ardvreck_Castle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Assynt (Scottish Gaelic: Asainn [ˈas̪ɪɲ] or Asainte [ˈas̪ɪɲtʲə]) is a sparsely populated area in the south-west of Sutherland, lying north of Ullapool on the west coast of Scotland. Assynt is known for its landscape and its remarkable mountains, which have led to the area, along with neighbouring Coigach, being designated as the Assynt-Coigach National Scenic Area, one of 40 such areas in Scotland",
     "page": "https://en.wikipedia.org/wiki/Assynt",
-    "fetchedAt": "2026-08-13T18:01:09.461Z",
-    "triedAt": "2026-08-13T18:01:09.461Z"
+    "fetchedAt": "2026-08-15T01:13:09.284Z",
+    "triedAt": "2026-08-15T01:13:09.284Z"
   },
   "plovdiv": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%D0%9F%D0%BB%D0%BE%D0%B2%D0%B4%D0%B8%D0%B2.jpg/960px-%D0%9F%D0%BB%D0%BE%D0%B2%D0%B4%D0%B8%D0%B2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%D0%9F%D0%BB%D0%BE%D0%B2%D0%B4%D0%B8%D0%B2.jpg/960px-%D0%9F%D0%BB%D0%BE%D0%B2%D0%B4%D0%B8%D0%B2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Plovdiv (Bulgarian: Пловдив, pronounced [ˈpɫɔvdif]) is the second-largest city in Bulgaria and the most populous city in the Bulgarian part of the historic region of Thrace, located 144 km (93 miles) southeast of the capital Sofia. It had a population of 329,489 as of 2024 and 540,000 in its greater metropolitan area. An important economic, transport, cultural, and educational hub of Bulgaria, Plo",
     "page": "https://en.wikipedia.org/wiki/Plovdiv",
-    "fetchedAt": "2026-08-13T18:01:09.861Z",
-    "triedAt": "2026-08-13T18:01:09.861Z"
+    "fetchedAt": "2026-08-15T01:13:09.641Z",
+    "triedAt": "2026-08-15T01:13:09.641Z"
   },
   "salina": {
     "triedAt": "2026-08-15T00:52:03.042Z",
@@ -110,50 +136,62 @@
   "curonian": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Mirties_sl%C4%97nis_nuo_Parnid%C5%BEio_kopos.JPG/960px-Mirties_sl%C4%97nis_nuo_Parnid%C5%BEio_kopos.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Mirties_sl%C4%97nis_nuo_Parnid%C5%BEio_kopos.JPG/960px-Mirties_sl%C4%97nis_nuo_Parnid%C5%BEio_kopos.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "The Curonian Spit, sometimes called Courish Split (Lithuanian: Kuršių nerija; Russian: Ку́ршская коса́ / Kurshskaya kosa, German: Kurische Nehrung), is a 98-kilometre-long (61 mi), thin, curved sand-dune spit that separates the Curonian Lagoon from the Baltic Sea. It is a UNESCO World Heritage Site shared by Lithuania and Russia. Its southern portion lies within Kaliningrad Oblast of Russia, and i",
     "page": "https://en.wikipedia.org/wiki/Curonian_Spit",
-    "fetchedAt": "2026-08-13T18:01:10.575Z",
-    "triedAt": "2026-08-13T18:01:10.575Z"
+    "fetchedAt": "2026-08-15T01:13:09.992Z",
+    "triedAt": "2026-08-15T01:13:09.992Z"
   },
   "gargano": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Zone-Gargano-Posizione.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/71/Zone-Gargano-Posizione.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20image%20of%20the%20southeast%20coast%20of%20Gargano%20(view%20from%20the%20south).jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20image%20of%20the%20southeast%20coast%20of%20Gargano%20(view%20from%20the%20south).jpg?width=800",
+    "photoSource": "article",
+    "photoChecked": true,
     "extract": "Gargano (Italian: [ɡarˈɡaːno]) is a historical and geographical sub-region in the province of Foggia, Apulia, southeast Italy, consisting of a wide isolated mountain massif made of highland and several peaks and forming the backbone of a promontory projecting into the Adriatic Sea, the \"spur\" on the Italian \"boot\".",
     "page": "https://en.wikipedia.org/wiki/Gargano",
-    "fetchedAt": "2026-08-13T18:01:10.934Z",
-    "triedAt": "2026-08-13T18:01:10.934Z"
+    "fetchedAt": "2026-08-15T01:13:10.719Z",
+    "triedAt": "2026-08-15T01:13:10.719Z"
   },
   "kumano": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Map_Kumano_Kodo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/da/Map_Kumano_Kodo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Misen%20and%20Omine%20Mountains.jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Misen%20and%20Omine%20Mountains.jpg?width=800",
+    "photoSource": "article",
+    "photoChecked": true,
     "extract": "The Kumano Kodō (熊野古道) is a series of ancient pilgrimage routes that crisscross the Kii Peninsula, the largest peninsula of Japan. These mountainous trails are used by pilgrims to the \"Kumano Sanzan\" (熊野三山) - the Three Grand Shrines of Kumano: Kumano Hongū Taisha (熊野本宮大社), Kumano Nachi Taisha (熊野那智大社) and Kumano Hayatama Taisha (熊野速玉大社). These three shrines are the holiest sites of the ancient syn",
     "page": "https://en.wikipedia.org/wiki/Kumano_Kod%C5%8D",
-    "fetchedAt": "2026-08-13T18:01:11.292Z",
-    "triedAt": "2026-08-13T18:01:11.292Z"
+    "fetchedAt": "2026-08-15T01:13:11.518Z",
+    "triedAt": "2026-08-15T01:13:11.518Z"
   },
   "sado": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MapSado.png/960px-MapSado.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MapSado.png/960px-MapSado.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Sado Island (佐渡島, Sado(ga)shima; Japanese pronunciation: [sa.do.ɡaꜜ.ɕi.ma, -do.ŋaꜜ-]) is an island located in the eastern part of the Sea of Japan, under the jurisdiction of Sado City, Niigata Prefecture, Japan, with a coastline of 262.7 kilometres (163.2 mi). In October 2017, Sado Island had a population of 55,212 people. Sado Island covers an area of 854.76 km2 (330.02 sq mi), and is the sixth l",
     "page": "https://en.wikipedia.org/wiki/Sado_Island",
-    "fetchedAt": "2026-08-13T18:01:11.651Z",
-    "triedAt": "2026-08-13T18:01:11.651Z"
+    "fetchedAt": "2026-08-15T01:13:11.885Z",
+    "triedAt": "2026-08-15T01:13:11.885Z"
   },
   "tottori": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tottori-Sakyu_Tottori_Japan.JPG/960px-Tottori-Sakyu_Tottori_Japan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tottori-Sakyu_Tottori_Japan.JPG/960px-Tottori-Sakyu_Tottori_Japan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Tottori Prefecture (鳥取県, Tottori-ken; Japanese pronunciation: [tot.to.ɾʲi, tot.to.ɾʲiꜜ.keɴ]) is a prefecture of Japan located in the Chūgoku region of Honshu. Tottori Prefecture is the least populous prefecture of Japan at 538,525 (2023) and has a geographic area of 3,507.13 square kilometres (1,354.11 mi2). Tottori Prefecture borders Shimane Prefecture to the west, Hiroshima Prefecture to the sou",
     "page": "https://en.wikipedia.org/wiki/Tottori_Prefecture",
-    "fetchedAt": "2026-08-13T18:01:12.007Z",
-    "triedAt": "2026-08-13T18:01:12.007Z"
+    "fetchedAt": "2026-08-15T01:13:12.244Z",
+    "triedAt": "2026-08-15T01:13:12.244Z"
   },
   "ulleungdo": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ulleung_island_from_above.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ulleung_island_from_above.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Ulleungdo (Korean: 울릉도; pronounced [uɭːɯŋdo]), also spelled Ulreungdo, is a South Korean island 120 kilometres (65 nmi; 75 mi) east of the Korean Peninsula in the Sea of Japan. It was formerly known as Dagelet Island or Argonaut Island in Europe. Volcanic in origin, the rocky steep-sided island is the top of a large stratovolcano which rises from the seafloor, reaching a maximum elevation of 984 m",
     "page": "https://en.wikipedia.org/wiki/Ulleungdo",
-    "fetchedAt": "2026-08-13T18:01:12.356Z",
-    "triedAt": "2026-08-13T18:01:12.356Z"
+    "fetchedAt": "2026-08-15T01:13:12.604Z",
+    "triedAt": "2026-08-15T01:13:12.604Z"
   },
   "suncheon": {
     "image": null,
@@ -164,20 +202,24 @@
     "triedAt": "2026-08-15T00:52:03.348Z"
   },
   "taitung": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Taitung_County_Montage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Taitung_County_Montage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "extract": "Taitung (Wade–Giles: Tʻai2-tung1; lit. 'Eastern part of Taiwan') is the third largest county in Taiwan, located primarily on the island's southeastern coast and also including Green Island, Orchid Island and Lesser Orchid Island. The seat is located in Taitung City.\n\n",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taitung%20Art%20Museum03.jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Taitung%20Art%20Museum03.jpg?width=800",
+    "photoSource": "article",
+    "photoChecked": true,
+    "extract": "Taitung (Wade–Giles: Tʻai2-tung1; lit. 'Eastern part of Taiwan') is the third largest county in Taiwan, located primarily on the island's southeastern coast and also including Green Island, Orchid Island and Lesser Orchid Island. The seat is located in Taitung City.",
     "page": "https://en.wikipedia.org/wiki/Taitung_County",
-    "fetchedAt": "2026-08-13T18:01:13.077Z",
-    "triedAt": "2026-08-13T18:01:13.077Z"
+    "fetchedAt": "2026-08-15T01:13:13.389Z",
+    "triedAt": "2026-08-15T01:13:13.389Z"
   },
   "matsu": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Matsu_Montage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/32/Matsu_Montage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujian%20quan%20tu%20LOC%2096685903.jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujian%20quan%20tu%20LOC%2096685903.jpg?width=800",
+    "photoSource": "article",
+    "photoChecked": true,
     "extract": "The Matsu Islands (UK:  or US: ) are an archipelago of 36 islands and islets in the East China Sea. They are situated alongside the southeastern coast of mainland China. The archipelago forms Lienchiang County (), the smallest county in the Taiwan Area by area and population, as well as one of two counties that is a part of the nominal Fuchien Province that is administered by the Republic of China",
     "page": "https://en.wikipedia.org/wiki/Matsu_Islands",
-    "fetchedAt": "2026-08-13T18:01:13.432Z",
-    "triedAt": "2026-08-13T18:01:13.432Z"
+    "fetchedAt": "2026-08-15T01:13:14.193Z",
+    "triedAt": "2026-08-15T01:13:14.193Z"
   },
   "songkul": {
     "triedAt": "2026-08-15T00:52:03.640Z",
@@ -186,10 +228,12 @@
   "tusheti": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Keselo%2C_Tusheti.jpg/960px-Keselo%2C_Tusheti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Keselo%2C_Tusheti.jpg/960px-Keselo%2C_Tusheti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Tusheti (Georgian: თუშეთი, romanized: tusheti; Bats: თუშითა, romanized: tushita) is a historic region in northeast Georgia. A mountainous area, it is home to the Tusheti National Park. By the conventional definition of the Europe-Asia boundary as following the watershed of the Greater Caucasus, Tusheti is geographically a European part of Georgia.",
     "page": "https://en.wikipedia.org/wiki/Tusheti",
-    "fetchedAt": "2026-08-13T18:01:14.145Z",
-    "triedAt": "2026-08-13T18:01:14.145Z"
+    "fetchedAt": "2026-08-15T01:13:14.540Z",
+    "triedAt": "2026-08-15T01:13:14.540Z"
   },
   "nuratau": {
     "triedAt": "2026-08-15T00:52:03.953Z",
@@ -198,114 +242,142 @@
   "nongkhiaw": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nong_Khiaw_pano%284%29.jpg/960px-Nong_Khiaw_pano%284%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nong_Khiaw_pano%284%29.jpg/960px-Nong_Khiaw_pano%284%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Nong Khiaw (Lao: ຫນອງຂຽວ, pronounced [nɔ̌ːŋ kʰǐa̯w]; also Nong Kiau), is a village in the Laotian province of Luang Prabang.",
     "page": "https://en.wikipedia.org/wiki/Nong_Khiaw",
-    "fetchedAt": "2026-08-13T18:01:14.860Z",
-    "triedAt": "2026-08-13T18:01:14.860Z"
+    "fetchedAt": "2026-08-15T01:13:14.912Z",
+    "triedAt": "2026-08-15T01:13:14.912Z"
   },
   "caobang": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bangioc9tam.jpg/960px-Bangioc9tam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bangioc9tam.jpg/960px-Bangioc9tam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Bản Giốc – Detian Falls or Bản Giốc Falls is a collective name for two waterfalls on the Quây Sơn River (Vietnamese: Sông Quây Sơn, chữ Nôm: 滝𢮿山; Chinese: 归春河, Pinyin: Guīchūn hé) that straddle the international border between China and Vietnam; more specifically located between the Karst hills of Daxin County, Guangxi and Trùng Khánh District, Cao Bằng Province. The waterfalls are located 272 km",
     "page": "https://en.wikipedia.org/wiki/Ban_Gioc%E2%80%93Detian_Falls",
-    "fetchedAt": "2026-08-13T18:01:15.244Z",
-    "triedAt": "2026-08-13T18:01:15.244Z"
+    "fetchedAt": "2026-08-15T01:13:15.268Z",
+    "triedAt": "2026-08-15T01:13:15.268Z"
   },
   "sumba": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sumba_Topography.png/960px-Sumba_Topography.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sumba_Topography.png/960px-Sumba_Topography.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Air%20Terjun%20Tanggedu%2C%20Sumba%20Timur.jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Air%20Terjun%20Tanggedu%2C%20Sumba%20Timur.jpg?width=800",
+    "photoSource": "article",
+    "photoChecked": true,
     "extract": "Sumba (Indonesian: Pulau Sumba), natively also spelt as Humba, Hubba, Suba, or Zuba (in Sumba languages) is an Indonesian island (part of the Lesser Sunda Archipelago group) located in the Eastern Indonesia and administratively part of the East Nusa Tenggara provincial territory. Sumba has a land area of 10,909.55 square kilometres (4,212.20 square miles), about the same size as Jamaica or the isl",
     "page": "https://en.wikipedia.org/wiki/Sumba",
-    "fetchedAt": "2026-08-13T18:01:15.601Z",
-    "triedAt": "2026-08-13T18:01:15.601Z"
+    "fetchedAt": "2026-08-15T01:13:15.987Z",
+    "triedAt": "2026-08-15T01:13:15.987Z"
   },
   "batanes": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sabtang_Batanes.jpg/960px-Sabtang_Batanes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sabtang_Batanes.jpg/960px-Sabtang_Batanes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Batanes, officially the Province of Batanes, is an archipelagic province in the Philippines, administratively part of the Cagayan Valley region. It is the northernmost province in the Philippines, and the smallest, both in population and land area. The capital is Basco, located on the island of Batan, and is also the most populous municipality in the province.\nThe island group is located approxima",
     "page": "https://en.wikipedia.org/wiki/Batanes",
-    "fetchedAt": "2026-08-13T18:01:15.947Z",
-    "triedAt": "2026-08-13T18:01:15.947Z"
+    "fetchedAt": "2026-08-15T01:13:16.344Z",
+    "triedAt": "2026-08-15T01:13:16.344Z"
   },
   "kuching": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Kuching_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/96/Kuching_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Kuching ( KOO-ching, Malay pronunciation: [ˈkut͡ʃiŋ] ), officially the City of Kuching, is the capital and the most populous city in the state of Sarawak in Malaysia. It is also the capital of Kuching Division. The city is on the Sarawak River at the southwestern tip of Sarawak on the island of Borneo and covers an area of 431 km2 (166 sq mi) with a population of about 162,843 in the Kuching North",
     "page": "https://en.wikipedia.org/wiki/Kuching",
-    "fetchedAt": "2026-08-13T18:01:16.349Z",
-    "triedAt": "2026-08-13T18:01:16.349Z"
+    "fetchedAt": "2026-08-15T01:13:16.706Z",
+    "triedAt": "2026-08-15T01:13:16.706Z"
   },
   "jaffna": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jaffna_montage.jpg/960px-Jaffna_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jaffna_montage.jpg/960px-Jaffna_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20James'%20Church%2C%20Gurunagar.jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20James'%20Church%2C%20Gurunagar.jpg?width=800",
+    "photoSource": "article",
+    "photoChecked": true,
     "extract": "Jaffna (Tamil: யாழ்ப்பாணம், romanised: Yāḻppāṇam, IPA: [jaːɻpːaːɳɐm]; Sinhala: යාපනය, romanised: Yāpanaya, IPA: [jaːpənəjə]) is the capital city of the Northern Province of Sri Lanka. It is the administrative headquarters of the Jaffna District located on a peninsula of the same name. With a population of 88,138 in 2012, Jaffna is Sri Lanka's 12th most populous city. Jaffna is approximately ten ki",
     "page": "https://en.wikipedia.org/wiki/Jaffna",
-    "fetchedAt": "2026-08-13T18:01:16.698Z",
-    "triedAt": "2026-08-13T18:01:16.698Z"
+    "fetchedAt": "2026-08-15T01:13:17.436Z",
+    "triedAt": "2026-08-15T01:13:17.436Z"
   },
   "spiti": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Spiti_River_Kaza_Himachal_Jun18_D72_7232.jpg/960px-Spiti_River_Kaza_Himachal_Jun18_D72_7232.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Spiti_River_Kaza_Himachal_Jun18_D72_7232.jpg/960px-Spiti_River_Kaza_Himachal_Jun18_D72_7232.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Spiti (pronounced as piti in Bhoti language) is a high-altitude region of the Himalayas, located in the north-eastern part of the northern Indian state of Himachal Pradesh. The name \"Spiti\" means \"The middle land\", i.e. the land between Tibet in China and India. Spiti incorporates mainly the valley of the Spiti River, and the valleys of several rivers that feed into the Spiti River. Some of the pr",
     "page": "https://en.wikipedia.org/wiki/Spiti",
-    "fetchedAt": "2026-08-13T18:01:17.062Z",
-    "triedAt": "2026-08-13T18:01:17.062Z"
+    "fetchedAt": "2026-08-15T01:13:17.796Z",
+    "triedAt": "2026-08-15T01:13:17.796Z"
   },
   "jebelshams": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jebel_Shams.jpg/960px-Jebel_Shams.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jebel_Shams.jpg/960px-Jebel_Shams.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Jabal Shams or Jebel Shams (Arabic: جَبَل شَمْس, lit. 'Mountain of Sun') is a mountain located in northeastern Oman north of the town of Al-Hamra.\nIt is the highest mountain in Oman, and is part of the Jebel Akhdar or Jabal Akhdar Mountains, which in turn belongs to the Hajar range. The mountain is a popular sightseeing area located 240 km (150 miles) from Muscat.\nIt is known as Jabal Shams becaus",
     "page": "https://en.wikipedia.org/wiki/Jebel_Shams",
-    "fetchedAt": "2026-08-13T18:01:17.419Z",
-    "triedAt": "2026-08-13T18:01:17.419Z"
+    "fetchedAt": "2026-08-15T01:13:18.172Z",
+    "triedAt": "2026-08-15T01:13:18.172Z"
   },
   "orkhon": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Orchon-mongolei.JPG/960px-Orchon-mongolei.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Orchon-mongolei.JPG/960px-Orchon-mongolei.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "The Orkhon Valley Cultural Landscape sprawls along the banks of the Orkhon River in Central Mongolia, some 320 km west from the capital Ulaanbaatar. It was inscribed by UNESCO in the World Heritage List as representing the development of nomadic pastoral traditions spanning more than two millennia.",
     "page": "https://en.wikipedia.org/wiki/Orkhon_Valley",
-    "fetchedAt": "2026-08-13T18:01:17.775Z",
-    "triedAt": "2026-08-13T18:01:17.775Z"
+    "fetchedAt": "2026-08-15T01:13:18.524Z",
+    "triedAt": "2026-08-15T01:13:18.524Z"
   },
   "tafraout": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tafraoute.jpg/960px-Tafraoute.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tafraoute.jpg/960px-Tafraoute.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Tafraout, also Tafraoute (Arabic: تافراوت, Tachelhit: ⵜⴰⴼⵔⴰⵡⵜ) is a town in Tiznit Province, Souss-Massa region, Morocco. Situated in the central part of the Anti-Atlas mountains, a mountain range in Morocco which is part of the Atlas Mountains in the northwest of Africa, the town has a population of 6,124 at the 2024 census.",
     "page": "https://en.wikipedia.org/wiki/Tafraout",
-    "fetchedAt": "2026-08-13T18:01:18.139Z",
-    "triedAt": "2026-08-13T18:01:18.139Z"
+    "fetchedAt": "2026-08-15T01:13:18.898Z",
+    "triedAt": "2026-08-15T01:13:18.898Z"
   },
   "damaraland": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Damaraland.svg/960px-Flag_of_Damaraland.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Damaraland.svg/960px-Flag_of_Damaraland.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Damaraland%20in%20Namibia.jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Damaraland%20in%20Namibia.jpg?width=800",
+    "photoSource": "article",
+    "photoChecked": true,
     "extract": "Damaraland was a name given to the north-central part of South West Africa, which later became Namibia, inhabited by the Damaras. It was bordered roughly by Ovamboland in the north, the Namib Desert in the west, the Kalahari Desert in the east, and the Windhoek region in the south.",
     "page": "https://en.wikipedia.org/wiki/Damaraland",
-    "fetchedAt": "2026-08-13T18:01:18.501Z",
-    "triedAt": "2026-08-13T18:01:18.501Z"
+    "fetchedAt": "2026-08-15T01:13:19.632Z",
+    "triedAt": "2026-08-15T01:13:19.632Z"
   },
   "likoma": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Likoma_sentinel2.jpg/960px-Likoma_sentinel2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Likoma_sentinel2.jpg/960px-Likoma_sentinel2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ilala%20in%20Likoma%20Island.jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Ilala%20in%20Likoma%20Island.jpg?width=800",
+    "photoSource": "article",
+    "photoChecked": true,
     "extract": "Likoma Island is the larger of two islands in Lake Malawi, in East Africa, the smaller being the nearby Chizumulu. Likoma and Chizumulu both belong to Malawi, and together they make up the Likoma District. Although both islands lie just a few kilometres from Mozambique, and are entirely surrounded by Mozambican territorial waters, they are both exclaves of Malawi.",
     "page": "https://en.wikipedia.org/wiki/Likoma_Island",
-    "fetchedAt": "2026-08-13T18:01:18.872Z",
-    "triedAt": "2026-08-13T18:01:18.872Z"
+    "fetchedAt": "2026-08-15T01:13:20.420Z",
+    "triedAt": "2026-08-15T01:13:20.420Z"
   },
   "saotome": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/960px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/960px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tchiloli%20%C3%A0%20S%C3%A3o%20Tom%C3%A9%20(56).jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Tchiloli%20%C3%A0%20S%C3%A3o%20Tom%C3%A9%20(56).jpg?width=800",
+    "photoSource": "article",
+    "photoChecked": true,
     "extract": "São Tomé and Príncipe, officially the Democratic Republic of Sao Tome and Principe, is an island country in the Gulf of Guinea, off the western equatorial coast of Central Africa. It consists of two archipelagos around the two main islands of São Tomé and Príncipe, about 81 nautical miles (150 km; 93 mi) apart and about 135 and 121 nautical miles (250 and 224 km; 155 and 139 mi) off the northweste",
     "page": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
-    "fetchedAt": "2026-08-13T18:01:19.224Z",
-    "triedAt": "2026-08-13T18:01:19.224Z"
+    "fetchedAt": "2026-08-15T01:13:21.248Z",
+    "triedAt": "2026-08-15T01:13:21.248Z"
   },
   "dana": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dana_Reserve_02.jpg/960px-Dana_Reserve_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dana_Reserve_02.jpg/960px-Dana_Reserve_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "extract": "The Dana Biosphere Reserve (Arabic: محمية ضانا للمحيط الحيوي) is Jordan's largest nature reserve, located in south-central Jordan. Dana Biosphere Reserve was founded in 1989 in the area in and around the Dana village and Wadi Dana comprising 308 square kilometres (119 sq mi).",
+    "photoSource": "lead",
+    "photoChecked": true,
+    "extract": "The Dana Biosphere Reserve (Arabic: محمية ضانا للمحيط الحيوي) is Jordan's largest nature reserve, located in south-central Jordan. Dana Biosphere Reserve was founded in 1989 in the area in and around the Dana village and Wadi Dana comprising 308 square kilometres (119 sq mi).\n\n",
     "page": "https://en.wikipedia.org/wiki/Dana_Biosphere_Reserve",
-    "fetchedAt": "2026-08-13T18:01:19.673Z",
-    "triedAt": "2026-08-13T18:01:19.673Z"
+    "fetchedAt": "2026-08-15T01:13:21.606Z",
+    "triedAt": "2026-08-15T01:13:21.606Z"
   },
   "wildcoast": {
     "image": null,
@@ -318,42 +390,52 @@
   "jardin": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panor%C3%A1micaJard%C3%ADnAntioquia.jpg/960px-Panor%C3%A1micaJard%C3%ADnAntioquia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panor%C3%A1micaJard%C3%ADnAntioquia.jpg/960px-Panor%C3%A1micaJard%C3%ADnAntioquia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Jardín (English: Garden), is a town and municipality in the southwest region of Antioquia, Colombia. It is bounded by the Andes, Jericó, and Támesis municipalities to the north and the Caldas department to the south. The municipality is located between the San Juan River and a branch of the Western Cordillera. Jardín is identified by its preserved architectural heritage, lush vegetation, and abund",
     "page": "https://en.wikipedia.org/wiki/Jard%C3%ADn",
-    "fetchedAt": "2026-08-13T18:01:20.414Z",
-    "triedAt": "2026-08-13T18:01:20.414Z"
+    "fetchedAt": "2026-08-15T01:13:21.968Z",
+    "triedAt": "2026-08-15T01:13:21.968Z"
   },
   "huayhuash": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cordillera_Huayhuash_02359.JPG/960px-Cordillera_Huayhuash_02359.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cordillera_Huayhuash_02359.JPG/960px-Cordillera_Huayhuash_02359.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Huayhuash (possibly from Quechua waywash, weasel, or waywashi, squirrel) is a mountain range within the Andes of Peru, in the boundaries of the regions of Ancash, Lima and Huánuco. Since 2002 it is protected within the Cordillera Huayhuash Reserved Zone.",
     "page": "https://en.wikipedia.org/wiki/Cordillera_Huayhuash",
-    "fetchedAt": "2026-08-13T18:01:20.793Z",
-    "triedAt": "2026-08-13T18:01:20.793Z"
+    "fetchedAt": "2026-08-15T01:13:22.340Z",
+    "triedAt": "2026-08-15T01:13:22.340Z"
   },
   "chiloe": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Castro%2C_Chile_-_panoramio_%2816%29.jpg/960px-Castro%2C_Chile_-_panoramio_%2816%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Castro%2C_Chile_-_panoramio_%2816%29.jpg/960px-Castro%2C_Chile_-_panoramio_%2816%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "The Chiloé Archipelago (Spanish: Archipiélago de Chiloé, pronounced [tʃiloˈe], locally [ʃiloˈe]) is a group of islands lying off the coast of Chile, in the Los Lagos Region. It is separated from mainland Chile by the Chacao Channel in the north, the Sea of Chiloé in the east and the Gulf of Corcovado in the southeast. All islands except the Desertores Islands form Chiloé Province. The main island ",
     "page": "https://en.wikipedia.org/wiki/Chilo%C3%A9_Archipelago",
-    "fetchedAt": "2026-08-13T18:01:21.151Z",
-    "triedAt": "2026-08-13T18:01:21.151Z"
+    "fetchedAt": "2026-08-15T01:13:22.703Z",
+    "triedAt": "2026-08-15T01:13:22.703Z"
   },
   "ibera": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flying_Over_Esteros_del_Iber%C3%A1_The_kingdom_of_water%2C_North-eastern_Argentina.jpg/960px-Flying_Over_Esteros_del_Iber%C3%A1_The_kingdom_of_water%2C_North-eastern_Argentina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flying_Over_Esteros_del_Iber%C3%A1_The_kingdom_of_water%2C_North-eastern_Argentina.jpg/960px-Flying_Over_Esteros_del_Iber%C3%A1_The_kingdom_of_water%2C_North-eastern_Argentina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "The Iberá Wetlands (Spanish: Esteros del Iberá, from Guaraní ý berá: \"bright water\") are a mix of swamps, bogs, stagnant lakes, lagoons, natural slough, and courses of water in the center and center-north of the province of Corrientes, Argentina.\nIberá is one of the most important freshwater reservoirs in South America and the second-largest wetland in the world after Pantanal in Brazil. It is of ",
     "page": "https://en.wikipedia.org/wiki/Iber%C3%A1_Wetlands",
-    "fetchedAt": "2026-08-13T18:01:21.521Z",
-    "triedAt": "2026-08-13T18:01:21.521Z"
+    "fetchedAt": "2026-08-15T01:13:23.074Z",
+    "triedAt": "2026-08-15T01:13:23.074Z"
   },
   "huasteca": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Captura_de_Pantalla_2020-03-11_a_la%28s%29_8.33.27.png/960px-Captura_de_Pantalla_2020-03-11_a_la%28s%29_8.33.27.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Captura_de_Pantalla_2020-03-11_a_la%28s%29_8.33.27.png/960px-Captura_de_Pantalla_2020-03-11_a_la%28s%29_8.33.27.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "La Huasteca (Nahuatl languages: Cuextecapan) is a geographical and cultural region located partially along the Gulf of Mexico and including parts of the states of Veracruz, Tamaulipas, Hidalgo and San Luis Potosí. It is roughly defined as the area in which the Huastec people had influence when their civilization was at its height during the Mesoamerican period. Today, the Huastecs occupy only a fr",
     "page": "https://en.wikipedia.org/wiki/Huasteca",
-    "fetchedAt": "2026-08-13T18:01:21.898Z",
-    "triedAt": "2026-08-13T18:01:21.898Z"
+    "fetchedAt": "2026-08-15T01:13:23.438Z",
+    "triedAt": "2026-08-15T01:13:23.438Z"
   },
   "fogo": {
     "image": null,
@@ -366,201 +448,251 @@
   "greatbasin": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Prometheus_Wheeler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/be/Prometheus_Wheeler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Great Basin National Park is a national park of the United States located in White Pine County in east-central Nevada, near the Utah border. Established 40 years ago in 1986, the park is most commonly entered by way of Nevada State Route 488, which is connected to U.S. Routes 6 and 50 by Nevada State Route 487 via the small town of Baker, the closest settlement.\nThe park derives its name from the ",
     "page": "https://en.wikipedia.org/wiki/Great_Basin_National_Park",
-    "fetchedAt": "2026-08-13T18:01:22.673Z",
-    "triedAt": "2026-08-13T18:01:22.673Z"
+    "fetchedAt": "2026-08-15T01:13:23.802Z",
+    "triedAt": "2026-08-15T01:13:23.802Z"
   },
   "ometepe": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ometepemap.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ometepemap.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Ometepe is an island formed by two volcanoes rising out of Lake Nicaragua, located in the Rivas Department of the Republic of Nicaragua. Its name derives from the Nawat words ome (two) and tepetl (mountain), meaning \"two mountains\". It is the largest island in Lake Nicaragua.\nThe two volcanoes (Concepción and Maderas) are joined by a low isthmus to form one island. Ometepe has an area of 276 squar",
     "page": "https://en.wikipedia.org/wiki/Ometepe",
-    "fetchedAt": "2026-08-13T18:01:23.028Z",
-    "triedAt": "2026-08-13T18:01:23.028Z"
+    "fetchedAt": "2026-08-15T01:13:24.173Z",
+    "triedAt": "2026-08-15T01:13:24.173Z"
   },
   "catlins": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/NZ-Catlins.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/61/NZ-Catlins.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "The Catlins (sometimes referred to as The Catlins Coast) comprise an area in the southeastern corner of the South Island of New Zealand. The area lies between Balclutha and Invercargill, straddling the boundary between the Otago and Southland regions. It includes the South Island's southernmost point, Slope Point.\nA rugged, sparsely populated area, the Catlins features a scenic coastal landscape a",
     "page": "https://en.wikipedia.org/wiki/The_Catlins",
-    "fetchedAt": "2026-08-13T18:01:23.403Z",
-    "triedAt": "2026-08-13T18:01:23.403Z"
+    "fetchedAt": "2026-08-15T01:13:24.531Z",
+    "triedAt": "2026-08-15T01:13:24.531Z"
   },
   "flinders": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flinders_Ranges_SA_5434%2C_Australia_-_panoramio_%2821%29.jpg/960px-Flinders_Ranges_SA_5434%2C_Australia_-_panoramio_%2821%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flinders_Ranges_SA_5434%2C_Australia_-_panoramio_%2821%29.jpg/960px-Flinders_Ranges_SA_5434%2C_Australia_-_panoramio_%2821%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "The Flinders Ranges are the largest mountain ranges in South Australia, which starts about 200 km (125 mi) north of Adelaide. The ranges stretch for over 430 km (265 mi) from Port Pirie to Lake Callabonna.\nThe Adnyamathanha people are the Aboriginal group who have inhabited the range for tens of thousands of years.\nIts most well-known landmark is Wilpena Pound / Ikara, a formation that creates a n",
     "page": "https://en.wikipedia.org/wiki/Flinders_Ranges",
-    "fetchedAt": "2026-08-13T18:01:23.806Z",
-    "triedAt": "2026-08-13T18:01:23.806Z"
+    "fetchedAt": "2026-08-15T01:13:24.899Z",
+    "triedAt": "2026-08-15T01:13:24.899Z"
   },
   "savaii": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Samoa_Savaii_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Samoa_Savaii_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "image": null,
+    "thumb": null,
+    "photoSource": "none",
+    "photoChecked": true,
     "extract": "Savaiʻi is the largest and highest island both in Samoa and in the Samoan Islands chain. The island is also the sixth largest in Polynesia, behind the three main islands of New Zealand and the Hawaiian Islands of Hawaii and Maui. While it is larger than the second main island, Upolu, it is significantly less populated.\nSamoans sometimes refer to the island of Savaiʻi as Salafai: This is its classi",
     "page": "https://en.wikipedia.org/wiki/Savai%CA%BBi",
-    "fetchedAt": "2026-08-13T18:01:24.258Z",
-    "triedAt": "2026-08-13T18:01:24.258Z"
+    "fetchedAt": "2026-08-15T01:13:25.609Z",
+    "triedAt": "2026-08-15T01:13:25.609Z"
   },
   "tanna": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tannamap.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tannamap.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Tanna (sometimes misspelled Tana) is an island in southern Vanuatu. Tanna is the most populous island of Tafea Province, and the third most populous in the country (after Efate and Espiritu Santo). It is home to five indigenous languages, which also rank among the most widely spoken in the whole archipelago, ranging from 3,500 to 11,500 speakers.\nTanna has been featured in numerous documentaries a",
     "page": "https://en.wikipedia.org/wiki/Tanna_(island)",
-    "fetchedAt": "2026-08-13T18:01:24.607Z",
-    "triedAt": "2026-08-13T18:01:24.607Z"
+    "fetchedAt": "2026-08-15T01:13:25.967Z",
+    "triedAt": "2026-08-15T01:13:25.967Z"
   },
   "kotorbay": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Perast_100.jpg/960px-Perast_100.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Perast_100.jpg/960px-Perast_100.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Perast (Montenegrin: Perast) is a town in Coastal region of Montenegro. It is situated a few kilometres northwest of Kotor and is noted for its proximity to the islets of St. George and Our Lady of the Rocks.",
     "page": "https://en.wikipedia.org/wiki/Perast",
-    "fetchedAt": "2026-08-13T18:01:24.973Z",
-    "triedAt": "2026-08-13T18:01:24.973Z"
+    "fetchedAt": "2026-08-15T01:13:26.328Z",
+    "triedAt": "2026-08-15T01:13:26.328Z"
   },
   "lencois": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Len%C3%A7%C3%B3is_Maranhenses_2018.jpg/960px-Len%C3%A7%C3%B3is_Maranhenses_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Len%C3%A7%C3%B3is_Maranhenses_2018.jpg/960px-Len%C3%A7%C3%B3is_Maranhenses_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Lençóis Maranhenses National Park (, Parque Nacional dos Lençóis Maranhenses) is a national park in Maranhão state in northeastern Brazil, just east of the Baía de São José. Protected on June 2, 1981, the 155,000 ha (380,000-acre) park includes 70 km (43 mi) of coastline, and an interior composed of rolling sand dunes. During the rainy season, the valleys among the dunes fill with freshwater lagoo",
     "page": "https://en.wikipedia.org/wiki/Len%C3%A7%C3%B3is_Maranhenses_National_Park",
-    "fetchedAt": "2026-08-13T18:01:25.332Z",
-    "triedAt": "2026-08-13T18:01:25.332Z"
+    "fetchedAt": "2026-08-15T01:13:26.688Z",
+    "triedAt": "2026-08-15T01:13:26.688Z"
   },
   "quilotoa": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Panorama_quilotoa_crater_lake_ecuador.jpg/960px-Panorama_quilotoa_crater_lake_ecuador.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Panorama_quilotoa_crater_lake_ecuador.jpg/960px-Panorama_quilotoa_crater_lake_ecuador.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Quilotoa (Spanish pronunciation: [kiloˈto.a]) is a water-filled crater lake and the most western volcano in the Ecuadorian Andes.  The 3-kilometre-wide (2 mi) caldera was formed by the collapse of this dacite volcano following a catastrophic VEI-6 eruption about 800 years ago, which produced pyroclastic flows and lahars that reached the Pacific Ocean, and spread an airborne deposit of volcanic ash",
     "page": "https://en.wikipedia.org/wiki/Quilotoa",
-    "fetchedAt": "2026-08-13T18:01:25.688Z",
-    "triedAt": "2026-08-13T18:01:25.688Z"
+    "fetchedAt": "2026-08-15T01:13:27.063Z",
+    "triedAt": "2026-08-15T01:13:27.063Z"
   },
   "charyn": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Charyn_Canyon%2C_Kazakhstan_03.jpg/960px-Charyn_Canyon%2C_Kazakhstan_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Charyn_Canyon%2C_Kazakhstan_03.jpg/960px-Charyn_Canyon%2C_Kazakhstan_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Charyn Canyon (Russian: Чарынский каньон, Charynskiy kan'on), also known as the Sharyn Canyon (Kazakh: Шарын шатқалы, Sharyn shatqaly) is a canyon on the Charyn River in Kazakhstan. It is located about 200 km (120 mi) east of Almaty, close to the Kazakh–Chinese border. The canyon is roughly 154 km (96 mi) in length. It is part of the Charyn National Park established on 23 February 2004 and is loca",
     "page": "https://en.wikipedia.org/wiki/Charyn_Canyon",
-    "fetchedAt": "2026-08-13T18:01:26.070Z",
-    "triedAt": "2026-08-13T18:01:26.070Z"
+    "fetchedAt": "2026-08-15T01:13:28.204Z",
+    "triedAt": "2026-08-15T01:13:28.204Z"
   },
   "vjosa": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Vjosa_river_mouth.jpg/960px-Vjosa_river_mouth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Vjosa_river_mouth.jpg/960px-Vjosa_river_mouth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "The Vjosa (Albanian: [ˈvjɔsa]; indefinite form: Vjosë) or Aoös (Greek: Αώος) is a river in southwestern Albania and northwestern Greece. Its total length is about 272 kilometres (169 mi), of which the first 80 kilometres (50 mi) are in Greece, and the remaining 192 kilometres (119 mi) in Albania. Its drainage basin is 6,706 km2 (2,589 sq mi) and its average discharge is 195 m3/s (6,900 cu ft/s). T",
     "page": "https://en.wikipedia.org/wiki/Vjosa",
-    "fetchedAt": "2026-08-13T18:01:26.426Z",
-    "triedAt": "2026-08-13T18:01:26.426Z"
+    "fetchedAt": "2026-08-15T01:13:28.563Z",
+    "triedAt": "2026-08-15T01:13:28.563Z"
   },
   "bale": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/KackarDagi_fromNorth_hory.jpg/960px-KackarDagi_fromNorth_hory.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/KackarDagi_fromNorth_hory.jpg/960px-KackarDagi_fromNorth_hory.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "The Kaçkar Mountains (Turkish: Kaçkar Dağları; Armenian: Քաջքար, Kajkar), formerly known as the Lazistan Mountains or the Mountains of Khaghtik(Armenian: Խաղտեաց լեռներ), are a mountain range that rises above the Black Sea coast in northeastern Turkey.\nWith the highest peak, Kaçkar Dağı, at an elevation of 3,937 metres (12,917 ft), and mountain plateaus at about 3,000 m (9,800 ft) in elevation, th",
     "page": "https://en.wikipedia.org/wiki/Ka%C3%A7kar_Mountains",
-    "fetchedAt": "2026-08-13T18:01:26.788Z",
-    "triedAt": "2026-08-13T18:01:26.788Z"
+    "fetchedAt": "2026-08-15T01:13:28.921Z",
+    "triedAt": "2026-08-15T01:13:28.921Z"
   },
   "tsingy": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Tsingy_de_Bemaraha_Strict_Nature_Reserve.jpg/960px-Tsingy_de_Bemaraha_Strict_Nature_Reserve.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Tsingy_de_Bemaraha_Strict_Nature_Reserve.jpg/960px-Tsingy_de_Bemaraha_Strict_Nature_Reserve.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Tsingy de Bemaraha Strict Nature Reserve (Malagasy: Tsingin'i Bemaraha, French: Réserve naturelle intégrale du Tsingy de Bemaraha) is a nature reserve located near the western coast of Madagascar in Melaky Region. The area was listed as a UNESCO World Heritage Site in 1990 due to the unique geography, preserved mangrove forests, and wild bird and lemur populations.",
     "page": "https://en.wikipedia.org/wiki/Tsingy_de_Bemaraha_Strict_Nature_Reserve",
-    "fetchedAt": "2026-08-13T18:01:27.143Z",
-    "triedAt": "2026-08-13T18:01:27.143Z"
+    "fetchedAt": "2026-08-15T01:13:29.276Z",
+    "triedAt": "2026-08-15T01:13:29.276Z"
   },
   "gjirokaster": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gjirokaster_2016-2017.jpg/960px-Gjirokaster_2016-2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gjirokaster_2016-2017.jpg/960px-Gjirokaster_2016-2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Gjirokastër (Albanian: [ɟiɾoˈkastəɾ, -tɾa], Albanian definite form: Gjirokastra) is a city in southern Albania and the seat of Gjirokastër County and Gjirokastër Municipality. It is located in a valley between the Gjerë mountains and the Drino, at 300 metres above sea level. Its old town is a UNESCO World Heritage Site. The city is overlooked by Gjirokastër Fortress, where the Gjirokastër National",
     "page": "https://en.wikipedia.org/wiki/Gjirokast%C3%ABr",
-    "fetchedAt": "2026-08-13T18:01:27.516Z",
-    "triedAt": "2026-08-13T18:01:27.516Z"
+    "fetchedAt": "2026-08-15T01:13:29.626Z",
+    "triedAt": "2026-08-15T01:13:29.626Z"
   },
   "koreanpark": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Korea_Jeongseon_Traditional_Market_Train_26_%2814202094128%29.jpg/960px-Korea_Jeongseon_Traditional_Market_Train_26_%2814202094128%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Korea_Jeongseon_Traditional_Market_Train_26_%2814202094128%29.jpg/960px-Korea_Jeongseon_Traditional_Market_Train_26_%2814202094128%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Jeongseon County (Korean: 정선군) is a county in the state of Gangwon, South Korea. It is famous as the hometown of \"Jeongseon Arirang,\" a traditional Korean folksong.  It is also the hometown of actor Won Bin and footballer Seol Ki-hyeon.",
     "page": "https://en.wikipedia.org/wiki/Jeongseon_County",
-    "fetchedAt": "2026-08-13T18:01:27.874Z",
-    "triedAt": "2026-08-13T18:01:27.874Z"
+    "fetchedAt": "2026-08-15T01:13:29.975Z",
+    "triedAt": "2026-08-15T01:13:29.975Z"
   },
   "semuc": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Semuc_Champey%2C_Guatemala.jpg/960px-Semuc_Champey%2C_Guatemala.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Semuc_Champey%2C_Guatemala.jpg/960px-Semuc_Champey%2C_Guatemala.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Semuc Champey is a natural enclave in the department of Alta Verapaz, Guatemala, it consists of a natural 300-metre (980 ft) karst landbridge formed by travertine limestone deposits, beneath which the main flow of the Cahabón River plunges into a subterranean cave system via a natural sinkhole (known locally as El Sumidero). Located near the Q'eqchi' Maya town of Lanquín, the top of this limestone",
     "page": "https://en.wikipedia.org/wiki/Semuc_Champey",
-    "fetchedAt": "2026-08-13T18:01:28.222Z",
-    "triedAt": "2026-08-13T18:01:28.222Z"
+    "fetchedAt": "2026-08-15T01:13:30.341Z",
+    "triedAt": "2026-08-15T01:13:30.341Z"
   },
   "driftless": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Driftless_Region_topographic_map.webp/960px-Driftless_Region_topographic_map.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Driftless_Region_topographic_map.webp/960px-Driftless_Region_topographic_map.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dresbach%2C%20Minnesota%20from%20water.jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Dresbach%2C%20Minnesota%20from%20water.jpg?width=800",
+    "photoSource": "article",
+    "photoChecked": true,
     "extract": "The Driftless Area, also known as Bluff Country and the Paleozoic Plateau, is a topographic and cultural region in the Midwestern United States that comprises southwestern Wisconsin, southeastern Minnesota, northeastern Iowa, and the extreme northwestern corner of Illinois. The Driftless Area is a USDA Level III Ecoregion: Ecoregion 52. The Driftless Area takes up a large portion of the Upper Midw",
     "page": "https://en.wikipedia.org/wiki/Driftless_Area",
-    "fetchedAt": "2026-08-13T18:01:28.572Z",
-    "triedAt": "2026-08-13T18:01:28.572Z"
+    "fetchedAt": "2026-08-15T01:13:31.123Z",
+    "triedAt": "2026-08-15T01:13:31.123Z"
   },
   "sinesaloum": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Saloum.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Saloum.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "image": null,
+    "thumb": null,
+    "photoSource": "none",
+    "photoChecked": true,
     "extract": "Saloum Delta National Park or Parc National du Delta du Saloum in Senegal, is a 760-square-kilometre (190,000-acre) national park. Established in 1976, it is situated within the Saloum Delta at the juncture of the Saloum River and the North Atlantic.\nThe park, which forms part of a UNESCO World Heritage Site and a Ramsar Convention site, lies within a 1,800 km2 (440,000-acre) biosphere reserve. Wa",
     "page": "https://en.wikipedia.org/wiki/Saloum_Delta_National_Park",
-    "fetchedAt": "2026-08-13T18:01:29.794Z",
-    "triedAt": "2026-08-13T18:01:29.794Z"
+    "fetchedAt": "2026-08-15T01:13:32.491Z",
+    "triedAt": "2026-08-15T01:13:32.491Z"
   },
   "kotohira": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Iya_Valley_seen_from_the_Iya_Valley_Observatory_001.jpg/960px-Iya_Valley_seen_from_the_Iya_Valley_Observatory_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Iya_Valley_seen_from_the_Iya_Valley_Observatory_001.jpg/960px-Iya_Valley_seen_from_the_Iya_Valley_Observatory_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "The Iya Valley (祖谷 Iya) region in Tokushima Prefecture, Japan is a scenic area known for its mountain valleys, thatched roof farmhouses and historic Vine Bridges. Although access has improved in recent years, the Iya Valley and the inner parts of Shikoku have historically been remote and difficult to enter. Members of the Taira clan (aka Heike clan) were said to have entered the area after losing ",
     "page": "https://en.wikipedia.org/wiki/Iya_Valley",
-    "fetchedAt": "2026-08-13T18:01:30.150Z",
-    "triedAt": "2026-08-13T18:01:30.150Z"
+    "fetchedAt": "2026-08-15T01:13:32.839Z",
+    "triedAt": "2026-08-15T01:13:32.839Z"
   },
   "pemba": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Vumawimbi_Beach%2C_Pemba_Island.jpg/960px-Vumawimbi_Beach%2C_Pemba_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Vumawimbi_Beach%2C_Pemba_Island.jpg/960px-Vumawimbi_Beach%2C_Pemba_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Pemba Island (Arabic: الجزيرة الخضراء, al-Jazīra al-khadrāʔ; Swahili: Kisiwa cha Pemba) is a Tanzanian island forming part of the Zanzibar Archipelago, lying within the Swahili Coast in the Indian Ocean.",
     "page": "https://en.wikipedia.org/wiki/Pemba_Island",
-    "fetchedAt": "2026-08-13T20:22:58.082Z",
-    "triedAt": "2026-08-13T20:22:58.082Z"
+    "fetchedAt": "2026-08-15T01:13:33.204Z",
+    "triedAt": "2026-08-15T01:13:33.204Z"
   },
   "niue": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/960px-Flag_of_Niue.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/960px-Flag_of_Niue.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Limu%20Pools%20towards%20rock%20arch.jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Limu%20Pools%20towards%20rock%20arch.jpg?width=800",
+    "photoSource": "article",
+    "photoChecked": true,
     "extract": "Niue is a self-governing island country in free association with New Zealand. It is situated in the South Pacific Ocean, is part of Polynesia, and is predominantly inhabited by Polynesians. As one of the world's largest coral islands, Niue is nicknamed \"The Rock\", which comes from the traditional name \"Rock of Polynesia\".\nNiue's position is inside a triangle drawn between Tonga, Samoa, and the Coo",
     "page": "https://en.wikipedia.org/wiki/Niue",
-    "fetchedAt": "2026-08-13T20:22:58.448Z",
-    "triedAt": "2026-08-13T20:22:58.448Z"
+    "fetchedAt": "2026-08-15T01:13:34.054Z",
+    "triedAt": "2026-08-15T01:13:34.054Z"
   },
   "chapada": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Chapada_diamantina.jpg/960px-Chapada_diamantina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Chapada_diamantina.jpg/960px-Chapada_diamantina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "extract": "The Chapada Diamantina National Park (Portuguese: Parque Nacional da Chapada Diamantina [ʃaˈpadɐ dʒi.amɐ̃ˈtʃĩnɐ]) is a national park in the Chapada Diamantina region of the State of Bahia, Brazil.\nThe terrain is rugged and mainly covered by the flora of the Caatinga biome.",
+    "photoSource": "lead",
+    "photoChecked": true,
+    "extract": "The Chapada Diamantina National Park (Portuguese: Parque Nacional da Chapada Diamantina [ʃaˈpadɐ dʒi.amɐ̃ˈtʃĩnɐ]) is a national park in the Chapada Diamantina region of the State of Bahia, Brazil.\nThe terrain is rugged and mainly covered by the flora of the Caatinga biome.\n\n",
     "page": "https://en.wikipedia.org/wiki/Chapada_Diamantina_National_Park",
-    "fetchedAt": "2026-08-13T20:22:58.777Z",
-    "triedAt": "2026-08-13T20:22:58.777Z"
+    "fetchedAt": "2026-08-15T01:13:34.402Z",
+    "triedAt": "2026-08-15T01:13:34.402Z"
   },
   "atiu": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Atiu_Aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/53/Atiu_Aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Ātiu, also known as ʻEnuamanu (meaning land of the birds), is an island of the Cook Islands archipelago, lying in the central-southern Pacific Ocean. Part of the Nga-pu-Toru, it is 214 km (133 mi) northeast of Rarotonga. The population of the 26.9 square kilometres (10.4 sq mi) island has dropped by two-thirds in the last 50 years.",
     "page": "https://en.wikipedia.org/wiki/Atiu",
-    "fetchedAt": "2026-08-14T00:08:06.914Z",
-    "triedAt": "2026-08-14T00:08:06.914Z"
+    "fetchedAt": "2026-08-15T01:13:34.763Z",
+    "triedAt": "2026-08-15T01:13:34.763Z"
   },
   "raivavae": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Raivavae.jpg/960px-Raivavae.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Raivavae.jpg/960px-Raivavae.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Raivavae (Tahitian: Ra‘ivāvae /ra.ʔi.va:va.e/) is one of the Austral Islands in French Polynesia. Its total land area including offshore islets is 17.9 km2 (6.9 sq mi). At the 2022 census, it had a population of 900. The island is of volcanic origin, and rises to 437 metres (1,434 ft) elevation at Mont Hiro.",
     "page": "https://en.wikipedia.org/wiki/Raivavae",
-    "fetchedAt": "2026-08-14T00:08:07.263Z",
-    "triedAt": "2026-08-14T00:08:07.263Z"
+    "fetchedAt": "2026-08-15T01:13:35.124Z",
+    "triedAt": "2026-08-15T01:13:35.124Z"
   },
   "liuwa": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lady_Liuwa%2C_November_2012.jpg/960px-Lady_Liuwa%2C_November_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lady_Liuwa%2C_November_2012.jpg/960px-Lady_Liuwa%2C_November_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoChecked": true,
     "extract": "Liuwa Plain National Park  is a 3,369-square-kilometre (1,301 sq mi) national park in Zambia's Western Province. \"Liuwa\" means \"plain\" in the local Liuwa language, a dialect of Lozi language, and the plains originally served as a hunting ground for Lubosi Lewanika, the Litunga (king or paramount chief) of the Lozi people. The area was designated as a protected area by Lubosi Lewanika in the early ",
     "page": "https://en.wikipedia.org/wiki/Liuwa_Plain_National_Park",
-    "fetchedAt": "2026-08-14T00:08:07.602Z",
-    "triedAt": "2026-08-14T00:08:07.602Z"
+    "fetchedAt": "2026-08-15T01:13:35.515Z",
+    "triedAt": "2026-08-15T01:13:35.515Z"
   }
 }
