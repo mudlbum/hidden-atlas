@@ -101,6 +101,10 @@ function parseFeed(xml, limit = 6) {
  * Those look broken on a travel card, so we reject them and go looking through
  * the article's other images for an actual photo.
  */
+/* Bump when the filter below changes — cached photos chosen by an older
+   revision are then re-checked automatically on the next run. */
+const PHOTO_REV = 2;
+
 const NOT_A_PHOTO = new RegExp(
   '(^|[_\\-\\s(])(' +
   [
@@ -117,9 +121,15 @@ const NOT_A_PHOTO = new RegExp(
     'satellite', 'sentinel\\d*', 'landsat', 'modis', 'nasa', 'esa',
     // composites read as clutter at card size
     'montage', 'collage', 'composite',
+    // historical map sheets, often scanned by libraries
+    'atlas', 'cadastr\\w*', 'quan[_\\-\\s]?tu', 'daqing', 'nautical', 'admiralty',
   ].join('|') +
   ')([_\\-\\s.)0-9]|$)', 'i'
 );
+
+/* CJK map words appear in Commons filenames with no surrounding separators,
+   so they need a separate substring test rather than the delimiter pattern. */
+const CJK_MAP = /[全地]?[図图圖]|地圖|絵図/;
 
 function looksLikePhoto(url) {
   if (!url) return false;
@@ -128,6 +138,7 @@ function looksLikePhoto(url) {
   // SVG is never a photograph; PNG is usually a map or diagram in this context.
   if (/\.svg$/i.test(name)) return false;
   if (NOT_A_PHOTO.test(name)) return false;
+  if (CJK_MAP.test(name)) return false;
   return /\.(jpe?g|webp|png)$/i.test(name);
 }
 
@@ -161,8 +172,8 @@ async function enrich(places, cache) {
   const stale = (e) => {
     if (!e) return true;
     if (e.error || !e.image) return !e.triedAt || now - Date.parse(e.triedAt) > ENRICH_RETRY_DAYS * 864e5;
-    // Cached a locator map from before the photo filter existed — refetch it.
-    if (!e.photoChecked) return true;
+    // Photo was chosen by an older, weaker filter — re-check it.
+    if ((e.photoRev || 0) < PHOTO_REV) return true;
     return !e.fetchedAt || now - Date.parse(e.fetchedAt) > ENRICH_MAX_AGE_DAYS * 864e5;
   };
 
@@ -204,7 +215,7 @@ async function enrich(places, cache) {
         image: photo,
         thumb: photo,
         photoSource: source,
-        photoChecked: true,
+        photoRev: PHOTO_REV,
         extract: (page.extract || '').slice(0, 400) || null,
         page: page.fullurl || null,
         fetchedAt: stamp,
