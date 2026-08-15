@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-14T06:43:04.333Z",
-  "date": "2026-08-14",
+  "generatedAt": "2026-08-15T00:52:10.269Z",
+  "date": "2026-08-15",
   "rotation": {
     "places": [
-      "chiloe",
-      "flinders",
-      "vjosa"
+      "saomiguel-alt",
+      "gargano",
+      "matsu"
     ],
-    "tip": "soloeat",
-    "eat": "honghapbap"
+    "tip": "packcube",
+    "eat": "jaffnacrab"
   },
   "counts": {
     "places": 72,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "Tribute to Hard Working Hands in Dallas, Texas",
-      "link": "https://www.atlasobscura.com/places/tribute-to-hard-working-hands",
-      "date": "Thu, 13 Aug 2026 16:00:00 -0400",
-      "summary": "The Descending Hand Sculpture, created in 2022 by local Dallas artist Andrew Z., serves as a powerful tribute to the unsung hands that shape our modern world. Suspended dramatically from the ceiling of the Operators Club, its raw and industrial aesthetic immed",
+      "title": "Murales del Borgo San Giuliano in Rimini, Italy",
+      "link": "https://www.atlasobscura.com/places/murales-del-borgo-san-giuliano",
+      "date": "Fri, 14 Aug 2026 16:00:00 -0400",
+      "summary": "Founded around the year 1000, Borgo San Giuliano, was originally the city's fishermen’s quarter. The tradition of painting murals that has made Borgo San Giuliano famous has deep roots. In 1979, the city council suggested demolishing the neighborhood to make w",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "South Main Plaza Dog Fountain in Mount Vernon, Ohio",
-      "link": "https://www.atlasobscura.com/places/south-main-plaza-dog-fountain",
-      "date": "Thu, 13 Aug 2026 14:00:00 -0400",
-      "summary": "At the heart of South Main Plaza in Mt. Vernon sits an unexpected menagerie: a fountain crowded with painted cast-aluminum dogs, watched over by a cat, a pony, two pairs of birds, and, inexplicably, an apple. At the very center sits a golden bone, and the cat,",
+      "title": "Fannie Bay Gaol in Fannie Bay, Australia",
+      "link": "https://www.atlasobscura.com/places/fannie-bay-gaol",
+      "date": "Fri, 14 Aug 2026 14:00:00 -0400",
+      "summary": "For nearly a century, Fannie Bay Gaol was the Northern Territory of Australia's principal prison, confining a range of prisoners from cattle rustlers and opium traffickers to political prisoners and condemned murderers. It was opened as Her Majesty's Gaol and ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "The Atlas Obscura Guide to Halloween Travel",
-      "link": "https://www.atlasobscura.com/articles/guide-to-halloween-travel",
-      "date": "Thu, 13 Aug 2026 12:00:00 -0400",
-      "summary": "There is a version of Halloween tourism that involves a man in a rubber mask jumping out from behind a plywood wall. It has its pleasures. It is not this. The places below are real. The things that happened in them are documented — in court records, in coroner",
+      "title": "The Atlas Obscura Guide to the World's Strangest Christmas Traditions",
+      "link": "https://www.atlasobscura.com/articles/guide-to-strangest-christmas-traditions",
+      "date": "Fri, 14 Aug 2026 13:33:00 -0400",
+      "summary": "Every European Christmas market sells the same mulled wine out of the same wooden hut. This is not a criticism — it is a very good hut, and the wine is warm. But it is not a reason to choose one country over another, and the \"best Christmas markets\" lists that",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "City of Justice in Vilnius, Lithuania",
-      "link": "https://www.atlasobscura.com/places/the-city-of-justice",
-      "date": "Thu, 13 Aug 2026 12:00:00 -0400",
-      "summary": "Parallel worlds are nothing unusual in pop culture. Most films and publications stem from the horror genre; portals into other worlds and dimensions usually portend nothing good for those who open them. One thinks of the \"Upside Down\" or shadow world in Strang",
+      "title": "The Atlas Obscura Guide to Seeing the Northern Lights",
+      "link": "https://www.atlasobscura.com/articles/guide-to-northern-lights",
+      "date": "Fri, 14 Aug 2026 13:27:00 -0400",
+      "summary": "Here is the failure mode nobody warns you about. You book a week in a country you chose because it appeared on a list of the best places to see the northern lights. You arrive. It is cloudy for six nights. You go home having seen nothing, and you conclude the ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "RoboCop Statue in Detroit, Michigan",
-      "link": "https://www.atlasobscura.com/places/robocop-statue",
-      "date": "Thu, 13 Aug 2026 10:00:00 -0400",
-      "summary": "RoboCop is a fictional, cybernetically enhanced Detroit police officer from the RoboCop franchise. Beginning in 1987 with the film “RoboCop”, the stories of RoboCop center around, Officer Alex James Murphy after he has been cybernetically enhanced and continue",
+      "title": "The Atlas Obscura Guide to Winter Sun",
+      "link": "https://www.atlasobscura.com/articles/guide-to-winter-sun",
+      "date": "Fri, 14 Aug 2026 13:16:00 -0400",
+      "summary": "Every winter sun list is the same list. Somewhere with a beach, ranked by average January temperature, with a paragraph about resorts. The only variable is the number, and the number is available on any weather site for free. Here is a better question. Rather ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -160,10 +160,10 @@
       }
     },
     {
-      "title": "is this a known scam or am i in danger?",
-      "link": "https://www.reddit.com/r/solotravel/comments/1vi1ube/is_this_a_known_scam_or_am_i_in_danger/",
-      "date": "2026-08-07T14:15:40+00:00",
-      "summary": "i’m a woman solo traveling to a state i’ve never been, haven’t given out my number or been on the apps, and last night i received a text from a number with the area code of where i’m visiting. the texter states their name & asks if i’m in (neighboring state of",
+      "title": "What's a destination that completely exceeded your expectations compared to its reputation?",
+      "link": "https://www.reddit.com/r/solotravel/comments/1vmfbes/whats_a_destination_that_completely_exceeded_your/",
+      "date": "2026-08-12T14:13:38+00:00",
+      "summary": "Would love some insight from solo travelers who went somewhere with fairly low expectations (based on what you'd heard/read beforehand) and ended up being surprised in a positive way- whether that was safety, ease of meeting people, just the overall experience",
       "source": "reddit-solotravel",
       "sourceLabel": {
         "en": "r/solotravel",
@@ -206,7 +206,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
-    "failed": 0
+    "ok": 3,
+    "failed": 3
   }
 }
