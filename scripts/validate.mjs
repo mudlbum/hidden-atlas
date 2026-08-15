@@ -94,6 +94,44 @@ for (const [lang, src] of [['en', enBlock], ['ko', koBlock]]) {
   }
 }
 
+/* ------------------------------------------------------------------- plans */
+/* plans.json is keyed by place id. A place without a plan is fine — the page
+   degrades to a "plan coming" note — but a plan that exists must be complete,
+   or the detail page renders half-empty sections. */
+let plans = {};
+try { plans = read('data/plans.json'); } catch { fail('data/plans.json is missing or unparseable'); }
+
+for (const [id, pl] of Object.entries(plans)) {
+  const at = `plan "${id}"`;
+  if (!seen.has(id)) { fail(`${at}: no place with this id`); continue; }
+
+  for (const f of ['hub', 'getting', 'stay', 'cost', 'book']) {
+    if (!pl[f]?.en?.trim() || !pl[f]?.ko?.trim()) fail(`${at}: missing ${f}.en/.ko`);
+    else if (pl[f].en === pl[f].ko) fail(`${at}: ${f}.ko is untranslated`);
+  }
+
+  if (!pl.days || typeof pl.days.min !== 'number') fail(`${at}: days.min must be a number`);
+  else if (pl.days.ideal != null && pl.days.ideal < pl.days.min) fail(`${at}: days.ideal is below days.min`);
+
+  if (!Array.isArray(pl.itinerary) || !pl.itinerary.length) fail(`${at}: no itinerary`);
+  else {
+    pl.itinerary.forEach((d, i) => {
+      if (!d.t?.en?.trim() || !d.t?.ko?.trim()) fail(`${at}: day ${i + 1} missing a translation`);
+      else if (d.t.en === d.t.ko) fail(`${at}: day ${i + 1} ko is untranslated`);
+    });
+    // The itinerary is what "trip length" promises — they must agree.
+    if (pl.days?.ideal && pl.itinerary.length > pl.days.ideal) {
+      fail(`${at}: ${pl.itinerary.length} itinerary days but days.ideal is ${pl.days.ideal}`);
+    }
+  }
+
+  for (const n of pl.nearby || []) {
+    if (!seen.has(n)) fail(`${at}: nearby "${n}" is not a known place id`);
+    if (n === id) fail(`${at}: lists itself as nearby`);
+  }
+  if (pl.iata && !/^[A-Z]{3}$/.test(pl.iata)) fail(`${at}: iata "${pl.iata}" is not a 3-letter code`);
+}
+
 /* -------------------------------------------------------------- eats + cal */
 for (const e of eats) {
   const at = `eat "${e.id || '(no id)'}"`;
@@ -113,7 +151,9 @@ for (let m = 1; m <= 12; m++) {
 
 /* ------------------------------------------------------------------ report */
 const byRegion = REGIONS.map((r) => `${r} ${places.filter((p) => p.region === r).length}`).join(' · ');
+const planned = Object.keys(plans).length;
 console.log(`places ${places.length} (${byRegion})`);
+console.log(`plans ${planned}/${places.length} — ${places.length - planned} still need a day-by-day itinerary`);
 console.log(`tips ${tips.length} · eats ${eats.length} · calendar ${calendar.length} months · tags ${allTags.size}`);
 
 if (problems) {

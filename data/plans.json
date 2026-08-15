@@ -1,0 +1,204 @@
+{
+"gasadalur": {
+  "days": {"min":2,"ideal":3},
+  "iata":"FAE",
+  "hub":{"en":"Vágar Airport (FAE) — 20 min by car","ko":"바가르 공항(FAE) — 차로 20분"},
+  "getting":{"en":"Fly into Vágar from Copenhagen, Edinburgh or Reykjavík. Pick up a rental car at the airport — it's the only realistic way around, and the sub-sea tunnels take a card at the barrier. Gásadalur is 20 minutes west through the Gásadalstunnilin.","ko":"코펜하겐, 에든버러, 레이캬비크에서 바가르로 들어옵니다. 공항에서 렌터카를 빌리세요. 사실상 유일한 이동 수단이며 해저터널은 카드 결제가 됩니다. 가사달루르는 서쪽으로 가사달스툰닐린 터널을 지나 20분 거리입니다."},
+  "stay":{"en":"Sørvágur or Bøur for proximity; Tórshavn if you want restaurants. Guesthouses in Gásadalur itself are a handful of rooms and book out months ahead.","ko":"가까이 묵으려면 쇠르바구르나 뵈우르, 식당이 필요하면 토르스하운이 낫습니다. 가사달루르 자체의 게스트하우스는 객실이 몇 개뿐이라 몇 달 전에 마감됩니다."},
+  "cost":{"en":"€150–220/day for two — accommodation is the big line, food is Nordic-priced. A rental car runs €70–90/day.","ko":"2인 기준 하루 150~220유로. 숙박비가 가장 크고 식비는 북유럽 수준입니다. 렌터카는 하루 70~90유로."},
+  "book":{"en":"Car and accommodation months ahead for June–August. Nothing else needs reserving.","ko":"6~8월이라면 렌터카와 숙소를 몇 달 전에 예약하세요. 그 외에는 예약할 것이 없습니다."},
+  "itinerary":[
+    {"t":{"en":"Land at Vágar, collect the car, drive to Bøur and walk the shoreline. Sunset at Múlafossur is the reason you came — the light comes round the cliff after 9pm in summer.","ko":"바가르 도착, 렌터카를 받아 뵈우르로 이동해 해안을 걷습니다. 물라포수르의 일몰이 이곳에 온 이유입니다. 여름에는 밤 9시 이후 절벽을 돌아 빛이 들어옵니다."}},
+    {"t":{"en":"Hike the old postal route over the mountain into Gásadalur (2h each way) — the path villagers used before the tunnel. Afternoon at Trælanípa and Sørvágsvatn, the lake that appears to hang above the ocean.","ko":"터널이 뚫리기 전 주민들이 다니던 옛 우편길을 넘어 가사달루르까지 걷습니다(편도 2시간). 오후에는 바다 위에 떠 있는 듯 보이는 쇠르바그스바튼 호수와 트렐라니파를 찾습니다."}},
+    {"t":{"en":"Boat to Mykines for the puffin colony (May–Aug, weather permitting — sailings cancel often, so keep this on your last flexible day rather than your first).","ko":"미키네스로 배를 타고 퍼핀 군락을 봅니다(5~8월, 날씨 허용 시). 결항이 잦으니 첫날이 아니라 여유 있는 마지막 날에 배치하세요."}}
+  ],
+  "nearby":["senja","assynt"]
+},
+
+"berat": {
+  "days": {"min":2,"ideal":3},
+  "iata":"TIA",
+  "hub":{"en":"Tirana (TIA) — 2.5h by bus","ko":"티라나(TIA) — 버스로 2시간 30분"},
+  "getting":{"en":"Buses leave Tirana's south terminal roughly hourly until mid-afternoon, about €5, no booking needed. From Berat you can continue south to Gjirokastër (4h) rather than backtracking.","ko":"티라나 남부 터미널에서 오후 중반까지 대략 매시간 버스가 있고 요금은 5유로 안팎, 예약은 필요 없습니다. 베라트에서 되돌아가지 말고 남쪽 지로카스터르(4시간)로 이어가세요."},
+  "stay":{"en":"Inside the castle walls (Kala quarter) — family-run guesthouses in stone houses, and you get the citadel to yourself after the day-trippers leave.","ko":"성벽 안 칼라 지구를 추천합니다. 돌집을 개조한 가족 운영 게스트하우스가 있고, 당일 방문객이 떠난 뒤에는 성채를 독차지할 수 있습니다."},
+  "cost":{"en":"€35–60/day for two. Guesthouses €25–40, a full meal with wine under €12.","ko":"2인 기준 하루 35~60유로. 게스트하우스 25~40유로, 와인을 곁들인 식사도 12유로 미만입니다."},
+  "book":{"en":"Only the guesthouse, and only in July–August. Everything else is walk-up.","ko":"7~8월에만 게스트하우스를 예약하면 됩니다. 나머지는 그냥 가면 됩니다."},
+  "itinerary":[
+    {"t":{"en":"Arrive, settle in the Kala quarter, then walk down through Mangalem — the tiered white houses — to the Gorica bridge for the classic view back at the town.","ko":"도착 후 칼라 지구에 짐을 풀고, 층층이 쌓인 하얀 집들의 망갈렘 지구를 걸어 내려가 고리차 다리에서 마을을 되돌아보는 대표 전망을 봅니다."}},
+    {"t":{"en":"Onufri Museum inside the citadel for the 16th-century icons, then the ruined churches scattered around the walls. Afternoon: Osum canyon or a winery in the valley.","ko":"성채 안 오누프리 박물관에서 16세기 이콘화를 보고, 성벽 곳곳의 폐허 교회들을 둘러봅니다. 오후에는 오숨 협곡이나 계곡의 와이너리를 찾아보세요."}},
+    {"t":{"en":"Day trip to Bogovë waterfall or the Tomorr mountain road, then the evening xhiro — the whole town walking the boulevard, which is the most Albanian thing you'll see.","ko":"보고베 폭포나 토모르산 도로로 당일치기를 다녀온 뒤, 저녁 '지로'를 즐기세요. 온 마을이 대로를 걷는 이 풍경이 가장 알바니아다운 장면입니다."}}
+  ],
+  "nearby":["gjirokaster","vjosa","ohrid"]
+},
+
+"soca": {
+  "days": {"min":3,"ideal":4},
+  "iata":"LJU",
+  "hub":{"en":"Ljubljana (LJU) — 2h by car via Vršič pass","ko":"류블랴나(LJU) — 브르시치 고개 경유 차로 2시간"},
+  "getting":{"en":"Rent a car in Ljubljana; the Vršič pass road (50 hairpins, open May–Oct) is part of the experience. Buses reach Bovec but not the trailheads. In winter, take the Predel pass instead.","ko":"류블랴나에서 차를 빌리세요. 헤어핀 50개가 이어지는 브르시치 고개(5~10월 개방)는 그 자체가 볼거리입니다. 버스는 보베츠까지만 가고 등산로 입구에는 닿지 않습니다. 겨울에는 프레델 고개를 이용하세요."},
+  "stay":{"en":"Kobarid for food and the WWI museum, Bovec for rafting and easier trailhead access. Both are small — 20 minutes apart.","ko":"음식과 1차 대전 박물관이 있는 코바리드, 래프팅과 등산로 접근이 편한 보베츠. 둘 다 작은 마을이고 20분 거리입니다."},
+  "cost":{"en":"€90–140/day for two. Rafting €45–60pp, the Kobarid museum €8.","ko":"2인 기준 하루 90~140유로. 래프팅은 1인 45~60유로, 코바리드 박물관은 8유로."},
+  "book":{"en":"Rafting and canyoning a few days ahead in July–August. Hiša Franko, the Michelin-starred restaurant in Kobarid, needs months.","ko":"7~8월에는 래프팅과 캐녀닝을 며칠 전에 예약하세요. 코바리드의 미쉐린 레스토랑 히샤 프랑코는 몇 달 전 예약이 필요합니다."},
+  "itinerary":[
+    {"t":{"en":"Drive the Vršič pass from Kranjska Gora, stopping at the Russian Chapel. Down into the valley to Bovec; first sight of the river at Kluže fortress.","ko":"크란스카고라에서 브르시치 고개를 넘으며 러시아 예배당에 들릅니다. 계곡을 내려가 보베츠로 향하고, 클루제 요새에서 소차강을 처음 만납니다."}},
+    {"t":{"en":"Raft or kayak the Soča (May–June has the strongest flow). Afternoon: the Great Soča Gorge walk, 30 minutes and almost nobody on it.","ko":"소차강에서 래프팅이나 카약을 즐깁니다(5~6월 수량이 가장 많습니다). 오후에는 30분 코스의 대 소차 협곡 산책로를 걸으세요. 사람이 거의 없습니다."}},
+    {"t":{"en":"Kobarid: the WWI museum first, then the Kozjak waterfall walk (1h loop, the falls sit inside a chamber of rock). Dinner in town.","ko":"코바리드에서 먼저 1차 대전 박물관을 보고, 코즈야크 폭포 산책(1시간 순환)에 나섭니다. 폭포가 암반 방 안에 들어앉아 있습니다. 저녁은 마을에서."}},
+    {"t":{"en":"Walk part of the Walk of Peace along the old front line, or drive to Tolmin gorge. Head out via the Predel pass into Italy if you're continuing.","ko":"옛 전선을 따라가는 평화의 길 일부를 걷거나 톨민 협곡으로 향합니다. 여정을 이어간다면 프레델 고개를 넘어 이탈리아로 나가세요."}}
+  ],
+  "nearby":["salina","gargano"]
+},
+
+"naxos": {
+  "days": {"min":4,"ideal":6},
+  "iata":"JTR",
+  "hub":{"en":"Athens (ATH) then ferry, or fly to Naxos (JNX)","ko":"아테네(ATH) 경유 페리, 또는 낙소스 공항(JNX) 직항"},
+  "getting":{"en":"Ferry from Piraeus takes 3.5h on the fast boat, 5h on the slower one that costs half as much. Book vehicle deck space in August. The small airport takes prop planes from Athens.","ko":"피레아스에서 고속 페리로 3시간 30분, 절반 가격의 완행은 5시간입니다. 8월에는 차량 갑판을 예약하세요. 작은 공항에는 아테네발 프로펠러기가 들어옵니다."},
+  "stay":{"en":"Naxos Town (Chora) for the first nights, then move to Plaka or Agia Anna for the beach half. Halki in the interior if you want the mountain villages.","ko":"처음 며칠은 낙소스 타운(호라)에, 이후 해변 일정은 플라카나 아기아 안나로 옮기세요. 산간 마을을 원한다면 내륙 할키가 좋습니다."},
+  "cost":{"en":"€80–130/day for two outside August. Rooms €45–80, a taverna dinner €25 for two with wine.","ko":"8월을 피하면 2인 기준 하루 80~130유로. 숙소 45~80유로, 와인을 곁들인 타베르나 저녁은 2인 25유로."},
+  "book":{"en":"Ferry and rooms well ahead for August. A rental car for at least two days — the interior is the point and buses don't serve it well.","ko":"8월이라면 페리와 숙소를 일찍 예약하세요. 내륙이 핵심인데 버스가 부실하니 렌터카를 최소 이틀은 잡으세요."},
+  "itinerary":[
+    {"t":{"en":"Arrive and walk up through the Venetian Kastro to the old town. Sunset from the Portara — the unfinished marble temple doorway on the islet by the port.","ko":"도착 후 베네치아 시대 카스트로를 지나 구시가로 올라갑니다. 항구 옆 작은 섬에 있는 미완성 대리석 신전 문 '포르타라'에서 일몰을 봅니다."}},
+    {"t":{"en":"Beach day on the west coast — Plaka for space, Mikri Vigla if there's wind and you want to windsurf.","ko":"서해안에서 해변 하루. 여유로운 플라카, 바람이 있고 윈드서핑을 하고 싶다면 미크리 비글라."}},
+    {"t":{"en":"Car day inland: Halki for the distillery and citron liqueur, Apiranthos for the marble streets, the Temple of Demeter on the way back.","ko":"차로 내륙 일주: 증류소와 시트론 리큐어의 할키, 대리석 골목의 아피란토스, 돌아오는 길에 데메테르 신전."}},
+    {"t":{"en":"Walk to one of the kouroi — abandoned 7th-century BC marble giants lying where they cracked in the quarry. Afternoon swim at Panormos.","ko":"채석장에서 금이 가 그대로 누워 있는 기원전 7세기 대리석 거상 '쿠로스'를 보러 걷습니다. 오후에는 파노르모스에서 수영."}},
+    {"t":{"en":"Day boat to Koufonisia or Iraklia — the Small Cyclades, an hour away and emptier still.","ko":"쿠포니시아나 이라클리아로 당일 보트 여행. 한 시간 거리의 소(小) 키클라데스는 훨씬 더 한적합니다."}}
+  ],
+  "nearby":["salina","gargano"]
+},
+
+"kumano": {
+  "days": {"min":4,"ideal":5},
+  "iata":"KIX",
+  "hub":{"en":"Osaka (KIX) — 4h by train to Kii-Tanabe","ko":"오사카(KIX) — 기이타나베까지 기차로 4시간"},
+  "getting":{"en":"Limited express from Shin-Osaka to Kii-Tanabe, then a bus to the trailhead at Takijiri-oji. The Kumano Travel bureau books ryokan and moves your luggage between them — use it, it's the local nonprofit and it removes the hardest part.","ko":"신오사카에서 특급으로 기이타나베까지 간 뒤 버스로 다키지리오지 등산로 입구로 갑니다. 구마노 트래블이 료칸 예약과 숙소 간 짐 배송을 대행합니다. 현지 비영리 단체이며 가장 번거로운 부분을 해결해 주니 꼭 이용하세요."},
+  "stay":{"en":"Ryokan and minshuku along the route — Chikatsuyu, Hongū, then Yunomine Onsen, a 1,800-year-old hot spring village with very few beds.","ko":"경로를 따라 료칸과 민슈쿠에 묵습니다. 치카쓰유, 혼구를 거쳐 1,800년 역사의 온천 마을 유노미네 온센으로. 객실이 매우 적습니다."},
+  "cost":{"en":"¥12,000–18,000pp/night at a ryokan with dinner and breakfast — which is most of the budget, and worth it.","ko":"료칸 1인 1박 12,000~18,000엔에 석식과 조식 포함. 예산의 대부분이지만 그만한 가치가 있습니다."},
+  "book":{"en":"Three to six months ahead. There are only so many beds on the route and they fill in spring and autumn.","ko":"3~6개월 전에 예약하세요. 경로상 객실 수가 한정적이라 봄과 가을에는 금방 찹니다."},
+  "itinerary":[
+    {"t":{"en":"Train to Kii-Tanabe, bus to Takijiri-oji, walk the first stretch to Takahara — the 'village in the mist', looking over the ridges you'll cross.","ko":"기차로 기이타나베, 버스로 다키지리오지까지 간 뒤 첫 구간을 걸어 다카하라로. '안개의 마을'에서 앞으로 넘을 능선들을 내려다봅니다."}},
+    {"t":{"en":"Takahara to Chikatsuyu, about 5 hours through cedar forest past roadside oji shrines. Gentle day, good for finding your legs.","ko":"다카하라에서 치카쓰유까지 약 5시간. 삼나무 숲과 길가의 오지 신사들을 지납니다. 완만한 구간이라 몸을 푸는 데 좋습니다."}},
+    {"t":{"en":"The long day — Chikatsuyu to Hongū, 7–8 hours over the ridge. Arrive at Kumano Hongū Taisha, then soak at Yunomine.","ko":"가장 긴 구간. 치카쓰유에서 능선을 넘어 혼구까지 7~8시간. 구마노 혼구타이샤에 도착한 뒤 유노미네에서 온천욕을 합니다."}},
+    {"t":{"en":"Boat down the Kumano river to Hayatama Taisha at Shingū — the traditional pilgrim's approach, and a rest for the legs.","ko":"구마노강을 따라 배를 타고 신구의 하야타마타이샤로. 전통적인 순례 방식이자 다리를 쉬게 하는 구간입니다."}},
+    {"t":{"en":"Nachi Taisha and the 133m Nachi waterfall with the pagoda beside it, then train back from Kii-Katsuura.","ko":"나치타이샤와 탑이 나란히 선 133m 나치 폭포를 본 뒤 기이카쓰우라에서 기차로 돌아갑니다."}}
+  ],
+  "nearby":["kotohira","sado","tottori"]
+},
+
+"ulleungdo": {
+  "days": {"min":3,"ideal":4},
+  "iata":"ICN",
+  "hub":{"en":"Pohang or Mukho ferry terminal — 3–4h by sea","ko":"포항 또는 묵호 여객터미널 — 배로 3~4시간"},
+  "getting":{"en":"KTX from Seoul to Pohang or Donghae, then the ferry. Sailings cancel for swell more often than people expect — build in a spare day at each end or you will miss a flight. Book the ferry online; foreign passports need to be entered exactly as printed.","ko":"서울에서 KTX로 포항이나 동해까지 간 뒤 배를 탑니다. 예상보다 풍랑 결항이 잦으니 앞뒤로 예비일을 두지 않으면 항공편을 놓칠 수 있습니다. 페리는 온라인 예약하며 외국 여권은 기재된 그대로 입력해야 합니다."},
+  "stay":{"en":"Dodong for the harbour and restaurants, Jeodong if you want it quieter. Minbak rooms are simple and cheap.","ko":"항구와 식당이 있는 도동, 조용한 곳을 원하면 저동. 민박은 소박하고 저렴합니다."},
+  "cost":{"en":"₩120,000–180,000/day for two including the ferry amortised. Squid is the local staple and cheap; anything shipped in is not.","ko":"페리 비용을 나눠 계산하면 2인 기준 하루 12만~18만원. 오징어는 현지 주식이라 저렴하지만 육지에서 들여온 것은 비쌉니다."},
+  "book":{"en":"Ferry ahead in summer and autumn. Accommodation is easy except around Korean holidays.","ko":"여름과 가을에는 페리를 미리 예약하세요. 숙소는 명절만 피하면 여유롭습니다."},
+  "itinerary":[
+    {"t":{"en":"Ferry over, settle in Dodong, then walk the Haengnam coastal trail — a walkway cut into the cliff face and bolted to the rock, ending at the lighthouse.","ko":"배로 건너와 도동에 짐을 풀고 행남 해안산책로를 걷습니다. 절벽을 깎아 바위에 고정한 길이 등대까지 이어집니다."}},
+    {"t":{"en":"Bus or scooter the coast road to Nari Basin, the island's only flat ground — a collapsed caldera with reconstructed roof-shingle houses. Try sanchae bibimbap made with the herbs that grow only here.","ko":"버스나 스쿠터로 해안도로를 따라 나리분지로. 섬의 유일한 평지인 함몰 칼데라에 너와집이 복원돼 있습니다. 이곳에서만 자라는 산나물로 만든 산채비빔밥을 드셔보세요."}},
+    {"t":{"en":"Boat to Dokdo if the sea allows (landing is weather-dependent and often refused), or circle the island by tour boat for the sea stacks.","ko":"바다가 허락하면 독도행 배를 탑니다(접안은 날씨에 좌우되며 무산되는 일이 잦습니다). 아니면 유람선으로 섬을 돌며 기암을 봅니다."}},
+    {"t":{"en":"Seonginbong, the island's summit, is a 4-hour return climb through primeval forest. Ferry back in the afternoon.","ko":"섬의 최고봉 성인봉은 원시림을 지나 왕복 4시간 코스입니다. 오후 배로 돌아갑니다."}}
+  ],
+  "nearby":["suncheon","koreanpark"]
+},
+
+"songkul": {
+  "days": {"min":2,"ideal":3},
+  "iata":"FRU",
+  "hub":{"en":"Bishkek (FRU) — 6h by shared car via Kochkor","ko":"비슈케크(FRU) — 코치코르 경유 승합차로 6시간"},
+  "getting":{"en":"Marshrutka from Bishkek's west bus station to Kochkor (4h), then arrange a 4x4 transfer up to the lake through CBT Kochkor, the community tourism office. The pass is only open roughly June to September.","ko":"비슈케크 서부 버스터미널에서 마슈룻카로 코치코르까지 4시간, 그 뒤 지역 관광 사무소 CBT 코치코르를 통해 4륜구동 차량으로 호수까지 올라갑니다. 고개는 대략 6~9월에만 열립니다."},
+  "stay":{"en":"Yurt camps run by herding families — a felt bed, a stove, and meals with the family. No electricity beyond a solar bulb, no signal.","ko":"유목 가족들이 운영하는 유르트 캠프에서 묵습니다. 펠트 침구와 난로, 가족과 함께하는 식사가 전부입니다. 태양광 전구 외에는 전기도, 신호도 없습니다."},
+  "cost":{"en":"$25–35pp/night including dinner and breakfast. The 4x4 transfer is the bigger cost — share it.","ko":"1인 1박 25~35달러, 석식과 조식 포함. 4륜구동 이동비가 더 큰 부담이니 나눠 타세요."},
+  "book":{"en":"Arrange through CBT a day or two ahead in Kochkor. Bring cash — there are no ATMs past Kochkor.","ko":"코치코르에서 하루 이틀 전 CBT를 통해 준비하세요. 코치코르를 지나면 ATM이 없으니 현금을 챙기세요."},
+  "itinerary":[
+    {"t":{"en":"Bishkek to Kochkor, arrange the transfer, then up over the pass — the road climbs to 3,400m and the lake appears all at once. Ride a horse out onto the plain before dinner.","ko":"비슈케크에서 코치코르로 이동해 차량을 구한 뒤 고개를 넘습니다. 도로가 3,400m까지 올라가고 호수가 한순간에 나타납니다. 저녁 전에 말을 타고 초원으로 나가보세요."}},
+    {"t":{"en":"A full day on horseback with a herder, or walk the shoreline. The point of the second day is that there is nothing scheduled — this is the emptiest place most people will ever sleep.","ko":"목동과 함께 하루 종일 말을 타거나 호숫가를 걷습니다. 둘째 날의 핵심은 아무 일정이 없다는 것입니다. 대부분의 사람이 자본 곳 중 가장 텅 빈 장소일 겁니다."}},
+    {"t":{"en":"Descend by the Kalmak-Ashuu switchbacks for the view back over the lake, then on to Naryn or back to Kochkor.","ko":"칼막아슈 고갯길의 지그재그 도로로 내려오며 호수를 되돌아봅니다. 이후 나린으로 가거나 코치코르로 돌아갑니다."}}
+  ],
+  "nearby":["charyn","nuratau","tusheti"]
+},
+
+"jebelshams": {
+  "days": {"min":3,"ideal":4},
+  "iata":"MCT",
+  "hub":{"en":"Muscat (MCT) — 2.5h by car","ko":"무스카트(MCT) — 차로 2시간 30분"},
+  "getting":{"en":"Rent a car in Muscat. A 4x4 is required for the last graded section up to the Jebel Shams rim and for Wadi Bani Awf; a saloon is fine for Nizwa and Wadi Shab. Fuel is cheap and stations are frequent on the main roads.","ko":"무스카트에서 차를 빌리세요. 제벨 샴스 능선까지의 마지막 비포장 구간과 와디 바니 아우프에는 4륜구동이 필요하고, 니즈와와 와디 샤브는 승용차로 충분합니다. 연료는 저렴하고 간선도로에는 주유소가 많습니다."},
+  "stay":{"en":"A night at the rim (camps and one hotel, cold after dark even in spring), a night in Nizwa for the fort and souq, and one on the coast near Tiwi.","ko":"능선에서 1박(캠프와 호텔 하나가 있으며 봄에도 해가 지면 춥습니다), 요새와 수크가 있는 니즈와에서 1박, 티위 인근 해안에서 1박을 추천합니다."},
+  "cost":{"en":"OMR 45–75/day for two. The 4x4 is the biggest line at OMR 25–35/day.","ko":"2인 기준 하루 45~75오만리알. 하루 25~35리알인 4륜구동 대여비가 가장 큰 비중입니다."},
+  "book":{"en":"The 4x4 ahead in winter. Rim accommodation is limited — reserve. Nothing else needs booking.","ko":"겨울에는 4륜구동을 미리 예약하세요. 능선 숙소는 수가 적으니 예약이 필요합니다. 그 외에는 예약할 것이 없습니다."},
+  "itinerary":[
+    {"t":{"en":"Muscat to Nizwa; the fort and, if it's Friday morning, the livestock souq. Continue up to the Jebel Shams rim for sunset over the canyon.","ko":"무스카트에서 니즈와로. 요새를 보고 금요일 오전이라면 가축 시장도 들릅니다. 이어 제벨 샴스 능선으로 올라가 협곡의 일몰을 봅니다."}},
+    {"t":{"en":"The Balcony Walk (W6) — 4h return along a ledge to the abandoned village of As Sab, 1,000m of air below you and no barrier anywhere. Not for vertigo.","ko":"발코니 워크(W6). 버려진 마을 아스 사브까지 선반길을 따라 왕복 4시간. 발밑은 1,000m 허공이고 난간은 어디에도 없습니다. 고소공포증이 있다면 피하세요."}},
+    {"t":{"en":"Descend via Wadi Bani Awf and Snake Canyon (4x4 only) to the coast. Misfat al Abriyeen's falaj-irrigated terraces on the way if you have time.","ko":"와디 바니 아우프와 스네이크 캐니언을 지나(4륜구동 전용) 해안으로 내려갑니다. 시간이 되면 미스파 알 아브리옌의 팔라즈 관개 계단밭에 들르세요."}},
+    {"t":{"en":"Wadi Shab: 45 minutes walking in, then a swim through three pools to a hidden cave waterfall you enter through a crack in the rock.","ko":"와디 샤브. 45분을 걸어 들어간 뒤 세 개의 웅덩이를 헤엄쳐 바위 틈으로 들어가는 숨은 동굴 폭포에 닿습니다."}}
+  ],
+  "nearby":["dana","tafraout"]
+},
+
+"tafraout": {
+  "days": {"min":3,"ideal":4},
+  "iata":"AGA",
+  "hub":{"en":"Agadir (AGA) — 3h by car or bus","ko":"아가디르(AGA) — 차나 버스로 3시간"},
+  "getting":{"en":"Buses run from Agadir and Inezgane daily; a rental car is better because the Ameln valley villages and the Aït Mansour gorge are the reason to come. The road climbs through the Tizi n'Tarakatine pass.","ko":"아가디르와 이네즈간에서 매일 버스가 있지만, 아멜른 계곡 마을들과 아이트 만수르 협곡이 방문 이유이니 렌터카가 낫습니다. 도로는 티지 은타라카틴 고개를 넘어 올라갑니다."},
+  "stay":{"en":"Tafraout town has simple hotels; the Ameln valley has a few restored kasbah guesthouses with better views and cooler nights.","ko":"타프라우트 시내에는 소박한 호텔이, 아멜른 계곡에는 전망이 좋고 밤이 시원한 복원 카스바 게스트하우스가 몇 곳 있습니다."},
+  "cost":{"en":"€40–70/day for two. Tagine dinners €5–8, guesthouses €25–45.","ko":"2인 기준 하루 40~70유로. 타진 저녁 5~8유로, 게스트하우스 25~45유로."},
+  "book":{"en":"Only during the February almond blossom festival, when the town fills. Otherwise walk up.","ko":"마을이 가득 차는 2월 아몬드 꽃 축제 때만 예약이 필요합니다. 그 외에는 그냥 가면 됩니다."},
+  "itinerary":[
+    {"t":{"en":"Arrive and walk out to the Painted Rocks at dusk — boulders a Belgian artist dyed blue in 1984, now faded to something stranger than the original.","ko":"도착 후 해질 무렵 '페인트 바위'까지 걸어갑니다. 1984년 벨기에 작가가 파랗게 칠한 바위들이 이제는 원래보다 더 기묘하게 바랬습니다."}},
+    {"t":{"en":"The Ameln valley loop: 26 villages strung along the base of Jebel El Kest, pink granite above and almond terraces below. Stop at Oumesnat's traditional house.","ko":"아멜른 계곡 순환 코스. 제벨 엘 케스트 기슭을 따라 26개 마을이 이어지고, 위로는 분홍 화강암, 아래로는 아몬드 계단밭이 펼쳐집니다. 우메스나트의 전통 가옥에 들러보세요."}},
+    {"t":{"en":"Drive south through the Aït Mansour gorge — a palm oasis in a red canyon — and on to the rock-cut granaries at Tasguent.","ko":"남쪽으로 아이트 만수르 협곡을 지납니다. 붉은 협곡 속 야자 오아시스를 거쳐 타스구엔트의 암굴 곡물창고까지 갑니다."}},
+    {"t":{"en":"Scramble up Napoleon's Hat (Adrar Mqorn) for the valley from above, or climb with a local guide — the granite here is world-class and almost unvisited.","ko":"'나폴레옹 모자'(아드라르 므코른)에 올라 계곡을 내려다보거나 현지 가이드와 함께 등반합니다. 이곳 화강암은 세계적 수준인데 찾는 이가 거의 없습니다."}}
+  ],
+  "nearby":["jebelshams","dana"]
+},
+
+"jardin": {
+  "days": {"min":2,"ideal":3},
+  "iata":"MDE",
+  "hub":{"en":"Medellín (MDE) — 4h by bus","ko":"메데인(MDE) — 버스로 4시간"},
+  "getting":{"en":"Buses from Medellín's Terminal Sur run several times daily, about 4 hours on a winding road. Sit on the left for the valley views. No need to book except on Colombian long weekends.","ko":"메데인 남부 터미널에서 하루 여러 편 운행하며 구불구불한 길로 약 4시간 걸립니다. 계곡 전망은 왼쪽 좌석이 좋습니다. 콜롬비아 연휴가 아니면 예약은 불필요합니다."},
+  "stay":{"en":"On or just off the plaza — the square is the town's living room and you want to be able to walk back to it.","ko":"광장이나 그 바로 옆에 묵으세요. 광장이 곧 마을의 거실이라 언제든 걸어 돌아올 수 있어야 합니다."},
+  "cost":{"en":"COP 150,000–250,000/day for two. A room on the plaza is COP 80,000–140,000; a set lunch is COP 15,000.","ko":"2인 기준 하루 15만~25만 페소. 광장 객실은 8만~14만 페소, 정식 점심은 1만 5천 페소."},
+  "book":{"en":"Nothing, unless it's a puente (long weekend), when Medellín empties into towns like this.","ko":"'푸엔테'(연휴)만 아니면 예약할 것이 없습니다. 그때는 메데인 인구가 이런 마을로 몰립니다."},
+  "itinerary":[
+    {"t":{"en":"Arrive and do nothing but sit on the plaza with a coffee as the light goes. Farmers ride in on horseback and tie up outside the bars — this is not staged.","ko":"도착해서는 광장에 앉아 커피를 마시며 해가 지는 것만 보세요. 농부들이 말을 타고 들어와 술집 앞에 매어둡니다. 연출이 아닙니다."}},
+    {"t":{"en":"Ride the garrucha cable car across the valley (about a dollar), walk down to the Cueva del Esplendor waterfall inside a cave, then the cock-of-the-rock viewing platform at dusk — free, and the birds are absurd.","ko":"1달러 남짓의 '가루차' 케이블카로 계곡을 건넌 뒤, 동굴 안 폭포 쿠에바 델 에스플렌도르까지 걸어 내려갑니다. 해질 무렵 안데스바위새 관찰대로 가세요. 무료이고 새들이 놀랍습니다."}},
+    {"t":{"en":"A coffee farm morning — the small fincas here still pulp and dry on site — then the trout ponds or the road up to Cristo Rey for the valley.","ko":"오전에는 커피 농장으로. 이곳 소규모 핑카들은 지금도 현장에서 과육을 벗기고 건조합니다. 이후 송어 양어장이나 계곡이 보이는 크리스토 레이 언덕길로 향합니다."}}
+  ],
+  "nearby":["quilotoa","huayhuash","chapada"]
+},
+
+"catlins": {
+  "days": {"min":2,"ideal":3},
+  "iata":"DUD",
+  "hub":{"en":"Dunedin (DUD) or Invercargill (IVC) — the route runs between them","ko":"더니든(DUD) 또는 인버카길(IVC) — 두 도시를 잇는 경로입니다"},
+  "getting":{"en":"Self-drive only; the Southern Scenic Route links Dunedin and Invercargill in about 3 hours of actual driving, but you want two or three days of stopping. No public transport worth the name.","ko":"자가 운전만 가능합니다. 서던 시닉 루트는 더니든과 인버카길을 실제 주행 3시간으로 잇지만, 곳곳에 들르려면 2~3일이 필요합니다. 대중교통은 사실상 없습니다."},
+  "stay":{"en":"Owaka or Curio Bay. Book Curio Bay if you can — the penguins come ashore a two-minute walk from the campground.","ko":"오와카나 큐리오 베이. 가능하면 큐리오 베이를 잡으세요. 캠프장에서 도보 2분 거리로 펭귄이 상륙합니다."},
+  "cost":{"en":"NZ$180–280/day for two including the car. Nearly every sight here is free.","ko":"렌터카 포함 2인 기준 하루 180~280뉴질랜드달러. 이곳의 볼거리는 거의 모두 무료입니다."},
+  "book":{"en":"Accommodation ahead in January — there is very little of it. Everything else is roadside.","ko":"1월에는 숙소를 미리 예약하세요. 숙소가 매우 적습니다. 나머지는 길가에서 해결됩니다."},
+  "itinerary":[
+    {"t":{"en":"Dunedin south to Nugget Point — go at dawn or dusk for the lighthouse on the ridge with sea stacks below. Roaring Bay below it has a yellow-eyed penguin hide.","ko":"더니든에서 남쪽 너겟 포인트로. 새벽이나 해질 무렵 능선 위 등대와 아래 기암을 보세요. 그 아래 로어링 베이에는 노란눈펭귄 관찰소가 있습니다."}},
+    {"t":{"en":"Purakaunui and McLean falls, then Cathedral Caves if the tide is out (check the timetable — access is only an hour either side of low tide). Evening at Curio Bay for the penguins coming in over the petrified forest.","ko":"푸라카우누이와 맥린 폭포를 본 뒤, 간조라면 커시드럴 동굴로(간조 전후 한 시간만 출입 가능하니 시간표를 확인하세요). 저녁에는 큐리오 베이에서 화석림 위로 올라오는 펭귄을 봅니다."}},
+    {"t":{"en":"Slope Point — the actual southernmost tip of the South Island, wind-bent trees and a signpost — then Waipapa Point and on to Invercargill.","ko":"남섬 최남단 슬로프 포인트로. 바람에 휜 나무와 표지판이 전부입니다. 이어 와이파파 포인트를 거쳐 인버카길로 향합니다."}}
+  ],
+  "nearby":["flinders","savaii","niue"]
+},
+
+"chapada": {
+  "days": {"min":4,"ideal":6},
+  "iata":"SSA",
+  "hub":{"en":"Salvador (SSA) — 6h by bus to Lençóis","ko":"사우바도르(SSA) — 렌소이스까지 버스로 6시간"},
+  "getting":{"en":"Overnight or daytime bus from Salvador to Lençóis, about 6 hours. There are occasional flights to Lençóis' small airstrip. Once there, guides and transfers are arranged in town — you do not need a car.","ko":"사우바도르에서 렌소이스까지 야간 또는 주간 버스로 약 6시간. 렌소이스 소형 활주로로 가는 부정기 항공편도 있습니다. 현지에서는 마을에서 가이드와 차량을 구하면 되니 렌터카는 필요 없습니다."},
+  "stay":{"en":"Lençóis as the base — a colonial mining town with good pousadas. On the Vale do Pati trek you sleep in local families' houses.","ko":"식민지 시대 광산 마을이자 좋은 포자다가 있는 렌소이스를 거점으로 삼으세요. 발리 두 파치 트레킹 중에는 현지 가정집에서 묵습니다."},
+  "cost":{"en":"R$200–350/day for two. A guide is R$250–400/day and is required for the Pati and worth it elsewhere.","ko":"2인 기준 하루 200~350헤알. 가이드는 하루 250~400헤알로, 파치 코스에서는 필수이고 다른 곳에서도 값을 합니다."},
+  "book":{"en":"A Pati guide a week or two ahead. Poço Encantado has timed entry — check the light-beam hours before committing to a date.","ko":"파치 가이드는 1~2주 전에 예약하세요. 포수 엔칸타두는 입장 시간이 정해져 있으니 날짜를 정하기 전에 빛줄기가 드는 시간을 확인하세요."},
+  "itinerary":[
+    {"t":{"en":"Arrive in Lençóis, walk the town and the river slabs at Serrano just behind it — natural waterslides in the rock.","ko":"렌소이스에 도착해 마을과 바로 뒤편 세하누의 강 암반을 걷습니다. 바위에 자연적으로 생긴 미끄럼틀이 있습니다."}},
+    {"t":{"en":"Day trip west: Poço Azul or Poço Encantado, where a beam of sunlight hits a submerged cavern and turns the water electric blue (Apr–Sep mornings only).","ko":"서쪽으로 당일치기. 포수 아줄이나 포수 엔칸타두에서 햇빛 줄기가 수몰 동굴에 닿아 물이 형광빛 파랑으로 변합니다(4~9월 오전에만)."}},
+    {"t":{"en":"Start the Vale do Pati trek — down into the valley, sleeping at a family's house. The classic is 3 days; a 5-day version adds the Cachoeirão amphitheatre.","ko":"발리 두 파치 트레킹 시작. 계곡으로 내려가 가정집에서 묵습니다. 대표 코스는 3일이고, 5일 코스에는 카쇼에이랑 원형 절벽이 포함됩니다."}},
+    {"t":{"en":"Cross the valley, climb the Serra do Cochó, and look back over the whole Pati — the view most people come for.","ko":"계곡을 건너 세하 두 코쇼에 올라 파치 전체를 되돌아봅니다. 대부분이 이 풍경을 보러 옵니다."}},
+    {"t":{"en":"Out of the valley to Guiné, then back to Lençóis. Rest afternoon.","ko":"계곡을 빠져나와 기네를 거쳐 렌소이스로 돌아옵니다. 오후는 휴식."}},
+    {"t":{"en":"Cachoeira da Fumaça — 380m, the water disperses into mist before it lands. Two hours up to the top of the falls.","ko":"카쇼에이라 다 푸마사. 380m 높이에서 물이 땅에 닿기 전 안개로 흩어집니다. 폭포 정상까지 두 시간."}}
+  ],
+  "nearby":["lencois","huasteca","jardin"]
+}
+}

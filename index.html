@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Hidden Atlas — places worth the detour</title>
-<meta name="description" content="A daily-updated field guide to lesser-known places worth travelling for, with practical entry rules, timing, money and food notes. English / 한국어.">
+<title>Hidden Atlas — plan a trip somewhere better</title>
+<meta name="description" content="Lesser-known destinations worth travelling for, each with a day-by-day plan: how long to go, how to get there, where to stay, what it costs. English / 한국어.">
 <meta property="og:title" content="Hidden Atlas">
-<meta property="og:description" content="A daily field guide to places worth the detour.">
+<meta property="og:description" content="Plan a trip somewhere better — day-by-day plans for places most people miss.">
 <meta property="og:type" content="website">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,559 +16,391 @@
 :root{
   --paper:#f7f2e7; --paper-2:#efe7d7; --card:#fffdf8;
   --ink:#16262e; --ink-2:#3d5560; --ink-3:#6f8791;
-  --teal:#2c6e6b; --teal-2:#3d8f8a;
-  --amber:#c8823a; --terra:#b0553c; --sage:#7c8b6a;
+  --teal:#2c6e6b; --amber:#c8823a; --terra:#b0553c; --sage:#7c8b6a;
   --line:#ddd2bc; --line-2:#c9bda3;
-  --shadow:0 1px 2px rgba(22,38,46,.05),0 8px 24px -12px rgba(22,38,46,.22);
-  --shadow-lg:0 2px 4px rgba(22,38,46,.06),0 24px 48px -20px rgba(22,38,46,.32);
+  --shadow:0 1px 2px rgba(22,38,46,.05),0 8px 24px -14px rgba(22,38,46,.22);
+  --shadow-lg:0 2px 4px rgba(22,38,46,.06),0 22px 44px -22px rgba(22,38,46,.3);
   --r:14px;
   --serif:'Fraunces',ui-serif,Georgia,serif;
   --sans:'Inter','Noto Sans KR',system-ui,-apple-system,sans-serif;
-  --max:1180px;
+  --max:1120px;
 }
 html[data-theme="night"]{
   --paper:#101a20; --paper-2:#152229; --card:#17262e;
   --ink:#e8e2d4; --ink-2:#b3c2c7; --ink-3:#7e9299;
-  --teal:#5cb0a8; --teal-2:#78c7bf;
-  --amber:#e0a463; --terra:#d3775c; --sage:#9fb08a;
+  --teal:#5cb0a8; --amber:#e0a463; --terra:#d3775c; --sage:#9fb08a;
   --line:#26383f; --line-2:#33474f;
-  --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px -12px rgba(0,0,0,.6);
-  --shadow-lg:0 2px 4px rgba(0,0,0,.35),0 24px 48px -20px rgba(0,0,0,.7);
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px -14px rgba(0,0,0,.6);
+  --shadow-lg:0 2px 4px rgba(0,0,0,.35),0 22px 44px -22px rgba(0,0,0,.7);
 }
-html[lang="ko"]{ --serif:'Fraunces','Noto Sans KR',ui-serif,Georgia,serif; }
-
 *{box-sizing:border-box}
-html{scroll-behavior:smooth}
 body{
   margin:0; background:var(--paper); color:var(--ink);
-  font-family:var(--sans); font-size:16px; line-height:1.65;
-  -webkit-font-smoothing:antialiased;
-  background-image:
-    radial-gradient(circle at 15% 8%, rgba(44,110,107,.055), transparent 42%),
-    radial-gradient(circle at 88% 22%, rgba(200,130,58,.05), transparent 40%);
-  background-attachment:fixed;
+  font-family:var(--sans); font-size:16px; line-height:1.62; -webkit-font-smoothing:antialiased;
 }
-/* topographic contour texture */
 body::before{
-  content:''; position:fixed; inset:0; z-index:0; pointer-events:none; opacity:.5;
-  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='560' height='560' viewBox='0 0 560 560'%3E%3Cg fill='none' stroke='%23b9a98a' stroke-width='1' opacity='.28'%3E%3Cpath d='M-40 180c90-70 180-40 280 10s180 60 300-30'/%3E%3Cpath d='M-40 220c95-72 185-42 285 8s185 62 305-28'/%3E%3Cpath d='M-40 262c100-74 190-44 290 6s190 64 310-26'/%3E%3Cpath d='M-40 306c105-76 195-46 295 4s195 66 315-24'/%3E%3Cpath d='M-40 356c110-78 200-48 300 2s200 68 320-22'/%3E%3Cpath d='M-40 414c115-80 205-50 305 0s205 70 325-20'/%3E%3Cpath d='M-40 482c120-82 210-52 310-2s210 72 330-18'/%3E%3C/g%3E%3C/svg%3E");
+  content:''; position:fixed; inset:0; z-index:0; pointer-events:none; opacity:.42;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='560' height='560'%3E%3Cg fill='none' stroke='%23b9a98a' stroke-width='1' opacity='.28'%3E%3Cpath d='M-40 180c90-70 180-40 280 10s180 60 300-30'/%3E%3Cpath d='M-40 240c95-72 185-42 285 8s185 62 305-28'/%3E%3Cpath d='M-40 306c105-76 195-46 295 4s195 66 315-24'/%3E%3Cpath d='M-40 380c110-78 200-48 300 2s200 68 320-22'/%3E%3Cpath d='M-40 462c120-82 210-52 310-2s210 72 330-18'/%3E%3C/g%3E%3C/svg%3E");
 }
-html[data-theme="night"] body::before{opacity:.16}
-.wrap{position:relative; z-index:1; max-width:var(--max); margin:0 auto; padding:0 22px}
-
+html[data-theme="night"] body::before{opacity:.14}
+.wrap{position:relative; z-index:1; max-width:var(--max); margin:0 auto; padding:0 20px}
 a{color:inherit}
-h1,h2,h3{font-family:var(--serif); font-weight:600; letter-spacing:-.012em; line-height:1.18; margin:0}
-.eyebrow{
-  font-size:11px; font-weight:700; letter-spacing:.17em; text-transform:uppercase;
-  color:var(--teal); display:flex; align-items:center; gap:10px;
-}
-.eyebrow::after{content:''; flex:1; height:1px; background:var(--line); }
+h1,h2,h3,h4{font-family:var(--serif); font-weight:600; letter-spacing:-.014em; line-height:1.2; margin:0}
+button{font:inherit}
+.hide{display:none !important}
 
-/* ------------------------------------------------------------- masthead */
-header.mast{ border-bottom:1px solid var(--line); background:linear-gradient(180deg,var(--paper-2),transparent); }
-.topbar{ display:flex; align-items:center; justify-content:space-between; gap:16px; padding:14px 0; flex-wrap:wrap }
-.brand{ display:flex; align-items:center; gap:12px; }
-.compass{ width:38px; height:38px; flex:none; color:var(--teal) }
-.brand b{ font-family:var(--serif); font-size:21px; font-weight:800; letter-spacing:-.02em; display:block; line-height:1.1 }
-.brand span{ font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--ink-3) }
-.controls{ display:flex; align-items:center; gap:8px; flex-wrap:wrap }
-.seg{ display:flex; border:1px solid var(--line-2); border-radius:999px; overflow:hidden; background:var(--card) }
-.seg button{
-  border:0; background:transparent; padding:7px 14px; font:inherit; font-size:13px; font-weight:600;
-  color:var(--ink-2); cursor:pointer;
+/* ------------------------------------------------------------- header */
+header.mast{
+  position:sticky; top:0; z-index:40; background:color-mix(in srgb, var(--paper) 88%, transparent);
+  backdrop-filter:blur(10px); border-bottom:1px solid var(--line);
 }
+.bar{ display:flex; align-items:center; gap:14px; padding:11px 0; }
+.brand{ display:flex; align-items:center; gap:10px; text-decoration:none; flex:none }
+.brand svg{ width:30px; height:30px; color:var(--teal) }
+.brand b{ font-family:var(--serif); font-size:18px; font-weight:800; letter-spacing:-.02em }
+nav.main{ display:flex; gap:2px; margin-left:6px; flex:1 }
+nav.main a{
+  text-decoration:none; font-size:14px; font-weight:600; color:var(--ink-2);
+  padding:7px 12px; border-radius:8px;
+}
+nav.main a:hover{ background:var(--paper-2) }
+nav.main a.on{ background:var(--ink); color:var(--paper) }
+.badge{
+  display:inline-block; min-width:18px; padding:0 5px; margin-left:5px; border-radius:9px;
+  background:var(--amber); color:#fff; font-size:11px; font-weight:700; text-align:center;
+}
+.seg{ display:flex; border:1px solid var(--line-2); border-radius:999px; overflow:hidden; background:var(--card); flex:none }
+.seg button{ border:0; background:transparent; padding:6px 11px; font-size:12.5px; font-weight:600; color:var(--ink-2); cursor:pointer }
 .seg button[aria-pressed="true"]{ background:var(--teal); color:#fff }
 .iconbtn{
-  border:1px solid var(--line-2); background:var(--card); color:var(--ink-2);
-  width:38px; height:38px; border-radius:999px; cursor:pointer; font-size:16px; line-height:1;
-  display:grid; place-items:center;
+  border:1px solid var(--line-2); background:var(--card); color:var(--ink-2); flex:none;
+  width:34px; height:34px; border-radius:999px; cursor:pointer; display:grid; place-items:center; font-size:14px;
 }
 .iconbtn:hover{ border-color:var(--teal); color:var(--teal) }
 
-.hero{ padding:40px 0 34px; display:grid; grid-template-columns:1.35fr .95fr; gap:40px; align-items:end }
-.hero h1{ font-size:clamp(38px,6.2vw,66px); font-weight:800; letter-spacing:-.03em }
+/* --------------------------------------------------------------- home */
+.hero{ padding:34px 0 24px }
+.hero h1{ font-size:clamp(32px,5vw,52px); font-weight:800; letter-spacing:-.03em; max-width:16ch }
 .hero h1 em{ font-style:italic; color:var(--teal); font-weight:600 }
-.lede{ color:var(--ink-2); font-size:17px; margin:16px 0 0; max-width:56ch }
-.metaline{ display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-top:22px }
-.pill{
-  display:inline-flex; align-items:center; gap:7px; font-size:12px; font-weight:600;
-  padding:6px 12px; border-radius:999px; border:1px solid var(--line-2);
-  background:var(--card); color:var(--ink-2);
-}
-.pill.live{ border-color:var(--teal); color:var(--teal) }
-.dot{ width:7px;height:7px;border-radius:50%;background:var(--teal); box-shadow:0 0 0 3px rgba(44,110,107,.16) }
-.stamp{
-  border:2px dashed var(--terra); color:var(--terra); border-radius:10px;
-  padding:14px 18px; transform:rotate(-2.2deg); text-align:center; background:rgba(176,85,60,.05);
-}
-.stamp .n{ font-family:var(--serif); font-size:34px; font-weight:800; line-height:1; display:block }
-.stamp .l{ font-size:10.5px; letter-spacing:.16em; text-transform:uppercase; font-weight:700 }
-.stampgrid{ display:grid; grid-template-columns:1fr 1fr; gap:12px }
+.hero p{ color:var(--ink-2); font-size:16.5px; margin:12px 0 0; max-width:56ch }
+.herometa{ display:flex; gap:8px; flex-wrap:wrap; margin-top:16px; font-size:12.5px; color:var(--ink-3) }
+.herometa b{ color:var(--ink); font-weight:700 }
 
-/* ------------------------------------------------------------- sections */
-section{ padding:52px 0; border-top:1px solid var(--line) }
-.sechead{ display:flex; justify-content:space-between; align-items:flex-end; gap:20px; margin-bottom:26px; flex-wrap:wrap }
-.sechead h2{ font-size:clamp(24px,3.4vw,34px); margin-top:8px }
-.sechead p{ margin:6px 0 0; color:var(--ink-3); font-size:14.5px; max-width:60ch }
+.strip{ margin:8px 0 30px }
+.striphead{ display:flex; align-items:baseline; justify-content:space-between; gap:12px; margin-bottom:12px }
+.eyebrow{ font-size:10.5px; font-weight:700; letter-spacing:.16em; text-transform:uppercase; color:var(--teal) }
 
-/* -------------------------------------------------------------- cards */
-.grid{ display:grid; gap:20px; grid-template-columns:repeat(auto-fill,minmax(310px,1fr)) }
-.grid.feature{ grid-template-columns:repeat(auto-fit,minmax(300px,1fr)) }
+.toolbar{
+  position:sticky; top:56px; z-index:30; background:var(--paper);
+  padding:12px 0 13px; border-bottom:1px solid var(--line); margin-bottom:22px;
+}
+.tools{ display:flex; gap:9px; align-items:center; flex-wrap:wrap }
+.search{
+  flex:1; min-width:190px; border:1px solid var(--line-2); background:var(--card);
+  border-radius:999px; padding:9px 16px; font-size:14.5px; color:var(--ink);
+}
+.search:focus{ outline:2px solid var(--teal); outline-offset:1px }
+select.sel{
+  border:1px solid var(--line-2); background:var(--card); color:var(--ink-2);
+  border-radius:999px; padding:9px 12px; font-size:13.5px; font-weight:600; cursor:pointer;
+}
+.chips{ display:flex; gap:6px; flex-wrap:wrap; margin-top:10px }
+.chip{
+  border:1px solid var(--line-2); background:var(--card); color:var(--ink-2);
+  border-radius:999px; padding:5px 13px; font-size:13px; font-weight:500; cursor:pointer;
+}
+.chip[aria-pressed="true"]{ background:var(--ink); color:var(--paper); border-color:var(--ink) }
+.resultline{ display:flex; justify-content:space-between; align-items:center; gap:12px; margin-bottom:14px; font-size:13.5px; color:var(--ink-3) }
+.linkbtn{ background:none; border:0; color:var(--teal); font-weight:600; font-size:13.5px; cursor:pointer; padding:0; text-decoration:underline }
+
+/* --------------------------------------------------------------- cards */
+.grid{ display:grid; gap:18px; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)) }
 .card{
-  background:var(--card); border:1px solid var(--line); border-radius:var(--r);
-  overflow:hidden; box-shadow:var(--shadow); display:flex; flex-direction:column;
-  transition:transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+  background:var(--card); border:1px solid var(--line); border-radius:var(--r); overflow:hidden;
+  box-shadow:var(--shadow); display:flex; flex-direction:column; text-decoration:none; position:relative;
+  transition:transform .16s ease, box-shadow .16s ease;
 }
-.card:hover{ transform:translateY(-3px); box-shadow:var(--shadow-lg); border-color:var(--line-2) }
+.card:hover{ transform:translateY(-3px); box-shadow:var(--shadow-lg) }
 .thumb{ position:relative; aspect-ratio:16/10; background:var(--paper-2); overflow:hidden }
-/* The placeholder sits underneath every thumb. The image paints on top of it,
-   so if the image 404s and removes itself, the placeholder is already there. */
 .thumb img{ width:100%; height:100%; object-fit:cover; display:block; position:relative; z-index:1 }
-.thumb .ph{
+.ph{
   position:absolute; inset:0; display:grid; place-items:center;
-  font-family:var(--serif); font-size:58px; font-weight:800; color:rgba(255,255,255,.82);
-  text-shadow:0 2px 14px rgba(0,0,0,.28);
-}
-.thumb .ph::after{
-  content:''; position:absolute; inset:0; opacity:.5;
-  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cg fill='none' stroke='%23fff' stroke-width='1.1' opacity='.4'%3E%3Cpath d='M-20 90c60-46 120-26 190 6s110 40 180-18'/%3E%3Cpath d='M-20 130c62-48 122-28 192 4s112 42 182-16'/%3E%3Cpath d='M-20 174c64-50 124-30 194 2s114 44 184-14'/%3E%3Cpath d='M-20 222c66-52 126-32 196 0s116 46 186-12'/%3E%3C/g%3E%3C/svg%3E");
-}
-.geo{
-  position:absolute; z-index:2; left:10px; bottom:10px; font-size:10.5px; font-weight:700; letter-spacing:.07em;
-  background:rgba(10,20,25,.66); color:#fff; padding:4px 9px; border-radius:6px; backdrop-filter:blur(4px);
-  font-variant-numeric:tabular-nums;
+  font-family:var(--serif); font-size:52px; font-weight:800; color:rgba(255,255,255,.8);
 }
 .save{
-  position:absolute; z-index:2; right:10px; top:10px; width:32px; height:32px; border-radius:50%;
+  position:absolute; z-index:3; right:9px; top:9px; width:32px; height:32px; border-radius:50%;
   border:0; background:rgba(10,20,25,.55); color:#fff; cursor:pointer; font-size:14px;
   display:grid; place-items:center; backdrop-filter:blur(4px);
 }
 .save[aria-pressed="true"]{ background:var(--amber) }
-.cbody{ padding:17px 18px 18px; display:flex; flex-direction:column; gap:11px; flex:1 }
-.ctitle{ font-family:var(--serif); font-size:20px; font-weight:700; letter-spacing:-.015em }
-.cwhere{ font-size:12px; font-weight:600; letter-spacing:.09em; text-transform:uppercase; color:var(--teal); margin-top:2px }
-.ctext{ font-size:14.5px; color:var(--ink-2); margin:0 }
-.know{
-  font-size:13.5px; color:var(--ink-2); background:var(--paper-2); border-left:3px solid var(--amber);
-  padding:11px 13px; border-radius:0 8px 8px 0; margin:0;
+.plan-flag{
+  position:absolute; z-index:2; left:9px; top:9px; background:var(--teal); color:#fff;
+  font-size:10px; font-weight:700; letter-spacing:.08em; text-transform:uppercase;
+  padding:4px 8px; border-radius:6px;
 }
-.know b{ display:block; font-size:10.5px; letter-spacing:.14em; text-transform:uppercase; color:var(--amber); margin-bottom:4px }
-.facts{ display:flex; flex-wrap:wrap; gap:6px; margin-top:auto; padding-top:4px }
-.fact{
-  font-size:11.5px; font-weight:600; padding:4px 9px; border-radius:999px;
-  border:1px solid var(--line); color:var(--ink-2); background:var(--paper);
-}
-.fact.hid{ border-color:var(--terra); color:var(--terra) }
-.fact.bud{ border-color:var(--sage); color:var(--sage) }
-.cfoot{ display:flex; gap:10px; align-items:center; border-top:1px solid var(--line); padding-top:12px; margin-top:2px }
-.cfoot a{ font-size:12.5px; font-weight:600; color:var(--teal); text-decoration:none }
-.cfoot a:hover{ text-decoration:underline }
+.cbody{ padding:14px 15px 15px; display:flex; flex-direction:column; gap:8px; flex:1 }
+.ctitle{ font-family:var(--serif); font-size:19px; font-weight:700 }
+.cwhere{ font-size:11.5px; font-weight:600; letter-spacing:.09em; text-transform:uppercase; color:var(--teal) }
+.cwhy{ margin:0; font-size:14px; color:var(--ink-2); display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden }
+.facts{ display:flex; flex-wrap:wrap; gap:5px; margin-top:auto; padding-top:6px }
+.fact{ font-size:11.5px; font-weight:600; padding:3px 9px; border-radius:999px; border:1px solid var(--line); color:var(--ink-2) }
+.fact.k{ border-color:var(--sage); color:var(--sage) }
+.fact.h{ border-color:var(--terra); color:var(--terra) }
 
-/* today's picks */
-.today .card{ border-color:var(--line-2) }
-.today .thumb{ aspect-ratio:16/9 }
-.ribbon{
-  position:absolute; z-index:2; left:0; top:14px; background:var(--terra); color:#fff;
-  font-size:10.5px; font-weight:700; letter-spacing:.13em; text-transform:uppercase;
-  padding:5px 12px 5px 10px; border-radius:0 6px 6px 0;
-}
+/* -------------------------------------------------------------- detail */
+.back{ display:inline-flex; align-items:center; gap:6px; margin:18px 0 14px; font-size:14px; font-weight:600; color:var(--teal); text-decoration:none }
+.dhero{ position:relative; border-radius:16px; overflow:hidden; aspect-ratio:21/9; min-height:220px; background:var(--paper-2); box-shadow:var(--shadow) }
+.dhero img{ width:100%; height:100%; object-fit:cover; display:block; position:relative; z-index:1 }
+.dtitle{ margin:20px 0 0 }
+.dtitle h1{ font-size:clamp(28px,4.6vw,44px); font-weight:800; letter-spacing:-.03em }
+.dsub{ font-size:13px; font-weight:600; letter-spacing:.1em; text-transform:uppercase; color:var(--teal); margin-top:6px }
+.dlede{ font-size:17.5px; color:var(--ink-2); margin:14px 0 0; max-width:66ch }
 
-/* ------------------------------------------------------------- filters */
-.filters{
-  background:var(--card); border:1px solid var(--line); border-radius:var(--r);
-  padding:16px 18px; margin-bottom:24px; box-shadow:var(--shadow);
-  display:flex; flex-direction:column; gap:13px;
+.actions{ display:flex; flex-wrap:wrap; gap:8px; margin:20px 0 6px }
+.act{
+  display:inline-flex; align-items:center; gap:7px; text-decoration:none; cursor:pointer;
+  border:1px solid var(--line-2); background:var(--card); color:var(--ink-2);
+  border-radius:10px; padding:9px 13px; font-size:13.5px; font-weight:600;
 }
-.frow{ display:flex; gap:8px; align-items:center; flex-wrap:wrap }
-.flabel{ font-size:10.5px; font-weight:700; letter-spacing:.14em; text-transform:uppercase; color:var(--ink-3); min-width:72px }
-.chip{
-  border:1px solid var(--line-2); background:var(--paper); color:var(--ink-2);
-  border-radius:999px; padding:5px 13px; font:inherit; font-size:13px; font-weight:500; cursor:pointer;
-}
-.chip[aria-pressed="true"]{ background:var(--ink); color:var(--paper); border-color:var(--ink) }
-.chip.t[aria-pressed="true"]{ background:var(--teal); border-color:var(--teal); color:#fff }
-.search{
-  flex:1; min-width:200px; border:1px solid var(--line-2); background:var(--paper);
-  border-radius:999px; padding:8px 15px; font:inherit; font-size:14px; color:var(--ink);
-}
-.search:focus{ outline:2px solid var(--teal); outline-offset:1px }
-.count{ font-size:13px; color:var(--ink-3); font-weight:500 }
+.act:hover{ border-color:var(--teal); color:var(--teal) }
+.act.primary{ background:var(--teal); border-color:var(--teal); color:#fff }
+.act.primary[aria-pressed="true"]{ background:var(--amber); border-color:var(--amber) }
+.act small{ font-weight:500; opacity:.7; font-size:11px }
 
-/* --------------------------------------------------------------- lists */
-.notes{ display:grid; gap:12px; grid-template-columns:repeat(auto-fill,minmax(340px,1fr)) }
-details.note{
-  background:var(--card); border:1px solid var(--line); border-radius:12px; box-shadow:var(--shadow);
-  overflow:hidden;
+.quick{
+  display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:1px;
+  background:var(--line); border:1px solid var(--line); border-radius:12px; overflow:hidden; margin:22px 0 0;
 }
-details.note summary{
-  cursor:pointer; list-style:none; padding:15px 17px; display:flex; gap:12px; align-items:flex-start;
-  font-weight:600; font-size:15.5px;
+.qi{ background:var(--card); padding:13px 15px }
+.qi b{ display:block; font-size:10px; font-weight:700; letter-spacing:.13em; text-transform:uppercase; color:var(--ink-3); margin-bottom:4px }
+.qi span{ font-size:15px; font-weight:600 }
+
+.sec{ margin:34px 0 0 }
+.sec h2{ font-size:21px; margin-bottom:10px }
+.sec p{ margin:0; color:var(--ink-2); font-size:15.5px; max-width:70ch }
+.days{ list-style:none; padding:0; margin:14px 0 0; counter-reset:d }
+.days li{
+  counter-increment:d; position:relative; padding:0 0 18px 46px; color:var(--ink-2); font-size:15.5px;
+  border-left:2px solid var(--line); margin-left:15px;
 }
+.days li:last-child{ border-left-color:transparent; padding-bottom:0 }
+.days li::before{
+  content:'D' counter(d); position:absolute; left:-17px; top:-2px; width:32px; height:32px;
+  border-radius:50%; background:var(--teal); color:#fff; font-size:11px; font-weight:700;
+  display:grid; place-items:center; font-family:var(--sans);
+}
+.callout{
+  border:1px solid var(--amber); background:rgba(200,130,58,.08); border-radius:12px;
+  padding:14px 16px; font-size:15px; color:var(--ink-2); margin-top:14px;
+}
+.callout b{ display:block; font-size:10.5px; letter-spacing:.13em; text-transform:uppercase; color:var(--amber); margin-bottom:5px }
+.noplan{ border-style:dashed; border-color:var(--line-2); background:var(--paper-2) }
+.noplan b{ color:var(--ink-3) }
+
+/* --------------------------------------------------------------- misc */
+.notes{ display:grid; gap:11px; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)) }
+details.note{ background:var(--card); border:1px solid var(--line); border-radius:12px; box-shadow:var(--shadow); overflow:hidden }
+details.note summary{ cursor:pointer; list-style:none; padding:14px 16px; display:flex; gap:11px; align-items:flex-start; font-weight:600; font-size:15px }
 details.note summary::-webkit-details-marker{ display:none }
-details.note[open] summary{ border-bottom:1px solid var(--line) }
-.notecat{
-  flex:none; font-size:9.5px; font-weight:800; letter-spacing:.1em; text-transform:uppercase;
-  padding:4px 8px; border-radius:5px; background:var(--paper-2); color:var(--teal); margin-top:2px;
-}
+.notecat{ flex:none; font-size:9.5px; font-weight:800; letter-spacing:.1em; text-transform:uppercase; padding:4px 8px; border-radius:5px; background:var(--paper-2); color:var(--teal); margin-top:2px }
 .notecat.hi{ background:rgba(176,85,60,.13); color:var(--terra) }
-.notebody{ padding:14px 17px 16px; font-size:14.5px; color:var(--ink-2) }
+.notebody{ padding:0 16px 15px; font-size:14.5px; color:var(--ink-2) }
 .notebody a{ color:var(--teal); font-size:12.5px; font-weight:600 }
-
-.eat{ background:var(--card); border:1px solid var(--line); border-radius:12px; padding:16px 17px; box-shadow:var(--shadow) }
-.eat h3{ font-size:18px; margin-bottom:2px }
-.eat .where{ font-size:12px; font-weight:600; letter-spacing:.08em; text-transform:uppercase; color:var(--amber); margin-bottom:9px }
-.eat p{ margin:0; font-size:14.5px; color:var(--ink-2) }
-
-/* calendar */
-.calwrap{ display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:16px }
-.calcard{ background:var(--card); border:1px solid var(--line); border-radius:12px; padding:16px 17px; box-shadow:var(--shadow) }
-.calcard h3{ font-size:17px }
-.calcard p{ margin:6px 0 0; font-size:14px; color:var(--ink-2) }
-.valuenote{
-  margin-top:18px; padding:16px 18px; border-radius:12px; border:1px solid var(--amber);
-  background:rgba(200,130,58,.08); font-size:14.5px; color:var(--ink-2);
-}
-.valuenote b{ display:block; font-size:10.5px; letter-spacing:.14em; text-transform:uppercase; color:var(--amber); margin-bottom:5px }
-
-/* feed */
-.feedgrid{ display:grid; gap:12px; grid-template-columns:repeat(auto-fill,minmax(290px,1fr)) }
-.fitem{
-  background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px 16px;
-  box-shadow:var(--shadow); display:flex; flex-direction:column; gap:7px; text-decoration:none;
-}
+.tile{ background:var(--card); border:1px solid var(--line); border-radius:12px; padding:15px 16px; box-shadow:var(--shadow) }
+.tile h3{ font-size:17px }
+.tile .where{ font-size:11.5px; font-weight:600; letter-spacing:.08em; text-transform:uppercase; color:var(--amber); margin:2px 0 8px }
+.tile p{ margin:0; font-size:14.5px; color:var(--ink-2) }
+.feedgrid{ display:grid; gap:11px; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)) }
+.fitem{ background:var(--card); border:1px solid var(--line); border-radius:12px; padding:13px 15px; box-shadow:var(--shadow); display:flex; flex-direction:column; gap:6px; text-decoration:none }
 .fitem:hover{ border-color:var(--teal) }
-.fsrc{ font-size:10.5px; font-weight:700; letter-spacing:.11em; text-transform:uppercase; color:var(--teal) }
-.fitem h3{ font-size:15.5px; font-family:var(--sans); font-weight:600; line-height:1.4 }
-.fitem p{ margin:0; font-size:13px; color:var(--ink-3) }
-
-/* map */
-#map{ height:520px; border-radius:var(--r); border:1px solid var(--line); box-shadow:var(--shadow); background:var(--paper-2) }
-.maphint{ font-size:13px; color:var(--ink-3); margin:10px 0 0 }
-
-/* footer */
-footer{ border-top:1px solid var(--line); padding:38px 0 54px; color:var(--ink-3); font-size:13.5px }
-footer h3{ font-size:15px; color:var(--ink); margin-bottom:8px }
-.fcols{ display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:26px; margin-bottom:26px }
-footer a{ color:var(--teal) }
+.fsrc{ font-size:10px; font-weight:700; letter-spacing:.11em; text-transform:uppercase; color:var(--teal) }
+.fitem h3{ font-size:15px; font-family:var(--sans); font-weight:600; line-height:1.4 }
+.fitem p{ margin:0; font-size:12.5px; color:var(--ink-3) }
+.empty{ text-align:center; padding:46px 20px; color:var(--ink-3); font-size:15px }
+.skel{ height:280px; border-radius:var(--r); background:linear-gradient(90deg,var(--paper-2),var(--card),var(--paper-2)); background-size:200% 100%; animation:sh 1.4s infinite }
+@keyframes sh{to{background-position:-200% 0}}
+.toast{
+  position:fixed; left:50%; bottom:26px; transform:translateX(-50%) translateY(12px);
+  background:var(--ink); color:var(--paper); padding:11px 20px; border-radius:999px;
+  font-size:14px; font-weight:600; box-shadow:var(--shadow-lg); opacity:0; pointer-events:none;
+  transition:opacity .2s, transform .2s; z-index:80;
+}
+.toast.on{ opacity:1; transform:translateX(-50%) translateY(0) }
 
 /* ------------------------------------------------------------ ad slots */
-/* Placeholders for now. Each reserves its final height so dropping real ad
-   code in later causes no layout shift (CLS). See ADS config in the script. */
-.ad{ display:flex; flex-direction:column; align-items:center; gap:7px; margin:0 auto }
-.ad-label{
-  font-size:9px; font-weight:700; letter-spacing:.2em; text-transform:uppercase;
-  color:var(--ink-3); opacity:.75;
-}
+.ad{ display:flex; flex-direction:column; align-items:center; gap:6px; margin:34px auto 0 }
+.ad-label{ font-size:9px; font-weight:700; letter-spacing:.2em; text-transform:uppercase; color:var(--ink-3); opacity:.7 }
 .ad-box{
   width:100%; display:grid; place-items:center; text-align:center;
   border:1px dashed var(--line-2); border-radius:10px;
-  background:
-    repeating-linear-gradient(135deg, transparent 0 9px, rgba(140,125,95,.055) 9px 18px),
-    var(--paper-2);
-  color:var(--ink-3); font-size:12px; font-weight:600; letter-spacing:.04em;
-  font-variant-numeric:tabular-nums;
+  background:repeating-linear-gradient(135deg,transparent 0 9px,rgba(140,125,95,.05) 9px 18px),var(--paper-2);
+  color:var(--ink-3); font-size:12px; font-weight:600;
 }
-.ad-box span{ display:block; font-size:10px; font-weight:500; opacity:.7; margin-top:3px; letter-spacing:.02em }
-/* Banner: full-width leaderboard between sections */
-.ad-banner{ padding:6px 0 }
+.ad-box span{ display:block; font-size:10px; font-weight:500; opacity:.7; margin-top:3px }
 .ad-banner .ad-box{ max-width:970px; min-height:90px }
-/* In-grid: occupies one card cell so the grid rhythm is preserved */
 .ad-card .ad-box{ min-height:250px }
-.ad-card{ align-self:start }
-@media (max-width:600px){ .ad-banner .ad-box{ min-height:100px } }
 
-.empty{ text-align:center; padding:44px 20px; color:var(--ink-3); font-size:15px }
-.skel{ height:300px; border-radius:var(--r); background:linear-gradient(90deg,var(--paper-2),var(--card),var(--paper-2)); background-size:200% 100%; animation:sh 1.4s infinite }
-@keyframes sh{to{background-position:-200% 0}}
+footer{ border-top:1px solid var(--line); margin-top:52px; padding:32px 0 46px; color:var(--ink-3); font-size:13.5px }
+footer h3{ font-size:14.5px; color:var(--ink); margin-bottom:7px }
+.fcols{ display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:24px; margin-bottom:22px }
+footer a{ color:var(--teal) }
 
-@media (max-width:820px){
-  .hero{ grid-template-columns:1fr; gap:26px }
-  .stampgrid{ max-width:340px }
-  section{ padding:40px 0 }
+@media (max-width:760px){
+  nav.main a{ padding:7px 9px; font-size:13px }
+  .toolbar{ top:52px }
+  .dhero{ aspect-ratio:3/2 }
 }
 @media print{
-  body::before,.controls,.filters,.save,#map,.mapbtn,.ad{ display:none }
-  .card,.eat,details.note{ break-inside:avoid; box-shadow:none }
+  body::before,header.mast,.toolbar,.actions,.save,.ad,nav.main{ display:none }
+  .card,.tile,details.note{ break-inside:avoid; box-shadow:none }
 }
 </style>
 </head>
 <body>
 
 <header class="mast">
-  <div class="wrap">
-    <div class="topbar">
-      <div class="brand">
-        <svg class="compass" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
-          <circle cx="24" cy="24" r="20"/><circle cx="24" cy="24" r="2.4" fill="currentColor" stroke="none"/>
-          <path d="M31.5 16.5 26 26l-9.5 5.5L22 22z" fill="currentColor" fill-opacity=".2"/>
-          <path d="M24 4v4M24 40v4M4 24h4M40 24h4"/>
-        </svg>
-        <div>
-          <b>Hidden Atlas</b>
-          <span data-i="tagline">Places worth the detour</span>
-        </div>
-      </div>
-      <div class="controls">
-        <div class="seg" role="group" aria-label="Language">
-          <button id="lang-en" aria-pressed="true">EN</button>
-          <button id="lang-ko" aria-pressed="false">한국어</button>
-        </div>
-        <button class="iconbtn" id="theme" title="Toggle theme" aria-label="Toggle theme">◐</button>
-        <button class="iconbtn" id="surprise" title="Surprise me" aria-label="Surprise me">⚄</button>
-      </div>
+  <div class="wrap bar">
+    <a class="brand" href="#/">
+      <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
+        <circle cx="24" cy="24" r="20"/><circle cx="24" cy="24" r="2.4" fill="currentColor" stroke="none"/>
+        <path d="M31.5 16.5 26 26l-9.5 5.5L22 22z" fill="currentColor" fill-opacity=".2"/>
+      </svg>
+      <b>Hidden Atlas</b>
+    </a>
+    <nav class="main">
+      <a href="#/" id="nav-home" data-i="navHome">Destinations</a>
+      <a href="#/guides" id="nav-guides" data-i="navGuides">Guides</a>
+      <a href="#/saved" id="nav-saved"><span data-i="navSaved">Saved</span><span class="badge hide" id="savedCount">0</span></a>
+    </nav>
+    <div class="seg" role="group" aria-label="Language">
+      <button id="lang-en" aria-pressed="true">EN</button>
+      <button id="lang-ko" aria-pressed="false">한국어</button>
     </div>
-
-    <div class="hero">
-      <div>
-        <p class="eyebrow"><span data-i="updated">Updated daily</span></p>
-        <h1 data-i="h1">Places worth <em>the detour</em></h1>
-        <p class="lede" data-i="lede">A field guide to somewhere else — lesser-known destinations that people who go rate highly, with the practical detail that decides whether a trip works: when to go, how to get there, what it costs, and what changed this year.</p>
-        <div class="metaline">
-          <span class="pill live"><span class="dot"></span><span id="stamp-date">—</span></span>
-          <span class="pill" id="stamp-src">—</span>
-        </div>
-      </div>
-      <div class="stampgrid">
-        <div class="stamp"><span class="n" id="n-places">—</span><span class="l" data-i="lplaces">Destinations</span></div>
-        <div class="stamp" style="transform:rotate(1.8deg)"><span class="n" id="n-tips">—</span><span class="l" data-i="ltips">Field notes</span></div>
-      </div>
-    </div>
+    <button class="iconbtn" id="theme" title="Theme" aria-label="Theme">◐</button>
   </div>
 </header>
 
-<main class="wrap">
-
-  <!-- TODAY -->
-  <section id="today">
-    <div class="sechead">
-      <div>
-        <p class="eyebrow"><span data-i="s1e">Today's compass</span></p>
-        <h2 data-i="s1h">Three places, chosen for today</h2>
-        <p data-i="s1p">The selection rotates every day. Come back tomorrow and these will be different.</p>
-      </div>
-    </div>
-    <div class="grid feature today" id="today-grid"><div class="skel"></div><div class="skel"></div><div class="skel"></div></div>
-  </section>
-
-  <!-- SEASON -->
-  <section id="season">
-    <div class="sechead">
-      <div>
-        <p class="eyebrow"><span data-i="s2e">Right now</span></p>
-        <h2><span data-i="s2h">Where the timing is good in</span> <span id="month-name">—</span></h2>
-        <p data-i="s2p">Season, not fashion. These are places where this particular month is the reason to go.</p>
-      </div>
-    </div>
-    <div class="calwrap" id="cal-grid"></div>
-    <div class="valuenote" id="cal-note"></div>
-    <div id="ad-top" style="margin-top:34px"></div>
-  </section>
-
-  <!-- EXPLORE -->
-  <section id="explore">
-    <div class="sechead">
-      <div>
-        <p class="eyebrow"><span data-i="s3e">The atlas</span></p>
-        <h2 data-i="s3h">Explore every destination</h2>
-        <p data-i="s3p">Filter by continent, the kind of trip you want, budget, and how far off the radar you're willing to go.</p>
-      </div>
-      <button class="chip mapbtn" id="mapbtn" aria-pressed="false" data-i="mapbtn">Show map</button>
-    </div>
-
-    <div class="filters">
-      <div class="frow">
-        <span class="flabel" data-i="fregion">Region</span>
-        <span id="f-region"></span>
-      </div>
-      <div class="frow">
-        <span class="flabel" data-i="ftype">Type</span>
-        <span id="f-tag"></span>
-      </div>
-      <div class="frow">
-        <span class="flabel" data-i="fhidden">Hidden</span>
-        <span id="f-crowd"></span>
-        <span class="flabel" style="margin-left:10px" data-i="fbudget">Budget</span>
-        <span id="f-budget"></span>
-      </div>
-      <div class="frow">
-        <input class="search" id="q" type="search" placeholder="Search a place, country or interest…" aria-label="Search">
-        <button class="chip" id="savedonly" aria-pressed="false" data-i="fsaved">★ Saved</button>
-        <button class="chip" id="reset" data-i="freset">Reset</button>
-        <span class="count" id="count"></span>
-      </div>
-    </div>
-
-    <div id="map" hidden></div>
-    <p class="maphint" id="maphint" hidden data-i="maphint">Map data © OpenStreetMap contributors · tiles © CARTO</p>
-    <div class="grid" id="grid" style="margin-top:20px"></div>
-  </section>
-
-  <!-- NOTES -->
-  <section id="notes">
-    <div class="sechead">
-      <div>
-        <p class="eyebrow"><span data-i="s4e">Field notes</span></p>
-        <h2 data-i="s4h">Things that actually change a trip</h2>
-        <p data-i="s4p">Entry rules, money, flights, health and etiquette — the practical layer, kept current. High-impact notes are marked.</p>
-      </div>
-    </div>
-    <div class="frow" style="margin-bottom:18px"><span id="f-cat"></span></div>
-    <div class="notes" id="notes-grid"></div>
-  </section>
-
-  <!-- EATS -->
-  <section id="eats">
-    <div class="sechead">
-      <div>
-        <p class="eyebrow"><span data-i="s5e">Worth the detour</span></p>
-        <h2 data-i="s5h">Eat this, here</h2>
-        <p data-i="s5p">Regional dishes that don't travel — the ones you can only really have where they're from.</p>
-      </div>
-    </div>
-    <div class="notes" id="eats-grid"></div>
-  </section>
-
-  <!-- LIVE -->
-  <section id="live">
-    <div class="sechead">
-      <div>
-        <p class="eyebrow"><span data-i="s6e">Live wire</span></p>
-        <h2 data-i="s6h">Fresh from the open web</h2>
-        <p data-i="s6p">Pulled automatically each morning from Wikivoyage's own featured picks, Atlas Obscura, and independent travel writers. Headlines stay in their original language.</p>
-      </div>
-    </div>
-    <div class="feedgrid" id="feed-grid"></div>
-    <div id="ad-foot" style="margin-top:38px"></div>
-  </section>
-</main>
+<main id="view" class="wrap"><div class="grid" style="margin-top:30px"><div class="skel"></div><div class="skel"></div><div class="skel"></div></div></main>
 
 <footer>
   <div class="wrap">
     <div class="fcols">
       <div>
-        <h3 data-i="f1h">How this page stays current</h3>
-        <p data-i="f1p">A GitHub Action runs every morning: it refreshes destination photos and summaries from Wikipedia, pulls public travel feeds, and rotates the daily selection. No API keys and no tracking. If a source is down, yesterday's data is kept rather than showing you nothing.</p>
+        <h3 data-i="f1h">How this stays current</h3>
+        <p data-i="f1p">A GitHub Action runs every morning: it refreshes destination photos from Wikipedia, pulls public travel feeds, and rotates the daily selection. No API keys and no tracking. If a source is down, yesterday's data is kept rather than showing you nothing.</p>
       </div>
       <div>
         <h3 data-i="f2h">Sources &amp; credits</h3>
-        <p data-i="f2p">Photos and summaries from Wikipedia / Wikimedia Commons under their respective licences. Featured picks from Wikivoyage (CC BY-SA). Map tiles © CARTO, data © OpenStreetMap contributors. Entry-rule notes cite official sources where they exist.</p>
+        <p data-i="f2p">Photos and summaries from Wikipedia / Wikimedia Commons under their respective licences. Featured picks from Wikivoyage (CC BY-SA). Outbound links to maps, flights and accommodation are plain searches — no affiliate tracking.</p>
       </div>
       <div>
         <h3 data-i="f3h">Use it properly</h3>
-        <p data-i="f3p">Visa, tax and border rules change without notice. Treat everything here as a starting point and confirm with the official government source for your nationality before you book. Nothing on this page is a booking or a guarantee. Destination picks are editorial and never paid for — any advertising is labelled as such and kept separate from the recommendations.</p>
+        <p data-i="f3p">Visa, tax and border rules change without notice, and prices are rough guides that move. Confirm with official sources for your nationality before booking. Destination picks are editorial and never paid for — advertising is labelled and kept separate.</p>
       </div>
     </div>
     <p id="build">—</p>
   </div>
 </footer>
+<div class="toast" id="toast"></div>
 
 <script>
-/* ========================================================== i18n & state */
+/* ============================================================== strings */
 const UI = {
-  en:{
-    tagline:"Places worth the detour", updated:"Updated daily",
-    h1:'Places worth <em>the detour</em>',
-    lede:"A field guide to somewhere else — lesser-known destinations that people who go rate highly, with the practical detail that decides whether a trip works: when to go, how to get there, what it costs, and what changed this year.",
-    lplaces:"Destinations", ltips:"Field notes",
-    s1e:"Today's compass", s1h:"Three places, chosen for today", s1p:"The selection rotates every day. Come back tomorrow and these will be different.",
-    s2e:"Right now", s2h:"Where the timing is good in", s2p:"Season, not fashion. These are places where this particular month is the reason to go.",
-    s3e:"The atlas", s3h:"Explore every destination", s3p:"Filter by continent, the kind of trip you want, budget, and how far off the radar you're willing to go.",
-    s4e:"Field notes", s4h:"Things that actually change a trip", s4p:"Entry rules, money, flights, health and etiquette — the practical layer, kept current. High-impact notes are marked.",
-    s5e:"Worth the detour", s5h:"Eat this, here", s5p:"Regional dishes that don't travel — the ones you can only really have where they're from.",
-    s6e:"Live wire", s6h:"Fresh from the open web", s6p:"Pulled automatically each morning from Wikivoyage's own featured picks, Atlas Obscura, and independent travel writers. Headlines stay in their original language.",
-    f1h:"How this page stays current",
-    f1p:"A GitHub Action runs every morning: it refreshes destination photos and summaries from Wikipedia, pulls public travel feeds, and rotates the daily selection. No API keys and no tracking. If a source is down, yesterday's data is kept rather than showing you nothing.",
-    f2h:"Sources & credits",
-    f2p:"Photos and summaries from Wikipedia / Wikimedia Commons under their respective licences. Featured picks from Wikivoyage (CC BY-SA). Map tiles © CARTO, data © OpenStreetMap contributors. Entry-rule notes cite official sources where they exist.",
-    f3h:"Use it properly",
-    f3p:"Visa, tax and border rules change without notice. Treat everything here as a starting point and confirm with the official government source for your nationality before you book. Nothing on this page is a booking or a guarantee. Destination picks are editorial and never paid for — any advertising is labelled as such and kept separate from the recommendations.",
-    fregion:"Region", ftype:"Type", fhidden:"Hidden", fbudget:"Budget", fsaved:"★ Saved", freset:"Reset",
-    mapbtn:"Show map", mapbtnOff:"Hide map", maphint:"Map data © OpenStreetMap contributors · tiles © CARTO",
-    search:"Search a place, country or interest…",
-    all:"All", know:"Before you go", best:"Best", pick:"Today's pick",
-    open:"Wikipedia", route:"Open in maps", results:"places", none:"Nothing matches those filters yet — try widening them.",
-    regions:{europe:"Europe",asia:"Asia",africa:"Africa & Middle East",americas:"Americas",oceania:"Oceania"},
-    crowd:{1:"Off the radar",2:"Quiet",3:"Known, not crowded"},
-    budget:{low:"Low cost",mid:"Mid",high:"Expensive"},
-    tags:{nature:"Nature",hiking:"Hiking",coast:"Coast",island:"Island",culture:"Culture",history:"History",food:"Food",wildlife:"Wildlife",mountains:"Mountains",village:"Villages",desert:"Desert",offbeat:"Offbeat",budget:"Cheap",roadtrip:"Road trip",diving:"Diving",stargazing:"Stargazing",wine:"Wine"},
-    cats:{entry:"Entry & visas",money:"Money",flights:"Flights",planning:"Planning",safety:"Safety",health:"Health",packing:"Packing",etiquette:"Etiquette",connectivity:"Connectivity",food:"Food"},
-    adLabel:"Advertisement",
-    high:"High impact", stale:"Showing yesterday's feed — a source was unreachable this morning.",
-    built:"Data last rebuilt", never:"awaiting first automated run",
-    months:["January","February","March","April","May","June","July","August","September","October","November","December"]
-  },
-  ko:{
-    tagline:"돌아갈 가치가 있는 곳", updated:"매일 자동 갱신",
-    h1:'돌아갈 가치가 있는 <em>곳들</em>',
-    lede:"덜 알려졌지만 다녀온 사람들의 평이 좋은 여행지를 모았습니다. 언제 가야 하는지, 어떻게 닿는지, 비용은 얼마인지, 올해 무엇이 바뀌었는지 — 여행의 성패를 가르는 실질적인 정보를 함께 담았습니다.",
-    lplaces:"여행지", ltips:"현장 노트",
-    s1e:"오늘의 나침반", s1h:"오늘 고른 세 곳", s1p:"매일 바뀝니다. 내일 다시 오면 다른 곳이 보입니다.",
-    s2e:"지금 이맘때", s2h:"지금 가기 좋은 곳 —", s2p:"유행이 아니라 계절입니다. 바로 이달이 방문의 이유가 되는 곳들입니다.",
-    s3e:"아틀라스", s3h:"모든 여행지 둘러보기", s3p:"대륙, 여행의 성격, 예산, 그리고 얼마나 알려지지 않은 곳까지 갈 수 있는지로 걸러 보세요.",
-    s4e:"현장 노트", s4h:"여행을 실제로 좌우하는 것들", s4p:"입국 규정, 돈, 항공, 건강, 예절 — 최신 상태로 유지되는 실용 정보입니다. 영향이 큰 항목은 따로 표시했습니다.",
-    s5e:"돌아갈 만한 맛", s5h:"거기서만 먹을 수 있는 것", s5p:"옮겨 오면 사라지는 지역 음식들. 그곳에서만 제대로 맛볼 수 있는 것들입니다.",
-    s6e:"라이브 와이어", s6h:"열린 웹에서 방금 들어온 소식", s6p:"매일 아침 위키보야지의 추천 여행지, 아틀라스 옵스큐라, 독립 여행 작가들의 글을 자동으로 가져옵니다. 제목은 원문 그대로 둡니다.",
-    f1h:"이 페이지가 최신을 유지하는 방법",
-    f1p:"매일 아침 GitHub Action이 실행됩니다. 위키백과에서 사진과 설명을 갱신하고, 공개 여행 피드를 가져오고, 오늘의 선정을 교체합니다. API 키도 추적도 없습니다. 출처가 응답하지 않으면 빈 화면 대신 전날 데이터를 유지합니다.",
-    f2h:"출처와 크레딧",
-    f2p:"사진과 설명은 위키백과/위키미디어 공용의 각 라이선스를 따릅니다. 추천 여행지는 위키보야지(CC BY-SA). 지도 타일 © CARTO, 데이터 © OpenStreetMap 기여자. 입국 규정은 공식 출처가 있는 경우 함께 표기했습니다.",
-    f3h:"올바르게 활용하기",
-    f3p:"비자, 세금, 국경 규정은 예고 없이 바뀝니다. 이곳의 모든 내용은 출발점으로만 삼고, 예약 전에 본인 국적 기준의 공식 정부 자료로 반드시 확인하세요. 이 페이지의 어떤 내용도 예약이나 보증이 아닙니다. 여행지 선정은 편집 기준에 따른 것이며 대가를 받지 않습니다. 광고는 '광고'로 명시하고 추천과 분리해 표시합니다.",
-    fregion:"지역", ftype:"유형", fhidden:"숨은 정도", fbudget:"예산", fsaved:"★ 저장함", freset:"초기화",
-    mapbtn:"지도 보기", mapbtnOff:"지도 숨기기", maphint:"지도 데이터 © OpenStreetMap 기여자 · 타일 © CARTO",
-    search:"지역, 국가, 관심사로 검색…",
-    all:"전체", know:"가기 전에", best:"적기", pick:"오늘의 선정",
-    open:"위키백과", route:"지도에서 열기", results:"곳", none:"조건에 맞는 곳이 없습니다. 필터를 넓혀 보세요.",
-    regions:{europe:"유럽",asia:"아시아",africa:"아프리카·중동",americas:"아메리카",oceania:"오세아니아"},
-    crowd:{1:"거의 알려지지 않음",2:"한적함",3:"알려졌지만 붐비지 않음"},
-    budget:{low:"저렴",mid:"보통",high:"비쌈"},
-    tags:{nature:"자연",hiking:"트레킹",coast:"해안",island:"섬",culture:"문화",history:"역사",food:"음식",wildlife:"야생동물",mountains:"산",village:"마을",desert:"사막",offbeat:"오지",budget:"가성비",roadtrip:"로드트립",diving:"다이빙",stargazing:"별보기",wine:"와인"},
-    cats:{entry:"입국·비자",money:"돈",flights:"항공",planning:"계획",safety:"안전",health:"건강",packing:"짐 싸기",etiquette:"예절",connectivity:"통신",food:"음식"},
-    adLabel:"광고",
-    high:"영향 큼", stale:"오늘 아침 일부 출처에 접속하지 못해 전날 피드를 표시합니다.",
-    built:"데이터 최종 갱신", never:"첫 자동 실행 대기 중",
-    months:["1월","2월","3월","4월","5월","6월","7월","8월","9월","10월","11월","12월"]
-  }
+ en:{
+  navHome:"Destinations", navGuides:"Guides", navSaved:"Saved",
+  h1:'Plan a trip <em>somewhere better</em>',
+  lede:"Lesser-known places that people who go rate highly — each with a day-by-day plan: how long to go for, how to get there, where to base yourself, and what it actually costs.",
+  statPlaces:"destinations", statPlans:"with full plans", statUpdated:"updated",
+  todayEyebrow:"Today's compass", todayTitle:"Three places, chosen for today",
+  browseEyebrow:"The atlas", browseTitle:"Find your next trip",
+  search:"Search a place, country or interest…",
+  sortRel:"Sort: default", sortHidden:"Sort: least known", sortShort:"Sort: shortest trip", sortCheap:"Sort: cheapest",
+  anyRegion:"All regions", anyType:"Any kind of trip", anyBudget:"Any budget", anyLength:"Any length",
+  results:"places", none:"Nothing matches those filters — try widening them.", clear:"Clear filters",
+  planned:"Full plan",
+  back:"All destinations",
+  save:"Save", saved:"Saved", share:"Share", copied:"Link copied",
+  openMaps:"Maps", guide:"Wikivoyage", flights:"Flights", weather:"Climate", hotels:"Stays", wiki:"Wikipedia",
+  qLength:"Trip length", qBest:"Best months", qBudget:"Daily budget", qHub:"Nearest hub", qHidden:"How hidden",
+  days:"days", nights:"nights",
+  secWhy:"Why go", secGetting:"Getting there", secDays:"Day by day", secStay:"Where to stay",
+  secCost:"What it costs", secBook:"Book ahead", secKnow:"Before you go", secNearby:"Pair it with",
+  noPlanTitle:"Full plan coming",
+  noPlan:"This destination doesn't have a day-by-day plan written yet — a new batch is added every day. Everything above is verified, and the links will get you to maps, flights and a local guide in the meantime.",
+  savedTitle:"Your saved trips", savedEmpty:"Nothing saved yet. Tap the star on any destination and it will appear here.",
+  copyList:"Copy list", printList:"Print", removeAll:"Remove all",
+  guidesTitle:"Guides", guidesLede:"The practical layer — entry rules, money, flights, health and etiquette, plus regional dishes and what's fresh on the open web.",
+  gNotes:"Field notes", gEats:"Eat this, here", gFeed:"Fresh from the open web",
+  all:"All", high:"High impact", source:"Source",
+  stale:"Showing yesterday's feed — a source was unreachable this morning.",
+  built:"Data last rebuilt", never:"awaiting first automated run", adLabel:"Advertisement",
+  regions:{europe:"Europe",asia:"Asia",africa:"Africa & Middle East",americas:"Americas",oceania:"Oceania"},
+  crowd:{1:"Off the radar",2:"Quiet",3:"Known, not crowded"},
+  budget:{low:"Low cost",mid:"Mid-range",high:"Expensive"},
+  tags:{nature:"Nature",hiking:"Hiking",coast:"Coast",island:"Island",culture:"Culture",history:"History",food:"Food",wildlife:"Wildlife",mountains:"Mountains",village:"Villages",desert:"Desert",offbeat:"Offbeat",budget:"Cheap",roadtrip:"Road trip",diving:"Diving",stargazing:"Stargazing",wine:"Wine"},
+  cats:{entry:"Entry & visas",money:"Money",flights:"Flights",planning:"Planning",safety:"Safety",health:"Health",packing:"Packing",etiquette:"Etiquette",connectivity:"Connectivity",food:"Food"},
+  months:["January","February","March","April","May","June","July","August","September","October","November","December"],
+  f1h:"How this stays current",
+  f1p:"A GitHub Action runs every morning: it refreshes destination photos from Wikipedia, pulls public travel feeds, and rotates the daily selection. No API keys and no tracking. If a source is down, yesterday's data is kept rather than showing you nothing.",
+  f2h:"Sources & credits",
+  f2p:"Photos and summaries from Wikipedia / Wikimedia Commons under their respective licences. Featured picks from Wikivoyage (CC BY-SA). Outbound links to maps, flights and accommodation are plain searches — no affiliate tracking.",
+  f3h:"Use it properly",
+  f3p:"Visa, tax and border rules change without notice, and prices are rough guides that move. Confirm with official sources for your nationality before booking. Destination picks are editorial and never paid for — advertising is labelled and kept separate."
+ },
+ ko:{
+  navHome:"여행지", navGuides:"가이드", navSaved:"저장함",
+  h1:'조금 더 <em>좋은 곳으로</em>',
+  lede:"다녀온 사람들의 평이 좋은, 덜 알려진 곳들. 각 여행지마다 며칠이 필요한지, 어떻게 가는지, 어디에 묵는지, 실제 비용은 얼마인지까지 일자별 계획으로 담았습니다.",
+  statPlaces:"곳", statPlans:"상세 일정 완료", statUpdated:"갱신",
+  todayEyebrow:"오늘의 나침반", todayTitle:"오늘 고른 세 곳",
+  browseEyebrow:"아틀라스", browseTitle:"다음 여행지 찾기",
+  search:"지역, 국가, 관심사로 검색…",
+  sortRel:"정렬: 기본", sortHidden:"정렬: 덜 알려진 순", sortShort:"정렬: 짧은 일정 순", sortCheap:"정렬: 저렴한 순",
+  anyRegion:"모든 지역", anyType:"모든 여행 유형", anyBudget:"모든 예산", anyLength:"모든 기간",
+  results:"곳", none:"조건에 맞는 곳이 없습니다. 필터를 넓혀 보세요.", clear:"필터 초기화",
+  planned:"상세 일정",
+  back:"전체 여행지",
+  save:"저장", saved:"저장됨", share:"공유", copied:"링크가 복사되었습니다",
+  openMaps:"지도", guide:"위키보야지", flights:"항공권", weather:"기후", hotels:"숙소", wiki:"위키백과",
+  qLength:"권장 기간", qBest:"적기", qBudget:"1일 예산", qHub:"가까운 거점", qHidden:"숨은 정도",
+  days:"일", nights:"박",
+  secWhy:"가는 이유", secGetting:"가는 방법", secDays:"일자별 일정", secStay:"숙소",
+  secCost:"비용", secBook:"미리 예약할 것", secKnow:"가기 전에", secNearby:"함께 묶기 좋은 곳",
+  noPlanTitle:"상세 일정 준비 중",
+  noPlan:"이 여행지는 아직 일자별 일정이 작성되지 않았습니다. 매일 새로운 일정이 추가됩니다. 위의 정보는 모두 확인된 내용이며, 그동안에는 아래 링크로 지도, 항공권, 현지 가이드를 확인하실 수 있습니다.",
+  savedTitle:"저장한 여행지", savedEmpty:"아직 저장한 곳이 없습니다. 여행지의 별표를 누르면 여기에 모입니다.",
+  copyList:"목록 복사", printList:"인쇄", removeAll:"전체 삭제",
+  guidesTitle:"가이드", guidesLede:"실용 정보 모음입니다. 입국 규정, 돈, 항공, 건강, 예절과 함께 지역 음식과 웹에서 막 들어온 소식을 담았습니다.",
+  gNotes:"현장 노트", gEats:"거기서만 먹을 수 있는 것", gFeed:"열린 웹에서 온 소식",
+  all:"전체", high:"영향 큼", source:"출처",
+  stale:"오늘 아침 일부 출처에 접속하지 못해 전날 피드를 표시합니다.",
+  built:"데이터 최종 갱신", never:"첫 자동 실행 대기 중", adLabel:"광고",
+  regions:{europe:"유럽",asia:"아시아",africa:"아프리카·중동",americas:"아메리카",oceania:"오세아니아"},
+  crowd:{1:"거의 알려지지 않음",2:"한적함",3:"알려졌지만 붐비지 않음"},
+  budget:{low:"저렴",mid:"중간",high:"비쌈"},
+  tags:{nature:"자연",hiking:"트레킹",coast:"해안",island:"섬",culture:"문화",history:"역사",food:"음식",wildlife:"야생동물",mountains:"산",village:"마을",desert:"사막",offbeat:"오지",budget:"가성비",roadtrip:"로드트립",diving:"다이빙",stargazing:"별보기",wine:"와인"},
+  cats:{entry:"입국·비자",money:"돈",flights:"항공",planning:"계획",safety:"안전",health:"건강",packing:"짐 싸기",etiquette:"예절",connectivity:"통신",food:"음식"},
+  months:["1월","2월","3월","4월","5월","6월","7월","8월","9월","10월","11월","12월"],
+  f1h:"최신 상태를 유지하는 방법",
+  f1p:"매일 아침 GitHub Action이 실행되어 위키백과에서 사진을 갱신하고, 공개 여행 피드를 가져오고, 오늘의 선정을 교체합니다. API 키도 추적도 없습니다. 출처가 응답하지 않으면 빈 화면 대신 전날 데이터를 유지합니다.",
+  f2h:"출처와 크레딧",
+  f2p:"사진과 설명은 위키백과/위키미디어 공용의 각 라이선스를 따릅니다. 추천 여행지는 위키보야지(CC BY-SA). 지도·항공·숙소로 나가는 링크는 단순 검색이며 제휴 추적이 없습니다.",
+  f3h:"올바르게 활용하기",
+  f3p:"비자, 세금, 국경 규정은 예고 없이 바뀌며 가격은 대략적인 기준일 뿐 변동됩니다. 예약 전에 본인 국적 기준의 공식 자료로 확인하세요. 여행지 선정은 편집 기준에 따른 것이며 대가를 받지 않습니다. 광고는 명시하고 분리해 표시합니다."
+ }
 };
 
-/* ============================================================ ad slots
- * Placeholders until a real network is wired up.
- *
- * To go live: set enabled:true, paste the network's <ins>/<script> markup into
- * the matching `html` field, and keep the `w`/`h` values matching the creative
- * size so the reserved space still prevents layout shift.
- *
- *   grid.after — how many destination cards to show before the in-grid slot.
- *
- * Slots render only where their container exists, so removing a container in
- * the HTML is enough to drop that placement.
- */
 const ADS = {
-  enabled: true,          // false hides every slot entirely
-  slots: {
-    top:  { w:970, h:90,  html:null },  // leaderboard, above the atlas
-    grid: { w:300, h:250, html:null },  // in-grid, inside the destination list
-    foot: { w:970, h:90,  html:null },  // leaderboard, above the footer
-  },
-  grid: { after: 9 },
+  enabled: true,
+  slots: { top:{w:970,h:90,html:null}, grid:{w:300,h:250,html:null}, foot:{w:970,h:90,html:null} },
+  grid: { after: 8 },
 };
 
-function adSlot(key, kind){
-  if(!ADS.enabled) return '';
-  const s = ADS.slots[key];
-  if(!s) return '';
-  const inner = s.html || `${s.w} × ${s.h}<span>${key} slot</span>`;
-  return `<div class="ad ${kind==='card'?'ad-card':'ad-banner'}" data-ad-slot="${esc(key)}">
-    <div class="ad-label">${esc(T().adLabel)}</div>
-    <div class="ad-box" style="max-width:${s.w}px">${inner}</div>
-  </div>`;
-}
-
+/* ================================================================ state */
 const store = {
   get(k,d){ try{ return JSON.parse(localStorage.getItem('ha:'+k)) ?? d }catch{ return d } },
   set(k,v){ try{ localStorage.setItem('ha:'+k, JSON.stringify(v)) }catch{} }
 };
-
 let LANG = store.get('lang', (navigator.language||'en').toLowerCase().startsWith('ko') ? 'ko' : 'en');
 let THEME = store.get('theme','paper');
 let SAVED = new Set(store.get('saved',[]));
@@ -576,328 +408,390 @@ let SAVED = new Set(store.get('saved',[]));
 const T = () => UI[LANG];
 const t = (o) => !o ? '' : (o[LANG] || o.en || '');
 const esc = (s='') => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const DB = { places:[], plans:{}, tips:[], eats:[], calendar:[], live:null, enriched:{} };
+const byId = (id) => DB.places.find(p=>p.id===id);
 
-/* =============================================================== data */
-const DB = { places:[], tips:[], eats:[], calendar:[], live:null, enriched:{} };
-
-const load = (f) => fetch('data/'+f, {cache:'no-cache'}).then(r => r.ok ? r.json() : null).catch(() => null);
-
-/* deterministic rotation — mirrors scripts/update.mjs exactly */
-function hash(str){ let h=2166136261; for(let i=0;i<str.length;i++){ h^=str.charCodeAt(i); h=Math.imul(h,16777619);} return h>>>0 }
-function rotate(list,n,seed){
-  if(!list.length) return [];
-  const off = hash(seed) % list.length, out=[];
-  for(let i=0;i<Math.min(n,list.length);i++) out.push(list[(off+i*7)%list.length]);
-  return [...new Set(out)];
-}
+/* deterministic daily rotation — mirrors scripts/update.mjs */
+function hash(s){ let h=2166136261; for(let i=0;i<s.length;i++){ h^=s.charCodeAt(i); h=Math.imul(h,16777619);} return h>>>0 }
+function rotate(l,n,seed){ if(!l.length) return []; const o=hash(seed)%l.length, r=[];
+  for(let i=0;i<Math.min(n,l.length);i++) r.push(l[(o+i*7)%l.length]); return [...new Set(r)] }
 const todayKey = () => new Date().toISOString().slice(0,10);
 
-/* ============================================================ helpers */
-function imageFor(p){
-  const e = DB.enriched[p.id];
-  if(!e) return null;
-  // Use the URL exactly as the API gave it. Never rewrite the width by hand —
-  // the size prefix is not the only "NNNpx-" that can appear in a Commons path,
-  // and a wrong guess makes the thumbnailer return HTTP 400.
-  return e.thumb || e.image || null;
+/* ================================================== derived trip links
+ * Plain search URLs built from data we already hold, so every destination
+ * has working links even before its plan is written. No affiliate codes.  */
+function links(p){
+  const plan = DB.plans[p.id] || {};
+  const e = DB.enriched[p.id] || {};
+  const q = encodeURIComponent(`${p.name.en}, ${p.country.en}`);
+  const [la,lo] = p.coords || [];
+  const out = [];
+  if(la!=null) out.push({k:'openMaps', href:`https://www.google.com/maps/search/?api=1&query=${la},${lo}`});
+  out.push({k:'guide', href:`https://en.wikivoyage.org/wiki/${encodeURIComponent(p.name.en.replace(/ /g,'_'))}`});
+  out.push({k:'flights', href: plan.iata
+    ? `https://www.google.com/travel/flights?q=${encodeURIComponent('flights to '+plan.iata)}`
+    : `https://www.google.com/travel/flights?q=${encodeURIComponent('flights to '+p.name.en)}`});
+  out.push({k:'hotels', href:`https://www.booking.com/searchresults.html?ss=${q}`});
+  if(la!=null) out.push({k:'weather', href:`https://www.timeanddate.com/weather/@${la},${lo}/climate`});
+  if(e.page) out.push({k:'wiki', href:e.page});
+  return out;
 }
-function hueFor(id){ return hash(id) % 360 }
+
+function imageFor(p){ const e = DB.enriched[p.id]; return e ? (e.thumb || e.image || null) : null }
 function placeholder(p){
-  const h = hueFor(p.id);
+  const h = hash(p.id) % 360;
   return `<div class="ph" style="background:linear-gradient(135deg,hsl(${h} 32% 42%),hsl(${(h+42)%360} 38% 30%))">${esc(t(p.name).charAt(0))}</div>`;
 }
-function coordLabel(c){
-  if(!c) return '';
-  const [la,lo]=c;
-  return `${Math.abs(la).toFixed(2)}°${la>=0?'N':'S'} ${Math.abs(lo).toFixed(2)}°${lo>=0?'E':'W'}`;
+function tripLength(p){
+  const d = DB.plans[p.id]?.days;
+  if(!d) return null;
+  return d.ideal ? `${d.ideal} ${T().days}` : `${d.min}+ ${T().days}`;
 }
 
-function placeCard(p, {featured=false}={}){
-  const img = imageFor(p);
-  const e = DB.enriched[p.id] || {};
-  const saved = SAVED.has(p.id);
-  const maps = p.coords ? `https://www.openstreetmap.org/?mlat=${p.coords[0]}&mlon=${p.coords[1]}#map=10/${p.coords[0]}/${p.coords[1]}` : null;
-  return `
-  <article class="card" data-id="${esc(p.id)}">
+/* ================================================================= ads */
+function adSlot(key, kind){
+  if(!ADS.enabled) return '';
+  const s = ADS.slots[key]; if(!s) return '';
+  return `<div class="ad ${kind==='card'?'ad-card':'ad-banner'}" data-ad-slot="${esc(key)}">
+    <div class="ad-label">${esc(T().adLabel)}</div>
+    <div class="ad-box" style="max-width:${s.w}px">${s.html || `${s.w} × ${s.h}<span>${key}</span>`}</div></div>`;
+}
+
+/* =============================================================== filters */
+const F = { region:'all', tag:'all', budget:'all', len:'all', q:'', sort:'default' };
+
+function matches(p){
+  const q = F.q.trim().toLowerCase();
+  if(F.region!=='all' && p.region!==F.region) return false;
+  if(F.tag!=='all' && !(p.tags||[]).includes(F.tag)) return false;
+  if(F.budget!=='all' && p.budget!==F.budget) return false;
+  if(F.len!=='all'){
+    const d = DB.plans[p.id]?.days?.ideal;
+    if(F.len==='short' && !(d && d<=3)) return false;
+    if(F.len==='week' && !(d && d>=4 && d<=6)) return false;
+    if(F.len==='long' && !(d && d>=7)) return false;
+  }
+  if(q){
+    const hay = [t(p.name),t(p.country),t(p.why),t(p.know),p.name.en,p.country.en,
+      (p.tags||[]).map(x=>T().tags[x]||x).join(' ')].join(' ').toLowerCase();
+    if(!hay.includes(q)) return false;
+  }
+  return true;
+}
+function filtered(){
+  const list = DB.places.filter(matches);
+  const d = (p)=>DB.plans[p.id]?.days?.ideal ?? 99;
+  const b = {low:0,mid:1,high:2};
+  if(F.sort==='hidden') list.sort((x,y)=>x.crowd-y.crowd);
+  if(F.sort==='short')  list.sort((x,y)=>d(x)-d(y));
+  if(F.sort==='cheap')  list.sort((x,y)=>b[x.budget]-b[y.budget]);
+  return list;
+}
+
+/* ================================================================ cards */
+function card(p){
+  const img = imageFor(p), sv = SAVED.has(p.id), len = tripLength(p);
+  return `<a class="card" href="#/p/${esc(p.id)}">
     <div class="thumb">
       ${placeholder(p)}
-      ${img ? `<img loading="lazy" decoding="async" src="${esc(img)}" alt="${esc(t(p.name))}" onerror="this.remove()">` : ''}
-      ${featured ? `<span class="ribbon">${esc(T().pick)}</span>` : ''}
-      <button class="save" data-save="${esc(p.id)}" aria-pressed="${saved}" title="Save">${saved?'★':'☆'}</button>
-      ${p.coords ? `<span class="geo">${coordLabel(p.coords)}</span>` : ''}
+      ${img?`<img loading="lazy" decoding="async" src="${esc(img)}" alt="" onerror="this.remove()">`:''}
+      ${DB.plans[p.id]?`<span class="plan-flag">${esc(T().planned)}</span>`:''}
+      <button class="save" data-save="${esc(p.id)}" aria-pressed="${sv}" title="${esc(T().save)}">${sv?'★':'☆'}</button>
     </div>
     <div class="cbody">
-      <div>
-        <h3 class="ctitle">${esc(t(p.name))}</h3>
-        <div class="cwhere">${esc(t(p.country))}</div>
-      </div>
-      <p class="ctext">${esc(t(p.why))}</p>
-      <p class="know"><b>${esc(T().know)}</b>${esc(t(p.know))}</p>
+      <div><div class="ctitle">${esc(t(p.name))}</div><div class="cwhere">${esc(t(p.country))}</div></div>
+      <p class="cwhy">${esc(t(p.why))}</p>
       <div class="facts">
-        <span class="fact">${esc(T().best)} · ${esc(t(p.season))}</span>
-        <span class="fact bud">${esc(T().budget[p.budget]||'')}</span>
-        <span class="fact hid">${esc(T().crowd[p.crowd]||'')}</span>
-        ${(p.tags||[]).slice(0,3).map(x=>`<span class="fact">${esc(T().tags[x]||x)}</span>`).join('')}
+        ${len?`<span class="fact k">${esc(len)}</span>`:''}
+        <span class="fact">${esc(t(p.season))}</span>
+        <span class="fact">${esc(T().budget[p.budget]||'')}</span>
+        <span class="fact h">${esc(T().crowd[p.crowd]||'')}</span>
       </div>
-      <div class="cfoot">
-        ${e.page ? `<a href="${esc(e.page)}" target="_blank" rel="noopener">${esc(T().open)} ↗</a>` : ''}
-        ${maps ? `<a href="${esc(maps)}" target="_blank" rel="noopener">${esc(T().route)} ↗</a>` : ''}
-      </div>
+    </div></a>`;
+}
+
+/* ================================================================ views */
+function viewHome(){
+  const ids = DB.live?.rotation?.places?.length ? DB.live.rotation.places
+            : rotate(DB.places.map(p=>p.id),3,'place:'+todayKey());
+  const picks = ids.map(byId).filter(Boolean);
+  const planned = Object.keys(DB.plans).length;
+  const tagOpts = [...new Set(DB.places.flatMap(p=>p.tags||[]))].sort()
+    .map(x=>`<option value="${esc(x)}"${F.tag===x?' selected':''}>${esc(T().tags[x]||x)}</option>`).join('');
+
+  return `
+  <section class="hero">
+    <h1>${T().h1}</h1>
+    <p>${esc(T().lede)}</p>
+    <div class="herometa">
+      <span><b>${DB.places.length}</b> ${esc(T().statPlaces)}</span> ·
+      <span><b>${planned}</b> ${esc(T().statPlans)}</span> ·
+      <span>${esc(T().statUpdated)} ${esc(new Date().toLocaleDateString(LANG==='ko'?'ko-KR':'en-GB',{day:'numeric',month:'short'}))}</span>
     </div>
-  </article>`;
+  </section>
+
+  <section class="strip">
+    <div class="striphead"><div class="eyebrow">${esc(T().todayEyebrow)}</div></div>
+    <div class="grid">${picks.map(card).join('')}</div>
+  </section>
+
+  <div class="toolbar">
+    <div class="tools">
+      <input class="search" id="q" type="search" value="${esc(F.q)}" placeholder="${esc(T().search)}" aria-label="${esc(T().search)}">
+      <select class="sel" id="fTag" aria-label="${esc(T().anyType)}">
+        <option value="all">${esc(T().anyType)}</option>${tagOpts}
+      </select>
+      <select class="sel" id="fLen" aria-label="${esc(T().anyLength)}">
+        <option value="all">${esc(T().anyLength)}</option>
+        <option value="short"${F.len==='short'?' selected':''}>1–3 ${esc(T().days)}</option>
+        <option value="week"${F.len==='week'?' selected':''}>4–6 ${esc(T().days)}</option>
+        <option value="long"${F.len==='long'?' selected':''}>7+ ${esc(T().days)}</option>
+      </select>
+      <select class="sel" id="fBudget" aria-label="${esc(T().anyBudget)}">
+        <option value="all">${esc(T().anyBudget)}</option>
+        ${Object.entries(T().budget).map(([k,v])=>`<option value="${k}"${F.budget===k?' selected':''}>${esc(v)}</option>`).join('')}
+      </select>
+      <select class="sel" id="fSort" aria-label="sort">
+        <option value="default">${esc(T().sortRel)}</option>
+        <option value="hidden"${F.sort==='hidden'?' selected':''}>${esc(T().sortHidden)}</option>
+        <option value="short"${F.sort==='short'?' selected':''}>${esc(T().sortShort)}</option>
+        <option value="cheap"${F.sort==='cheap'?' selected':''}>${esc(T().sortCheap)}</option>
+      </select>
+    </div>
+    <div class="chips" id="regionChips">
+      <button class="chip" data-region="all" aria-pressed="${F.region==='all'}">${esc(T().anyRegion)}</button>
+      ${Object.entries(T().regions).map(([k,v])=>
+        `<button class="chip" data-region="${k}" aria-pressed="${F.region===k}">${esc(v)}</button>`).join('')}
+    </div>
+  </div>
+
+  <div class="resultline">
+    <span id="count"></span>
+    <button class="linkbtn" id="clear">${esc(T().clear)}</button>
+  </div>
+  <div class="grid" id="grid"></div>
+  ${adSlot('top','banner')}`;
 }
 
-/* ============================================================ filters */
-const F = { region:'all', tag:'all', crowd:'all', budget:'all', q:'', saved:false, cat:'all' };
+function viewPlace(id){
+  const p = byId(id);
+  if(!p) return `<div class="empty">Not found. <a href="#/">${esc(T().back)}</a></div>`;
+  const plan = DB.plans[id] || null;
+  const img = imageFor(p);
+  const sv = SAVED.has(id);
+  const near = (plan?.nearby||[]).map(byId).filter(Boolean);
 
-function chipRow(el, items, key, onPick){
-  el.innerHTML = [['all',T().all], ...items].map(([v,l]) =>
-    `<button class="chip${key==='tag'||key==='cat'?' t':''}" data-v="${esc(v)}" aria-pressed="${F[key]===v}">${esc(l)}</button>`
-  ).join(' ');
-  el.querySelectorAll('button').forEach(b => b.onclick = () => { F[key]=b.dataset.v; onPick(); });
+  const quick = [
+    plan?.days ? [T().qLength, plan.days.ideal ? `${plan.days.ideal} ${T().days}` : `${plan.days.min}+ ${T().days}`] : null,
+    [T().qBest, t(p.season)],
+    plan?.cost ? [T().qBudget, t(plan.cost).split('.')[0]] : null,
+    plan?.hub ? [T().qHub, t(plan.hub)] : null,
+    [T().qHidden, T().crowd[p.crowd]],
+  ].filter(Boolean);
+
+  const sec = (title, body) => body ? `<section class="sec"><h2>${esc(title)}</h2><p>${esc(body)}</p></section>` : '';
+
+  return `
+  <a class="back" href="#/">← ${esc(T().back)}</a>
+  <div class="dhero">${placeholder(p)}${img?`<img src="${esc(img)}" alt="${esc(t(p.name))}" onerror="this.remove()">`:''}</div>
+  <div class="dtitle">
+    <h1>${esc(t(p.name))}</h1>
+    <div class="dsub">${esc(t(p.country))} · ${esc(T().regions[p.region]||'')}</div>
+    <p class="dlede">${esc(t(p.why))}</p>
+  </div>
+
+  <div class="actions">
+    <button class="act primary" data-save="${esc(id)}" aria-pressed="${sv}">${sv?'★':'☆'} ${esc(sv?T().saved:T().save)}</button>
+    <button class="act" id="share">⤴ ${esc(T().share)}</button>
+    ${links(p).map(l=>`<a class="act" href="${esc(l.href)}" target="_blank" rel="noopener">${esc(T()[l.k])} ↗</a>`).join('')}
+  </div>
+
+  <div class="quick">
+    ${quick.map(([k,v])=>`<div class="qi"><b>${esc(k)}</b><span>${esc(v)}</span></div>`).join('')}
+  </div>
+
+  ${plan ? `
+    ${sec(T().secGetting, t(plan.getting))}
+    ${plan.itinerary?.length ? `<section class="sec"><h2>${esc(T().secDays)}</h2>
+      <ol class="days">${plan.itinerary.map(d=>`<li>${esc(t(d.t))}</li>`).join('')}</ol></section>` : ''}
+    ${sec(T().secStay, t(plan.stay))}
+    ${sec(T().secCost, t(plan.cost))}
+    ${plan.book ? `<div class="callout"><b>${esc(T().secBook)}</b>${esc(t(plan.book))}</div>` : ''}
+  ` : `
+    <div class="callout noplan" style="margin-top:26px">
+      <b>${esc(T().noPlanTitle)}</b>${esc(T().noPlan)}
+    </div>`}
+
+  <div class="callout" style="margin-top:${plan?'22px':'14px'}">
+    <b>${esc(T().secKnow)}</b>${esc(t(p.know))}
+  </div>
+
+  ${near.length ? `<section class="sec"><h2>${esc(T().secNearby)}</h2>
+    <div class="grid" style="margin-top:12px">${near.map(card).join('')}</div></section>` : ''}
+  ${adSlot('foot','banner')}`;
 }
 
-function buildFilters(){
-  chipRow(document.getElementById('f-region'),
-    Object.entries(T().regions), 'region', () => { renderFilters(); renderGrid(); });
-  const tags = [...new Set(DB.places.flatMap(p=>p.tags||[]))].sort();
-  chipRow(document.getElementById('f-tag'),
-    tags.map(x=>[x, T().tags[x]||x]), 'tag', () => { renderFilters(); renderGrid(); });
-  chipRow(document.getElementById('f-crowd'),
-    [['1',T().crowd[1]],['2',T().crowd[2]],['3',T().crowd[3]]], 'crowd', () => { renderFilters(); renderGrid(); });
-  chipRow(document.getElementById('f-budget'),
-    Object.entries(T().budget), 'budget', () => { renderFilters(); renderGrid(); });
-  const cats = [...new Set(DB.tips.map(x=>x.cat))];
-  chipRow(document.getElementById('f-cat'),
-    cats.map(c=>[c, T().cats[c]||c]), 'cat', () => { renderFilters(); renderNotes(); });
-}
-function renderFilters(){
-  document.querySelectorAll('#f-region button').forEach(b=>b.setAttribute('aria-pressed', F.region===b.dataset.v));
-  document.querySelectorAll('#f-tag button').forEach(b=>b.setAttribute('aria-pressed', F.tag===b.dataset.v));
-  document.querySelectorAll('#f-crowd button').forEach(b=>b.setAttribute('aria-pressed', F.crowd===b.dataset.v));
-  document.querySelectorAll('#f-budget button').forEach(b=>b.setAttribute('aria-pressed', F.budget===b.dataset.v));
-  document.querySelectorAll('#f-cat button').forEach(b=>b.setAttribute('aria-pressed', F.cat===b.dataset.v));
-  document.getElementById('savedonly').setAttribute('aria-pressed', F.saved);
+function viewSaved(){
+  const list = [...SAVED].map(byId).filter(Boolean);
+  if(!list.length) return `<section class="hero"><h1>${esc(T().savedTitle)}</h1>
+    <p>${esc(T().savedEmpty)}</p></section>`;
+  return `<section class="hero"><h1>${esc(T().savedTitle)}</h1>
+    <div class="actions" style="margin-top:14px">
+      <button class="act" id="copyList">⧉ ${esc(T().copyList)}</button>
+      <button class="act" id="printList">⎙ ${esc(T().printList)}</button>
+      <button class="act" id="clearSaved">✕ ${esc(T().removeAll)}</button>
+    </div></section>
+    <div class="grid">${list.map(card).join('')}</div>`;
 }
 
-function filtered(){
-  const q = F.q.trim().toLowerCase();
-  return DB.places.filter(p => {
-    if(F.region!=='all' && p.region!==F.region) return false;
-    if(F.tag!=='all' && !(p.tags||[]).includes(F.tag)) return false;
-    if(F.crowd!=='all' && String(p.crowd)!==F.crowd) return false;
-    if(F.budget!=='all' && p.budget!==F.budget) return false;
-    if(F.saved && !SAVED.has(p.id)) return false;
-    if(q){
-      const hay = [t(p.name),t(p.country),t(p.why),t(p.know),p.name.en,p.country.en,(p.tags||[]).join(' '),
-        (p.tags||[]).map(x=>T().tags[x]).join(' ')].join(' ').toLowerCase();
-      if(!hay.includes(q)) return false;
-    }
-    return true;
-  });
+function viewGuides(){
+  const order = {high:0,med:1,low:2};
+  const tips = [...DB.tips].sort((a,b)=>(order[a.impact]??3)-(order[b.impact]??3));
+  const feed = DB.live?.feed || [];
+  return `<section class="hero"><h1>${esc(T().guidesTitle)}</h1><p>${esc(T().guidesLede)}</p></section>
+  <section class="sec"><h2>${esc(T().gNotes)}</h2>
+    <div class="notes" style="margin-top:14px">${tips.map(n=>`
+      <details class="note"${n.impact==='high'?' open':''}>
+        <summary><span class="notecat${n.impact==='high'?' hi':''}">${esc(n.impact==='high'?T().high:(T().cats[n.cat]||n.cat))}</span>
+        <span>${esc(t(n.title))}</span></summary>
+        <div class="notebody"><p style="margin:0 0 8px">${esc(t(n.body))}</p>
+        ${n.src?`<a href="${esc(n.src)}" target="_blank" rel="noopener">${esc(T().source)} ↗</a>`:''}</div>
+      </details>`).join('')}</div></section>
+  <section class="sec"><h2>${esc(T().gEats)}</h2>
+    <div class="notes" style="margin-top:14px">${DB.eats.map(e=>`
+      <div class="tile"><h3>${esc(t(e.dish))}</h3><div class="where">${esc(t(e.where))}</div>
+      <p>${esc(t(e.note))}</p></div>`).join('')}</div></section>
+  <section class="sec"><h2>${esc(T().gFeed)}</h2>
+    ${DB.live?.feedIsStale?`<div class="callout" style="margin:12px 0"><b>!</b>${esc(T().stale)}</div>`:''}
+    <div class="feedgrid" style="margin-top:14px">${feed.length ? feed.map(i=>`
+      <a class="fitem" href="${esc(i.link)}" target="_blank" rel="noopener">
+        <span class="fsrc">${esc(t(i.sourceLabel)||i.source||'')}</span>
+        <h3>${esc(i.title)}</h3>${i.summary?`<p>${esc(i.summary.slice(0,140))}…</p>`:''}
+      </a>`).join('') : `<div class="empty">${esc(T().never)}</div>`}</div></section>
+  ${adSlot('foot','banner')}`;
 }
 
-/* ============================================================ renderers */
-function renderToday(){
-  const ids = DB.live?.rotation?.places?.length
-    ? DB.live.rotation.places
-    : rotate(DB.places.map(p=>p.id), 3, 'place:'+todayKey());
-  const picks = ids.map(id => DB.places.find(p=>p.id===id)).filter(Boolean);
-  document.getElementById('today-grid').innerHTML = picks.map(p=>placeCard(p,{featured:true})).join('');
-}
-
-function renderSeason(){
-  const m = new Date().getMonth();
-  document.getElementById('month-name').textContent = T().months[m];
-  const entry = DB.calendar.find(c => c.month === m+1);
-  if(!entry) return;
-  document.getElementById('cal-grid').innerHTML = entry.picks.map(x => `
-    <div class="calcard"><h3>${esc(t(x.p))}</h3><p>${esc(t(x.w))}</p></div>`).join('');
-  document.getElementById('cal-note').innerHTML =
-    `<b>${esc(T().s2e)}</b>${esc(t(entry.note))}`;
-}
-
+/* =============================================================== render */
 function renderGrid(){
   const list = filtered();
+  const el = document.getElementById('grid'); if(!el) return;
   document.getElementById('count').textContent = `${list.length} ${T().results}`;
-  let html;
-  if(!list.length){
-    html = `<div class="empty" style="grid-column:1/-1">${esc(T().none)}</div>`;
-  } else {
-    const cards = list.map(p=>placeCard(p));
-    // Slot the in-grid ad after N cards, but only when there are enough
-    // results that it lands mid-list rather than stranded at the end.
-    const at = ADS.grid.after;
-    if(cards.length > at + 2) cards.splice(at, 0, adSlot('grid','card'));
-    html = cards.join('');
-  }
-  document.getElementById('grid').innerHTML = html;
-  if(MAP.on) drawMarkers(list);
+  if(!list.length){ el.innerHTML = `<div class="empty" style="grid-column:1/-1">${esc(T().none)}</div>`; return }
+  const cards = list.map(card);
+  if(cards.length > ADS.grid.after + 2) cards.splice(ADS.grid.after, 0, adSlot('grid','card'));
+  el.innerHTML = cards.join('');
 }
 
-function renderNotes(){
-  const list = F.cat==='all' ? DB.tips : DB.tips.filter(x=>x.cat===F.cat);
-  const order = {high:0,med:1,low:2};
-  list.sort((a,b)=>(order[a.impact]??3)-(order[b.impact]??3));
-  document.getElementById('notes-grid').innerHTML = list.map(n => `
-    <details class="note"${n.impact==='high'?' open':''}>
-      <summary>
-        <span class="notecat${n.impact==='high'?' hi':''}">${esc(n.impact==='high'?T().high:(T().cats[n.cat]||n.cat))}</span>
-        <span>${esc(t(n.title))}</span>
-      </summary>
-      <div class="notebody">
-        <p style="margin:0 0 8px">${esc(t(n.body))}</p>
-        ${n.src?`<a href="${esc(n.src)}" target="_blank" rel="noopener">${esc(T().open==='위키백과'?'출처':'Source')} ↗</a>`:''}
-      </div>
-    </details>`).join('');
+function router(){
+  const h = location.hash.replace(/^#/,'') || '/';
+  const view = document.getElementById('view');
+  const m = h.match(/^\/p\/(.+)$/);
+  if(m)               view.innerHTML = viewPlace(decodeURIComponent(m[1]));
+  else if(h==='/saved')  view.innerHTML = viewSaved();
+  else if(h==='/guides') view.innerHTML = viewGuides();
+  else { view.innerHTML = viewHome(); renderGrid(); wireHome(); }
+  document.getElementById('nav-home').classList.toggle('on', h==='/' );
+  document.getElementById('nav-guides').classList.toggle('on', h==='/guides');
+  document.getElementById('nav-saved').classList.toggle('on', h==='/saved');
+  if(!m) window.scrollTo({top:0});
+  wireView();
 }
 
-function renderEats(){
-  document.getElementById('eats-grid').innerHTML = DB.eats.map(e => `
-    <div class="eat">
-      <h3>${esc(t(e.dish))}</h3>
-      <div class="where">${esc(t(e.where))}</div>
-      <p>${esc(t(e.note))}</p>
-    </div>`).join('');
+function wireHome(){
+  const on = (id,ev,fn)=>{ const e=document.getElementById(id); if(e) e.addEventListener(ev,fn) };
+  on('q','input', e=>{ F.q=e.target.value; renderGrid() });
+  on('fTag','change', e=>{ F.tag=e.target.value; renderGrid() });
+  on('fLen','change', e=>{ F.len=e.target.value; renderGrid() });
+  on('fBudget','change', e=>{ F.budget=e.target.value; renderGrid() });
+  on('fSort','change', e=>{ F.sort=e.target.value; renderGrid() });
+  on('clear','click', ()=>{ Object.assign(F,{region:'all',tag:'all',budget:'all',len:'all',q:'',sort:'default'}); router() });
+  document.querySelectorAll('#regionChips .chip').forEach(b=>b.addEventListener('click',()=>{
+    F.region = b.dataset.region;
+    document.querySelectorAll('#regionChips .chip').forEach(x=>x.setAttribute('aria-pressed', x.dataset.region===F.region));
+    renderGrid();
+  }));
 }
 
-function renderFeed(){
-  const el = document.getElementById('feed-grid');
-  const feed = DB.live?.feed || [];
-  if(!feed.length){
-    el.innerHTML = `<div class="empty" style="grid-column:1/-1">${esc(T().never)}</div>`;
-    return;
-  }
-  const stale = DB.live?.feedIsStale
-    ? `<div class="valuenote" style="grid-column:1/-1;margin:0 0 4px"><b>!</b>${esc(T().stale)}</div>` : '';
-  el.innerHTML = stale + feed.map(i => `
-    <a class="fitem" href="${esc(i.link)}" target="_blank" rel="noopener">
-      <span class="fsrc">${esc(t(i.sourceLabel)||i.source||'')}${i.kind?' · '+esc(t(i.kind)):''}</span>
-      <h3>${esc(i.title)}</h3>
-      ${i.summary?`<p>${esc(i.summary.slice(0,150))}${i.summary.length>150?'…':''}</p>`:''}
-    </a>`).join('');
-}
-
-function renderChrome(){
-  document.documentElement.lang = LANG;
-  document.querySelectorAll('[data-i]').forEach(el => {
-    const v = T()[el.dataset.i];
-    if(v!=null) el.innerHTML = v;
+function wireView(){
+  const share = document.getElementById('share');
+  if(share) share.addEventListener('click', async ()=>{
+    const url = location.href;
+    const title = document.querySelector('.dtitle h1')?.textContent || 'Hidden Atlas';
+    try{
+      if(navigator.share){ await navigator.share({title, url}); return }
+      await navigator.clipboard.writeText(url); toast(T().copied);
+    }catch{ /* user dismissed the share sheet — nothing to report */ }
   });
+  const cp = document.getElementById('copyList');
+  if(cp) cp.addEventListener('click', async ()=>{
+    const lines = [...SAVED].map(byId).filter(Boolean).map(p=>
+      `${t(p.name)} — ${t(p.country)}  ${location.origin+location.pathname}#/p/${p.id}`);
+    try{ await navigator.clipboard.writeText(lines.join('\n')); toast(T().copied) }catch{}
+  });
+  const pr = document.getElementById('printList'); if(pr) pr.addEventListener('click', ()=>window.print());
+  const cs = document.getElementById('clearSaved');
+  if(cs) cs.addEventListener('click', ()=>{ SAVED.clear(); store.set('saved',[]); syncSaved(); router() });
+}
+
+let toastTimer;
+function toast(msg){
+  const el = document.getElementById('toast');
+  el.textContent = msg; el.classList.add('on');
+  clearTimeout(toastTimer); toastTimer = setTimeout(()=>el.classList.remove('on'), 1900);
+}
+function syncSaved(){
+  const b = document.getElementById('savedCount');
+  b.textContent = SAVED.size; b.classList.toggle('hide', SAVED.size===0);
+}
+function applyChrome(){
+  document.documentElement.lang = LANG;
+  document.querySelectorAll('[data-i]').forEach(el=>{ const v=T()[el.dataset.i]; if(v!=null) el.innerHTML=v });
   document.getElementById('lang-en').setAttribute('aria-pressed', LANG==='en');
   document.getElementById('lang-ko').setAttribute('aria-pressed', LANG==='ko');
-  document.getElementById('q').placeholder = T().search;
-  document.getElementById('n-places').textContent = DB.places.length || '—';
-  document.getElementById('n-tips').textContent = DB.tips.length || '—';
-  document.getElementById('mapbtn').textContent = MAP.on ? T().mapbtnOff : T().mapbtn;
-
-  const d = new Date();
-  document.getElementById('stamp-date').textContent =
-    d.toLocaleDateString(LANG==='ko'?'ko-KR':'en-GB',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
-  const ok = (DB.live?.sources||[]).filter(s=>s.ok).length;
-  const tot = (DB.live?.sources||[]).length;
-  document.getElementById('stamp-src').textContent = tot ? `${ok}/${tot} ${LANG==='ko'?'출처 연결됨':'sources live'}` : (LANG==='ko'?'큐레이션 데이터':'curated data');
   document.getElementById('build').textContent =
     `${T().built}: ${DB.live?.generatedAt ? new Date(DB.live.generatedAt).toLocaleString(LANG==='ko'?'ko-KR':'en-GB') : T().never}`;
+  syncSaved();
 }
 
-function renderBanners(){
-  for(const [id,key] of [['ad-top','top'],['ad-foot','foot']]){
-    const el = document.getElementById(id);
-    if(el) el.innerHTML = adSlot(key,'banner');
-  }
-}
-
-function renderAll(){
-  renderChrome(); buildFilters(); renderFilters();
-  renderToday(); renderSeason(); renderGrid(); renderNotes(); renderEats(); renderFeed();
-  renderBanners();
-}
-
-/* ================================================================ map */
-const MAP = { on:false, obj:null, layer:null };
-function loadScript(src){ return new Promise((res,rej)=>{ const s=document.createElement('script'); s.src=src; s.onload=res; s.onerror=rej; document.head.appendChild(s); }); }
-function loadCss(href){ const l=document.createElement('link'); l.rel='stylesheet'; l.href=href; document.head.appendChild(l); }
-
-async function toggleMap(){
-  const box = document.getElementById('map'), hint = document.getElementById('maphint');
-  if(MAP.on){ MAP.on=false; box.hidden=true; hint.hidden=true; renderChrome(); return; }
-  box.hidden=false; hint.hidden=false; MAP.on=true; renderChrome();
-  if(!MAP.obj){
-    try{
-      loadCss('https://unpkg.com/leaflet@1.9.4/dist/leaflet.css');
-      await loadScript('https://unpkg.com/leaflet@1.9.4/dist/leaflet.js');
-      MAP.obj = L.map('map',{scrollWheelZoom:false}).setView([25,15],2);
-      L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',
-        { attribution:'© OpenStreetMap · © CARTO', maxZoom:18 }).addTo(MAP.obj);
-      MAP.layer = L.layerGroup().addTo(MAP.obj);
-    }catch{
-      box.innerHTML = `<div class="empty">Map could not load — you're offline or the CDN is blocked.</div>`;
-      return;
-    }
-  }
-  drawMarkers(filtered());
-  setTimeout(()=>MAP.obj.invalidateSize(),60);
-}
-function drawMarkers(list){
-  if(!MAP.obj || !MAP.layer) return;
-  MAP.layer.clearLayers();
-  list.filter(p=>p.coords).forEach(p => {
-    L.circleMarker(p.coords,{radius:7,color:'#2c6e6b',weight:2,fillColor:'#c8823a',fillOpacity:.9})
-      .bindPopup(`<b>${esc(t(p.name))}</b><br>${esc(t(p.country))}<br><span style="font-size:11px">${esc(t(p.season))}</span>`)
-      .addTo(MAP.layer);
-  });
-}
-
-/* ============================================================== events */
-function setLang(l){ LANG=l; store.set('lang',l); renderAll(); }
-function setTheme(x){ THEME=x; store.set('theme',x); document.documentElement.dataset.theme=x; }
-
-document.getElementById('lang-en').onclick = () => setLang('en');
-document.getElementById('lang-ko').onclick = () => setLang('ko');
-document.getElementById('theme').onclick = () => setTheme(THEME==='paper'?'night':'paper');
-document.getElementById('mapbtn').onclick = toggleMap;
-document.getElementById('reset').onclick = () => {
-  Object.assign(F,{region:'all',tag:'all',crowd:'all',budget:'all',q:'',saved:false});
-  document.getElementById('q').value=''; renderFilters(); renderGrid();
+/* =============================================================== events */
+document.getElementById('lang-en').onclick = ()=>{ LANG='en'; store.set('lang','en'); applyChrome(); router() };
+document.getElementById('lang-ko').onclick = ()=>{ LANG='ko'; store.set('lang','ko'); applyChrome(); router() };
+document.getElementById('theme').onclick = ()=>{
+  THEME = THEME==='paper'?'night':'paper'; store.set('theme',THEME); document.documentElement.dataset.theme=THEME;
 };
-document.getElementById('savedonly').onclick = () => { F.saved=!F.saved; renderFilters(); renderGrid(); };
-document.getElementById('q').addEventListener('input', e => { F.q=e.target.value; renderGrid(); });
-document.getElementById('surprise').onclick = () => {
-  const list = DB.places; if(!list.length) return;
-  const p = list[Math.floor(Math.random()*list.length)];
-  Object.assign(F,{region:'all',tag:'all',crowd:'all',budget:'all',saved:false,q:t(p.name)});
-  document.getElementById('q').value = t(p.name);
-  renderFilters(); renderGrid();
-  document.getElementById('explore').scrollIntoView({behavior:'smooth'});
-};
-document.addEventListener('click', e => {
+document.addEventListener('click', e=>{
   const b = e.target.closest('[data-save]'); if(!b) return;
+  e.preventDefault(); e.stopPropagation();
   const id = b.dataset.save;
   SAVED.has(id) ? SAVED.delete(id) : SAVED.add(id);
-  store.set('saved',[...SAVED]);
-  document.querySelectorAll(`[data-save="${CSS.escape(id)}"]`).forEach(x => {
-    x.setAttribute('aria-pressed', SAVED.has(id)); x.textContent = SAVED.has(id)?'★':'☆';
+  store.set('saved',[...SAVED]); syncSaved();
+  document.querySelectorAll(`[data-save="${CSS.escape(id)}"]`).forEach(x=>{
+    const on = SAVED.has(id);
+    x.setAttribute('aria-pressed', on);
+    x.textContent = x.classList.contains('act') ? `${on?'★':'☆'} ${on?T().saved:T().save}` : (on?'★':'☆');
   });
 });
-document.addEventListener('keydown', e => {
-  if(e.key==='/' && !/input|textarea/i.test(e.target.tagName)){ e.preventDefault(); document.getElementById('q').focus(); }
+document.addEventListener('keydown', e=>{
+  if(e.key==='/' && !/input|textarea|select/i.test(e.target.tagName)){
+    const q=document.getElementById('q'); if(q){ e.preventDefault(); q.focus() }
+  }
 });
+window.addEventListener('hashchange', router);
 
-/* ================================================================ boot */
+/* ================================================================= boot */
 (async function(){
   document.documentElement.dataset.theme = THEME;
-  const [places,tips,eats,calendar,live,enriched] = await Promise.all(
-    ['places.json','tips.json','eats.json','calendar.json','live.json','enriched.json'].map(load)
-  );
-  DB.places = places||[]; DB.tips = tips||[]; DB.eats = eats||[];
-  DB.calendar = calendar||[]; DB.live = live; DB.enriched = enriched||{};
+  const load = f => fetch('data/'+f,{cache:'no-cache'}).then(r=>r.ok?r.json():null).catch(()=>null);
+  const [places,plans,tips,eats,calendar,live,enriched] = await Promise.all(
+    ['places.json','plans.json','tips.json','eats.json','calendar.json','live.json','enriched.json'].map(load));
+  DB.places=places||[]; DB.plans=plans||{}; DB.tips=tips||[]; DB.eats=eats||[];
+  DB.calendar=calendar||[]; DB.live=live; DB.enriched=enriched||{};
   if(!DB.places.length){
-    document.getElementById('today-grid').innerHTML =
-      `<div class="empty" style="grid-column:1/-1">Could not load data/places.json. If you're opening this file directly, run a local server instead: <code>python3 -m http.server</code></div>`;
+    document.getElementById('view').innerHTML =
+      `<div class="empty">Could not load data/places.json. If you opened this file directly, run a local server: <code>python3 -m http.server</code></div>`;
     return;
   }
-  renderAll();
+  applyChrome(); router();
 })();
 </script>
 </body>
