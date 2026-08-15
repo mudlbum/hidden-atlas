@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T00:52:10.269Z",
+  "generatedAt": "2026-08-15T01:13:41.217Z",
   "date": "2026-08-15",
   "rotation": {
     "places": [
@@ -206,7 +206,7 @@
     }
   ],
   "enrichment": {
-    "ok": 3,
-    "failed": 3
+    "ok": 66,
+    "failed": 0
   }
 }
