@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-15T05:42:06.546Z",
-  "date": "2026-08-15",
+  "generatedAt": "2026-08-16T05:43:34.098Z",
+  "date": "2026-08-16",
   "rotation": {
     "places": [
-      "saomiguel-alt",
-      "gargano",
-      "matsu"
+      "jardin",
+      "ometepe",
+      "quilotoa"
     ],
-    "tip": "packcube",
-    "eat": "jaffnacrab"
+    "tip": "positioning",
+    "eat": "solover"
   },
   "counts": {
     "places": 72,
@@ -72,14 +72,58 @@
       }
     },
     {
-      "title": "Met up after more than 30 years - confusing!",
-      "link": "https://www.reddit.com/r/solotravel/comments/1visp5w/met_up_after_more_than_30_years_confusing/",
-      "date": "2026-08-08T10:40:29+00:00",
-      "summary": "First of all, I've anonymized this post a bit, since this is concerning another real person. Hi, I traveled to a nation just opening up to the west in the early 90s, as a male independent traveler aged in my early 20s. I met a young lady who was on the staff o",
-      "source": "reddit-solotravel",
+      "title": "Holafly Plans: The Best eSIM Plan for Long Term Travelers",
+      "link": "https://www.nomadicmatt.com/travel-blogs/holafly-plans/",
+      "date": "Tue, 28 Jul 2026 16:40:13 +0000",
+      "summary": "There are a lot of eSIM companies in the world. They all work a similar way: you download their app, pick your package, install the eSIM into your smartphone, and off you go. There’s many I like. But one I like more than the rest is Holafly and I’ve been using",
+      "source": "nomadic-matt",
       "sourceLabel": {
-        "en": "r/solotravel",
-        "ko": "r/solotravel"
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Nomad Citizen: A New Social Safety Net for Entrepreneurs",
+      "link": "https://www.nomadicmatt.com/travel-blogs/nomad-citizen-review/",
+      "date": "Thu, 18 Jun 2026 12:07:22 +0000",
+      "summary": "If you’re a digital nomad or a location-independent business owner, you’re either overpaying for fragmented insurance coverage (travel, medical, etc.) or just badly underinsured. You have a health plan, travel insurance, and maybe some medical evacuation cover",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Faye Travel Insurance: The Best New Company Out there",
+      "link": "https://www.nomadicmatt.com/travel-blogs/faye-travel-insurance-review/",
+      "date": "Wed, 03 Jun 2026 13:05:03 +0000",
+      "summary": "We may receive compensation from Faye as an advertising partner. However, this does not influence our evaluations. Our opinions are our own. I’ve been writing about travel for nearly two decades and, in that time, I’ve watched the travel insurance industry cha",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Madrid 5-Day Itinerary: A Guide to Culture, Gastronomy, and Local Life",
+      "link": "https://www.nomadicmatt.com/travel-blogs/madrid-five-day-itinerary/",
+      "date": "Wed, 06 May 2026 07:50:57 +0000",
+      "summary": "Home to some 3.5 million people, Madrid is the capital of Spain and the country’s largest city. Though it’s somewhat sprawling, the city boasts stunning architecture, incredible food, and an energetic nightlife that stretches until dawn. Over 10 million people",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Capital One Venture Business Card Review",
+      "link": "https://www.nomadicmatt.com/travel-blogs/capital-one-venture-business-review/",
+      "date": "Fri, 01 May 2026 15:30:42 +0000",
+      "summary": "If you’re a traveler like me, chances are you’re always on the lookout for ways to make your trips more affordable. That’s why I collect points and miles: they help me lower my travel costs so I can spend my money on what’s actually important…which is usually ",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
       }
     },
     {
@@ -125,6 +169,17 @@
         "en": "r/solotravel",
         "ko": "r/solotravel"
       }
+    },
+    {
+      "title": "Experiencing intense moments alone.",
+      "link": "https://www.reddit.com/r/solotravel/comments/1vmv73c/experiencing_intense_moments_alone/",
+      "date": "2026-08-13T00:12:42+00:00",
+      "summary": "I have travelled solo most of my life, partly because I really enjoy it and partly because I don't actually have anyone to travel with. When travelling solo, I often find myself in really stunning scenery but get a jolt of pain in my soul that I have no one to",
+      "source": "reddit-solotravel",
+      "sourceLabel": {
+        "en": "r/solotravel",
+        "ko": "r/solotravel"
+      }
     }
   ],
   "feedIsStale": false,
@@ -137,7 +192,7 @@
     {
       "id": "nomadic-matt",
       "ok": true,
-      "count": 0
+      "count": 5
     },
     {
       "id": "broke-backpacker",
@@ -151,7 +206,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
-    "failed": 0
+    "ok": 6,
+    "failed": 3
   }
 }
