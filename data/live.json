@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-16T05:43:34.098Z",
-  "date": "2026-08-16",
+  "generatedAt": "2026-08-17T05:51:04.129Z",
+  "date": "2026-08-17",
   "rotation": {
     "places": [
-      "jardin",
-      "ometepe",
-      "quilotoa"
+      "viscri",
+      "salina",
+      "suncheon"
     ],
-    "tip": "positioning",
-    "eat": "solover"
+    "tip": "seat",
+    "eat": "kaymak"
   },
   "counts": {
     "places": 72,
@@ -16,6 +16,17 @@
     "eats": 22
   },
   "feed": [
+    {
+      "title": "Rogue Creamery in Central Point, Oregon",
+      "link": "https://www.atlasobscura.com/places/rogue-creamery",
+      "date": "Sun, 16 Aug 2026 15:28:00 -0400",
+      "summary": "The Rogue Creamery in Central Point, Oregon is worth a detour for fabulous world-class cheeses. The building in itself is cute enough to stop for a photo op with a vintage mural, blue neon sign, and old blue pickup truck advertising this cheese monger paradise",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
     {
       "title": "Murales del Borgo San Giuliano in Rimini, Italy",
       "link": "https://www.atlasobscura.com/places/murales-del-borgo-san-giuliano",
@@ -54,17 +65,6 @@
       "link": "https://www.atlasobscura.com/articles/guide-to-northern-lights",
       "date": "Fri, 14 Aug 2026 13:27:00 -0400",
       "summary": "Here is the failure mode nobody warns you about. You book a week in a country you chose because it appeared on a list of the best places to see the northern lights. You arrive. It is cloudy for six nights. You go home having seen nothing, and you conclude the ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Atlas Obscura Guide to Winter Sun",
-      "link": "https://www.atlasobscura.com/articles/guide-to-winter-sun",
-      "date": "Fri, 14 Aug 2026 13:16:00 -0400",
-      "summary": "Every winter sun list is the same list. Somewhere with a beach, ranked by average January temperature, with a paragraph about resorts. The only variable is the number, and the number is available on any weather site for free. Here is a better question. Rather ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
