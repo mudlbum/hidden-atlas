@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-17T05:51:04.129Z",
-  "date": "2026-08-17",
+  "generatedAt": "2026-08-18T05:45:35.259Z",
+  "date": "2026-08-18",
   "rotation": {
     "places": [
-      "viscri",
-      "salina",
-      "suncheon"
+      "greatbasin",
+      "lencois",
+      "koreanpark"
     ],
-    "tip": "seat",
-    "eat": "kaymak"
+    "tip": "layover",
+    "eat": "sarawaklaksa"
   },
   "counts": {
     "places": 72,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "Rogue Creamery in Central Point, Oregon",
-      "link": "https://www.atlasobscura.com/places/rogue-creamery",
-      "date": "Sun, 16 Aug 2026 15:28:00 -0400",
-      "summary": "The Rogue Creamery in Central Point, Oregon is worth a detour for fabulous world-class cheeses. The building in itself is cute enough to stop for a photo op with a vintage mural, blue neon sign, and old blue pickup truck advertising this cheese monger paradise",
+      "title": "Gregg-Crites Octagon House in Circleville, Ohio",
+      "link": "https://www.atlasobscura.com/places/gregg-crites-octagon-house",
+      "date": "Mon, 17 Aug 2026 16:00:00 -0400",
+      "summary": "Located on the southern end of town, the Gregg-Crites Octagon House is one of Pickaway County's most unique architectural landmarks. This eight-sided home in Circleville, Ohio is believed to have been built between 1855-56 by a man named George Gregg. While th",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Murales del Borgo San Giuliano in Rimini, Italy",
-      "link": "https://www.atlasobscura.com/places/murales-del-borgo-san-giuliano",
-      "date": "Fri, 14 Aug 2026 16:00:00 -0400",
-      "summary": "Founded around the year 1000, Borgo San Giuliano, was originally the city's fishermen’s quarter. The tradition of painting murals that has made Borgo San Giuliano famous has deep roots. In 1979, the city council suggested demolishing the neighborhood to make w",
+      "title": "Dolphin Sunset in Hong Kong",
+      "link": "https://www.atlasobscura.com/places/dolphin-sunset",
+      "date": "Mon, 17 Aug 2026 14:00:00 -0400",
+      "summary": "Tsim Sha Tsui is one of Hong Kong's busiest districts, filled with people from morning till night. It is particularly popular with mainland tourists who arrive directly by ferry from Chinese cities in the Pearl River Delta region. Many of these tourists will d",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Fannie Bay Gaol in Fannie Bay, Australia",
-      "link": "https://www.atlasobscura.com/places/fannie-bay-gaol",
-      "date": "Fri, 14 Aug 2026 14:00:00 -0400",
-      "summary": "For nearly a century, Fannie Bay Gaol was the Northern Territory of Australia's principal prison, confining a range of prisoners from cattle rustlers and opium traffickers to political prisoners and condemned murderers. It was opened as Her Majesty's Gaol and ",
+      "title": "15 Best Places to Experience Bioluminescence",
+      "link": "https://www.atlasobscura.com/articles/bioluminescent-places-around-the-world",
+      "date": "Mon, 17 Aug 2026 13:40:00 -0400",
+      "summary": "The humble glow worm is, in fact, a catchall term for numerous glowing creatures, from gnat larvae to fire flys to algae, that can be found all over the world. These tiny critters illuminate the night through bioluminescence, a process in which light is emitte",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "The Atlas Obscura Guide to the World's Strangest Christmas Traditions",
-      "link": "https://www.atlasobscura.com/articles/guide-to-strangest-christmas-traditions",
-      "date": "Fri, 14 Aug 2026 13:33:00 -0400",
-      "summary": "Every European Christmas market sells the same mulled wine out of the same wooden hut. This is not a criticism — it is a very good hut, and the wine is warm. But it is not a reason to choose one country over another, and the \"best Christmas markets\" lists that",
+      "title": "Iglesia De La Asunción in San Sebastián de La Gomera, Spain",
+      "link": "https://www.atlasobscura.com/places/iglesia-de-la-asuncion",
+      "date": "Mon, 17 Aug 2026 12:00:00 -0400",
+      "summary": "The Canary Islands are known primarily as tropical paradise for vacations, but also have beautiful nature and some of the best preserved historical buildings. La Gomerra is a great example of this, with many 15th-century buildings still in use today. Perhaps t",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "The Atlas Obscura Guide to Seeing the Northern Lights",
-      "link": "https://www.atlasobscura.com/articles/guide-to-northern-lights",
-      "date": "Fri, 14 Aug 2026 13:27:00 -0400",
-      "summary": "Here is the failure mode nobody warns you about. You book a week in a country you chose because it appeared on a list of the best places to see the northern lights. You arrive. It is cloudy for six nights. You go home having seen nothing, and you conclude the ",
+      "title": "Portsmouth Flood Wall Murals in Portsmouth, Ohio",
+      "link": "https://www.atlasobscura.com/places/portsmouth-flood-wall-murals",
+      "date": "Mon, 17 Aug 2026 10:00:00 -0400",
+      "summary": "The Portsmouth Floodwall Murals were painted to transform a functional floodwall into an outdoor gallery to celebrate the city's rich history. Even though the city of Portsmouth, Ohio sits on higher ground adjacent to the Ohio River, it was still prone to floo",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -127,17 +127,6 @@
       }
     },
     {
-      "title": "My boyfriend has regulations for me traveling solo – reasonable or unreasonable?",
-      "link": "https://www.reddit.com/r/solotravel/comments/1vkynz2/my_boyfriend_has_regulations_for_me_traveling/",
-      "date": "2026-08-10T21:56:20+00:00",
-      "summary": "My (26F) boyfriend (36M) of 5 years is struggling with me telling him I want to travel solo at least once. He and I love seeing national parks together and have been able to create some really special vacations and memories. I have a strong urge to travel solo",
-      "source": "reddit-solotravel",
-      "sourceLabel": {
-        "en": "r/solotravel",
-        "ko": "r/solotravel"
-      }
-    },
-    {
       "title": "Struggling to get over the regret of not starting my solo travel journey at a younger age.",
       "link": "https://www.reddit.com/r/solotravel/comments/1vndnb9/struggling_to_get_over_the_regret_of_not_starting/",
       "date": "2026-08-13T15:18:05+00:00",
@@ -180,6 +169,17 @@
         "en": "r/solotravel",
         "ko": "r/solotravel"
       }
+    },
+    {
+      "title": "Does anyone else travel solo for the same reason?",
+      "link": "https://www.reddit.com/r/solotravel/comments/1vqsz3s/does_anyone_else_travel_solo_for_the_same_reason/",
+      "date": "2026-08-17T13:52:58+00:00",
+      "summary": "Well I know some people don't have friends so they travel solo or just want time away but I want none of those. I would love to be with my friends and family but no one is interested or feels scared to go to the same destinations as me. When I was 18 after my ",
+      "source": "reddit-solotravel",
+      "sourceLabel": {
+        "en": "r/solotravel",
+        "ko": "r/solotravel"
+      }
     }
   ],
   "feedIsStale": false,
@@ -206,7 +206,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
-    "failed": 3
+    "ok": 0,
+    "failed": 0
   }
 }
