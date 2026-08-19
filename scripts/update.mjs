@@ -103,7 +103,7 @@ function parseFeed(xml, limit = 6) {
  */
 /* Bump when the filter below changes — cached photos chosen by an older
    revision are then re-checked automatically on the next run. */
-const PHOTO_REV = 2;
+const PHOTO_REV = 3;
 
 const NOT_A_PHOTO = new RegExp(
   '(^|[_\\-\\s(])(' +
@@ -201,9 +201,11 @@ async function enrich(places, cache) {
 
       let photo = page.thumbnail?.source || null;
       let source = 'lead';
-      if (photo && !looksLikePhoto(photo)) {
-        // Lead image is a map/diagram — go looking for a real photograph.
-        log(`enrichment: ${p.id} lead image is not a photo, searching article`);
+      // Search the article's own images when the lead image is a map/diagram —
+      // and equally when there is no lead image at all, which is common for
+      // regions and nature reserves and used to leave the card blank.
+      if (!photo || !looksLikePhoto(photo)) {
+        log(`enrichment: ${p.id} ${photo ? 'lead image is not a photo' : 'has no lead image'}, searching article`);
         await sleep(200);
         const better = await findPhotoInArticle(p.wiki.replace(/_/g, ' ')).catch(() => null);
         photo = better;
@@ -254,18 +256,21 @@ const SOURCES = [
     kind: 'rss',
     url: 'https://www.nomadicmatt.com/travel-blog/feed/',
   },
+  // The Broke Backpacker removed its RSS feed — /feed/ now 302s to the homepage,
+  // which parsed as 0 items while still reporting HTTP 200. Replaced with r/travel.
   {
-    id: 'broke-backpacker',
-    label: { en: 'The Broke Backpacker', ko: '브로크 배낭여행자' },
+    id: 'reddit-travel',
+    label: { en: 'r/travel', ko: 'r/travel' },
     kind: 'rss',
-    url: 'https://www.thebrokebackpacker.com/feed/',
+    url: 'https://www.reddit.com/r/travel/top/.rss?t=week&limit=6',
+    optional: true,
   },
   {
     id: 'reddit-solotravel',
     label: { en: 'r/solotravel', ko: 'r/solotravel' },
     kind: 'rss',
     url: 'https://www.reddit.com/r/solotravel/top/.rss?t=week&limit=6',
-    optional: true, // Reddit frequently blocks datacenter IPs — treat failure as normal
+    optional: true, // Reddit sometimes blocks datacenter IPs — treat failure as normal
   },
 ];
 
@@ -277,6 +282,9 @@ async function fetchFeeds() {
     try {
       const xml = await get(s.url);
       const parsed = parseFeed(xml, 5).map((i) => ({ ...i, source: s.id, sourceLabel: s.label }));
+      // HTTP 200 with nothing parsed is a failure, not a success: it's what a
+      // feed that has been retired and now redirects to an HTML page looks like.
+      if (!parsed.length) throw new Error('reachable but produced 0 items — feed may have moved or been retired');
       items.push(...parsed);
       status.push({ id: s.id, ok: true, count: parsed.length });
       log(`${s.id}: ${parsed.length} items`);

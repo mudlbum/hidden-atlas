@@ -1,24 +1,353 @@
 [
-{"id":"sarawaklaksa","dish":{"en":"Sarawak laksa","ko":"사라왁 락사"},"where":{"en":"Kuching, Malaysia","ko":"말레이시아 쿠칭"},"note":{"en":"A sambal-and-coconut broth with shredded chicken, prawn and omelette strips — nothing like the curry laksa sold elsewhere. Eaten for breakfast, sold out by 10am.","ko":"삼발과 코코넛 국물에 닭고기, 새우, 달걀지단을 얹습니다. 다른 곳에서 파는 커리 락사와는 전혀 다릅니다. 아침 식사로 먹으며 오전 10시면 매진됩니다."}},
-{"id":"khinkali","dish":{"en":"Khinkali","ko":"힌칼리"},"where":{"en":"Kazbegi & Tusheti, Georgia","ko":"조지아 카즈베기·투셰티"},"note":{"en":"Hand-twisted soup dumplings eaten by hand — hold the topknot, bite, drink the broth, discard the knot. Counting your discarded knots is how mountain guesthouses bill you.","ko":"손으로 빚어 손으로 먹는 육즙 만두입니다. 꼭지를 잡고 한 입 베어 국물을 마신 뒤 꼭지는 남깁니다. 산간 게스트하우스는 남은 꼭지 개수로 계산합니다."}},
-{"id":"muhlama","dish":{"en":"Muhlama","ko":"무흘라마"},"where":{"en":"Kaçkar Mountains, Türkiye","ko":"튀르키예 카츠카르 산맥"},"note":{"en":"Cornmeal cooked into melted local cheese and butter until it pulls in strings. A highland breakfast built for cold mornings and long walks.","ko":"옥수수가루를 현지 치즈와 버터에 녹여 실처럼 늘어질 때까지 익힙니다. 추운 아침과 긴 산행을 위한 고원 지대의 아침 식사입니다."}},
-{"id":"curanto","dish":{"en":"Curanto","ko":"쿠란토"},"where":{"en":"Chiloé, Chile","ko":"칠레 칠로에"},"note":{"en":"Shellfish, meat, potato dumplings and sausage layered over hot stones in a pit and covered with nalca leaves. A communal event more than a meal — arrange it a day ahead.","ko":"조개, 고기, 감자떡, 소시지를 구덩이 속 달군 돌 위에 켜켜이 쌓고 날카 잎으로 덮어 익힙니다. 식사라기보다 공동 행사라 하루 전에 예약해야 합니다."}},
-{"id":"honghapbap","dish":{"en":"Honghap-bap","ko":"홍합밥"},"where":{"en":"Ulleungdo, South Korea","ko":"대한민국 울릉도"},"note":{"en":"Rice steamed with island mussels and wild namul greens that grow nowhere else in Korea, served with a soy-sesame sauce you pour over yourself.","ko":"섬에서 나는 홍합과 울릉도에서만 자라는 산나물을 넣어 지은 밥에, 간장 참기름 양념장을 직접 부어 비벼 먹습니다."}},
-{"id":"jaffnacrab","dish":{"en":"Jaffna crab curry","ko":"자프나 크랩 커리"},"where":{"en":"Jaffna, Sri Lanka","ko":"스리랑카 자프나"},"note":{"en":"Darker and hotter than southern Sri Lankan curry, thickened with roasted spices and eaten with pittu. The heat is real — order rice and curd alongside.","ko":"남부 스리랑카 커리보다 색이 진하고 매우며, 볶은 향신료로 걸쭉하게 만들어 피투와 함께 먹습니다. 매운 정도가 상당하니 밥과 커드를 함께 주문하세요."}},
-{"id":"solover","dish":{"en":"Sol over Gudhjem","ko":"솔 오버 구드옘"},"where":{"en":"Bornholm, Denmark","ko":"덴마크 보른홀름"},"note":{"en":"Smoked herring on dark rye with a raw egg yolk, radish and chives — 'sun over Gudhjem'. Eat it at a working smokehouse where the fish came off the rack an hour ago.","ko":"훈제 청어를 검은 호밀빵에 올리고 생달걀 노른자, 무, 차이브를 더합니다. '구드옘 위의 태양'이라는 뜻입니다. 한 시간 전에 걸이에서 내린 생선을 쓰는 훈제장에서 드세요."}},
-{"id":"kaymak","dish":{"en":"Tarhana & village bread","ko":"타르하나와 마을 빵"},"where":{"en":"Anatolian villages, Türkiye","ko":"튀르키예 아나톨리아 마을"},"note":{"en":"A fermented soup base of yoghurt, tomato and wheat, dried in sheets over summer and rehydrated all winter. Almost never on tourist menus; ask at a village guesthouse.","ko":"요구르트, 토마토, 밀을 발효시켜 여름 내내 판 형태로 말렸다가 겨우내 물에 풀어 먹는 수프 베이스입니다. 관광 식당 메뉴에는 거의 없으니 마을 민박에서 물어보세요."}},
-{"id":"capers","dish":{"en":"Capers & Malvasia","ko":"케이퍼와 말바지아"},"where":{"en":"Salina, Italy","ko":"이탈리아 살리나"},"note":{"en":"Salt-packed capers the size of olives, and a sweet passito wine dried on volcanic terraces. Buy both at a producer rather than a shop — half the price and twice the quality.","ko":"올리브만 한 크기의 소금 절임 케이퍼와, 화산 계단밭에서 말린 스위트 파시토 와인. 가게보다 생산자에게 직접 사면 값은 절반, 품질은 두 배입니다."}},
-{"id":"tarairice","dish":{"en":"Chishang bento","ko":"츠상 벤또"},"where":{"en":"Taitung, Taiwan","ko":"대만 타이둥"},"note":{"en":"Rice from the East Rift Valley is Taiwan's most prized, and the railway bento box built around it has been sold at Chishang station for decades. Simple, and worth the stop.","ko":"화둥 종곡의 쌀은 대만에서 가장 귀하게 치며, 그 쌀로 만든 철도 도시락이 수십 년간 츠상역에서 팔리고 있습니다. 단순하지만 내려볼 가치가 있습니다."}},
-{"id":"beshbarmak","dish":{"en":"Beshbarmak","ko":"베시바르막"},"where":{"en":"Kyrgyzstan & Kazakhstan","ko":"키르기스스탄·카자흐스탄"},"note":{"en":"'Five fingers' — boiled meat over wide noodles, served on a shared platter and eaten by hand. Being offered the sheep's head is an honour; accept and pass pieces to elders.","ko":"'다섯 손가락'이라는 뜻으로, 삶은 고기를 넓은 면 위에 올려 큰 접시에 담아 손으로 먹습니다. 양 머리를 권하는 것은 존중의 표시이니 받아서 어른들께 부위를 나눠 드리세요."}},
-{"id":"pastelnata","dish":{"en":"Queijadas & Alentejo bread soup","ko":"케이자다와 알렌테주 빵 수프"},"where":{"en":"Alentejo, Portugal","ko":"포르투갈 알렌테주"},"note":{"en":"Skip the custard tarts and order açorda — stale bread, garlic, coriander, olive oil and a poached egg. Peasant food that turned out to be one of Portugal's best dishes.","ko":"에그타르트 대신 아소르다를 주문하세요. 굳은 빵, 마늘, 고수, 올리브유에 수란을 올린 요리입니다. 서민 음식이었지만 결국 포르투갈 최고의 요리 중 하나가 됐습니다."}},
-{"id":"khachapuri","dish":{"en":"Kubdari","ko":"쿠브다리"},"where":{"en":"Svaneti & Tusheti, Georgia","ko":"조지아 스바네티·투셰티"},"note":{"en":"The mountain cousin of khachapuri — bread stuffed with spiced chopped meat rather than cheese, seasoned with blue fenugreek. Better than it sounds by a wide margin.","ko":"하차푸리의 산간 사촌 격으로, 치즈 대신 향신료로 양념한 다진 고기를 채운 빵입니다. 블루 페뉴그릭으로 향을 냅니다. 설명보다 훨씬 맛있습니다."}},
-{"id":"crabtottori","dish":{"en":"Matsuba crab","ko":"마쓰바 대게"},"where":{"en":"Tottori, Japan","ko":"일본 돗토리"},"note":{"en":"Snow crab landed on the San'in coast, tagged by port and graded — the top grade goes for extraordinary sums. Season runs November to March and defines the region's winter.","ko":"산인 해안에서 잡히는 대게로, 항구별 태그를 붙여 등급을 매기며 최상급은 엄청난 값에 거래됩니다. 11월부터 3월까지가 제철이며 이 지역 겨울을 규정합니다."}},
-{"id":"potatonaxos","dish":{"en":"Naxos potatoes & graviera","ko":"낙소스 감자와 그라비에라"},"where":{"en":"Naxos, Greece","ko":"그리스 낙소스"},"note":{"en":"The island's potatoes are protected-origin and genuinely different — dense and sweet. Pair with local graviera cheese and citron liqueur made from the fruit's leaves.","ko":"이 섬의 감자는 원산지 보호를 받으며 실제로 다릅니다. 밀도가 높고 달큰하죠. 현지 그라비에라 치즈, 그리고 시트론 잎으로 만든 리큐어와 함께 드세요."}},
-{"id":"sadonoodle","dish":{"en":"Buri & Sado rice","ko":"방어와 사도 쌀"},"where":{"en":"Sado Island, Japan","ko":"일본 사도가시마"},"note":{"en":"Winter yellowtail from the cold Sea of Japan, served over rice grown on the island's terraced paddies. The island's sake breweries are small and rarely export.","ko":"차가운 동해에서 잡히는 겨울 방어를 섬의 계단식 논에서 자란 쌀 위에 올립니다. 섬의 양조장들은 규모가 작고 수출을 거의 하지 않습니다."}},
-{"id":"cocoa","dish":{"en":"Single-origin cocoa","ko":"싱글 오리진 카카오"},"where":{"en":"São Tomé & Príncipe","ko":"상투메 프린시페"},"note":{"en":"Once the world's largest cocoa producer, now home to small cooperatives making some of the best chocolate anywhere. Plantation ('roça') visits usually include tasting.","ko":"한때 세계 최대 카카오 생산지였고, 지금은 소규모 협동조합들이 세계 최고 수준의 초콜릿을 만듭니다. 농장('로사') 방문에는 보통 시식이 포함됩니다."}},
-{"id":"ceviche","dish":{"en":"Trout ceviche","ko":"송어 세비체"},"where":{"en":"Huaraz, Peru","ko":"페루 우아라스"},"note":{"en":"In the Andes, ceviche is made with farmed river trout rather than sea fish — lighter, and safer to eat at altitude far from the coast. Served with choclo and sweet potato.","ko":"안데스에서는 바닷물고기 대신 양식 민물 송어로 세비체를 만듭니다. 더 담백하고, 해안에서 먼 고지대에서 먹기에 안전합니다. 촐로 옥수수와 고구마를 곁들입니다."}},
-{"id":"nasisumba","dish":{"en":"Kaparungu","ko":"카파룽구"},"where":{"en":"Sumba, Indonesia","ko":"인도네시아 숨바"},"note":{"en":"Sumbanese chicken cooked slowly with candlenut and local spices, often prepared for ceremonies. Ask your guesthouse a day ahead — it isn't a restaurant dish.","ko":"숨바식 닭 요리로 캔들넛과 현지 향신료를 넣어 천천히 익히며, 주로 의식 때 준비합니다. 식당 메뉴가 아니니 숙소에 하루 전 부탁하세요."}},
-{"id":"boerewors","dish":{"en":"Umngqusho & seafood potjie","ko":"움응쿠쇼와 해산물 포치"},"where":{"en":"Wild Coast, South Africa","ko":"남아프리카공화국 와일드 코스트"},"note":{"en":"Samp and beans slow-cooked for hours — a Xhosa staple — alongside mussels and crayfish gathered off the rocks that morning. Community lodges do this best.","ko":"으깬 옥수수와 콩을 몇 시간 뭉근히 끓인 코사족 주식에, 그날 아침 바위에서 딴 홍합과 랍스터를 곁들입니다. 지역 공동체 숙소가 가장 잘합니다."}},
-{"id":"tarte","dish":{"en":"Fresh cheese & fajã clams","ko":"생치즈와 파장 조개"},"where":{"en":"São Jorge, Azores","ko":"아조레스 상조르즈"},"note":{"en":"São Jorge cheese is aged and protected, but the young fresh version never leaves the island. Eat it with clams from the Santo Cristo lagoon, found nowhere else in the Azores.","ko":"상조르즈 치즈는 숙성 제품이 원산지 보호를 받지만, 어린 생치즈는 섬 밖으로 나가지 않습니다. 아조레스에서 이곳에만 있는 산투 크리스투 석호 조개와 함께 드세요."}},
-{"id":"pastilla","dish":{"en":"Amlou","ko":"암루"},"where":{"en":"Tafraout, Morocco","ko":"모로코 타프라우트"},"note":{"en":"Roasted almonds ground with argan oil and honey into a spread — the Anti-Atlas answer to peanut butter, and made where both ingredients grow. Eat with fresh msemen.","ko":"구운 아몬드를 아르간 오일과 꿀에 갈아 만든 스프레드로, 안티아틀라스판 땅콩버터입니다. 두 재료가 모두 나는 곳에서 만들어집니다. 갓 구운 므세멘과 함께 드세요."}}
+ {
+  "id": "sarawaklaksa",
+  "dish": {
+   "en": "Sarawak laksa",
+   "ko": "사라왁 락사"
+  },
+  "where": {
+   "en": "Kuching, Malaysia",
+   "ko": "말레이시아 쿠칭"
+  },
+  "note": {
+   "en": "A sambal-and-coconut broth with shredded chicken, prawn and omelette strips — nothing like the curry laksa sold elsewhere. Eaten for breakfast, sold out by 10am.",
+   "ko": "삼발과 코코넛 국물에 닭고기, 새우, 달걀지단을 얹습니다. 다른 곳에서 파는 커리 락사와는 전혀 다릅니다. 아침 식사로 먹으며 오전 10시면 매진됩니다."
+  },
+  "place": "kuching"
+ },
+ {
+  "id": "khinkali",
+  "dish": {
+   "en": "Khinkali",
+   "ko": "힌칼리"
+  },
+  "where": {
+   "en": "Kazbegi & Tusheti, Georgia",
+   "ko": "조지아 카즈베기·투셰티"
+  },
+  "note": {
+   "en": "Hand-twisted soup dumplings eaten by hand — hold the topknot, bite, drink the broth, discard the knot. Counting your discarded knots is how mountain guesthouses bill you.",
+   "ko": "손으로 빚어 손으로 먹는 육즙 만두입니다. 꼭지를 잡고 한 입 베어 국물을 마신 뒤 꼭지는 남깁니다. 산간 게스트하우스는 남은 꼭지 개수로 계산합니다."
+  },
+  "place": "tusheti"
+ },
+ {
+  "id": "muhlama",
+  "dish": {
+   "en": "Muhlama",
+   "ko": "무흘라마"
+  },
+  "where": {
+   "en": "Kaçkar Mountains, Türkiye",
+   "ko": "튀르키예 카츠카르 산맥"
+  },
+  "note": {
+   "en": "Cornmeal cooked into melted local cheese and butter until it pulls in strings. A highland breakfast built for cold mornings and long walks.",
+   "ko": "옥수수가루를 현지 치즈와 버터에 녹여 실처럼 늘어질 때까지 익힙니다. 추운 아침과 긴 산행을 위한 고원 지대의 아침 식사입니다."
+  },
+  "place": "bale"
+ },
+ {
+  "id": "curanto",
+  "dish": {
+   "en": "Curanto",
+   "ko": "쿠란토"
+  },
+  "where": {
+   "en": "Chiloé, Chile",
+   "ko": "칠레 칠로에"
+  },
+  "note": {
+   "en": "Shellfish, meat, potato dumplings and sausage layered over hot stones in a pit and covered with nalca leaves. A communal event more than a meal — arrange it a day ahead.",
+   "ko": "조개, 고기, 감자떡, 소시지를 구덩이 속 달군 돌 위에 켜켜이 쌓고 날카 잎으로 덮어 익힙니다. 식사라기보다 공동 행사라 하루 전에 예약해야 합니다."
+  },
+  "place": "chiloe"
+ },
+ {
+  "id": "honghapbap",
+  "dish": {
+   "en": "Honghap-bap",
+   "ko": "홍합밥"
+  },
+  "where": {
+   "en": "Ulleungdo, South Korea",
+   "ko": "대한민국 울릉도"
+  },
+  "note": {
+   "en": "Rice steamed with island mussels and wild namul greens that grow nowhere else in Korea, served with a soy-sesame sauce you pour over yourself.",
+   "ko": "섬에서 나는 홍합과 울릉도에서만 자라는 산나물을 넣어 지은 밥에, 간장 참기름 양념장을 직접 부어 비벼 먹습니다."
+  },
+  "place": "ulleungdo"
+ },
+ {
+  "id": "jaffnacrab",
+  "dish": {
+   "en": "Jaffna crab curry",
+   "ko": "자프나 크랩 커리"
+  },
+  "where": {
+   "en": "Jaffna, Sri Lanka",
+   "ko": "스리랑카 자프나"
+  },
+  "note": {
+   "en": "Darker and hotter than southern Sri Lankan curry, thickened with roasted spices and eaten with pittu. The heat is real — order rice and curd alongside.",
+   "ko": "남부 스리랑카 커리보다 색이 진하고 매우며, 볶은 향신료로 걸쭉하게 만들어 피투와 함께 먹습니다. 매운 정도가 상당하니 밥과 커드를 함께 주문하세요."
+  },
+  "place": "jaffna"
+ },
+ {
+  "id": "solover",
+  "dish": {
+   "en": "Sol over Gudhjem",
+   "ko": "솔 오버 구드옘"
+  },
+  "where": {
+   "en": "Bornholm, Denmark",
+   "ko": "덴마크 보른홀름"
+  },
+  "note": {
+   "en": "Smoked herring on dark rye with a raw egg yolk, radish and chives — 'sun over Gudhjem'. Eat it at a working smokehouse where the fish came off the rack an hour ago.",
+   "ko": "훈제 청어를 검은 호밀빵에 올리고 생달걀 노른자, 무, 차이브를 더합니다. '구드옘 위의 태양'이라는 뜻입니다. 한 시간 전에 걸이에서 내린 생선을 쓰는 훈제장에서 드세요."
+  },
+  "place": "bornholm"
+ },
+ {
+  "id": "kaymak",
+  "dish": {
+   "en": "Tarhana & village bread",
+   "ko": "타르하나와 마을 빵"
+  },
+  "where": {
+   "en": "Anatolian villages, Türkiye",
+   "ko": "튀르키예 아나톨리아 마을"
+  },
+  "note": {
+   "en": "A fermented soup base of yoghurt, tomato and wheat, dried in sheets over summer and rehydrated all winter. Almost never on tourist menus; ask at a village guesthouse.",
+   "ko": "요구르트, 토마토, 밀을 발효시켜 여름 내내 판 형태로 말렸다가 겨우내 물에 풀어 먹는 수프 베이스입니다. 관광 식당 메뉴에는 거의 없으니 마을 민박에서 물어보세요."
+  }
+ },
+ {
+  "id": "capers",
+  "dish": {
+   "en": "Capers & Malvasia",
+   "ko": "케이퍼와 말바지아"
+  },
+  "where": {
+   "en": "Salina, Italy",
+   "ko": "이탈리아 살리나"
+  },
+  "note": {
+   "en": "Salt-packed capers the size of olives, and a sweet passito wine dried on volcanic terraces. Buy both at a producer rather than a shop — half the price and twice the quality.",
+   "ko": "올리브만 한 크기의 소금 절임 케이퍼와, 화산 계단밭에서 말린 스위트 파시토 와인. 가게보다 생산자에게 직접 사면 값은 절반, 품질은 두 배입니다."
+  },
+  "place": "salina"
+ },
+ {
+  "id": "tarairice",
+  "dish": {
+   "en": "Chishang bento",
+   "ko": "츠상 벤또"
+  },
+  "where": {
+   "en": "Taitung, Taiwan",
+   "ko": "대만 타이둥"
+  },
+  "note": {
+   "en": "Rice from the East Rift Valley is Taiwan's most prized, and the railway bento box built around it has been sold at Chishang station for decades. Simple, and worth the stop.",
+   "ko": "화둥 종곡의 쌀은 대만에서 가장 귀하게 치며, 그 쌀로 만든 철도 도시락이 수십 년간 츠상역에서 팔리고 있습니다. 단순하지만 내려볼 가치가 있습니다."
+  },
+  "place": "taitung"
+ },
+ {
+  "id": "beshbarmak",
+  "dish": {
+   "en": "Beshbarmak",
+   "ko": "베시바르막"
+  },
+  "where": {
+   "en": "Kyrgyzstan & Kazakhstan",
+   "ko": "키르기스스탄·카자흐스탄"
+  },
+  "note": {
+   "en": "'Five fingers' — boiled meat over wide noodles, served on a shared platter and eaten by hand. Being offered the sheep's head is an honour; accept and pass pieces to elders.",
+   "ko": "'다섯 손가락'이라는 뜻으로, 삶은 고기를 넓은 면 위에 올려 큰 접시에 담아 손으로 먹습니다. 양 머리를 권하는 것은 존중의 표시이니 받아서 어른들께 부위를 나눠 드리세요."
+  },
+  "place": "songkul"
+ },
+ {
+  "id": "pastelnata",
+  "dish": {
+   "en": "Queijadas & Alentejo bread soup",
+   "ko": "케이자다와 알렌테주 빵 수프"
+  },
+  "where": {
+   "en": "Alentejo, Portugal",
+   "ko": "포르투갈 알렌테주"
+  },
+  "note": {
+   "en": "Skip the custard tarts and order açorda — stale bread, garlic, coriander, olive oil and a poached egg. Peasant food that turned out to be one of Portugal's best dishes.",
+   "ko": "에그타르트 대신 아소르다를 주문하세요. 굳은 빵, 마늘, 고수, 올리브유에 수란을 올린 요리입니다. 서민 음식이었지만 결국 포르투갈 최고의 요리 중 하나가 됐습니다."
+  },
+  "place": "alentejo"
+ },
+ {
+  "id": "khachapuri",
+  "dish": {
+   "en": "Kubdari",
+   "ko": "쿠브다리"
+  },
+  "where": {
+   "en": "Svaneti & Tusheti, Georgia",
+   "ko": "조지아 스바네티·투셰티"
+  },
+  "note": {
+   "en": "The mountain cousin of khachapuri — bread stuffed with spiced chopped meat rather than cheese, seasoned with blue fenugreek. Better than it sounds by a wide margin.",
+   "ko": "하차푸리의 산간 사촌 격으로, 치즈 대신 향신료로 양념한 다진 고기를 채운 빵입니다. 블루 페뉴그릭으로 향을 냅니다. 설명보다 훨씬 맛있습니다."
+  },
+  "place": "tusheti"
+ },
+ {
+  "id": "crabtottori",
+  "dish": {
+   "en": "Matsuba crab",
+   "ko": "마쓰바 대게"
+  },
+  "where": {
+   "en": "Tottori, Japan",
+   "ko": "일본 돗토리"
+  },
+  "note": {
+   "en": "Snow crab landed on the San'in coast, tagged by port and graded — the top grade goes for extraordinary sums. Season runs November to March and defines the region's winter.",
+   "ko": "산인 해안에서 잡히는 대게로, 항구별 태그를 붙여 등급을 매기며 최상급은 엄청난 값에 거래됩니다. 11월부터 3월까지가 제철이며 이 지역 겨울을 규정합니다."
+  },
+  "place": "tottori"
+ },
+ {
+  "id": "potatonaxos",
+  "dish": {
+   "en": "Naxos potatoes & graviera",
+   "ko": "낙소스 감자와 그라비에라"
+  },
+  "where": {
+   "en": "Naxos, Greece",
+   "ko": "그리스 낙소스"
+  },
+  "note": {
+   "en": "The island's potatoes are protected-origin and genuinely different — dense and sweet. Pair with local graviera cheese and citron liqueur made from the fruit's leaves.",
+   "ko": "이 섬의 감자는 원산지 보호를 받으며 실제로 다릅니다. 밀도가 높고 달큰하죠. 현지 그라비에라 치즈, 그리고 시트론 잎으로 만든 리큐어와 함께 드세요."
+  },
+  "place": "naxos"
+ },
+ {
+  "id": "sadonoodle",
+  "dish": {
+   "en": "Buri & Sado rice",
+   "ko": "방어와 사도 쌀"
+  },
+  "where": {
+   "en": "Sado Island, Japan",
+   "ko": "일본 사도가시마"
+  },
+  "note": {
+   "en": "Winter yellowtail from the cold Sea of Japan, served over rice grown on the island's terraced paddies. The island's sake breweries are small and rarely export.",
+   "ko": "차가운 동해에서 잡히는 겨울 방어를 섬의 계단식 논에서 자란 쌀 위에 올립니다. 섬의 양조장들은 규모가 작고 수출을 거의 하지 않습니다."
+  },
+  "place": "sado"
+ },
+ {
+  "id": "cocoa",
+  "dish": {
+   "en": "Single-origin cocoa",
+   "ko": "싱글 오리진 카카오"
+  },
+  "where": {
+   "en": "São Tomé & Príncipe",
+   "ko": "상투메 프린시페"
+  },
+  "note": {
+   "en": "Once the world's largest cocoa producer, now home to small cooperatives making some of the best chocolate anywhere. Plantation ('roça') visits usually include tasting.",
+   "ko": "한때 세계 최대 카카오 생산지였고, 지금은 소규모 협동조합들이 세계 최고 수준의 초콜릿을 만듭니다. 농장('로사') 방문에는 보통 시식이 포함됩니다."
+  },
+  "place": "saotome"
+ },
+ {
+  "id": "ceviche",
+  "dish": {
+   "en": "Trout ceviche",
+   "ko": "송어 세비체"
+  },
+  "where": {
+   "en": "Huaraz, Peru",
+   "ko": "페루 우아라스"
+  },
+  "note": {
+   "en": "In the Andes, ceviche is made with farmed river trout rather than sea fish — lighter, and safer to eat at altitude far from the coast. Served with choclo and sweet potato.",
+   "ko": "안데스에서는 바닷물고기 대신 양식 민물 송어로 세비체를 만듭니다. 더 담백하고, 해안에서 먼 고지대에서 먹기에 안전합니다. 촐로 옥수수와 고구마를 곁들입니다."
+  },
+  "place": "huayhuash"
+ },
+ {
+  "id": "nasisumba",
+  "dish": {
+   "en": "Kaparungu",
+   "ko": "카파룽구"
+  },
+  "where": {
+   "en": "Sumba, Indonesia",
+   "ko": "인도네시아 숨바"
+  },
+  "note": {
+   "en": "Sumbanese chicken cooked slowly with candlenut and local spices, often prepared for ceremonies. Ask your guesthouse a day ahead — it isn't a restaurant dish.",
+   "ko": "숨바식 닭 요리로 캔들넛과 현지 향신료를 넣어 천천히 익히며, 주로 의식 때 준비합니다. 식당 메뉴가 아니니 숙소에 하루 전 부탁하세요."
+  },
+  "place": "sumba"
+ },
+ {
+  "id": "boerewors",
+  "dish": {
+   "en": "Umngqusho & seafood potjie",
+   "ko": "움응쿠쇼와 해산물 포치"
+  },
+  "where": {
+   "en": "Wild Coast, South Africa",
+   "ko": "남아프리카공화국 와일드 코스트"
+  },
+  "note": {
+   "en": "Samp and beans slow-cooked for hours — a Xhosa staple — alongside mussels and crayfish gathered off the rocks that morning. Community lodges do this best.",
+   "ko": "으깬 옥수수와 콩을 몇 시간 뭉근히 끓인 코사족 주식에, 그날 아침 바위에서 딴 홍합과 랍스터를 곁들입니다. 지역 공동체 숙소가 가장 잘합니다."
+  },
+  "place": "wildcoast"
+ },
+ {
+  "id": "tarte",
+  "dish": {
+   "en": "Fresh cheese & fajã clams",
+   "ko": "생치즈와 파장 조개"
+  },
+  "where": {
+   "en": "São Jorge, Azores",
+   "ko": "아조레스 상조르즈"
+  },
+  "note": {
+   "en": "São Jorge cheese is aged and protected, but the young fresh version never leaves the island. Eat it with clams from the Santo Cristo lagoon, found nowhere else in the Azores.",
+   "ko": "상조르즈 치즈는 숙성 제품이 원산지 보호를 받지만, 어린 생치즈는 섬 밖으로 나가지 않습니다. 아조레스에서 이곳에만 있는 산투 크리스투 석호 조개와 함께 드세요."
+  },
+  "place": "saomiguel-alt"
+ },
+ {
+  "id": "pastilla",
+  "dish": {
+   "en": "Amlou",
+   "ko": "암루"
+  },
+  "where": {
+   "en": "Tafraout, Morocco",
+   "ko": "모로코 타프라우트"
+  },
+  "note": {
+   "en": "Roasted almonds ground with argan oil and honey into a spread — the Anti-Atlas answer to peanut butter, and made where both ingredients grow. Eat with fresh msemen.",
+   "ko": "구운 아몬드를 아르간 오일과 꿀에 갈아 만든 스프레드로, 안티아틀라스판 땅콩버터입니다. 두 재료가 모두 나는 곳에서 만들어집니다. 갓 구운 므세멘과 함께 드세요."
+  },
+  "place": "tafraout"
+ }
 ]
