@@ -166,6 +166,14 @@ select.sel{
 .act.primary{ background:var(--teal); border-color:var(--teal); color:#fff }
 .act.primary[aria-pressed="true"]{ background:var(--amber); border-color:var(--amber) }
 .act small{ font-weight:500; opacity:.7; font-size:11px }
+/* Icons inherit the button's colour, so hover and the saved state carry through. */
+.act svg{ flex:none; opacity:.85 }
+.act:hover svg{ opacity:1 }
+.act.primary svg{ opacity:1 }
+.act .ext{ font-style:normal; font-size:11px; opacity:.45; margin-left:-2px }
+.save svg{ display:block }
+.back{ align-items:center }
+.back svg{ flex:none }
 
 .quick{
   display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:1px;
@@ -413,6 +421,31 @@ const ADS = {
   grid: { after: 8 },
 };
 
+/* ================================================================ icons
+ * Inline SVG rather than an icon font or CDN: keeps the page self-contained,
+ * and `currentColor` means they follow the button's text colour in both themes.
+ */
+const ICON_PATHS = {
+  star:    '<path d="M12 3.6l2.6 5.3 5.8.9-4.2 4.1 1 5.8-5.2-2.7-5.2 2.7 1-5.8-4.2-4.1 5.8-.9z"/>',
+  starOn:  '<path fill="currentColor" stroke="none" d="M12 3.6l2.6 5.3 5.8.9-4.2 4.1 1 5.8-5.2-2.7-5.2 2.7 1-5.8-4.2-4.1 5.8-.9z"/>',
+  share:   '<path d="M12 15.5V4"/><path d="M8.4 7.6L12 4l3.6 3.6"/><path d="M5 13v5.5A1.5 1.5 0 006.5 20h11a1.5 1.5 0 001.5-1.5V13"/>',
+  map:     '<path d="M12 21s7-5.7 7-11a7 7 0 10-14 0c0 5.3 7 11 7 11z"/><circle cx="12" cy="10" r="2.6"/>',
+  guide:   '<path d="M12 6.6C10.5 5.1 8 4.6 4 5.1v13c4-.5 6.5 0 8 1.5 1.5-1.5 4-2 8-1.5v-13c-4-.5-6.5 0-8 1.5z"/><path d="M12 6.6v12.9"/>',
+  plane:   '<path d="M21.4 3.6L2.6 10.3l7.3 2.9 2.9 7.3z"/><path d="M9.9 13.2l11.5-9.6"/>',
+  bed:     '<path d="M3 18.5V6"/><path d="M3 13h18"/><path d="M21 18.5V13a2 2 0 00-2-2h-8V8.5"/><circle cx="7.3" cy="9.6" r="2.1"/>',
+  sun:     '<circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M4.6 4.6l1.4 1.4M18 18l1.4 1.4M2.5 12h2M19.5 12h2M4.6 19.4L6 18M18 6l1.4-1.4"/>',
+  globe:   '<circle cx="12" cy="12" r="8.8"/><path d="M3.2 12h17.6"/><path d="M12 3.2a13.5 13.5 0 010 17.6 13.5 13.5 0 010-17.6z"/>',
+  copy:    '<rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15H4.5A1.5 1.5 0 013 13.5v-9A1.5 1.5 0 014.5 3h9A1.5 1.5 0 0115 4.5V5"/>',
+  print:   '<path d="M7 9V3.5h10V9"/><path d="M7 18H5a2 2 0 01-2-2v-4a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2h-2"/><path d="M7 14.5h10v6H7z"/>',
+  trash:   '<path d="M4 6.5h16"/><path d="M9.5 6.5V4.5h5v2"/><path d="M6.5 6.5l.9 13a1.5 1.5 0 001.5 1.4h6.2a1.5 1.5 0 001.5-1.4l.9-13"/>',
+  back:    '<path d="M19 12H5"/><path d="M11 6l-6 6 6 6"/>',
+};
+const ICON_KEY = { openMaps:'map', guide:'guide', flights:'plane', hotels:'bed', weather:'sun', wiki:'globe' };
+const icon = (n, size=16) => ICON_PATHS[n]
+  ? `<svg viewBox="0 0 24 24" width="${size}" height="${size}" fill="none" stroke="currentColor"
+       stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICON_PATHS[n]}</svg>`
+  : '';
+
 /* ================================================================ state */
 const store = {
   get(k,d){ try{ return JSON.parse(localStorage.getItem('ha:'+k)) ?? d }catch{ return d } },
@@ -513,7 +546,7 @@ function card(p){
       ${placeholder(p)}
       ${img?`<img loading="lazy" decoding="async" src="${esc(img)}" alt="" onerror="this.remove()">`:''}
       ${DB.plans[p.id]?`<span class="plan-flag">${esc(T().planned)}</span>`:''}
-      <button class="save" data-save="${esc(p.id)}" aria-pressed="${sv}" title="${esc(T().save)}">${sv?'★':'☆'}</button>
+      <button class="save" data-save="${esc(p.id)}" aria-pressed="${sv}" title="${esc(T().save)}" aria-label="${esc(T().save)}">${icon(sv?'starOn':'star',17)}</button>
     </div>
     <div class="cbody">
       <div><div class="ctitle">${esc(t(p.name))}</div><div class="cwhere">${esc(t(p.country))}</div></div>
@@ -609,7 +642,7 @@ function viewPlace(id){
   const sec = (title, body) => body ? `<section class="sec"><h2>${esc(title)}</h2><p>${esc(body)}</p></section>` : '';
 
   return `
-  <a class="back" href="#/">← ${esc(T().back)}</a>
+  <a class="back" href="#/">${icon('back',15)}<span>${esc(T().back)}</span></a>
   <div class="dhero">${placeholder(p)}${img?`<img src="${esc(img)}" alt="${esc(t(p.name))}" onerror="this.remove()">`:''}</div>
   <div class="dtitle">
     <h1>${esc(t(p.name))}</h1>
@@ -618,9 +651,10 @@ function viewPlace(id){
   </div>
 
   <div class="actions">
-    <button class="act primary" data-save="${esc(id)}" aria-pressed="${sv}">${sv?'★':'☆'} ${esc(sv?T().saved:T().save)}</button>
-    <button class="act" id="share">⤴ ${esc(T().share)}</button>
-    ${links(p).map(l=>`<a class="act" href="${esc(l.href)}" target="_blank" rel="noopener">${esc(T()[l.k])} ↗</a>`).join('')}
+    <button class="act primary" data-save="${esc(id)}" aria-pressed="${sv}">${icon(sv?'starOn':'star')}<span>${esc(sv?T().saved:T().save)}</span></button>
+    <button class="act" id="share">${icon('share')}<span>${esc(T().share)}</span></button>
+    ${links(p).map(l=>`<a class="act" href="${esc(l.href)}" target="_blank" rel="noopener">
+      ${icon(ICON_KEY[l.k]||'globe')}<span>${esc(T()[l.k])}</span><i class="ext" aria-hidden="true">↗</i></a>`).join('')}
   </div>
 
   <div class="quick">
@@ -654,9 +688,9 @@ function viewSaved(){
     <p>${esc(T().savedEmpty)}</p></section>`;
   return `<section class="hero"><h1>${esc(T().savedTitle)}</h1>
     <div class="actions" style="margin-top:14px">
-      <button class="act" id="copyList">⧉ ${esc(T().copyList)}</button>
-      <button class="act" id="printList">⎙ ${esc(T().printList)}</button>
-      <button class="act" id="clearSaved">✕ ${esc(T().removeAll)}</button>
+      <button class="act" id="copyList">${icon('copy')}<span>${esc(T().copyList)}</span></button>
+      <button class="act" id="printList">${icon('print')}<span>${esc(T().printList)}</span></button>
+      <button class="act" id="clearSaved">${icon('trash')}<span>${esc(T().removeAll)}</span></button>
     </div></section>
     <div class="grid">${list.map(card).join('')}</div>`;
 }
@@ -785,7 +819,9 @@ document.addEventListener('click', e=>{
   document.querySelectorAll(`[data-save="${CSS.escape(id)}"]`).forEach(x=>{
     const on = SAVED.has(id);
     x.setAttribute('aria-pressed', on);
-    x.textContent = x.classList.contains('act') ? `${on?'★':'☆'} ${on?T().saved:T().save}` : (on?'★':'☆');
+    x.innerHTML = x.classList.contains('act')
+      ? `${icon(on?'starOn':'star')}<span>${esc(on?T().saved:T().save)}</span>`
+      : icon(on?'starOn':'star',17);
   });
 });
 document.addEventListener('keydown', e=>{
