@@ -171,9 +171,12 @@ async function enrich(places, cache) {
   // card for four months. Failures get a short retry window instead.
   const stale = (e) => {
     if (!e) return true;
-    if (e.error || !e.image) return !e.triedAt || now - Date.parse(e.triedAt) > ENRICH_RETRY_DAYS * 864e5;
-    // Photo was chosen by an older, weaker filter — re-check it.
+    // Version check must come FIRST. It used to sit below the no-image branch,
+    // which meant an entry with no image was held in the 1-day retry window and
+    // never re-checked — so correcting a wiki title or the photo filter had no
+    // effect on precisely the entries that needed it.
     if ((e.photoRev || 0) < PHOTO_REV) return true;
+    if (e.error || !e.image) return !e.triedAt || now - Date.parse(e.triedAt) > ENRICH_RETRY_DAYS * 864e5;
     return !e.fetchedAt || now - Date.parse(e.fetchedAt) > ENRICH_MAX_AGE_DAYS * 864e5;
   };
 
