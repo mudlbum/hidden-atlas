@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-18T05:45:35.259Z",
-  "date": "2026-08-18",
+  "generatedAt": "2026-08-19T05:46:57.606Z",
+  "date": "2026-08-19",
   "rotation": {
     "places": [
-      "greatbasin",
-      "lencois",
-      "koreanpark"
+      "plovdiv",
+      "ulleungdo",
+      "nongkhiaw"
     ],
-    "tip": "layover",
-    "eat": "sarawaklaksa"
+    "tip": "localsim",
+    "eat": "khinkali"
   },
   "counts": {
     "places": 72,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Kloster Eberbach in Eltville am Rhein, Germany",
+      "link": "https://www.atlasobscura.com/places/eberbach-abbey-kloster-eberbach",
+      "date": "Tue, 18 Aug 2026 16:00:00 -0400",
+      "summary": "Perched on a sun-drenched slope in Eltville am Rhein, Kloster Eberbach stands as a masterpiece of Cistercian architecture, founded in 1136 by twelve monks seeking isolation and spiritual rigor. The abbey is famous for its vast, column-free Romanesque grain bar",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Salubria in Stevensburg, Virginia",
+      "link": "https://www.atlasobscura.com/places/salubria",
+      "date": "Tue, 18 Aug 2026 14:00:00 -0400",
+      "summary": "Latin for \"healthful\" or \"good health,\" Salubria, unlike James Madison's nearby home, Montpelier, is a lesser-known gem of the Piedmont region. Salubria, c 1757, is currently preserved though not restored- the house has not been repainted or re-furnished in pe",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Tin Pan Theater in Bend, Oregon",
+      "link": "https://www.atlasobscura.com/places/tin-pan-theater",
+      "date": "Tue, 18 Aug 2026 12:00:00 -0400",
+      "summary": "Tin Pan Theater is a beloved arthouse cinema owned by BendFilm in the historic district of Bend, Oregon. The intimate 28 seat theater is adorned with red velvet old-fashioned seats that can best be enjoyed with the best home-made popcorn you've ever had. The s",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Cinema Africa in Asmara, Eritrea",
+      "link": "https://www.atlasobscura.com/places/cinema-africa",
+      "date": "Tue, 18 Aug 2026 10:00:00 -0400",
+      "summary": "Built during the Italian colonial era, when Asmara boasted one of the highest concentrations of cinemas in the continent, Cinema Africa belonged to a city where going to the movies was as much a social ritual as an evening's entertainment. Now outside the sigh",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Gregg-Crites Octagon House in Circleville, Ohio",
       "link": "https://www.atlasobscura.com/places/gregg-crites-octagon-house",
       "date": "Mon, 17 Aug 2026 16:00:00 -0400",
       "summary": "Located on the southern end of town, the Gregg-Crites Octagon House is one of Pickaway County's most unique architectural landmarks. This eight-sided home in Circleville, Ohio is believed to have been built between 1855-56 by a man named George Gregg. While th",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Dolphin Sunset in Hong Kong",
-      "link": "https://www.atlasobscura.com/places/dolphin-sunset",
-      "date": "Mon, 17 Aug 2026 14:00:00 -0400",
-      "summary": "Tsim Sha Tsui is one of Hong Kong's busiest districts, filled with people from morning till night. It is particularly popular with mainland tourists who arrive directly by ferry from Chinese cities in the Pearl River Delta region. Many of these tourists will d",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "15 Best Places to Experience Bioluminescence",
-      "link": "https://www.atlasobscura.com/articles/bioluminescent-places-around-the-world",
-      "date": "Mon, 17 Aug 2026 13:40:00 -0400",
-      "summary": "The humble glow worm is, in fact, a catchall term for numerous glowing creatures, from gnat larvae to fire flys to algae, that can be found all over the world. These tiny critters illuminate the night through bioluminescence, a process in which light is emitte",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Iglesia De La Asunción in San Sebastián de La Gomera, Spain",
-      "link": "https://www.atlasobscura.com/places/iglesia-de-la-asuncion",
-      "date": "Mon, 17 Aug 2026 12:00:00 -0400",
-      "summary": "The Canary Islands are known primarily as tropical paradise for vacations, but also have beautiful nature and some of the best preserved historical buildings. La Gomerra is a great example of this, with many 15th-century buildings still in use today. Perhaps t",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Portsmouth Flood Wall Murals in Portsmouth, Ohio",
-      "link": "https://www.atlasobscura.com/places/portsmouth-flood-wall-murals",
-      "date": "Mon, 17 Aug 2026 10:00:00 -0400",
-      "summary": "The Portsmouth Floodwall Murals were painted to transform a functional floodwall into an outdoor gallery to celebrate the city's rich history. Even though the city of Portsmouth, Ohio sits on higher ground adjacent to the Ohio River, it was still prone to floo",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -149,6 +149,17 @@
       }
     },
     {
+      "title": "Does anyone else travel solo for the same reason?",
+      "link": "https://www.reddit.com/r/solotravel/comments/1vqsz3s/does_anyone_else_travel_solo_for_the_same_reason/",
+      "date": "2026-08-17T13:52:58+00:00",
+      "summary": "Well I know some people don't have friends so they travel solo or just want time away but I want none of those. I would love to be with my friends and family but no one is interested or feels scared to go to the same destinations as me. When I was 18 after my ",
+      "source": "reddit-solotravel",
+      "sourceLabel": {
+        "en": "r/solotravel",
+        "ko": "r/solotravel"
+      }
+    },
+    {
       "title": "What's a destination that completely exceeded your expectations compared to its reputation?",
       "link": "https://www.reddit.com/r/solotravel/comments/1vmfbes/whats_a_destination_that_completely_exceeded_your/",
       "date": "2026-08-12T14:13:38+00:00",
@@ -164,17 +175,6 @@
       "link": "https://www.reddit.com/r/solotravel/comments/1vmv73c/experiencing_intense_moments_alone/",
       "date": "2026-08-13T00:12:42+00:00",
       "summary": "I have travelled solo most of my life, partly because I really enjoy it and partly because I don't actually have anyone to travel with. When travelling solo, I often find myself in really stunning scenery but get a jolt of pain in my soul that I have no one to",
-      "source": "reddit-solotravel",
-      "sourceLabel": {
-        "en": "r/solotravel",
-        "ko": "r/solotravel"
-      }
-    },
-    {
-      "title": "Does anyone else travel solo for the same reason?",
-      "link": "https://www.reddit.com/r/solotravel/comments/1vqsz3s/does_anyone_else_travel_solo_for_the_same_reason/",
-      "date": "2026-08-17T13:52:58+00:00",
-      "summary": "Well I know some people don't have friends so they travel solo or just want time away but I want none of those. I would love to be with my friends and family but no one is interested or feels scared to go to the same destinations as me. When I was 18 after my ",
       "source": "reddit-solotravel",
       "sourceLabel": {
         "en": "r/solotravel",
@@ -206,7 +206,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
-    "failed": 0
+    "ok": 6,
+    "failed": 3
   }
 }
