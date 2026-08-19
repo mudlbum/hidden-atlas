@@ -349,5 +349,21 @@
    "ko": "구운 아몬드를 아르간 오일과 꿀에 갈아 만든 스프레드로, 안티아틀라스판 땅콩버터입니다. 두 재료가 모두 나는 곳에서 만들어집니다. 갓 구운 므세멘과 함께 드세요."
   },
   "place": "tafraout"
+ },
+ {
+  "id": "cuscuzsantoantao",
+  "dish": {
+   "en": "Cuscuz",
+   "ko": "쿠스쿠스 (산투안탕식)"
+  },
+  "where": {
+   "en": "Santo Antão, Cape Verde",
+   "ko": "카보베르데 산투안탕"
+  },
+  "note": {
+   "en": "Nothing to do with the North African grain — this is coarse maize meal steamed in a wooden barrel called a binde until it turns into a warm, crumbly cake. Eaten for breakfast, cut in wedges, with mel de cana poured over it and a slab of fresh goat cheese alongside.",
+   "ko": "북아프리카의 쿠스쿠스와는 전혀 다릅니다. 굵게 빻은 옥수수 가루를 '빈드'라는 나무통에 넣고 쪄서 따뜻하고 포슬포슬한 떡처럼 만든 것입니다. 아침으로 조각내어 먹으며, 사탕수수 시럽 '멜 드 카나'를 끼얹고 갓 만든 염소 치즈를 곁들입니다."
+  },
+  "place": "santoantao"
  }
 ]
