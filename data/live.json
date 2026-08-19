@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-15T01:13:41.217Z",
-  "date": "2026-08-15",
+  "generatedAt": "2026-08-19T05:46:57.606Z",
+  "date": "2026-08-19",
   "rotation": {
     "places": [
-      "saomiguel-alt",
-      "gargano",
-      "matsu"
+      "plovdiv",
+      "ulleungdo",
+      "nongkhiaw"
     ],
-    "tip": "packcube",
-    "eat": "jaffnacrab"
+    "tip": "localsim",
+    "eat": "khinkali"
   },
   "counts": {
     "places": 72,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "Murales del Borgo San Giuliano in Rimini, Italy",
-      "link": "https://www.atlasobscura.com/places/murales-del-borgo-san-giuliano",
-      "date": "Fri, 14 Aug 2026 16:00:00 -0400",
-      "summary": "Founded around the year 1000, Borgo San Giuliano, was originally the city's fishermen’s quarter. The tradition of painting murals that has made Borgo San Giuliano famous has deep roots. In 1979, the city council suggested demolishing the neighborhood to make w",
+      "title": "Kloster Eberbach in Eltville am Rhein, Germany",
+      "link": "https://www.atlasobscura.com/places/eberbach-abbey-kloster-eberbach",
+      "date": "Tue, 18 Aug 2026 16:00:00 -0400",
+      "summary": "Perched on a sun-drenched slope in Eltville am Rhein, Kloster Eberbach stands as a masterpiece of Cistercian architecture, founded in 1136 by twelve monks seeking isolation and spiritual rigor. The abbey is famous for its vast, column-free Romanesque grain bar",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Fannie Bay Gaol in Fannie Bay, Australia",
-      "link": "https://www.atlasobscura.com/places/fannie-bay-gaol",
-      "date": "Fri, 14 Aug 2026 14:00:00 -0400",
-      "summary": "For nearly a century, Fannie Bay Gaol was the Northern Territory of Australia's principal prison, confining a range of prisoners from cattle rustlers and opium traffickers to political prisoners and condemned murderers. It was opened as Her Majesty's Gaol and ",
+      "title": "Salubria in Stevensburg, Virginia",
+      "link": "https://www.atlasobscura.com/places/salubria",
+      "date": "Tue, 18 Aug 2026 14:00:00 -0400",
+      "summary": "Latin for \"healthful\" or \"good health,\" Salubria, unlike James Madison's nearby home, Montpelier, is a lesser-known gem of the Piedmont region. Salubria, c 1757, is currently preserved though not restored- the house has not been repainted or re-furnished in pe",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "The Atlas Obscura Guide to the World's Strangest Christmas Traditions",
-      "link": "https://www.atlasobscura.com/articles/guide-to-strangest-christmas-traditions",
-      "date": "Fri, 14 Aug 2026 13:33:00 -0400",
-      "summary": "Every European Christmas market sells the same mulled wine out of the same wooden hut. This is not a criticism — it is a very good hut, and the wine is warm. But it is not a reason to choose one country over another, and the \"best Christmas markets\" lists that",
+      "title": "Tin Pan Theater in Bend, Oregon",
+      "link": "https://www.atlasobscura.com/places/tin-pan-theater",
+      "date": "Tue, 18 Aug 2026 12:00:00 -0400",
+      "summary": "Tin Pan Theater is a beloved arthouse cinema owned by BendFilm in the historic district of Bend, Oregon. The intimate 28 seat theater is adorned with red velvet old-fashioned seats that can best be enjoyed with the best home-made popcorn you've ever had. The s",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "The Atlas Obscura Guide to Seeing the Northern Lights",
-      "link": "https://www.atlasobscura.com/articles/guide-to-northern-lights",
-      "date": "Fri, 14 Aug 2026 13:27:00 -0400",
-      "summary": "Here is the failure mode nobody warns you about. You book a week in a country you chose because it appeared on a list of the best places to see the northern lights. You arrive. It is cloudy for six nights. You go home having seen nothing, and you conclude the ",
+      "title": "Cinema Africa in Asmara, Eritrea",
+      "link": "https://www.atlasobscura.com/places/cinema-africa",
+      "date": "Tue, 18 Aug 2026 10:00:00 -0400",
+      "summary": "Built during the Italian colonial era, when Asmara boasted one of the highest concentrations of cinemas in the continent, Cinema Africa belonged to a city where going to the movies was as much a social ritual as an evening's entertainment. Now outside the sigh",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "The Atlas Obscura Guide to Winter Sun",
-      "link": "https://www.atlasobscura.com/articles/guide-to-winter-sun",
-      "date": "Fri, 14 Aug 2026 13:16:00 -0400",
-      "summary": "Every winter sun list is the same list. Somewhere with a beach, ranked by average January temperature, with a paragraph about resorts. The only variable is the number, and the number is available on any weather site for free. Here is a better question. Rather ",
+      "title": "Gregg-Crites Octagon House in Circleville, Ohio",
+      "link": "https://www.atlasobscura.com/places/gregg-crites-octagon-house",
+      "date": "Mon, 17 Aug 2026 16:00:00 -0400",
+      "summary": "Located on the southern end of town, the Gregg-Crites Octagon House is one of Pickaway County's most unique architectural landmarks. This eight-sided home in Circleville, Ohio is believed to have been built between 1855-56 by a man named George Gregg. While th",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -127,32 +127,32 @@
       }
     },
     {
-      "title": "Met up after more than 30 years - confusing!",
-      "link": "https://www.reddit.com/r/solotravel/comments/1visp5w/met_up_after_more_than_30_years_confusing/",
-      "date": "2026-08-08T10:40:29+00:00",
-      "summary": "First of all, I've anonymized this post a bit, since this is concerning another real person. Hi, I traveled to a nation just opening up to the west in the early 90s, as a male independent traveler aged in my early 20s. I met a young lady who was on the staff o",
-      "source": "reddit-solotravel",
-      "sourceLabel": {
-        "en": "r/solotravel",
-        "ko": "r/solotravel"
-      }
-    },
-    {
-      "title": "My boyfriend has regulations for me traveling solo – reasonable or unreasonable?",
-      "link": "https://www.reddit.com/r/solotravel/comments/1vkynz2/my_boyfriend_has_regulations_for_me_traveling/",
-      "date": "2026-08-10T21:56:20+00:00",
-      "summary": "My (26F) boyfriend (36M) of 5 years is struggling with me telling him I want to travel solo at least once. He and I love seeing national parks together and have been able to create some really special vacations and memories. I have a strong urge to travel solo",
-      "source": "reddit-solotravel",
-      "sourceLabel": {
-        "en": "r/solotravel",
-        "ko": "r/solotravel"
-      }
-    },
-    {
       "title": "Struggling to get over the regret of not starting my solo travel journey at a younger age.",
       "link": "https://www.reddit.com/r/solotravel/comments/1vndnb9/struggling_to_get_over_the_regret_of_not_starting/",
       "date": "2026-08-13T15:18:05+00:00",
       "summary": "I’m 32. I only started travelling this year and it’s EASILY been one of the best things I’ve done in my entire life. Loved the places I’ve been and all the cool people I’ve met. But I wasn’t expecting it to come with quite so much sadness, or even a feeling si",
+      "source": "reddit-solotravel",
+      "sourceLabel": {
+        "en": "r/solotravel",
+        "ko": "r/solotravel"
+      }
+    },
+    {
+      "title": "first time solo travelling. turns out i really like my own company. this sub gave me the confidence to do this.",
+      "link": "https://www.reddit.com/r/solotravel/comments/1vobpqe/first_time_solo_travelling_turns_out_i_really/",
+      "date": "2026-08-14T16:16:57+00:00",
+      "summary": "like the title says, it’s my (21F) first time ever solo travelling and so far i’m loving it. I’d done travel by myself in tour groups before but that’s a bit different because it’s a set itinerary and someone else coordinating how to get you from point A to po",
+      "source": "reddit-solotravel",
+      "sourceLabel": {
+        "en": "r/solotravel",
+        "ko": "r/solotravel"
+      }
+    },
+    {
+      "title": "Does anyone else travel solo for the same reason?",
+      "link": "https://www.reddit.com/r/solotravel/comments/1vqsz3s/does_anyone_else_travel_solo_for_the_same_reason/",
+      "date": "2026-08-17T13:52:58+00:00",
+      "summary": "Well I know some people don't have friends so they travel solo or just want time away but I want none of those. I would love to be with my friends and family but no one is interested or feels scared to go to the same destinations as me. When I was 18 after my ",
       "source": "reddit-solotravel",
       "sourceLabel": {
         "en": "r/solotravel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "Does not posting on social media while traveling allow you to experience the trip more fully",
-      "link": "https://www.reddit.com/r/solotravel/comments/1vj5lhy/does_not_posting_on_social_media_while_traveling/",
-      "date": "2026-08-08T20:02:35+00:00",
-      "summary": "I’m considering taking a vacation without posting any pictures or updates while I’m away. I would still take photographs for myself, but I’d wait until after the trip—if I share them at all. I enjoy letting friends see where I am and what I’m experiencing, but",
+      "title": "Experiencing intense moments alone.",
+      "link": "https://www.reddit.com/r/solotravel/comments/1vmv73c/experiencing_intense_moments_alone/",
+      "date": "2026-08-13T00:12:42+00:00",
+      "summary": "I have travelled solo most of my life, partly because I really enjoy it and partly because I don't actually have anyone to travel with. When travelling solo, I often find myself in really stunning scenery but get a jolt of pain in my soul that I have no one to",
       "source": "reddit-solotravel",
       "sourceLabel": {
         "en": "r/solotravel",
@@ -206,7 +206,7 @@
     }
   ],
   "enrichment": {
-    "ok": 66,
-    "failed": 0
+    "ok": 6,
+    "failed": 3
   }
 }
