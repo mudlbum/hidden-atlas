@@ -93,11 +93,11 @@
     "image": null,
     "thumb": null,
     "photoSource": "none",
-    "photoRev": 2,
+    "photoRev": 3,
     "extract": "Ribeira Sacra is a Spanish Denominación de Origen Protegida (DOP) (Denominación de Orixe Protexida in Galician) for wines located in the south of the province of Lugo and in the north of the province of Ourense, in Galicia, Spain. It extends over the territories of 20 different municipalities that make up a zone also called Ribeira Sacra, which could be translated as \"Sacred Riverbank\". Vineyards ",
     "page": "https://en.wikipedia.org/wiki/Ribeira_Sacra_(DO)",
-    "fetchedAt": "2026-08-19T05:46:48.583Z",
-    "triedAt": "2026-08-19T05:46:48.583Z"
+    "fetchedAt": "2026-08-19T14:00:09.756Z",
+    "triedAt": "2026-08-19T14:00:09.756Z"
   },
   "bornholm": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wybrze%C5%BCe_Bornholmu.JPG/960px-Wybrze%C5%BCe_Bornholmu.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -130,8 +130,14 @@
     "triedAt": "2026-08-19T13:51:20.983Z"
   },
   "salina": {
-    "triedAt": "2026-08-19T05:46:48.950Z",
-    "error": "no such article"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Aerial_image_of_Salina_%28view_from_the_southwest%29.jpg/960px-Aerial_image_of_Salina_%28view_from_the_southwest%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Aerial_image_of_Salina_%28view_from_the_southwest%29.jpg/960px-Aerial_image_of_Salina_%28view_from_the_southwest%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoRev": 3,
+    "extract": "Salina (Italian pronunciation: [saˈliːna]) is one of the Aeolian Islands north of Sicily, Southern Italy. It is the second largest island in the archipelago.\nSalina is divided between three municipalities: Santa Marina on the eastern coast, Malfa to the north, and Leni to the south-west. From Leni down towards the sea is the village of Rinella.  Above the village of Leni is Valdichiesa in the cent",
+    "page": "https://en.wikipedia.org/wiki/Salina,_Sicily",
+    "fetchedAt": "2026-08-19T14:00:10.106Z",
+    "triedAt": "2026-08-19T14:00:10.106Z"
   },
   "curonian": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Mirties_sl%C4%97nis_nuo_Parnid%C5%BEio_kopos.JPG/960px-Mirties_sl%C4%97nis_nuo_Parnid%C5%BEio_kopos.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -194,14 +200,14 @@
     "triedAt": "2026-08-19T13:51:24.032Z"
   },
   "suncheon": {
-    "image": null,
-    "thumb": null,
-    "photoSource": "lead",
-    "photoRev": 2,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20181231%20Suncheon%20Bay%20003.jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/20181231%20Suncheon%20Bay%20003.jpg?width=800",
+    "photoSource": "article",
+    "photoRev": 3,
     "extract": "Suncheon Bay is a coastal wetland in Suncheon, South Jeolla Province, South Korea. It is composed of a 3.5 km (2.2 mi) long stream, a 2,221 ha (5,490 acres) wide tideland and a 230 ha (570 acres) wide field of reeds. Due to its natural coast, it is the habitat of migratory birds, plants and animals. It is the first Korean coastal wetland, Suncheon Bay Ecological Park, to be registered on the list ",
     "page": "https://en.wikipedia.org/wiki/Suncheon_Bay",
-    "fetchedAt": "2026-08-19T05:46:49.325Z",
-    "triedAt": "2026-08-19T05:46:49.325Z"
+    "fetchedAt": "2026-08-19T14:00:10.760Z",
+    "triedAt": "2026-08-19T14:00:10.760Z"
   },
   "taitung": {
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taitung%20Art%20Museum03.jpg?width=800",
@@ -224,8 +230,14 @@
     "triedAt": "2026-08-19T13:51:25.682Z"
   },
   "songkul": {
-    "triedAt": "2026-08-19T05:46:49.694Z",
-    "error": "no such article"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Song-K%C3%B6l.jpg/960px-Song-K%C3%B6l.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Song-K%C3%B6l.jpg/960px-Song-K%C3%B6l.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoRev": 3,
+    "extract": "Song-Köl (Kyrgyz: Соң-Көл [soŋ cʰɵl]; lit. 'Final Lake') is an alpine lake in northern Naryn Region, Kyrgyzstan. It lies at an altitude of 3016 m, and has an area of about 270 km2 and volume of 2.64 km3. The lake's maximum length is 29 km, breadth about 18 km at its widest, and the deepest point is 13.2 m. It is the second largest lake in Kyrgyzstan after Issyk-Kul, and the largest fresh water lak",
+    "page": "https://en.wikipedia.org/wiki/Song-K%C3%B6l",
+    "fetchedAt": "2026-08-19T14:00:11.117Z",
+    "triedAt": "2026-08-19T14:00:11.117Z"
   },
   "tusheti": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Keselo%2C_Tusheti.jpg/960px-Keselo%2C_Tusheti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -238,8 +250,14 @@
     "triedAt": "2026-08-19T13:51:26.055Z"
   },
   "nuratau": {
-    "triedAt": "2026-08-19T05:46:50.059Z",
-    "error": "no such article"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sentob_valley.jpg/960px-Sentob_valley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sentob_valley.jpg/960px-Sentob_valley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoRev": 3,
+    "extract": "The Nuratau Mountains (Uzbek: Nurota tog'lari, Russian: Нурата́у or Нурати́нский хребе́т) is a mountain range located in Uzbekistan and constitutes one of the western buttresses of the Gissar Range. It borders Aydar Lake to the north, the town of Nurata to the west, the Kyzylkum Desert to the south, and the Sanzar river to the east. Stretching over 170 km in east–west direction it culminates in th",
+    "page": "https://en.wikipedia.org/wiki/Nuratau_Mountains",
+    "fetchedAt": "2026-08-19T14:00:11.463Z",
+    "triedAt": "2026-08-19T14:00:11.463Z"
   },
   "nongkhiaw": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nong_Khiaw_pano%284%29.jpg/960px-Nong_Khiaw_pano%284%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -384,12 +402,12 @@
   "wildcoast": {
     "image": null,
     "thumb": null,
-    "photoSource": "lead",
-    "photoRev": 2,
+    "photoSource": "none",
+    "photoRev": 3,
     "extract": "The Wild Coast can refer to:\n\n WildCoast is an international conservation non-profit organization based in California and Mexico. WILDCOAST conserves coastal and marine ecosystems and addresses climate change with natural solutions.\nThe Wild Coast Region, Eastern Cape, a coastal region in Eastern Cape Province of South Africa\nThe Wild Coast (Greyhawk), a fictional region located in the World of Gr",
     "page": "https://en.wikipedia.org/wiki/Wild_Coast",
-    "fetchedAt": "2026-08-19T05:46:50.418Z",
-    "triedAt": "2026-08-19T05:46:50.418Z"
+    "fetchedAt": "2026-08-19T14:00:12.113Z",
+    "triedAt": "2026-08-19T14:00:12.113Z"
   },
   "jardin": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panor%C3%A1micaJard%C3%ADnAntioquia.jpg/960px-Panor%C3%A1micaJard%C3%ADnAntioquia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -442,14 +460,14 @@
     "triedAt": "2026-08-19T13:51:35.128Z"
   },
   "fogo": {
-    "image": null,
-    "thumb": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fogo_Island_Inn.jpg/960px-Fogo_Island_Inn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fogo_Island_Inn.jpg/960px-Fogo_Island_Inn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "photoSource": "lead",
-    "photoRev": 2,
-    "extract": "Fogo Island may refer to:\n\nFogo Island, Newfoundland and Labrador, an island and town in Canada\nFogo, Cape Verde",
-    "page": "https://en.wikipedia.org/wiki/Fogo_Island",
-    "fetchedAt": "2026-08-19T05:46:50.797Z",
-    "triedAt": "2026-08-19T05:46:50.797Z"
+    "photoRev": 3,
+    "extract": "Fogo Island is the largest of the offshore islands of Newfoundland and Labrador, Canada. It lies off the northeast coast of Newfoundland, northwest of Musgrave Harbour across Hamilton Sound, just east of the Change Islands. The island is about 25 km (16 mi) long and 14 km (8.7 mi) wide. The total area is 237.71 km2 (91.78 sq mi).\nOn March 1, 2011, the Town of Fogo Island was incorporated, encompas",
+    "page": "https://en.wikipedia.org/wiki/Fogo_Island,_Newfoundland_and_Labrador",
+    "fetchedAt": "2026-08-19T14:00:12.452Z",
+    "triedAt": "2026-08-19T14:00:12.452Z"
   },
   "greatbasin": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Prometheus_Wheeler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -495,11 +513,11 @@
     "image": null,
     "thumb": null,
     "photoSource": "none",
-    "photoRev": 2,
+    "photoRev": 3,
     "extract": "Savaiʻi is the largest and highest island both in Samoa and in the Samoan Islands chain. The island is also the sixth largest in Polynesia, behind the three main islands of New Zealand and the Hawaiian Islands of Hawaii and Maui. While it is larger than the second main island, Upolu, it is significantly less populated.\nSamoans sometimes refer to the island of Savaiʻi as Salafai: This is its classi",
     "page": "https://en.wikipedia.org/wiki/Savai%CA%BBi",
-    "fetchedAt": "2026-08-19T05:46:51.484Z",
-    "triedAt": "2026-08-19T05:46:51.484Z"
+    "fetchedAt": "2026-08-19T14:00:13.102Z",
+    "triedAt": "2026-08-19T14:00:13.102Z"
   },
   "tanna": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tannamap.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -625,11 +643,11 @@
     "image": null,
     "thumb": null,
     "photoSource": "none",
-    "photoRev": 2,
+    "photoRev": 3,
     "extract": "Saloum Delta National Park or Parc National du Delta du Saloum in Senegal, is a 760-square-kilometre (190,000-acre) national park. Established in 1976, it is situated within the Saloum Delta at the juncture of the Saloum River and the North Atlantic.\nThe park, which forms part of a UNESCO World Heritage Site and a Ramsar Convention site, lies within a 1,800 km2 (440,000-acre) biosphere reserve. Wa",
     "page": "https://en.wikipedia.org/wiki/Saloum_Delta_National_Park",
-    "fetchedAt": "2026-08-19T05:46:52.198Z",
-    "triedAt": "2026-08-19T05:46:52.198Z"
+    "fetchedAt": "2026-08-19T14:00:13.791Z",
+    "triedAt": "2026-08-19T14:00:13.791Z"
   },
   "kotohira": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Iya_Valley_seen_from_the_Iya_Valley_Observatory_001.jpg/960px-Iya_Valley_seen_from_the_Iya_Valley_Observatory_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
