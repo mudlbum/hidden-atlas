@@ -1,21 +1,43 @@
 {
-  "generatedAt": "2026-08-19T14:00:37.865Z",
+  "generatedAt": "2026-08-19T17:40:29.743Z",
   "date": "2026-08-19",
   "rotation": {
     "places": [
-      "plovdiv",
-      "ulleungdo",
-      "nongkhiaw"
+      "curonian",
+      "taitung",
+      "sumba"
     ],
     "tip": "localsim",
-    "eat": "khinkali"
+    "eat": "curanto"
   },
   "counts": {
-    "places": 72,
+    "places": 73,
     "tips": 38,
-    "eats": 22
+    "eats": 23
   },
   "feed": [
+    {
+      "title": "Stillman’s Run Battle Site Memorial in Stillman Valley, Illinois",
+      "link": "https://www.atlasobscura.com/places/stillmans-run-battle-site-memorial",
+      "date": "Wed, 19 Aug 2026 12:00:00 -0400",
+      "summary": "In 1832, counties in central Illinois were calling for volunteers to protect the frontier from Black Hawk and his Sauk warriors. On the morning of May 14, 1832, tensions came to a head. Black Hawk’s warriors discovered Major Isaiah Stillman and nearly 300 mili",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "East Finchley Tube Station & the Archer in London, England",
+      "link": "https://www.atlasobscura.com/places/east-finchley-tube-station-the-archer",
+      "date": "Wed, 19 Aug 2026 10:00:00 -0400",
+      "summary": "East Finchley is in an area now in North London which was once adjacent to both the hunting ground of the Bishop of London and Finchley Common, over which locals held commoners rights including hunting. The Archer, then, is an enduring symbol of the settlement",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
     {
       "title": "Kloster Eberbach in Eltville am Rhein, Germany",
       "link": "https://www.atlasobscura.com/places/eberbach-abbey-kloster-eberbach",
@@ -50,25 +72,58 @@
       }
     },
     {
-      "title": "Cinema Africa in Asmara, Eritrea",
-      "link": "https://www.atlasobscura.com/places/cinema-africa",
-      "date": "Tue, 18 Aug 2026 10:00:00 -0400",
-      "summary": "Built during the Italian colonial era, when Asmara boasted one of the highest concentrations of cinemas in the continent, Cinema Africa belonged to a city where going to the movies was as much a social ritual as an evening's entertainment. Now outside the sigh",
-      "source": "atlas-obscura",
+      "title": "Holafly Plans: The Best eSIM Plan for Long Term Travelers",
+      "link": "https://www.nomadicmatt.com/travel-blogs/holafly-plans/",
+      "date": "Tue, 28 Jul 2026 16:40:13 +0000",
+      "summary": "There are a lot of eSIM companies in the world. They all work a similar way: you download their app, pick your package, install the eSIM into your smartphone, and off you go. There’s many I like. But one I like more than the rest is Holafly and I’ve been using",
+      "source": "nomadic-matt",
       "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
       }
     },
     {
-      "title": "Gregg-Crites Octagon House in Circleville, Ohio",
-      "link": "https://www.atlasobscura.com/places/gregg-crites-octagon-house",
-      "date": "Mon, 17 Aug 2026 16:00:00 -0400",
-      "summary": "Located on the southern end of town, the Gregg-Crites Octagon House is one of Pickaway County's most unique architectural landmarks. This eight-sided home in Circleville, Ohio is believed to have been built between 1855-56 by a man named George Gregg. While th",
-      "source": "atlas-obscura",
+      "title": "Nomad Citizen: A New Social Safety Net for Entrepreneurs",
+      "link": "https://www.nomadicmatt.com/travel-blogs/nomad-citizen-review/",
+      "date": "Thu, 18 Jun 2026 12:07:22 +0000",
+      "summary": "If you’re a digital nomad or a location-independent business owner, you’re either overpaying for fragmented insurance coverage (travel, medical, etc.) or just badly underinsured. You have a health plan, travel insurance, and maybe some medical evacuation cover",
+      "source": "nomadic-matt",
       "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Faye Travel Insurance: The Best New Company Out there",
+      "link": "https://www.nomadicmatt.com/travel-blogs/faye-travel-insurance-review/",
+      "date": "Wed, 03 Jun 2026 13:05:03 +0000",
+      "summary": "We may receive compensation from Faye as an advertising partner. However, this does not influence our evaluations. Our opinions are our own. I’ve been writing about travel for nearly two decades and, in that time, I’ve watched the travel insurance industry cha",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Madrid 5-Day Itinerary: A Guide to Culture, Gastronomy, and Local Life",
+      "link": "https://www.nomadicmatt.com/travel-blogs/madrid-five-day-itinerary/",
+      "date": "Wed, 06 May 2026 07:50:57 +0000",
+      "summary": "Home to some 3.5 million people, Madrid is the capital of Spain and the country’s largest city. Though it’s somewhat sprawling, the city boasts stunning architecture, incredible food, and an energetic nightlife that stretches until dawn. Over 10 million people",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Capital One Venture Business Card Review",
+      "link": "https://www.nomadicmatt.com/travel-blogs/capital-one-venture-business-review/",
+      "date": "Fri, 01 May 2026 15:30:42 +0000",
+      "summary": "If you’re a traveler like me, chances are you’re always on the lookout for ways to make your trips more affordable. That’s why I collect points and miles: they help me lower my travel costs so I can spend my money on what’s actually important…which is usually ",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
       }
     },
     {
@@ -116,10 +171,10 @@
       }
     },
     {
-      "title": "A collection of travel photos from various countries (Including Jordan, Uzbekistan, North Macedonia etc.)",
-      "link": "https://www.reddit.com/r/travel/comments/1vnn7zi/a_collection_of_travel_photos_from_various/",
-      "date": "2026-08-13T21:01:11+00:00",
-      "summary": "Some pics I took while traveling. They are already three years old, but I never really shared them with anyone. I had some of my most exciting experiences visiting these countries. I was, for the most part, traveling alone. All taken in 2023. Wadi Rum. Spent t",
+      "title": "Mongolia, you were amazing! 5 days in the most sparsely populated country on earth",
+      "link": "https://www.reddit.com/r/travel/comments/1vsd5h9/mongolia_you_were_amazing_5_days_in_the_most/",
+      "date": "2026-08-19T05:20:45+00:00",
+      "summary": "Me and my girlfriend spent 5 days in the beautiful country of Mongolia, which served as a brief but sufficient introduction to what the country has to offer: unique history, the nomadic way of life, splendid nature, remarkable architecture and incredible hospi",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -136,9 +191,8 @@
     },
     {
       "id": "nomadic-matt",
-      "ok": false,
-      "error": "This operation was aborted",
-      "optional": false
+      "ok": true,
+      "count": 5
     },
     {
       "id": "reddit-travel",
@@ -153,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 9,
+    "ok": 1,
     "failed": 0
   }
 }

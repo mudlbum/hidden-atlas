@@ -718,5 +718,15 @@
     "page": "https://en.wikipedia.org/wiki/Liuwa_Plain_National_Park",
     "fetchedAt": "2026-08-19T13:51:45.896Z",
     "triedAt": "2026-08-19T13:51:45.896Z"
+  },
+  "santoantao": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vale%20do%20Pa%C3%BAl%2C%20Santo%20Ant%C3%A3o%2C%20Cape%20Verde.jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Vale%20do%20Pa%C3%BAl%2C%20Santo%20Ant%C3%A3o%2C%20Cape%20Verde.jpg?width=800",
+    "photoSource": "article",
+    "photoRev": 3,
+    "extract": "Santo Antão (Portuguese for \"Saint Anthony\") is the northwesternmost island of Cape Verde. At 785 km2 (303 sq mi), it is the largest of the Barlavento Islands group, and the second largest island of Cape Verde. The nearest island is São Vicente to the southeast, separated by the sea channel Canal de São Vicente. Its population was 38,200 in mid 2019, making it the fourth most populous island of Ca",
+    "page": "https://en.wikipedia.org/wiki/Santo_Ant%C3%A3o,_Cape_Verde",
+    "fetchedAt": "2026-08-19T17:40:23.979Z",
+    "triedAt": "2026-08-19T17:40:23.979Z"
   }
 }
