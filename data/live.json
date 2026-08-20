@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-19T17:40:29.743Z",
-  "date": "2026-08-19",
+  "generatedAt": "2026-08-20T05:46:47.875Z",
+  "date": "2026-08-20",
   "rotation": {
     "places": [
-      "curonian",
-      "taitung",
-      "sumba"
+      "charyn",
+      "driftless",
+      "raivavae"
     ],
-    "tip": "localsim",
-    "eat": "curanto"
+    "tip": "esim",
+    "eat": "muhlama"
   },
   "counts": {
     "places": 73,
@@ -16,6 +16,28 @@
     "eats": 23
   },
   "feed": [
+    {
+      "title": "Branch Davidian Compound in Axtell, Texas",
+      "link": "https://www.atlasobscura.com/places/branch-davidian-compound",
+      "date": "Wed, 19 Aug 2026 16:00:00 -0400",
+      "summary": "Near Axtell, Texas, 20 miles north-east of Waco was a large group of buildings known as the Mount Carmel Center once used by the Branch Davidian religious group. Named after the Biblical mountain Mount Carmel in Israel, the Davidians (later Branch Davidians) l",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Doña Manolita in Madrid, Spain",
+      "link": "https://www.atlasobscura.com/places/dona-manolita",
+      "date": "Wed, 19 Aug 2026 14:00:00 -0400",
+      "summary": "Few phenomena can reliably unite the notoriously fragmented population of Spain, but the obsession with El Gordo —the nation’s historic Christmas lottery—is unquestionably one of them. At the heart of this annual ritual of collective hope stands a single legen",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
     {
       "title": "Stillman’s Run Battle Site Memorial in Stillman Valley, Illinois",
       "link": "https://www.atlasobscura.com/places/stillmans-run-battle-site-memorial",
@@ -43,28 +65,6 @@
       "link": "https://www.atlasobscura.com/places/eberbach-abbey-kloster-eberbach",
       "date": "Tue, 18 Aug 2026 16:00:00 -0400",
       "summary": "Perched on a sun-drenched slope in Eltville am Rhein, Kloster Eberbach stands as a masterpiece of Cistercian architecture, founded in 1136 by twelve monks seeking isolation and spiritual rigor. The abbey is famous for its vast, column-free Romanesque grain bar",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Salubria in Stevensburg, Virginia",
-      "link": "https://www.atlasobscura.com/places/salubria",
-      "date": "Tue, 18 Aug 2026 14:00:00 -0400",
-      "summary": "Latin for \"healthful\" or \"good health,\" Salubria, unlike James Madison's nearby home, Montpelier, is a lesser-known gem of the Piedmont region. Salubria, c 1757, is currently preserved though not restored- the house has not been repainted or re-furnished in pe",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Tin Pan Theater in Bend, Oregon",
-      "link": "https://www.atlasobscura.com/places/tin-pan-theater",
-      "date": "Tue, 18 Aug 2026 12:00:00 -0400",
-      "summary": "Tin Pan Theater is a beloved arthouse cinema owned by BendFilm in the historic district of Bend, Oregon. The intimate 28 seat theater is adorned with red velvet old-fashioned seats that can best be enjoyed with the best home-made popcorn you've ever had. The s",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -138,6 +138,17 @@
       }
     },
     {
+      "title": "Mongolia, you were amazing! 5 days in the most sparsely populated country on earth",
+      "link": "https://www.reddit.com/r/travel/comments/1vsd5h9/mongolia_you_were_amazing_5_days_in_the_most/",
+      "date": "2026-08-19T05:20:45+00:00",
+      "summary": "Me and my girlfriend spent 5 days in the beautiful country of Mongolia, which served as a brief but sufficient introduction to what the country has to offer: unique history, the nomadic way of life, splendid nature, remarkable architecture and incredible hospi",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "Greek island hopping",
       "link": "https://www.reddit.com/r/travel/comments/1vprpqj/greek_island_hopping/",
       "date": "2026-08-16T08:35:38+00:00",
@@ -164,17 +175,6 @@
       "link": "https://www.reddit.com/r/travel/comments/1voz2x3/35_months_travelling_solo_through_latin_america/",
       "date": "2026-08-15T10:12:26+00:00",
       "summary": "In May 2025 I decided to finally pull the trigger on something I had wanted to do for a long time and handed in my request for a six-month sabbatical after nine years of working. I didn’t want to quit my job, sell everything and leave my entire life behind. I ",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "Mongolia, you were amazing! 5 days in the most sparsely populated country on earth",
-      "link": "https://www.reddit.com/r/travel/comments/1vsd5h9/mongolia_you_were_amazing_5_days_in_the_most/",
-      "date": "2026-08-19T05:20:45+00:00",
-      "summary": "Me and my girlfriend spent 5 days in the beautiful country of Mongolia, which served as a brief but sufficient introduction to what the country has to offer: unique history, the nomadic way of life, splendid nature, remarkable architecture and incredible hospi",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 1,
+    "ok": 0,
     "failed": 0
   }
 }
