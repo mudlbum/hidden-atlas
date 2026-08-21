@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-08-20T05:46:47.875Z",
-  "date": "2026-08-20",
+  "generatedAt": "2026-08-21T00:48:08.485Z",
+  "date": "2026-08-21",
   "rotation": {
     "places": [
-      "charyn",
-      "driftless",
-      "raivavae"
+      "chiloe",
+      "flinders",
+      "vjosa"
     ],
-    "tip": "esim",
-    "eat": "muhlama"
+    "tip": "etiqshoes",
+    "eat": "khachapuri"
   },
   "counts": {
-    "places": 73,
+    "places": 74,
     "tips": 38,
-    "eats": 23
+    "eats": 24
   },
   "feed": [
     {
-      "title": "Branch Davidian Compound in Axtell, Texas",
-      "link": "https://www.atlasobscura.com/places/branch-davidian-compound",
-      "date": "Wed, 19 Aug 2026 16:00:00 -0400",
-      "summary": "Near Axtell, Texas, 20 miles north-east of Waco was a large group of buildings known as the Mount Carmel Center once used by the Branch Davidian religious group. Named after the Biblical mountain Mount Carmel in Israel, the Davidians (later Branch Davidians) l",
+      "title": "Volvo Island in Ottawa, Illinois",
+      "link": "https://www.atlasobscura.com/places/volvo-island",
+      "date": "Thu, 20 Aug 2026 16:00:00 -0400",
+      "summary": "In 2012, the owner of a local Ottawa, Illinois, repair shop towed a 2001 Volvo S80 onto a peninsula and then used an excavator to create a small, one-car island. He intended to run a contest asking people to guess how the Volvo got there. The contest never mat",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Doña Manolita in Madrid, Spain",
-      "link": "https://www.atlasobscura.com/places/dona-manolita",
-      "date": "Wed, 19 Aug 2026 14:00:00 -0400",
-      "summary": "Few phenomena can reliably unite the notoriously fragmented population of Spain, but the obsession with El Gordo —the nation’s historic Christmas lottery—is unquestionably one of them. At the heart of this annual ritual of collective hope stands a single legen",
+      "title": "‘The Missing’ Cabin in Jemez Springs, New Mexico",
+      "link": "https://www.atlasobscura.com/places/the-missing-cabin",
+      "date": "Thu, 20 Aug 2026 16:00:00 -0400",
+      "summary": "Located just off the main entrance road of New Mexico’s Valles Caldera–a 14-mile-wide circular depression created by a massive volcanic eruption 1.2 million years ago–it is hard to believe that this cabin could have gone missing. Instead, this cabin was built ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Stillman’s Run Battle Site Memorial in Stillman Valley, Illinois",
-      "link": "https://www.atlasobscura.com/places/stillmans-run-battle-site-memorial",
-      "date": "Wed, 19 Aug 2026 12:00:00 -0400",
-      "summary": "In 1832, counties in central Illinois were calling for volunteers to protect the frontier from Black Hawk and his Sauk warriors. On the morning of May 14, 1832, tensions came to a head. Black Hawk’s warriors discovered Major Isaiah Stillman and nearly 300 mili",
+      "title": "Isis Heiligtum (Isis and Magna Mater Temple) in Mainz, Germany",
+      "link": "https://www.atlasobscura.com/places/isis-heiligtum-isis-and-magna-mater-temple",
+      "date": "Thu, 20 Aug 2026 14:00:00 -0400",
+      "summary": "What do you do when you've built a shopping mall but you find an ancient Roman temple underneath part of it? If you are in Mainz, Germany, you build the mall up around it, but leave it in place to be a hidden museum to the past. This is the \"Isis-Heiligtum\" (I",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "East Finchley Tube Station & the Archer in London, England",
-      "link": "https://www.atlasobscura.com/places/east-finchley-tube-station-the-archer",
-      "date": "Wed, 19 Aug 2026 10:00:00 -0400",
-      "summary": "East Finchley is in an area now in North London which was once adjacent to both the hunting ground of the Bishop of London and Finchley Common, over which locals held commoners rights including hunting. The Archer, then, is an enduring symbol of the settlement",
+      "title": "Red Sea Terminal in Marsa Alam, Egypt",
+      "link": "https://www.atlasobscura.com/places/hurghada-airport-s-red-sea-terminal",
+      "date": "Thu, 20 Aug 2026 12:00:00 -0400",
+      "summary": "Most airport terminals are designed simply to move travelers from one place to another. Terminal 1 at Hurghada International Airport attempts something more ambitious: turning the landscape outside into part of the building. Opened in late 2014, the terminal c",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Kloster Eberbach in Eltville am Rhein, Germany",
-      "link": "https://www.atlasobscura.com/places/eberbach-abbey-kloster-eberbach",
-      "date": "Tue, 18 Aug 2026 16:00:00 -0400",
-      "summary": "Perched on a sun-drenched slope in Eltville am Rhein, Kloster Eberbach stands as a masterpiece of Cistercian architecture, founded in 1136 by twelve monks seeking isolation and spiritual rigor. The abbey is famous for its vast, column-free Romanesque grain bar",
+      "title": "Fyllingsdalstunnelen in Fyllingsdalen, Norway",
+      "link": "https://www.atlasobscura.com/places/fyllingsdalstunnelen",
+      "date": "Thu, 20 Aug 2026 10:00:00 -0400",
+      "summary": "Opened in 2023, this tunnel is 2.9 km long (about 1.8 miles). Very useful for pedestrians, bicyclists, various exercising in a city where it rains almost all year. Now also easily binding together two parts of the city that previously was parted by a mountain ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -127,10 +127,10 @@
       }
     },
     {
-      "title": "My favorite pics from last years Europe Trip",
-      "link": "https://www.reddit.com/r/travel/comments/1vojx3p/my_favorite_pics_from_last_years_europe_trip/",
-      "date": "2026-08-14T21:20:48+00:00",
-      "summary": "Hello Everyone! Last year, I backpacked Europe solo and visited 12 countries and 20+ cities. It was a trip of a lifetime, and I wanted to share some of my favorite pictures. Essentially, I started in Amsterdam, worked a little east, then west, took trains sout",
+      "title": "Mongolia, you were amazing! 5 days in the most sparsely populated country on earth",
+      "link": "https://www.reddit.com/r/travel/comments/1vsd5h9/mongolia_you_were_amazing_5_days_in_the_most/",
+      "date": "2026-08-19T05:20:45+00:00",
+      "summary": "Me and my girlfriend spent 5 days in the beautiful country of Mongolia, which served as a brief but sufficient introduction to what the country has to offer: unique history, the nomadic way of life, splendid nature, remarkable architecture and incredible hospi",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -138,10 +138,10 @@
       }
     },
     {
-      "title": "Mongolia, you were amazing! 5 days in the most sparsely populated country on earth",
-      "link": "https://www.reddit.com/r/travel/comments/1vsd5h9/mongolia_you_were_amazing_5_days_in_the_most/",
-      "date": "2026-08-19T05:20:45+00:00",
-      "summary": "Me and my girlfriend spent 5 days in the beautiful country of Mongolia, which served as a brief but sufficient introduction to what the country has to offer: unique history, the nomadic way of life, splendid nature, remarkable architecture and incredible hospi",
+      "title": "My favorite pics from last years Europe Trip",
+      "link": "https://www.reddit.com/r/travel/comments/1vojx3p/my_favorite_pics_from_last_years_europe_trip/",
+      "date": "2026-08-14T21:20:48+00:00",
+      "summary": "Hello Everyone! Last year, I backpacked Europe solo and visited 12 countries and 20+ cities. It was a trip of a lifetime, and I wanted to share some of my favorite pictures. Essentially, I started in Amsterdam, worked a little east, then west, took trains sout",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 5,
     "failed": 0
   }
 }
