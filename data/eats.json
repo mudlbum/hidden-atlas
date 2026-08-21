@@ -365,5 +365,21 @@
    "ko": "북아프리카의 쿠스쿠스와는 전혀 다릅니다. 굵게 빻은 옥수수 가루를 '빈드'라는 나무통에 넣고 쪄서 따뜻하고 포슬포슬한 떡처럼 만든 것입니다. 아침으로 조각내어 먹으며, 사탕수수 시럽 '멜 드 카나'를 끼얹고 갓 만든 염소 치즈를 곁들입니다."
   },
   "place": "santoantao"
+ },
+ {
+  "id": "kokoda",
+  "dish": {
+   "en": "Kokoda",
+   "ko": "코코다"
+  },
+  "where": {
+   "en": "Kadavu, Fiji",
+   "ko": "피지 카다부"
+  },
+  "note": {
+   "en": "Walu or mahi-mahi cured in lime juice for an hour, then loosened with coconut cream pressed that morning and cut with chilli, onion and tomato. On Kadavu it is made from whatever came up on the line before breakfast and served cold in a half coconut shell.",
+   "ko": "왈루나 만새기를 라임즙에 한 시간 절인 뒤, 그날 아침 짜낸 코코넛 크림으로 부드럽게 풀고 고추와 양파, 토마토로 맛을 잡습니다. 카다부에서는 아침 식사 전에 낚싯줄에 걸려 올라온 생선으로 만들어, 반으로 자른 코코넛 껍질에 차갑게 담아 냅니다."
+  },
+  "place": "kadavu"
  }
 ]
