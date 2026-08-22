@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-21T05:48:28.801Z",
-  "date": "2026-08-21",
+  "generatedAt": "2026-08-22T05:43:10.073Z",
+  "date": "2026-08-22",
   "rotation": {
     "places": [
-      "chiloe",
-      "flinders",
-      "vjosa"
+      "plovdiv",
+      "ulleungdo",
+      "nongkhiaw"
     ],
-    "tip": "etiqshoes",
-    "eat": "khachapuri"
+    "tip": "festivals",
+    "eat": "pastilla"
   },
   "counts": {
     "places": 74,
@@ -16,6 +16,50 @@
     "eats": 24
   },
   "feed": [
+    {
+      "title": "Jingling Pot in England",
+      "link": "https://www.atlasobscura.com/places/jingling-pot",
+      "date": "Fri, 21 Aug 2026 16:00:00 -0400",
+      "summary": "Jingling Pot is one of the most popular vertical cave systems in the West Kingsdale area of Yorkshire. The cave, or as is known locally, pothole (pit cave in American English), is on the flanks of one of Yorkshires finest mountains, Wherneside. It is about 145",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "North American Cryptid Museum in Plano, Texas",
+      "link": "https://www.atlasobscura.com/places/north-american-cryptid-museum",
+      "date": "Fri, 21 Aug 2026 14:00:00 -0400",
+      "summary": "Allen Hopps, owner and creator of the North American Cryptid Museum (NACM) in Plano, Texas, has a message he wants everyone to hear: Our world needs monsters! He is on a quest to bring you face-to-face with our homegrown North American monsters. As a kid who w",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Bunski Kanal in Malo Polje, Bosnia and Herzegovina",
+      "link": "https://www.atlasobscura.com/places/bunski-kanal",
+      "date": "Fri, 21 Aug 2026 12:00:00 -0400",
+      "summary": "Tucked away just a few minutes from Mostar, Bunski Kanal is one of Bosnia and Herzegovina's most overlooked natural treasures. Here, the emerald-green Buna River squeezes through a narrow limestone channel before merging with the larger Neretva River, creating",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Gin Drinkers Line in Hong Kong",
+      "link": "https://www.atlasobscura.com/places/gin-drinkers-line",
+      "date": "Fri, 21 Aug 2026 10:00:00 -0400",
+      "summary": "Stretching 18km between modern day Kwai Chung (then known as Gin Drinkers Bay) to Port Shelter in Sai Kung, the Gin Drinkers Line was a massive defensive structure built by the British army, dubbed as 'the Maginot line of the East'. Construction on the line be",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
     {
       "title": "‘The Missing’ Cabin in Jemez Springs, New Mexico",
       "link": "https://www.atlasobscura.com/places/the-missing-cabin",
@@ -28,47 +72,58 @@
       }
     },
     {
-      "title": "Volvo Island in Ottawa, Illinois",
-      "link": "https://www.atlasobscura.com/places/volvo-island",
-      "date": "Thu, 20 Aug 2026 16:00:00 -0400",
-      "summary": "In 2012, the owner of a local Ottawa, Illinois, repair shop towed a 2001 Volvo S80 onto a peninsula and then used an excavator to create a small, one-car island. He intended to run a contest asking people to guess how the Volvo got there. The contest never mat",
-      "source": "atlas-obscura",
+      "title": "Holafly Plans: The Best eSIM Plan for Long Term Travelers",
+      "link": "https://www.nomadicmatt.com/travel-blogs/holafly-plans/",
+      "date": "Tue, 28 Jul 2026 16:40:13 +0000",
+      "summary": "There are a lot of eSIM companies in the world. They all work a similar way: you download their app, pick your package, install the eSIM into your smartphone, and off you go. There’s many I like. But one I like more than the rest is Holafly and I’ve been using",
+      "source": "nomadic-matt",
       "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
       }
     },
     {
-      "title": "Isis Heiligtum (Isis and Magna Mater Temple) in Mainz, Germany",
-      "link": "https://www.atlasobscura.com/places/isis-heiligtum-isis-and-magna-mater-temple",
-      "date": "Thu, 20 Aug 2026 14:00:00 -0400",
-      "summary": "What do you do when you've built a shopping mall but you find an ancient Roman temple underneath part of it? If you are in Mainz, Germany, you build the mall up around it, but leave it in place to be a hidden museum to the past. This is the \"Isis-Heiligtum\" (I",
-      "source": "atlas-obscura",
+      "title": "Nomad Citizen: A New Social Safety Net for Entrepreneurs",
+      "link": "https://www.nomadicmatt.com/travel-blogs/nomad-citizen-review/",
+      "date": "Thu, 18 Jun 2026 12:07:22 +0000",
+      "summary": "If you’re a digital nomad or a location-independent business owner, you’re either overpaying for fragmented insurance coverage (travel, medical, etc.) or just badly underinsured. You have a health plan, travel insurance, and maybe some medical evacuation cover",
+      "source": "nomadic-matt",
       "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
       }
     },
     {
-      "title": "Red Sea Terminal in Marsa Alam, Egypt",
-      "link": "https://www.atlasobscura.com/places/hurghada-airport-s-red-sea-terminal",
-      "date": "Thu, 20 Aug 2026 12:00:00 -0400",
-      "summary": "Most airport terminals are designed simply to move travelers from one place to another. Terminal 1 at Hurghada International Airport attempts something more ambitious: turning the landscape outside into part of the building. Opened in late 2014, the terminal c",
-      "source": "atlas-obscura",
+      "title": "Faye Travel Insurance: The Best New Company Out there",
+      "link": "https://www.nomadicmatt.com/travel-blogs/faye-travel-insurance-review/",
+      "date": "Wed, 03 Jun 2026 13:05:03 +0000",
+      "summary": "We may receive compensation from Faye as an advertising partner. However, this does not influence our evaluations. Our opinions are our own. I’ve been writing about travel for nearly two decades and, in that time, I’ve watched the travel insurance industry cha",
+      "source": "nomadic-matt",
       "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
       }
     },
     {
-      "title": "Fyllingsdalstunnelen in Fyllingsdalen, Norway",
-      "link": "https://www.atlasobscura.com/places/fyllingsdalstunnelen",
-      "date": "Thu, 20 Aug 2026 10:00:00 -0400",
-      "summary": "Opened in 2023, this tunnel is 2.9 km long (about 1.8 miles). Very useful for pedestrians, bicyclists, various exercising in a city where it rains almost all year. Now also easily binding together two parts of the city that previously was parted by a mountain ",
-      "source": "atlas-obscura",
+      "title": "Madrid 5-Day Itinerary: A Guide to Culture, Gastronomy, and Local Life",
+      "link": "https://www.nomadicmatt.com/travel-blogs/madrid-five-day-itinerary/",
+      "date": "Wed, 06 May 2026 07:50:57 +0000",
+      "summary": "Home to some 3.5 million people, Madrid is the capital of Spain and the country’s largest city. Though it’s somewhat sprawling, the city boasts stunning architecture, incredible food, and an energetic nightlife that stretches until dawn. Over 10 million people",
+      "source": "nomadic-matt",
       "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Capital One Venture Business Card Review",
+      "link": "https://www.nomadicmatt.com/travel-blogs/capital-one-venture-business-review/",
+      "date": "Fri, 01 May 2026 15:30:42 +0000",
+      "summary": "If you’re a traveler like me, chances are you’re always on the lookout for ways to make your trips more affordable. That’s why I collect points and miles: they help me lower my travel costs so I can spend my money on what’s actually important…which is usually ",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
       }
     },
     {
@@ -76,17 +131,6 @@
       "link": "https://www.reddit.com/r/travel/comments/1vsd5h9/mongolia_you_were_amazing_5_days_in_the_most/",
       "date": "2026-08-19T05:20:45+00:00",
       "summary": "Me and my girlfriend spent 5 days in the beautiful country of Mongolia, which served as a brief but sufficient introduction to what the country has to offer: unique history, the nomadic way of life, splendid nature, remarkable architecture and incredible hospi",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "My favorite pics from last years Europe Trip",
-      "link": "https://www.reddit.com/r/travel/comments/1vojx3p/my_favorite_pics_from_last_years_europe_trip/",
-      "date": "2026-08-14T21:20:48+00:00",
-      "summary": "Hello Everyone! Last year, I backpacked Europe solo and visited 12 countries and 20+ cities. It was a trip of a lifetime, and I wanted to share some of my favorite pictures. Essentially, I started in Amsterdam, worked a little east, then west, took trains sout",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -116,6 +160,17 @@
       }
     },
     {
+      "title": "Travel young. Travel now.",
+      "link": "https://www.reddit.com/r/travel/comments/1vuqdyx/travel_young_travel_now/",
+      "date": "2026-08-21T19:38:43+00:00",
+      "summary": "So many people ask how to travel with an older person who can’t handle cobblestones or hills. It’s damn hard. So please please please, if you have the financial means and are kind of interested in a place or have a bucket list, travel there as soon as you can ",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "3.5 months travelling solo through Latin America and Antarctica",
       "link": "https://www.reddit.com/r/travel/comments/1voz2x3/35_months_travelling_solo_through_latin_america/",
       "date": "2026-08-15T10:12:26+00:00",
@@ -136,9 +191,8 @@
     },
     {
       "id": "nomadic-matt",
-      "ok": false,
-      "error": "reachable but produced 0 items — feed may have moved or been retired",
-      "optional": false
+      "ok": true,
+      "count": 5
     },
     {
       "id": "reddit-travel",
@@ -153,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 4,
     "failed": 0
   }
 }
