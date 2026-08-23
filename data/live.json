@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-22T05:43:10.073Z",
-  "date": "2026-08-22",
+  "generatedAt": "2026-08-23T05:45:55.057Z",
+  "date": "2026-08-23",
   "rotation": {
     "places": [
-      "plovdiv",
-      "ulleungdo",
-      "nongkhiaw"
+      "quilotoa",
+      "semuc",
+      "atiu"
     ],
-    "tip": "festivals",
-    "eat": "pastilla"
+    "tip": "visaonarrival",
+    "eat": "beshbarmak"
   },
   "counts": {
     "places": 74,
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "‘The Missing’ Cabin in Jemez Springs, New Mexico",
-      "link": "https://www.atlasobscura.com/places/the-missing-cabin",
+      "title": "Volvo Island in Ottawa, Illinois",
+      "link": "https://www.atlasobscura.com/places/volvo-island",
       "date": "Thu, 20 Aug 2026 16:00:00 -0400",
-      "summary": "Located just off the main entrance road of New Mexico’s Valles Caldera–a 14-mile-wide circular depression created by a massive volcanic eruption 1.2 million years ago–it is hard to believe that this cabin could have gone missing. Instead, this cabin was built ",
+      "summary": "In 2012, the owner of a local Ottawa, Illinois, repair shop towed a 2001 Volvo S80 onto a peninsula and then used an excavator to create a small, one-car island. He intended to run a contest asking people to guess how the Volvo got there. The contest never mat",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -127,6 +127,17 @@
       }
     },
     {
+      "title": "Travel young. Travel now.",
+      "link": "https://www.reddit.com/r/travel/comments/1vuqdyx/travel_young_travel_now/",
+      "date": "2026-08-21T19:38:43+00:00",
+      "summary": "So many people ask how to travel with an older person who can’t handle cobblestones or hills. It’s damn hard. So please please please, if you have the financial means and are kind of interested in a place or have a bucket list, travel there as soon as you can ",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "Mongolia, you were amazing! 5 days in the most sparsely populated country on earth",
       "link": "https://www.reddit.com/r/travel/comments/1vsd5h9/mongolia_you_were_amazing_5_days_in_the_most/",
       "date": "2026-08-19T05:20:45+00:00",
@@ -160,21 +171,10 @@
       }
     },
     {
-      "title": "Travel young. Travel now.",
-      "link": "https://www.reddit.com/r/travel/comments/1vuqdyx/travel_young_travel_now/",
-      "date": "2026-08-21T19:38:43+00:00",
-      "summary": "So many people ask how to travel with an older person who can’t handle cobblestones or hills. It’s damn hard. So please please please, if you have the financial means and are kind of interested in a place or have a bucket list, travel there as soon as you can ",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "3.5 months travelling solo through Latin America and Antarctica",
-      "link": "https://www.reddit.com/r/travel/comments/1voz2x3/35_months_travelling_solo_through_latin_america/",
-      "date": "2026-08-15T10:12:26+00:00",
-      "summary": "In May 2025 I decided to finally pull the trigger on something I had wanted to do for a long time and handed in my request for a six-month sabbatical after nine years of working. I didn’t want to quit my job, sell everything and leave my entire life behind. I ",
+      "title": "Sicily. Summer 2026",
+      "link": "https://www.reddit.com/r/travel/comments/1vtmpmd/sicily_summer_2026/",
+      "date": "2026-08-20T15:30:17+00:00",
+      "summary": "Back in June we took a trip to Trapani, Sicily. This was my first time visiting Italy and I have to say, Sicily absolutely blew me away with its beauty and history. We took a boat trip to visit some of the islands off the coast of Trapani (Isola di Levanzo & I",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
