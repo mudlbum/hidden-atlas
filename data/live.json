@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-25T05:48:16.482Z",
-  "date": "2026-08-25",
+  "generatedAt": "2026-08-26T05:50:53.069Z",
+  "date": "2026-08-26",
   "rotation": {
     "places": [
-      "ulleungdo",
-      "nongkhiaw",
-      "jebelshams"
+      "semuc",
+      "atiu",
+      "ohrid"
     ],
-    "tip": "waterpurify",
-    "eat": "cocoa"
+    "tip": "shoes",
+    "eat": "khinkali"
   },
   "counts": {
     "places": 74,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "14 Mesmerizing Mazes and Labyrinths",
-      "link": "https://www.atlasobscura.com/articles/14-mesmerizing-mazes-labyrinths",
-      "date": "Mon, 24 Aug 2026 13:38:00 -0400",
-      "summary": "Since antiquity, mazes and labyrinths have been places of spiritual reflection and deep contemplation. The famous Egyptian Labyrinth at Hawara was built around 1860 BCE during the reign of Pharaoh Amenemhat III, though 2D depictions of the classic seven-circui",
+      "title": "Nelson House in Yorktown, Virginia",
+      "link": "https://www.atlasobscura.com/places/nelson-house",
+      "date": "Tue, 25 Aug 2026 15:26:00 -0400",
+      "summary": "The Nelson House looks remarkably composed for a building that survived the Siege of Yorktown. Standing along Yorktown's Main Street, the Georgian house was built around 1730 by “Scotch Tom” Nelson, a wealthy merchant and member of one of colonial Virginia's m",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Jingling Pot in England",
-      "link": "https://www.atlasobscura.com/places/jingling-pot",
-      "date": "Fri, 21 Aug 2026 16:00:00 -0400",
-      "summary": "Jingling Pot is one of the most popular vertical cave systems in the West Kingsdale area of Yorkshire. The cave, or as is known locally, pothole (pit cave in American English), is on the flanks of one of Yorkshires finest mountains, Wherneside. It is about 145",
+      "title": "Watermen’s Museum in Yorktown, Virginia",
+      "link": "https://www.atlasobscura.com/places/watermen-s-museum",
+      "date": "Tue, 25 Aug 2026 15:25:00 -0400",
+      "summary": "Unlike museums that focus on naval battles or famous ships, the Watermen’s Museum celebrates the ordinary people who built a culture around the Chesapeake Bay. Known as “watermen,” this group includes the generations of fishermen, crabbers, oystermen, boatbuil",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "North American Cryptid Museum in Plano, Texas",
-      "link": "https://www.atlasobscura.com/places/north-american-cryptid-museum",
-      "date": "Fri, 21 Aug 2026 14:00:00 -0400",
-      "summary": "Allen Hopps, owner and creator of the North American Cryptid Museum (NACM) in Plano, Texas, has a message he wants everyone to hear: Our world needs monsters! He is on a quest to bring you face-to-face with our homegrown North American monsters. As a kid who w",
+      "title": "Fossil Beach at York River State Park in Williamsburg, Virginia",
+      "link": "https://www.atlasobscura.com/places/fossil-beach-at-york-river-state-park",
+      "date": "Tue, 25 Aug 2026 15:23:00 -0400",
+      "summary": "The trail to Fossil Beach winds through a forest, a marsh , and ends at what appears to be an unassuming stretch of sand along the York River. But look down instead of out. Mixed among shells and pebbles are fragments of a much older world: fossilized teeth, b",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "Bunski Kanal in Malo Polje, Bosnia and Herzegovina",
-      "link": "https://www.atlasobscura.com/places/bunski-kanal",
-      "date": "Fri, 21 Aug 2026 12:00:00 -0400",
-      "summary": "Tucked away just a few minutes from Mostar, Bunski Kanal is one of Bosnia and Herzegovina's most overlooked natural treasures. Here, the emerald-green Buna River squeezes through a narrow limestone channel before merging with the larger Neretva River, creating",
+      "title": "Chickahominy Riverfront Park in Williamsburg, Virginia",
+      "link": "https://www.atlasobscura.com/places/chickahominy-riverfront-park",
+      "date": "Tue, 25 Aug 2026 15:23:00 -0400",
+      "summary": "Just a few miles from Jamestown, Chickahominy Riverfront Park sits at the edge of a tidal river that has changed remarkably little since English colonists first explored it in 1607. Bald cypress trees rise from dark water, great blue herons stalk the shallows,",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Gin Drinkers Line in Hong Kong",
-      "link": "https://www.atlasobscura.com/places/gin-drinkers-line",
-      "date": "Fri, 21 Aug 2026 10:00:00 -0400",
-      "summary": "Stretching 18km between modern day Kwai Chung (then known as Gin Drinkers Bay) to Port Shelter in Sai Kung, the Gin Drinkers Line was a massive defensive structure built by the British army, dubbed as 'the Maginot line of the East'. Construction on the line be",
+      "title": "Freedom Park in Williamsburg, Virginia",
+      "link": "https://www.atlasobscura.com/places/freedom-park-williamsburg",
+      "date": "Tue, 25 Aug 2026 15:20:00 -0400",
+      "summary": "At first glance, Freedom Park seems like simply a peaceful escape into nature. Mountain bikers weave through miles of trails. Families picnic beneath pine trees. Birdsong replaces traffic. But if you look closer, you'll discover there’s much more to the site t",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -138,17 +138,6 @@
       }
     },
     {
-      "title": "Mongolia, you were amazing! 5 days in the most sparsely populated country on earth",
-      "link": "https://www.reddit.com/r/travel/comments/1vsd5h9/mongolia_you_were_amazing_5_days_in_the_most/",
-      "date": "2026-08-19T05:20:45+00:00",
-      "summary": "Me and my girlfriend spent 5 days in the beautiful country of Mongolia, which served as a brief but sufficient introduction to what the country has to offer: unique history, the nomadic way of life, splendid nature, remarkable architecture and incredible hospi",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "Sicily. Summer 2026",
       "link": "https://www.reddit.com/r/travel/comments/1vtmpmd/sicily_summer_2026/",
       "date": "2026-08-20T15:30:17+00:00",
@@ -164,6 +153,17 @@
       "link": "https://www.reddit.com/r/travel/comments/1vtqpcy/uzbekistan_by_high_speed_rail/",
       "date": "2026-08-20T17:54:42+00:00",
       "summary": "I was expecting this trip to be more challenging but every aspect was much easier than I envisioned. Both my friend and I (US based) don’t have a ton of vacation time but love to travel and decided to take on Uzbekistan in one week and see Tashkent, Samarkand,",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "A colorful Tonga trip I July",
+      "link": "https://www.reddit.com/r/travel/comments/1vwrjrs/a_colorful_tonga_trip_i_july/",
+      "date": "2026-08-24T03:29:36+00:00",
+      "summary": "I went to Tonga Ha Apai island this July. I want to see the whale before but I haven’t contact successful before I go there. I attempt many times to send email( that it only can send email at there and wait for someone response you.) But nobody answer me. But ",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 4,
     "failed": 0
   }
 }
