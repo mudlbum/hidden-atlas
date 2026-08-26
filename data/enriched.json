@@ -738,5 +738,65 @@
     "page": "https://en.wikipedia.org/wiki/Kadavu_Island",
     "fetchedAt": "2026-08-21T00:48:03.625Z",
     "triedAt": "2026-08-21T00:48:03.625Z"
+  },
+  "kosrae": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Kosrae.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Kosrae.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "photoSource": "lead",
+    "photoRev": 3,
+    "extract": "Kosrae ( koh-SHY), formerly known as Kusaie or Strong's Island, is an island in the Caroline Islands archipelago, and state within the Federated States of Micronesia. It includes the main island of Kosrae, traditionally known as Ualung (which means the \"high island\"), and a few intercoastal islands and islets, the most significant of which (Lelu Island) is inhabited by 1,500 people.\nKosrae's land ",
+    "page": "https://en.wikipedia.org/wiki/Kosrae",
+    "fetchedAt": "2026-08-26T19:06:05.064Z",
+    "triedAt": "2026-08-26T19:06:05.064Z"
+  },
+  "lordhowe": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lord_Howe_ISS006-E-5731.png/960px-Lord_Howe_ISS006-E-5731.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lord_Howe_ISS006-E-5731.png/960px-Lord_Howe_ISS006-E-5731.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoRev": 3,
+    "extract": "Lord Howe Island (; formerly Lord Howe's Island) is an irregularly crescent-shaped volcanic remnant in the Tasman Sea between Australia and New Zealand, part of the Australian state of New South Wales. It lies 600 km (370 mi; 320 nmi) directly east of mainland Port Macquarie, 780 km (480 mi; 420 nmi) northeast of Sydney, and about 900 km (560 mi; 490 nmi) southwest of Norfolk Island. It is about 1",
+    "page": "https://en.wikipedia.org/wiki/Lord_Howe_Island",
+    "fetchedAt": "2026-08-26T19:06:05.398Z",
+    "triedAt": "2026-08-26T19:06:05.398Z"
+  },
+  "rakiura": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stewart%20Island%20as%20seen%20from%20i%20plane.jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Stewart%20Island%20as%20seen%20from%20i%20plane.jpg?width=800",
+    "photoSource": "article",
+    "photoRev": 3,
+    "extract": "Stewart Island (Māori: Rakiura, lit. 'glowing skies', officially Stewart Island / Rakiura, formerly New Leinster) is the third-largest and southernmost inhabited island of New Zealand, lying 30 kilometres (16 nautical miles) south of the South Island, separated by Foveaux Strait.\nIt is a roughly triangular island with a land area of 1,746 km2 (674 sq mi). Its 164-kilometre (102 mi) coastline is in",
+    "page": "https://en.wikipedia.org/wiki/Stewart_Island",
+    "fetchedAt": "2026-08-26T19:06:06.023Z",
+    "triedAt": "2026-08-26T19:06:06.023Z"
+  },
+  "nyungwe": {
+    "image": null,
+    "thumb": null,
+    "photoSource": "none",
+    "photoRev": 3,
+    "extract": "The Nyungwe Forest ()() is located in southwestern Rwanda, on the border with Burundi, where it is contiguous with the Kibira National Park to the south, and Lake Kivu and the Democratic Republic of the Congo to the west. The Nyungwe rainforest is most likely the best preserved montane rainforest in Africa. It is located in the watershed between the basin of the Congo River to the west and the bas",
+    "page": "https://en.wikipedia.org/wiki/Nyungwe_Forest",
+    "fetchedAt": "2026-08-26T19:06:06.596Z",
+    "triedAt": "2026-08-26T19:06:06.596Z"
+  },
+  "haapai": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Downtown%20Pangai%2C%20Tonga.jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Downtown%20Pangai%2C%20Tonga.jpg?width=800",
+    "photoSource": "article",
+    "photoRev": 3,
+    "extract": "Haʻapai is a group of islands, islets, reefs, and shoals in the central part of Tonga. It has a combined land area of 109.30 square kilometres (42.20 sq mi). The Tongatapu island group lies to its south, and the Vavaʻu group lies to its north. Seventeen of the Haʻapai islands are inhabited. Their combined population is 5,419. The highest point in the Ha‘apai group, and in all of Tonga, is on Kao, ",
+    "page": "https://en.wikipedia.org/wiki/Ha%CA%BBapai",
+    "fetchedAt": "2026-08-26T19:06:07.206Z",
+    "triedAt": "2026-08-26T19:06:07.206Z"
+  },
+  "rodrigues": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rodrigues_in_Mauritius.svg/960px-Rodrigues_in_Mauritius.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rodrigues_in_Mauritius.svg/960px-Rodrigues_in_Mauritius.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoRev": 3,
+    "extract": "Rodrigues (French: Île Rodrigues [il ʁɔdʁiɡ]; Kreol rodrig: Rodrig) is an  autonomous outer island of the Republic of Mauritius, of approximately 108 km2 (42 mi2) and about 560 km (350 mi) east of the main island of Mauritius. Along with the French overseas department of Réunion, Rodrigues and Mauritius  are part of the Mascarene Islands.\nThe Outer Islands of Mauritius are managed under the aegis ",
+    "page": "https://en.wikipedia.org/wiki/Rodrigues",
+    "fetchedAt": "2026-08-26T19:06:07.540Z",
+    "triedAt": "2026-08-26T19:06:07.540Z"
   }
 }

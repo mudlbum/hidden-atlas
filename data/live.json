@@ -1,21 +1,32 @@
 {
-  "generatedAt": "2026-08-26T05:50:53.069Z",
+  "generatedAt": "2026-08-26T19:06:12.888Z",
   "date": "2026-08-26",
   "rotation": {
     "places": [
-      "semuc",
-      "atiu",
-      "ohrid"
+      "raivavae",
+      "nyungwe",
+      "naxos"
     ],
     "tip": "shoes",
-    "eat": "khinkali"
+    "eat": "ceviche"
   },
   "counts": {
-    "places": 74,
+    "places": 80,
     "tips": 38,
-    "eats": 24
+    "eats": 29
   },
   "feed": [
+    {
+      "title": "12 Sculptures Made From Recycled Materials",
+      "link": "https://www.atlasobscura.com/articles/sculptures-made-from-recycled-materials",
+      "date": "Wed, 26 Aug 2026 09:41:00 -0400",
+      "summary": "For time immemorial, human beings have generated trash ... lots and lots of trash. And from the aqueducts and municipal dumps of ancient times to the massive landfills of today, we’ve tried all kinds of ways to get rid of it. However, when trash makes its way ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
     {
       "title": "Nelson House in Yorktown, Virginia",
       "link": "https://www.atlasobscura.com/places/nelson-house",
@@ -54,17 +65,6 @@
       "link": "https://www.atlasobscura.com/places/chickahominy-riverfront-park",
       "date": "Tue, 25 Aug 2026 15:23:00 -0400",
       "summary": "Just a few miles from Jamestown, Chickahominy Riverfront Park sits at the edge of a tidal river that has changed remarkably little since English colonists first explored it in 1607. Bald cypress trees rise from dark water, great blue herons stalk the shallows,",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Freedom Park in Williamsburg, Virginia",
-      "link": "https://www.atlasobscura.com/places/freedom-park-williamsburg",
-      "date": "Tue, 25 Aug 2026 15:20:00 -0400",
-      "summary": "At first glance, Freedom Park seems like simply a peaceful escape into nature. Mountain bikers weave through miles of trails. Families picnic beneath pine trees. Birdsong replaces traffic. But if you look closer, you'll discover there’s much more to the site t",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 4,
+    "ok": 6,
     "failed": 0
   }
 }
