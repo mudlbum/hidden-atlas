@@ -381,5 +381,85 @@
    "ko": "왈루나 만새기를 라임즙에 한 시간 절인 뒤, 그날 아침 짜낸 코코넛 크림으로 부드럽게 풀고 고추와 양파, 토마토로 맛을 잡습니다. 카다부에서는 아침 식사 전에 낚싯줄에 걸려 올라온 생선으로 만들어, 반으로 자른 코코넛 껍질에 차갑게 담아 냅니다."
   },
   "place": "kadavu"
+ },
+ {
+  "id": "fafa",
+  "dish": {
+   "en": "Fafa",
+   "ko": "파파"
+  },
+  "where": {
+   "en": "Kosrae, Micronesia",
+   "ko": "미크로네시아 코스라에"
+  },
+  "note": {
+   "en": "Soft taro hand-pounded on a wooden board until it turns into a sticky, faintly purple paste that pulls in strands, served warm in a half coconut shell with fresh coconut cream poured over. It was once a feast dish made only by men trained to do it; you will most likely meet it after a Sunday service or out of an um, the earth oven.",
+   "ko": "무른 타로를 나무판 위에서 손으로 찧어 실처럼 늘어나는 끈끈한 연보라색 반죽이 될 때까지 만든 뒤, 반으로 자른 코코넛 껍질에 따뜻하게 담고 갓 짠 코코넛 크림을 끼얹습니다. 원래는 훈련받은 남자들만 만들던 잔치 음식이었습니다. 대개 일요일 예배 뒤나 땅화덕 '움'에서 꺼낸 상에서 만나게 됩니다."
+  },
+  "place": "kosrae"
+ },
+ {
+  "id": "bluecod",
+  "dish": {
+   "en": "Blue cod and muttonbird",
+   "ko": "블루코드와 티티(슴새)"
+  },
+  "where": {
+   "en": "Oban, Stewart Island, New Zealand",
+   "ko": "뉴질랜드 스튜어트섬 오번"
+  },
+  "note": {
+   "en": "Blue cod pulled out of Foveaux Strait that morning, battered and eaten at the South Sea Hotel with the boats still unloading below the window — sweet, dense, nothing like cod. The island's other dish is titi, muttonbird, harvested each autumn under Rakiura Māori rights on the islands offshore: salted, intensely oily, closer to mutton than to any bird, and an acquired taste locals will happily watch you acquire.",
+   "ko": "그날 아침 포보 해협에서 올라온 블루코드를 튀겨, 창밖으로 아직 어선이 짐을 내리는 사우스시 호텔에서 먹습니다. 살이 달고 촘촘해 대구와는 전혀 다릅니다. 섬의 또 다른 음식은 티티, 곧 슴새입니다. 라키우라 마오리의 권리에 따라 매년 가을 앞바다 섬들에서 잡아 소금에 절이는데, 기름기가 대단히 강해 새라기보다 양고기에 가깝습니다. 호불호가 갈리는 맛이고, 현지인들은 당신이 그 맛에 적응하는 과정을 즐겁게 지켜봅니다."
+  },
+  "place": "rakiura"
+ },
+ {
+  "id": "isombe",
+  "dish": {
+   "en": "Isombe",
+   "ko": "이솜베"
+  },
+  "where": {
+   "en": "Gisakura & southwest Rwanda",
+   "ko": "르완다 남서부 기사쿠라 일대"
+  },
+  "note": {
+   "en": "Cassava leaves pounded for an hour, then simmered down with peanut paste, aubergine and often smoked fish until they turn almost black and taste nothing like a leaf. Every guesthouse buffet along the Nyungwe road has a pot of it; eat it with grilled tilapia from Lake Kivu.",
+   "ko": "카사바 잎을 한 시간쯤 찧은 뒤 땅콩 페이스트, 가지, 흔히 훈제 생선을 넣고 거의 검어질 때까지 뭉근히 끓입니다. 완성되면 잎이라는 느낌이 전혀 남지 않습니다. 니융웨로 가는 길가 게스트하우스 뷔페에는 어디든 이 냄비가 있으며, 키부 호수에서 잡은 틸라피아 구이와 함께 먹습니다."
+  },
+  "place": "nyungwe"
+ },
+ {
+  "id": "lupulu",
+  "dish": {
+   "en": "Lu pulu",
+   "ko": "루 풀루"
+  },
+  "where": {
+   "en": "Haʻapai, Tonga",
+   "ko": "통가 하파이"
+  },
+  "note": {
+   "en": "Taro leaves wrapped around corned beef or mutton and coconut cream, tied into a parcel and buried in the ʻumu — an earth oven of hot stones — for a couple of hours until the leaves collapse into something between spinach and custard. Sunday food, cooked before church and eaten after it, so ask on Saturday if you want a share.",
+   "ko": "타로 잎으로 콘비프나 양고기와 코코넛 크림을 감싸 꾸러미로 묶은 뒤, 달군 돌을 깐 땅속 화덕 '우무'에 두어 시간 묻어 둡니다. 그러면 잎이 뭉그러져 시금치와 커스터드 중간쯤 되는 것이 됩니다. 교회에 가기 전에 만들어 두고 예배가 끝난 뒤 먹는 일요일 음식이라, 얻어먹고 싶다면 토요일에 미리 말해 두어야 합니다."
+  },
+  "place": "haapai"
+ },
+ {
+  "id": "ourite",
+  "dish": {
+   "en": "Salade d'ourite",
+   "ko": "문어 샐러드 (살라드 두리트)"
+  },
+  "where": {
+   "en": "Rodrigues, Mauritius",
+   "ko": "모리셔스 로드리게스섬"
+  },
+  "note": {
+   "en": "Octopus taken off the reef flat at low tide, boiled slack, then dressed cold with lime, onion, chilli and coriander. Every guesthouse dinner opens with it and no two houses make it the same. During the fishing closure the island falls back on octopus dried on wire racks in the sun — stronger, chewier, worth trying once.",
+   "ko": "썰물 때 산호초 바닥에서 잡은 문어를 부드럽게 삶아 라임, 양파, 고추, 고수와 함께 차갑게 무칩니다. 게스트하우스 저녁상은 대개 이것으로 시작하는데 집집마다 맛이 다릅니다. 금어기에는 철망에 널어 햇볕에 말린 문어를 쓰는데, 향이 더 세고 질기지만 한 번쯤 먹어 볼 만합니다."
+  },
+  "place": "rodrigues"
  }
 ]
