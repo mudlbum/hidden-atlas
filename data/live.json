@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-26T19:06:12.888Z",
-  "date": "2026-08-26",
+  "generatedAt": "2026-08-27T16:31:08.125Z",
+  "date": "2026-08-27",
   "rotation": {
     "places": [
-      "raivavae",
-      "nyungwe",
-      "naxos"
+      "ribeira-sacra",
+      "kumano",
+      "songkul"
     ],
-    "tip": "shoes",
-    "eat": "ceviche"
+    "tip": "allergy",
+    "eat": "sarawaklaksa"
   },
   "counts": {
     "places": 80,
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "Fossil Beach at York River State Park in Williamsburg, Virginia",
-      "link": "https://www.atlasobscura.com/places/fossil-beach-at-york-river-state-park",
+      "title": "Chickahominy Riverfront Park in Williamsburg, Virginia",
+      "link": "https://www.atlasobscura.com/places/chickahominy-riverfront-park",
       "date": "Tue, 25 Aug 2026 15:23:00 -0400",
-      "summary": "The trail to Fossil Beach winds through a forest, a marsh , and ends at what appears to be an unassuming stretch of sand along the York River. But look down instead of out. Mixed among shells and pebbles are fragments of a much older world: fossilized teeth, b",
+      "summary": "Just a few miles from Jamestown, Chickahominy Riverfront Park sits at the edge of a tidal river that has changed remarkably little since English colonists first explored it in 1607. Bald cypress trees rise from dark water, great blue herons stalk the shallows,",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Chickahominy Riverfront Park in Williamsburg, Virginia",
-      "link": "https://www.atlasobscura.com/places/chickahominy-riverfront-park",
+      "title": "Fossil Beach at York River State Park in Williamsburg, Virginia",
+      "link": "https://www.atlasobscura.com/places/fossil-beach-at-york-river-state-park",
       "date": "Tue, 25 Aug 2026 15:23:00 -0400",
-      "summary": "Just a few miles from Jamestown, Chickahominy Riverfront Park sits at the edge of a tidal river that has changed remarkably little since English colonists first explored it in 1607. Bald cypress trees rise from dark water, great blue herons stalk the shallows,",
+      "summary": "The trail to Fossil Beach winds through a forest, a marsh , and ends at what appears to be an unassuming stretch of sand along the York River. But look down instead of out. Mixed among shells and pebbles are fragments of a much older world: fossilized teeth, b",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -138,10 +138,10 @@
       }
     },
     {
-      "title": "Sicily. Summer 2026",
-      "link": "https://www.reddit.com/r/travel/comments/1vtmpmd/sicily_summer_2026/",
-      "date": "2026-08-20T15:30:17+00:00",
-      "summary": "Back in June we took a trip to Trapani, Sicily. This was my first time visiting Italy and I have to say, Sicily absolutely blew me away with its beauty and history. We took a boat trip to visit some of the islands off the coast of Trapani (Isola di Levanzo & I",
+      "title": "Two weeks road-tripping around the English countryside 🇬🇧",
+      "link": "https://www.reddit.com/r/travel/comments/1vyqjbe/two_weeks_roadtripping_around_the_english/",
+      "date": "2026-08-26T07:54:19+00:00",
+      "summary": "Recently spent two weeks road-tripping around southern England with a rental car. The countryside was definitely my favorite—little villages, rolling hills, castles, old churches and coastal towns. Everything was just so dreamy! We went during a heatwave, and ",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 4,
     "failed": 0
   }
 }
