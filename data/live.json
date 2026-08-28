@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-27T16:31:08.125Z",
-  "date": "2026-08-27",
+  "generatedAt": "2026-08-28T17:26:53.357Z",
+  "date": "2026-08-28",
   "rotation": {
     "places": [
-      "ribeira-sacra",
-      "kumano",
-      "songkul"
+      "suncheon",
+      "caobang",
+      "orkhon"
     ],
-    "tip": "allergy",
-    "eat": "sarawaklaksa"
+    "tip": "tipping",
+    "eat": "crabtottori"
   },
   "counts": {
     "places": 80,
@@ -16,6 +16,39 @@
     "eats": 29
   },
   "feed": [
+    {
+      "title": "The Ring in Montreal, Quebec",
+      "link": "https://www.atlasobscura.com/places/the-ring-montreal",
+      "date": "Fri, 28 Aug 2026 12:00:00 -0400",
+      "summary": "Located at the intersection of McGill College Ave and Rue Cathcart, this piece of industrial artwork by Claude Cormier looks like a giant hula hoop, or a decommissioned star gate. The massive ring measures 30 metres in diameter and weighs around 50,000 pounds.",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Fir Street Cemetery in Cleveland, Ohio",
+      "link": "https://www.atlasobscura.com/places/fir-street-cemetery",
+      "date": "Fri, 28 Aug 2026 12:00:00 -0400",
+      "summary": "In the mid-nineteenth century, farmland west of Cleveland was purchased by real estate speculators and subdivided for development. The Fir Street Cemetery, as it is currently known, occupies just eight residential lots in what first became Brooklyn Township an",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Ancient Underwater Wall of Nhon Hai in Quy Nhơn Đông, Vietnam",
+      "link": "https://www.atlasobscura.com/places/ancient-underwater-wall-of-nhon-hai",
+      "date": "Fri, 28 Aug 2026 10:00:00 -0400",
+      "summary": "At the coast of Nhon Hai in Quy Nhon, a mysterious wall lies partly submerged beneath the sea. The structure extends from the rocky coast of Hai Nam toward Hon Kho Island and becomes visible only when the tide recedes deeply. Local fishermen have long known ab",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
     {
       "title": "12 Sculptures Made From Recycled Materials",
       "link": "https://www.atlasobscura.com/articles/sculptures-made-from-recycled-materials",
@@ -32,39 +65,6 @@
       "link": "https://www.atlasobscura.com/places/nelson-house",
       "date": "Tue, 25 Aug 2026 15:26:00 -0400",
       "summary": "The Nelson House looks remarkably composed for a building that survived the Siege of Yorktown. Standing along Yorktown's Main Street, the Georgian house was built around 1730 by “Scotch Tom” Nelson, a wealthy merchant and member of one of colonial Virginia's m",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Watermen’s Museum in Yorktown, Virginia",
-      "link": "https://www.atlasobscura.com/places/watermen-s-museum",
-      "date": "Tue, 25 Aug 2026 15:25:00 -0400",
-      "summary": "Unlike museums that focus on naval battles or famous ships, the Watermen’s Museum celebrates the ordinary people who built a culture around the Chesapeake Bay. Known as “watermen,” this group includes the generations of fishermen, crabbers, oystermen, boatbuil",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Chickahominy Riverfront Park in Williamsburg, Virginia",
-      "link": "https://www.atlasobscura.com/places/chickahominy-riverfront-park",
-      "date": "Tue, 25 Aug 2026 15:23:00 -0400",
-      "summary": "Just a few miles from Jamestown, Chickahominy Riverfront Park sits at the edge of a tidal river that has changed remarkably little since English colonists first explored it in 1607. Bald cypress trees rise from dark water, great blue herons stalk the shallows,",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Fossil Beach at York River State Park in Williamsburg, Virginia",
-      "link": "https://www.atlasobscura.com/places/fossil-beach-at-york-river-state-park",
-      "date": "Tue, 25 Aug 2026 15:23:00 -0400",
-      "summary": "The trail to Fossil Beach winds through a forest, a marsh , and ends at what appears to be an unassuming stretch of sand along the York River. But look down instead of out. Mixed among shells and pebbles are fragments of a much older world: fossilized teeth, b",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -149,17 +149,6 @@
       }
     },
     {
-      "title": "Uzbekistan by High Speed Rail",
-      "link": "https://www.reddit.com/r/travel/comments/1vtqpcy/uzbekistan_by_high_speed_rail/",
-      "date": "2026-08-20T17:54:42+00:00",
-      "summary": "I was expecting this trip to be more challenging but every aspect was much easier than I envisioned. Both my friend and I (US based) don’t have a ton of vacation time but love to travel and decided to take on Uzbekistan in one week and see Tashkent, Samarkand,",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "A colorful Tonga trip I July",
       "link": "https://www.reddit.com/r/travel/comments/1vwrjrs/a_colorful_tonga_trip_i_july/",
       "date": "2026-08-24T03:29:36+00:00",
@@ -175,6 +164,17 @@
       "link": "https://www.reddit.com/r/travel/comments/1vvcpxs/urban_jungle_meets_natural_jungle_2_days_in/",
       "date": "2026-08-22T13:39:17+00:00",
       "summary": "August 19-21, 2026 Unlike Dubai for example, which was just an urban (at times dystopian) jungle, Singapore seemed to make sure everything is not just clean and elegant, but also pleasant for humans to be in, and it achieved that by bringing nature into the ci",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "Boston, MA",
+      "link": "https://www.reddit.com/r/travel/comments/1vw740l/boston_ma/",
+      "date": "2026-08-23T13:23:30+00:00",
+      "summary": "First trip to the east coast as a west coast native and absolutely LOVED it. We got lucky with the weather, some light drizzles helped mellow down the sauna-like temps, or so I was told by the locals Boston is a beautiful city with a rich history. I just wante",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 4,
+    "ok": 5,
     "failed": 0
   }
 }
