@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-28T17:26:53.357Z",
-  "date": "2026-08-28",
+  "generatedAt": "2026-08-29T11:39:58.294Z",
+  "date": "2026-08-29",
   "rotation": {
     "places": [
-      "suncheon",
-      "caobang",
-      "orkhon"
+      "dana",
+      "fogo",
+      "kotorbay"
     ],
-    "tip": "tipping",
-    "eat": "crabtottori"
+    "tip": "womensolo",
+    "eat": "bluecod"
   },
   "counts": {
     "places": 80,
@@ -16,6 +16,39 @@
     "eats": 29
   },
   "feed": [
+    {
+      "title": "Unusual Picnic Places Around the World",
+      "link": "https://www.atlasobscura.com/articles/unusual-picnic-places-around-the-world",
+      "date": "Fri, 28 Aug 2026 16:24:00 -0400",
+      "summary": "There’s nothing quite like a picnic surrounded by friends and family, soaking in the sun, sharing snacks, and enjoying the sounds of nature. Whether you prefer to use one big blanket, sit at a table with benches, or plop right onto the grass, it’s the perfect ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Cape Bear Lighthouse and Marconi Station in Murray Harbour, Prince Edward Island",
+      "link": "https://www.atlasobscura.com/places/cape-bear-lighthouse-and-marconi-station",
+      "date": "Fri, 28 Aug 2026 16:00:00 -0400",
+      "summary": "Cape Bear Lighthouse has been in operation since 1881, and it's light can be seen up to 22km/14 mi away. For a small fee, take a tour of the lighthouse to learn about the history of it's keepers, and an opportunity to climb all the way up to the lantern room t",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Liberation Mural in Indio, California",
+      "link": "https://www.atlasobscura.com/places/liberation-mural",
+      "date": "Fri, 28 Aug 2026 14:00:00 -0400",
+      "summary": "The artwork created by Mexican artist Hervey Garcia, draws from Eadweard Muybridge's 1878 motion photography The Horse in Motion. As vehicles drive past at speeds of 35 to 45 mph, the frames blend together creating and animated effect showing a galloping horse",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
     {
       "title": "The Ring in Montreal, Quebec",
       "link": "https://www.atlasobscura.com/places/the-ring-montreal",
@@ -32,39 +65,6 @@
       "link": "https://www.atlasobscura.com/places/fir-street-cemetery",
       "date": "Fri, 28 Aug 2026 12:00:00 -0400",
       "summary": "In the mid-nineteenth century, farmland west of Cleveland was purchased by real estate speculators and subdivided for development. The Fir Street Cemetery, as it is currently known, occupies just eight residential lots in what first became Brooklyn Township an",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Ancient Underwater Wall of Nhon Hai in Quy Nhơn Đông, Vietnam",
-      "link": "https://www.atlasobscura.com/places/ancient-underwater-wall-of-nhon-hai",
-      "date": "Fri, 28 Aug 2026 10:00:00 -0400",
-      "summary": "At the coast of Nhon Hai in Quy Nhon, a mysterious wall lies partly submerged beneath the sea. The structure extends from the rocky coast of Hai Nam toward Hon Kho Island and becomes visible only when the tide recedes deeply. Local fishermen have long known ab",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "12 Sculptures Made From Recycled Materials",
-      "link": "https://www.atlasobscura.com/articles/sculptures-made-from-recycled-materials",
-      "date": "Wed, 26 Aug 2026 09:41:00 -0400",
-      "summary": "For time immemorial, human beings have generated trash ... lots and lots of trash. And from the aqueducts and municipal dumps of ancient times to the massive landfills of today, we’ve tried all kinds of ways to get rid of it. However, when trash makes its way ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Nelson House in Yorktown, Virginia",
-      "link": "https://www.atlasobscura.com/places/nelson-house",
-      "date": "Tue, 25 Aug 2026 15:26:00 -0400",
-      "summary": "The Nelson House looks remarkably composed for a building that survived the Siege of Yorktown. Standing along Yorktown's Main Street, the Georgian house was built around 1730 by “Scotch Tom” Nelson, a wealthy merchant and member of one of colonial Virginia's m",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -127,10 +127,10 @@
       }
     },
     {
-      "title": "Travel young. Travel now.",
-      "link": "https://www.reddit.com/r/travel/comments/1vuqdyx/travel_young_travel_now/",
-      "date": "2026-08-21T19:38:43+00:00",
-      "summary": "So many people ask how to travel with an older person who can’t handle cobblestones or hills. It’s damn hard. So please please please, if you have the financial means and are kind of interested in a place or have a bucket list, travel there as soon as you can ",
+      "title": "Two weeks road-tripping around the English countryside 🇬🇧",
+      "link": "https://www.reddit.com/r/travel/comments/1vyqjbe/two_weeks_roadtripping_around_the_english/",
+      "date": "2026-08-26T07:54:19+00:00",
+      "summary": "Recently spent two weeks road-tripping around southern England with a rental car. The countryside was definitely my favorite—little villages, rolling hills, castles, old churches and coastal towns. Everything was just so dreamy! We went during a heatwave, and ",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -138,10 +138,10 @@
       }
     },
     {
-      "title": "Two weeks road-tripping around the English countryside 🇬🇧",
-      "link": "https://www.reddit.com/r/travel/comments/1vyqjbe/two_weeks_roadtripping_around_the_english/",
-      "date": "2026-08-26T07:54:19+00:00",
-      "summary": "Recently spent two weeks road-tripping around southern England with a rental car. The countryside was definitely my favorite—little villages, rolling hills, castles, old churches and coastal towns. Everything was just so dreamy! We went during a heatwave, and ",
+      "title": "The type and the sheer number documents required just to apply for a EU tourist visa is Humiliating . I wouldn't wish this on my worst enemy",
+      "link": "https://www.reddit.com/r/travel/comments/1w0iouc/the_type_and_the_sheer_number_documents_required/",
+      "date": "2026-08-28T06:26:35+00:00",
+      "summary": "The time it takes to make all these documents just to apply for a EU visa is really disheartening . The type of documents I have to submit just to apply for a visa with no guarantee of even getting it, is really humiliating . I really wouldn't wish this on my ",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 5,
+    "ok": 0,
     "failed": 0
   }
 }
