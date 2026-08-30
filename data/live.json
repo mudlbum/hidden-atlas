@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-29T11:39:58.294Z",
-  "date": "2026-08-29",
+  "generatedAt": "2026-08-30T10:29:20.719Z",
+  "date": "2026-08-30",
   "rotation": {
     "places": [
-      "dana",
-      "fogo",
-      "kotorbay"
+      "atiu",
+      "rakiura",
+      "soca"
     ],
-    "tip": "womensolo",
-    "eat": "bluecod"
+    "tip": "layover",
+    "eat": "sarawaklaksa"
   },
   "counts": {
     "places": 80,
@@ -149,10 +149,10 @@
       }
     },
     {
-      "title": "A colorful Tonga trip I July",
-      "link": "https://www.reddit.com/r/travel/comments/1vwrjrs/a_colorful_tonga_trip_i_july/",
-      "date": "2026-08-24T03:29:36+00:00",
-      "summary": "I went to Tonga Ha Apai island this July. I want to see the whale before but I haven’t contact successful before I go there. I attempt many times to send email( that it only can send email at there and wait for someone response you.) But nobody answer me. But ",
+      "title": "10 days in Antarctica: Wildlife, the Drake Passage and what the expedition was like [OC]",
+      "link": "https://www.reddit.com/r/travel/comments/1w0tpyz/10_days_in_antarctica_wildlife_the_drake_passage/",
+      "date": "2026-08-28T15:28:25+00:00",
+      "summary": "Warning: Very long post ahead TLDR: Went to Antarctica. It was the best experience of my life. A few days ago I posted here about my sabbatical through Latin America and Antarctica. Quite a few people asked how I got to Antarctica, what the expedition was like",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -160,10 +160,10 @@
       }
     },
     {
-      "title": "Urban jungle meets natural jungle - 2 days in Singapore",
-      "link": "https://www.reddit.com/r/travel/comments/1vvcpxs/urban_jungle_meets_natural_jungle_2_days_in/",
-      "date": "2026-08-22T13:39:17+00:00",
-      "summary": "August 19-21, 2026 Unlike Dubai for example, which was just an urban (at times dystopian) jungle, Singapore seemed to make sure everything is not just clean and elegant, but also pleasant for humans to be in, and it achieved that by bringing nature into the ci",
+      "title": "A colorful Tonga trip I July",
+      "link": "https://www.reddit.com/r/travel/comments/1vwrjrs/a_colorful_tonga_trip_i_july/",
+      "date": "2026-08-24T03:29:36+00:00",
+      "summary": "I went to Tonga Ha Apai island this July. I want to see the whale before but I haven’t contact successful before I go there. I attempt many times to send email( that it only can send email at there and wait for someone response you.) But nobody answer me. But ",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 5,
     "failed": 0
   }
 }
