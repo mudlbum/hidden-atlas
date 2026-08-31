@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-30T10:29:20.719Z",
-  "date": "2026-08-30",
+  "generatedAt": "2026-08-31T11:36:25.191Z",
+  "date": "2026-08-31",
   "rotation": {
     "places": [
-      "atiu",
-      "rakiura",
-      "soca"
+      "flinders",
+      "vjosa",
+      "sinesaloum"
     ],
-    "tip": "layover",
-    "eat": "sarawaklaksa"
+    "tip": "localsim",
+    "eat": "ceviche"
   },
   "counts": {
     "places": 80,
@@ -127,6 +127,17 @@
       }
     },
     {
+      "title": "Two weeks in Indonesia",
+      "link": "https://www.reddit.com/r/travel/comments/1w2fwt7/two_weeks_in_indonesia/",
+      "date": "2026-08-30T12:10:36+00:00",
+      "summary": "I haven’t travelled in Southeast Asia for many years, and Indonesia happened to be high on my list whilst also being a good destination for summer, so it’s the destination I picked. I did not expect to go through so much. The country is wonderful. I have the f",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "Two weeks road-tripping around the English countryside 🇬🇧",
       "link": "https://www.reddit.com/r/travel/comments/1vyqjbe/two_weeks_roadtripping_around_the_english/",
       "date": "2026-08-26T07:54:19+00:00",
@@ -160,21 +171,10 @@
       }
     },
     {
-      "title": "A colorful Tonga trip I July",
-      "link": "https://www.reddit.com/r/travel/comments/1vwrjrs/a_colorful_tonga_trip_i_july/",
-      "date": "2026-08-24T03:29:36+00:00",
-      "summary": "I went to Tonga Ha Apai island this July. I want to see the whale before but I haven’t contact successful before I go there. I attempt many times to send email( that it only can send email at there and wait for someone response you.) But nobody answer me. But ",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "Boston, MA",
-      "link": "https://www.reddit.com/r/travel/comments/1vw740l/boston_ma/",
-      "date": "2026-08-23T13:23:30+00:00",
-      "summary": "First trip to the east coast as a west coast native and absolutely LOVED it. We got lucky with the weather, some light drizzles helped mellow down the sauna-like temps, or so I was told by the locals Boston is a beautiful city with a rich history. I just wante",
+      "title": "One week in Oman",
+      "link": "https://www.reddit.com/r/travel/comments/1w1uz0k/one_week_in_oman/",
+      "date": "2026-08-29T19:03:47+00:00",
+      "summary": "We flew into Muscat and rented a 4x4 SUV. We drove the winding, rocky Hatt Mountain Road through the Jebel Shams mountains, stopping for some great hiking. We continued on to Bahla and Nizwa where we explored the souks and ancient forts. We continued on to the",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
