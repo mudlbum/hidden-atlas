@@ -1,5 +1,21 @@
 [
  {
+  "id": "mudda",
+  "dish": {
+   "en": "Mudda",
+   "ko": "무다"
+  },
+  "where": {
+   "en": "Norfolk Island, Australia",
+   "ko": "호주 노퍽섬"
+  },
+  "note": {
+   "en": "Green bananas grated, shaped into dumplings and simmered in milk — a Pitcairn recipe invented so unripe fruit wasn't wasted, still cooked in island kitchens 170 years later.",
+   "ko": "덜 익은 초록 바나나를 갈아 경단으로 빚어 우유에 삶아 냅니다. 안 익은 열매도 버리지 않으려던 핏케언의 조리법이 170년이 지난 지금도 섬의 부엌에서 이어집니다."
+  },
+  "place": "norfolk"
+ },
+ {
   "id": "sarawaklaksa",
   "dish": {
    "en": "Sarawak laksa",
@@ -461,5 +477,53 @@
    "ko": "썰물 때 산호초 바닥에서 잡은 문어를 부드럽게 삶아 라임, 양파, 고추, 고수와 함께 차갑게 무칩니다. 게스트하우스 저녁상은 대개 이것으로 시작하는데 집집마다 맛이 다릅니다. 금어기에는 철망에 널어 햇볕에 말린 문어를 쓰는데, 향이 더 세고 질기지만 한 번쯤 먹어 볼 만합니다."
   },
   "place": "rodrigues"
+ },
+ {
+  "id": "bunuelosdealgas",
+  "dish": {
+   "en": "Buñuelos de algas",
+   "ko": "부뉴엘로스 데 알가스"
+  },
+  "where": {
+   "en": "Cabo Polonio, Uruguay",
+   "ko": "우루과이 카보 폴로니오"
+  },
+  "note": {
+   "en": "Fritters of seaweed pulled off the rocks below the lighthouse, chopped into a batter and deep-fried — crisp, salty, tasting frankly of the sea, and served with lime and aioli. A Rocha coast speciality you will not find inland; every shack in the village does a plate, best with a cold beer at sunset.",
+   "ko": "등대 아래 바위에서 뜯어낸 해초를 잘게 썰어 반죽에 섞고 튀겨 냅니다. 바삭하고 짭짤하며 대놓고 바다 맛이 나는데, 라임과 아이올리를 곁들여 냅니다. 내륙에서는 찾을 수 없는 로차 해안의 명물이고 마을의 모든 식당이 한 접시씩 내놓습니다. 해질 무렵 차가운 맥주와 함께가 가장 좋습니다."
+  },
+  "place": "cabopolonio"
+ },
+ {
+  "id": "irenteplate",
+  "dish": {
+   "en": "The Irente plate",
+   "ko": "이렌테 한 상"
+  },
+  "where": {
+   "en": "Lushoto, Usambara Mountains, Tanzania",
+   "ko": "탄자니아 우삼바라 산맥 루쇼토"
+  },
+  "note": {
+   "en": "Dark rye bread, Tilsit and goat cheese, herbed quark, farm butter, mustards and whatever the fields gave that morning — a German mission board's diet, still made by hand at the Lutheran-run farm at Irente and eaten at a long table looking at the cliff. Improbable in the middle of Tanzania and better than it has any right to be; the cheese counter also sells jams and cold pressed juices to carry up the mountain.",
+   "ko": "짙은 호밀빵과 틸지트·염소 치즈, 허브를 섞은 쿠아르크, 농장 버터, 여러 가지 머스터드, 그리고 그날 아침 밭에서 난 것들이 함께 나옵니다. 독일 선교회의 식단이 그대로 남아 이렌테의 루터교 농장에서 지금도 손으로 만들어지고, 절벽이 보이는 긴 식탁에서 먹습니다. 탄자니아 한복판에 있을 법하지 않은 음식인데 기대 이상으로 훌륭합니다. 치즈 판매대에서는 잼과 착즙 주스도 팔아 산으로 들고 올라가기 좋습니다."
+  },
+  "place": "usambara"
+ },
+ {
+  "id": "pampaku",
+  "dish": {
+   "en": "Pampaku",
+   "ko": "팜파쿠"
+  },
+  "where": {
+   "en": "Torotoro, Bolivia",
+   "ko": "볼리비아 토로토로"
+  },
+  "note": {
+   "en": "Quechua for 'cooked in the ground': lamb, pork and chicken rubbed with cumin and ají, buried in a pit over fire-heated stones with potatoes and whole heads of garlic, and left for hours. The valleys around Cochabamba claim it and the comedores on the plaza in Torotoro cook it at weekends and for fiestas — you order it the day before, and it arrives smoky, falling apart, and far too much for two.",
+   "ko": "케추아어로 '땅에 묻어 익힌 것'이라는 뜻입니다. 양고기와 돼지고기, 닭고기에 쿠민과 아히를 문질러 두고, 불로 달군 돌을 깐 구덩이에 감자와 통마늘과 함께 묻어 몇 시간을 그대로 둡니다. 코차밤바 일대 계곡이 제 음식이라 내세우는 요리이고, 토로토로 광장의 코메도르들도 주말과 축제 때 이것을 냅니다. 하루 전에 주문해 두면 훈연 향이 밴 고기가 결대로 무너지는 상태로 나오는데, 둘이 먹기에는 지나치게 많습니다."
+  },
+  "place": "torotoro"
  }
 ]
