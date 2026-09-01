@@ -798,5 +798,75 @@
     "page": "https://en.wikipedia.org/wiki/Rodrigues",
     "fetchedAt": "2026-08-26T19:06:07.540Z",
     "triedAt": "2026-08-26T19:06:07.540Z"
+  },
+  "marovo": {
+    "image": null,
+    "thumb": null,
+    "photoSource": "none",
+    "photoRev": 3,
+    "extract": "Marovo Lagoon is the largest double-barrier enclosed lagoon in the world. Located in the New Georgia Islands, Western Province, Solomon Islands, between Vangunu and Nggatokae islands, both extinct volcanic islands, at 8.48°S 158.07°E﻿ / -8.48; 158.07. It covers 700 km2 (270 mi2) and is protected by a double barrier reef system. The Marovo Lagoon World Heritage Area is considered an area of high bi",
+    "page": "https://en.wikipedia.org/wiki/Marovo_Lagoon",
+    "fetchedAt": "2026-09-01T05:04:39.025Z",
+    "triedAt": "2026-09-01T05:04:39.025Z"
+  },
+  "cabopolonio": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cabo_Polonio_desde_el_faro.jpg/960px-Cabo_Polonio_desde_el_faro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cabo_Polonio_desde_el_faro.jpg/960px-Cabo_Polonio_desde_el_faro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoRev": 3,
+    "extract": "Cabo Polonio is a hamlet located in the eastern coast of Uruguay in the Rocha Department. It is located in one of the country's SNAP areas and is notable for its natural features. According to the 2023 census, it had a population of 128, but its population swells during the summer when it receives thousands of tourists.\nPrior to Spanish colonisation, Cabo Polonio was inhabited by Indigenous Urugua",
+    "page": "https://en.wikipedia.org/wiki/Cabo_Polonio",
+    "fetchedAt": "2026-09-01T05:04:39.342Z",
+    "triedAt": "2026-09-01T05:04:39.342Z"
+  },
+  "rwenzori": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rwenzori_mountains_FP.jpg/960px-Rwenzori_mountains_FP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rwenzori_mountains_FP.jpg/960px-Rwenzori_mountains_FP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoRev": 3,
+    "extract": "Rwenzori Mountains National Park is a Ugandan national park and UNESCO World Heritage Site located in the Rwenzori Mountains. Almost 1,000 km2 (386 sq mi) in size, the park has Africa's third highest mountain peak and many waterfalls, lakes, and glaciers. The park is known for its beautiful plant life.\n\n",
+    "page": "https://en.wikipedia.org/wiki/Rwenzori_Mountains_National_Park",
+    "fetchedAt": "2026-09-01T05:04:39.686Z",
+    "triedAt": "2026-09-01T05:04:39.686Z"
+  },
+  "norfolk": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NorfolkIslandCentral%20School1.jpg?width=800",
+    "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/NorfolkIslandCentral%20School1.jpg?width=800",
+    "photoSource": "article",
+    "photoRev": 3,
+    "extract": "Norfolk Island (, NOR-fək or locally , NOR-fohk; Norf'k Ailen) is an  external territory of Australia located in the Pacific Ocean between New Zealand and New Caledonia, 1,412 kilometres (877 mi) directly east of Australia's Evans Head and about 900 kilometres (560 mi) from Lord Howe Island. Together with the neighbouring Phillip Island and Nepean Island, the three islands collectively form the Te",
+    "page": "https://en.wikipedia.org/wiki/Norfolk_Island",
+    "fetchedAt": "2026-09-01T05:04:40.455Z",
+    "triedAt": "2026-09-01T05:04:40.455Z"
+  },
+  "usambara": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Western_Usambara.jpg/960px-Western_Usambara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Western_Usambara.jpg/960px-Western_Usambara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoRev": 3,
+    "extract": "The Usambara Mountains of northeastern Tanzania in tropical East Africa, comprise the easternmost ranges of the Eastern Arc Mountains. The ranges are approximately 90 kilometres (56 mi) long and about half that wide, and they are situated in the Lushoto District of the Tanga Region. They were formed nearly two million years ago by faulting and uplifting, and are composed of Precambrian metamorphic",
+    "page": "https://en.wikipedia.org/wiki/Usambara_Mountains",
+    "fetchedAt": "2026-09-01T05:04:40.783Z",
+    "triedAt": "2026-09-01T05:04:40.783Z"
+  },
+  "torotoro": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canyon_of_Torotoro.jpg/960px-Canyon_of_Torotoro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canyon_of_Torotoro.jpg/960px-Canyon_of_Torotoro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoRev": 3,
+    "extract": "Torotoro National Park (Spanish: Parque Nacional Torotoro) is a national park and town in Bolivia. The town was founded about 250 years ago by the Quechuas and the Spanish. It is located in the eastern mountain ranges of the South American Andes cordilleras in the area of Potosí.",
+    "page": "https://en.wikipedia.org/wiki/Torotoro_National_Park",
+    "fetchedAt": "2026-09-01T05:04:41.132Z",
+    "triedAt": "2026-09-01T05:04:41.132Z"
+  },
+  "yap": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%C3%8Eles_Yap.svg/960px-%C3%8Eles_Yap.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%C3%8Eles_Yap.svg/960px-%C3%8Eles_Yap.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "lead",
+    "photoRev": 3,
+    "extract": "Yap (Yapese: Waqab, sometimes written as Wa'ab, Waab or Waqaab) traditionally refers to an island group located in the Caroline Islands of the western Pacific Ocean, a part of Yap State. The name \"Yap\" in recent years has come to also refer to the state within the Federated States of Micronesia, inclusive of the Yap Main Islands and its various outer islands, the Yap Neighboring Islands. For speci",
+    "page": "https://en.wikipedia.org/wiki/Yap",
+    "fetchedAt": "2026-09-01T05:04:41.447Z",
+    "triedAt": "2026-09-01T05:04:41.447Z"
   }
 }
