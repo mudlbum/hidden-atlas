@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-01T10:06:58.503Z",
-  "date": "2026-09-01",
+  "generatedAt": "2026-09-02T09:38:17.846Z",
+  "date": "2026-09-02",
   "rotation": {
     "places": [
-      "fogo",
-      "kotorbay",
-      "gjirokaster"
+      "bornholm",
+      "sado",
+      "tusheti"
     ],
-    "tip": "altitude",
-    "eat": "lupulu"
+    "tip": "shoulder",
+    "eat": "ceviche"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "Timothy Dexter’s William Pitt Statue in Newburyport, Massachusetts",
-      "link": "https://www.atlasobscura.com/places/timothy-dexters-william-pitt-statue",
-      "date": "Mon, 31 Aug 2026 16:00:00 -0400",
-      "summary": "Newburyport is one of the most well-known and vibrant coastal communities in Massachusetts. Located near the mouth of the Merrimack River and Plum Island, it has a long history of shipping, fishing, tourism, and is officially recognized as the founding locatio",
+      "title": "‘Night of the Living Dead’ Grave Markers in Evans City, Pennsylvania",
+      "link": "https://www.atlasobscura.com/places/night-of-the-living-dead-grave-marker",
+      "date": "Tue, 01 Sep 2026 16:00:00 -0400",
+      "summary": "The filming location and featured grave markers from George A. Romero's 1968 horror masterpiece, “Night of the Living Dead.” Includes Nicholas Kramer's grave, a civil war veteran who's headstone is shown during the delivery of famous line \"They're coming to ge",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Acueducto de La Partida in Madrid, Spain",
-      "link": "https://www.atlasobscura.com/places/acueducto-de-la-partida",
-      "date": "Mon, 31 Aug 2026 14:00:00 -0400",
-      "summary": "Madrid may have its famous fountains and grand boulevards, but hidden in the Casa de Campo is a rather more unexpected piece of engineering: a small 18th-century aqueduct. Built in 1778, the Acueducto de La Partida carried water from the park’s lake to the Hue",
+      "title": "The Birdhouse Tree of Riga in Rīga, Latvia",
+      "link": "https://www.atlasobscura.com/places/the-birdhouse-tree-of-riga",
+      "date": "Tue, 01 Sep 2026 14:00:00 -0400",
+      "summary": "In Riga’s elegant Esplanāde, one bare tree stands out from the surrounding greenery. Its trunk and branches are crowded with scores of small wooden birdhouses, painted in an assortment of greens, yellows, reds, pinks and natural tones. From below, the collecti",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Bunker Tombé in Sainte-Marguerite-sur-Mer, France",
-      "link": "https://www.atlasobscura.com/places/bunker-tombe",
-      "date": "Mon, 31 Aug 2026 12:00:00 -0400",
-      "summary": "The Bunker in Sainte Marguerite sur Mer is a massive WWII German blockhaus that originally sat atop the coastal cliffs before decades of erosion caused it to plunge onto the beach below, landing almost perfectly vertically in the sand. Today, it stands as a su",
+      "title": "John Ford Statue in Portland, Maine",
+      "link": "https://www.atlasobscura.com/places/john-ford-statue",
+      "date": "Tue, 01 Sep 2026 12:00:00 -0400",
+      "summary": "If you asked John Ford what he did with his life, he'd tell you he made westerns. If you asked anyone else, they'd tell you he transformed the art of cinema. John Ford is a name as much as an idea. Gristly cowboys, sultry temptresses, and thrilling horse, rail",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "Duong Long Cham Towers in Binh An, Vietnam",
-      "link": "https://www.atlasobscura.com/places/duong-long-cham-towers",
-      "date": "Mon, 31 Aug 2026 10:00:00 -0400",
-      "summary": "Rising from the rural landscape of Binh Dinh, the Duong Long Cham Towers are a breathtaking architectural anomaly. Constructed during the late 12th century, the golden era of the Vijaya kingdom, this trio of brick titans defies the typical scale of Champa monu",
+      "title": "Must-Try Spots For Noodle Lovers",
+      "link": "https://www.atlasobscura.com/articles/spots-for-noodle-lovers-around-the-world",
+      "date": "Tue, 01 Sep 2026 10:26:00 -0400",
+      "summary": "Humans have been slurping and savoring noodles for centuries, with the first recorded noodle dish recorded during China’s Eastern Han period (25–220 CE). In fact, noodles would go on to become inextricable from ancient Chinese culture, with a wheat-based versi",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Unusual Picnic Places Around the World",
-      "link": "https://www.atlasobscura.com/articles/unusual-picnic-places-around-the-world",
-      "date": "Fri, 28 Aug 2026 16:24:00 -0400",
-      "summary": "There’s nothing quite like a picnic surrounded by friends and family, soaking in the sun, sharing snacks, and enjoying the sounds of nature. Whether you prefer to use one big blanket, sit at a table with benches, or plop right onto the grass, it’s the perfect ",
+      "title": "Waldkunstpfad in Darmstadt, Germany",
+      "link": "https://www.atlasobscura.com/places/waldkunstpfad",
+      "date": "Tue, 01 Sep 2026 10:00:00 -0400",
+      "summary": "Hidden in the forest on the southern edge of Darmstadt, the Waldkunstpfad turns an ordinary woodland walk into something considerably more surreal. Along the trails, artworks emerge between the trees, lean against trunks, occupy clearings, or use the forest it",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -138,17 +138,6 @@
       }
     },
     {
-      "title": "Two weeks road-tripping around the English countryside 🇬🇧",
-      "link": "https://www.reddit.com/r/travel/comments/1vyqjbe/two_weeks_roadtripping_around_the_english/",
-      "date": "2026-08-26T07:54:19+00:00",
-      "summary": "Recently spent two weeks road-tripping around southern England with a rental car. The countryside was definitely my favorite—little villages, rolling hills, castles, old churches and coastal towns. Everything was just so dreamy! We went during a heatwave, and ",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "The type and the sheer number documents required just to apply for a EU tourist visa is Humiliating . I wouldn't wish this on my worst enemy",
       "link": "https://www.reddit.com/r/travel/comments/1w0iouc/the_type_and_the_sheer_number_documents_required/",
       "date": "2026-08-28T06:26:35+00:00",
@@ -171,10 +160,21 @@
       }
     },
     {
-      "title": "One week in Oman",
-      "link": "https://www.reddit.com/r/travel/comments/1w1uz0k/one_week_in_oman/",
-      "date": "2026-08-29T19:03:47+00:00",
-      "summary": "We flew into Muscat and rented a 4x4 SUV. We drove the winding, rocky Hatt Mountain Road through the Jebel Shams mountains, stopping for some great hiking. We continued on to Bahla and Nizwa where we explored the souks and ancient forts. We continued on to the",
+      "title": "Scotland trip report (mid August) - what a magical place !",
+      "link": "https://www.reddit.com/r/travel/comments/1w456cs/scotland_trip_report_mid_august_what_a_magical/",
+      "date": "2026-09-01T07:52:01+00:00",
+      "summary": "Hello, I just wanted to share some photos and description of my current stay in Scotland. I had high expectations, but it still exceeded them by far! So long story short: 11 days in total, within that: 8 with a car (3 days Glen Coe, 3 days Skye, 1 day Invernes",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "Some pics from my Germany and Switzerland trip",
+      "link": "https://www.reddit.com/r/travel/comments/1w4rtz1/some_pics_from_my_germany_and_switzerland_trip/",
+      "date": "2026-09-01T22:22:16+00:00",
+      "summary": "Sharing a few pics from my family trip in late August. We spend two weeks, split in the middle between small(ish) towns in Germany (half timber vibe + castles) and Swiss Alps. The itinerary was roughly: Heidelberg, Lucerne, Lauternbrunner/Wengen, Lake Constanc",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
