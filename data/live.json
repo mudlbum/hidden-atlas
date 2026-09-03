@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-02T09:38:17.846Z",
-  "date": "2026-09-02",
+  "generatedAt": "2026-09-03T09:51:33.430Z",
+  "date": "2026-09-03",
   "rotation": {
     "places": [
-      "bornholm",
-      "sado",
-      "tusheti"
+      "marovo",
+      "gasadalur",
+      "senja"
     ],
-    "tip": "shoulder",
-    "eat": "ceviche"
+    "tip": "solo",
+    "eat": "kaymak"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "‘Night of the Living Dead’ Grave Markers in Evans City, Pennsylvania",
-      "link": "https://www.atlasobscura.com/places/night-of-the-living-dead-grave-marker",
-      "date": "Tue, 01 Sep 2026 16:00:00 -0400",
-      "summary": "The filming location and featured grave markers from George A. Romero's 1968 horror masterpiece, “Night of the Living Dead.” Includes Nicholas Kramer's grave, a civil war veteran who's headstone is shown during the delivery of famous line \"They're coming to ge",
+      "title": "David Sassoon Clock Tower in Mumbai, India",
+      "link": "https://www.atlasobscura.com/places/david-sassoon-clock-tower",
+      "date": "Wed, 02 Sep 2026 16:00:00 -0400",
+      "summary": "In Mumbai’s Byculla area is located Veermata Jijabai Bhosale Udyan, the city’s oldest public garden and zoo. It was formerly known as Victoria Gardens. At the garden’s entrance is a beautiful old clock tower. Known as David Sassoon Clock Tower, it was built in",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "The Birdhouse Tree of Riga in Rīga, Latvia",
-      "link": "https://www.atlasobscura.com/places/the-birdhouse-tree-of-riga",
-      "date": "Tue, 01 Sep 2026 14:00:00 -0400",
-      "summary": "In Riga’s elegant Esplanāde, one bare tree stands out from the surrounding greenery. Its trunk and branches are crowded with scores of small wooden birdhouses, painted in an assortment of greens, yellows, reds, pinks and natural tones. From below, the collecti",
+      "title": "The Rabbit Hole, Rue Jankowski in Le Mans, France",
+      "link": "https://www.atlasobscura.com/places/the-rabbit-hole-rue-jankowski",
+      "date": "Wed, 02 Sep 2026 14:00:00 -0400",
+      "summary": "Rue Jankowski is a dead end in Le Mans' Saint-Nicolas district, the kind of narrow passage you'd normally walk past without a second look. Then you turn the corner and the wall seems to fall away into a glowing, striped tunnel, arcing across the buildings arou",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "John Ford Statue in Portland, Maine",
-      "link": "https://www.atlasobscura.com/places/john-ford-statue",
-      "date": "Tue, 01 Sep 2026 12:00:00 -0400",
-      "summary": "If you asked John Ford what he did with his life, he'd tell you he made westerns. If you asked anyone else, they'd tell you he transformed the art of cinema. John Ford is a name as much as an idea. Gristly cowboys, sultry temptresses, and thrilling horse, rail",
+      "title": "Art Exhibits at OAX Airport in San Juan Bautista la Raya, Mexico",
+      "link": "https://www.atlasobscura.com/places/art-exhibits-at-oax-airport",
+      "date": "Wed, 02 Sep 2026 13:44:00 -0400",
+      "summary": "The state of Oaxaca in Mexico's south is often considered one of the country's main artistic hubs. Its diversity in nature and indigenous cultures has created an atmosphere of inspiration for creative endavors. In the capital city of the same name, known fully",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "Must-Try Spots For Noodle Lovers",
-      "link": "https://www.atlasobscura.com/articles/spots-for-noodle-lovers-around-the-world",
-      "date": "Tue, 01 Sep 2026 10:26:00 -0400",
-      "summary": "Humans have been slurping and savoring noodles for centuries, with the first recorded noodle dish recorded during China’s Eastern Han period (25–220 CE). In fact, noodles would go on to become inextricable from ancient Chinese culture, with a wheat-based versi",
+      "title": "Papier-Mâché Altarpiece at Plaza Capuchinas in Mexico City, Mexico",
+      "link": "https://www.atlasobscura.com/places/papier-mache-altarpiece-at-plaza-capuchinas",
+      "date": "Wed, 02 Sep 2026 13:41:00 -0400",
+      "summary": "Cartonería is one of the main forms of artes populares (folk art), also known as artesanías (handcrafts), to come out of Mexico City and its metropolitan area. The terms refers to cartón, what cardboard is called in Mexican Spanish, and cartonería works use a ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Waldkunstpfad in Darmstadt, Germany",
-      "link": "https://www.atlasobscura.com/places/waldkunstpfad",
-      "date": "Tue, 01 Sep 2026 10:00:00 -0400",
-      "summary": "Hidden in the forest on the southern edge of Darmstadt, the Waldkunstpfad turns an ordinary woodland walk into something considerably more surreal. Along the trails, artworks emerge between the trees, lean against trunks, occupy clearings, or use the forest it",
+      "title": "Antimonumentas and Antimonumentos in Mexico City, Mexico",
+      "link": "https://www.atlasobscura.com/places/antimonumentas-and-antimonumentos",
+      "date": "Wed, 02 Sep 2026 13:39:00 -0400",
+      "summary": "Considering that Mexican cities have been ranked among the ones with highest homicide rates, a large number of massacres committed by organized crime groups as well as human rights violations by authorities, the last century or so has been rough for Mexico. In",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -138,10 +138,10 @@
       }
     },
     {
-      "title": "The type and the sheer number documents required just to apply for a EU tourist visa is Humiliating . I wouldn't wish this on my worst enemy",
-      "link": "https://www.reddit.com/r/travel/comments/1w0iouc/the_type_and_the_sheer_number_documents_required/",
-      "date": "2026-08-28T06:26:35+00:00",
-      "summary": "The time it takes to make all these documents just to apply for a EU visa is really disheartening . The type of documents I have to submit just to apply for a visa with no guarantee of even getting it, is really humiliating . I really wouldn't wish this on my ",
+      "title": "Some pics from my Germany and Switzerland trip",
+      "link": "https://www.reddit.com/r/travel/comments/1w4rtz1/some_pics_from_my_germany_and_switzerland_trip/",
+      "date": "2026-09-01T22:22:16+00:00",
+      "summary": "Sharing a few pics from my family trip in late August. We spend two weeks, split in the middle between small(ish) towns in Germany (half timber vibe + castles) and Swiss Alps. The itinerary was roughly: Heidelberg, Lucerne, Lauternbrunner/Wengen, Lake Constanc",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -149,10 +149,10 @@
       }
     },
     {
-      "title": "10 days in Antarctica: Wildlife, the Drake Passage and what the expedition was like [OC]",
-      "link": "https://www.reddit.com/r/travel/comments/1w0tpyz/10_days_in_antarctica_wildlife_the_drake_passage/",
-      "date": "2026-08-28T15:28:25+00:00",
-      "summary": "Warning: Very long post ahead TLDR: Went to Antarctica. It was the best experience of my life. A few days ago I posted here about my sabbatical through Latin America and Antarctica. Quite a few people asked how I got to Antarctica, what the expedition was like",
+      "title": "The type and the sheer number documents required just to apply for a EU tourist visa is Humiliating . I wouldn't wish this on my worst enemy",
+      "link": "https://www.reddit.com/r/travel/comments/1w0iouc/the_type_and_the_sheer_number_documents_required/",
+      "date": "2026-08-28T06:26:35+00:00",
+      "summary": "The time it takes to make all these documents just to apply for a EU visa is really disheartening . The type of documents I have to submit just to apply for a visa with no guarantee of even getting it, is really humiliating . I really wouldn't wish this on my ",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "Some pics from my Germany and Switzerland trip",
-      "link": "https://www.reddit.com/r/travel/comments/1w4rtz1/some_pics_from_my_germany_and_switzerland_trip/",
-      "date": "2026-09-01T22:22:16+00:00",
-      "summary": "Sharing a few pics from my family trip in late August. We spend two weeks, split in the middle between small(ish) towns in Germany (half timber vibe + castles) and Swiss Alps. The itinerary was roughly: Heidelberg, Lucerne, Lauternbrunner/Wengen, Lake Constanc",
+      "title": "10 days in Antarctica: Wildlife, the Drake Passage and what the expedition was like [OC]",
+      "link": "https://www.reddit.com/r/travel/comments/1w0tpyz/10_days_in_antarctica_wildlife_the_drake_passage/",
+      "date": "2026-08-28T15:28:25+00:00",
+      "summary": "Warning: Very long post ahead TLDR: Went to Antarctica. It was the best experience of my life. A few days ago I posted here about my sabbatical through Latin America and Antarctica. Quite a few people asked how I got to Antarctica, what the expedition was like",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
