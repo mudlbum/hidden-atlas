@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-03T09:51:33.430Z",
-  "date": "2026-09-03",
+  "generatedAt": "2026-09-04T09:40:05.355Z",
+  "date": "2026-09-04",
   "rotation": {
     "places": [
-      "marovo",
-      "gasadalur",
-      "senja"
+      "ibera",
+      "savaii",
+      "bale"
     ],
-    "tip": "solo",
-    "eat": "kaymak"
+    "tip": "etiqshoes",
+    "eat": "irenteplate"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Durham Town Hall in Durham, England",
+      "link": "https://www.atlasobscura.com/places/durham-town-hall",
+      "date": "Thu, 03 Sep 2026 16:00:00 -0400",
+      "summary": "The Town Hall has been central to Durham's history since 1350 and has opened its doors to the public following refurbishment work. Now everyone can discover its rich history and hidden stories. Audio guides, interactive information points and short films help ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Liverpool’s First Enclosed Dock in Liverpool, England",
+      "link": "https://www.atlasobscura.com/places/liverpools-first-enclosed-dock",
+      "date": "Thu, 03 Sep 2026 14:00:00 -0400",
+      "summary": "In a subterranean chamber under the massive Liverpool ONE shopping centre is the infrastructure that turned Liverpool from a lacklustre port city into a global powerhouse of shipping. While the city got it's charter back in 1207 with the intention of it being ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Palm Temple in Bristol, England",
+      "link": "https://www.atlasobscura.com/places/palm-temple",
+      "date": "Thu, 03 Sep 2026 12:00:00 -0400",
+      "summary": "Bristol has no shortage of churches, but one of its strangest temples is devoted to nature. Outside the University of Bristol’s School of Chemistry, artist Luke Jerram’s Palm Temple resembles a futuristic chapel made of wood and stained glass. Created in 2020 ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "The Prince of the Lilies Fresco in Heraklion, Greece",
+      "link": "https://www.atlasobscura.com/places/the-prince-of-the-lilies-fresco",
+      "date": "Thu, 03 Sep 2026 10:00:00 -0400",
+      "summary": "The Prince of the Lilies is one of the signature images of Minoan Crete, reproduced on postcards, book covers, and museum posters worldwide: a slender, muscular figure wearing a crown of lilies and peacock feathers, striding forward through a garden, one hand ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "David Sassoon Clock Tower in Mumbai, India",
       "link": "https://www.atlasobscura.com/places/david-sassoon-clock-tower",
       "date": "Wed, 02 Sep 2026 16:00:00 -0400",
       "summary": "In Mumbai’s Byculla area is located Veermata Jijabai Bhosale Udyan, the city’s oldest public garden and zoo. It was formerly known as Victoria Gardens. At the garden’s entrance is a beautiful old clock tower. Known as David Sassoon Clock Tower, it was built in",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Rabbit Hole, Rue Jankowski in Le Mans, France",
-      "link": "https://www.atlasobscura.com/places/the-rabbit-hole-rue-jankowski",
-      "date": "Wed, 02 Sep 2026 14:00:00 -0400",
-      "summary": "Rue Jankowski is a dead end in Le Mans' Saint-Nicolas district, the kind of narrow passage you'd normally walk past without a second look. Then you turn the corner and the wall seems to fall away into a glowing, striped tunnel, arcing across the buildings arou",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Art Exhibits at OAX Airport in San Juan Bautista la Raya, Mexico",
-      "link": "https://www.atlasobscura.com/places/art-exhibits-at-oax-airport",
-      "date": "Wed, 02 Sep 2026 13:44:00 -0400",
-      "summary": "The state of Oaxaca in Mexico's south is often considered one of the country's main artistic hubs. Its diversity in nature and indigenous cultures has created an atmosphere of inspiration for creative endavors. In the capital city of the same name, known fully",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Papier-Mâché Altarpiece at Plaza Capuchinas in Mexico City, Mexico",
-      "link": "https://www.atlasobscura.com/places/papier-mache-altarpiece-at-plaza-capuchinas",
-      "date": "Wed, 02 Sep 2026 13:41:00 -0400",
-      "summary": "Cartonería is one of the main forms of artes populares (folk art), also known as artesanías (handcrafts), to come out of Mexico City and its metropolitan area. The terms refers to cartón, what cardboard is called in Mexican Spanish, and cartonería works use a ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Antimonumentas and Antimonumentos in Mexico City, Mexico",
-      "link": "https://www.atlasobscura.com/places/antimonumentas-and-antimonumentos",
-      "date": "Wed, 02 Sep 2026 13:39:00 -0400",
-      "summary": "Considering that Mexican cities have been ranked among the ones with highest homicide rates, a large number of massacres committed by organized crime groups as well as human rights violations by authorities, the last century or so has been rough for Mexico. In",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -149,17 +149,6 @@
       }
     },
     {
-      "title": "The type and the sheer number documents required just to apply for a EU tourist visa is Humiliating . I wouldn't wish this on my worst enemy",
-      "link": "https://www.reddit.com/r/travel/comments/1w0iouc/the_type_and_the_sheer_number_documents_required/",
-      "date": "2026-08-28T06:26:35+00:00",
-      "summary": "The time it takes to make all these documents just to apply for a EU visa is really disheartening . The type of documents I have to submit just to apply for a visa with no guarantee of even getting it, is really humiliating . I really wouldn't wish this on my ",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "Scotland trip report (mid August) - what a magical place !",
       "link": "https://www.reddit.com/r/travel/comments/1w456cs/scotland_trip_report_mid_august_what_a_magical/",
       "date": "2026-09-01T07:52:01+00:00",
@@ -175,6 +164,17 @@
       "link": "https://www.reddit.com/r/travel/comments/1w0tpyz/10_days_in_antarctica_wildlife_the_drake_passage/",
       "date": "2026-08-28T15:28:25+00:00",
       "summary": "Warning: Very long post ahead TLDR: Went to Antarctica. It was the best experience of my life. A few days ago I posted here about my sabbatical through Latin America and Antarctica. Quite a few people asked how I got to Antarctica, what the expedition was like",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "One week in Oman",
+      "link": "https://www.reddit.com/r/travel/comments/1w1uz0k/one_week_in_oman/",
+      "date": "2026-08-29T19:03:47+00:00",
+      "summary": "We flew into Muscat and rented a 4x4 SUV. We drove the winding, rocky Hatt Mountain Road through the Jebel Shams mountains, stopping for some great hiking. We continued on to Bahla and Nizwa where we explored the souks and ancient forts. We continued on to the",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
