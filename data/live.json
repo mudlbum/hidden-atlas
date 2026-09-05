@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-04T09:40:05.355Z",
-  "date": "2026-09-04",
+  "generatedAt": "2026-09-05T09:05:37.522Z",
+  "date": "2026-09-05",
   "rotation": {
     "places": [
-      "ibera",
-      "savaii",
-      "bale"
+      "caobang",
+      "orkhon",
+      "jardin"
     ],
-    "tip": "etiqshoes",
-    "eat": "irenteplate"
+    "tip": "esim",
+    "eat": "tarte"
   },
   "counts": {
     "places": 87,
@@ -16,6 +16,17 @@
     "eats": 33
   },
   "feed": [
+    {
+      "title": "Who Knew Illinois Had This Many Spooky Places?",
+      "link": "https://www.atlasobscura.com/articles/illinois-spooky-places",
+      "date": "Fri, 04 Sep 2026 16:49:00 -0400",
+      "summary": "Illinois is known for its haunted houses and Halloween extravaganzas: the kinds of places that draw lines out the door and attract visitors from all over the country. But beyond these creepy crowd favorites are a number of lesser-known spooky spots, all with b",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
     {
       "title": "Durham Town Hall in Durham, England",
       "link": "https://www.atlasobscura.com/places/durham-town-hall",
@@ -54,17 +65,6 @@
       "link": "https://www.atlasobscura.com/places/the-prince-of-the-lilies-fresco",
       "date": "Thu, 03 Sep 2026 10:00:00 -0400",
       "summary": "The Prince of the Lilies is one of the signature images of Minoan Crete, reproduced on postcards, book covers, and museum posters worldwide: a slender, muscular figure wearing a crown of lilies and peacock feathers, striding forward through a garden, one hand ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "David Sassoon Clock Tower in Mumbai, India",
-      "link": "https://www.atlasobscura.com/places/david-sassoon-clock-tower",
-      "date": "Wed, 02 Sep 2026 16:00:00 -0400",
-      "summary": "In Mumbai’s Byculla area is located Veermata Jijabai Bhosale Udyan, the city’s oldest public garden and zoo. It was formerly known as Victoria Gardens. At the garden’s entrance is a beautiful old clock tower. Known as David Sassoon Clock Tower, it was built in",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -127,10 +127,10 @@
       }
     },
     {
-      "title": "Two weeks in Indonesia",
-      "link": "https://www.reddit.com/r/travel/comments/1w2fwt7/two_weeks_in_indonesia/",
-      "date": "2026-08-30T12:10:36+00:00",
-      "summary": "I haven’t travelled in Southeast Asia for many years, and Indonesia happened to be high on my list whilst also being a good destination for summer, so it’s the destination I picked. I did not expect to go through so much. The country is wonderful. I have the f",
+      "title": "Some pics from my Germany and Switzerland trip",
+      "link": "https://www.reddit.com/r/travel/comments/1w4rtz1/some_pics_from_my_germany_and_switzerland_trip/",
+      "date": "2026-09-01T22:22:16+00:00",
+      "summary": "Sharing a few pics from my family trip in late August. We spend two weeks, split in the middle between small(ish) towns in Germany (half timber vibe + castles) and Swiss Alps. The itinerary was roughly: Heidelberg, Lucerne, Lauternbrunner/Wengen, Lake Constanc",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -138,10 +138,10 @@
       }
     },
     {
-      "title": "Some pics from my Germany and Switzerland trip",
-      "link": "https://www.reddit.com/r/travel/comments/1w4rtz1/some_pics_from_my_germany_and_switzerland_trip/",
-      "date": "2026-09-01T22:22:16+00:00",
-      "summary": "Sharing a few pics from my family trip in late August. We spend two weeks, split in the middle between small(ish) towns in Germany (half timber vibe + castles) and Swiss Alps. The itinerary was roughly: Heidelberg, Lucerne, Lauternbrunner/Wengen, Lake Constanc",
+      "title": "Two weeks in Indonesia",
+      "link": "https://www.reddit.com/r/travel/comments/1w2fwt7/two_weeks_in_indonesia/",
+      "date": "2026-08-30T12:10:36+00:00",
+      "summary": "I haven’t travelled in Southeast Asia for many years, and Indonesia happened to be high on my list whilst also being a good destination for summer, so it’s the destination I picked. I did not expect to go through so much. The country is wonderful. I have the f",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -160,10 +160,10 @@
       }
     },
     {
-      "title": "10 days in Antarctica: Wildlife, the Drake Passage and what the expedition was like [OC]",
-      "link": "https://www.reddit.com/r/travel/comments/1w0tpyz/10_days_in_antarctica_wildlife_the_drake_passage/",
-      "date": "2026-08-28T15:28:25+00:00",
-      "summary": "Warning: Very long post ahead TLDR: Went to Antarctica. It was the best experience of my life. A few days ago I posted here about my sabbatical through Latin America and Antarctica. Quite a few people asked how I got to Antarctica, what the expedition was like",
+      "title": "One week in Oman",
+      "link": "https://www.reddit.com/r/travel/comments/1w1uz0k/one_week_in_oman/",
+      "date": "2026-08-29T19:03:47+00:00",
+      "summary": "We flew into Muscat and rented a 4x4 SUV. We drove the winding, rocky Hatt Mountain Road through the Jebel Shams mountains, stopping for some great hiking. We continued on to Bahla and Nizwa where we explored the souks and ancient forts. We continued on to the",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "One week in Oman",
-      "link": "https://www.reddit.com/r/travel/comments/1w1uz0k/one_week_in_oman/",
-      "date": "2026-08-29T19:03:47+00:00",
-      "summary": "We flew into Muscat and rented a 4x4 SUV. We drove the winding, rocky Hatt Mountain Road through the Jebel Shams mountains, stopping for some great hiking. We continued on to Bahla and Nizwa where we explored the souks and ancient forts. We continued on to the",
+      "title": "Canada Trip Report - The Rockies are justifiably popular",
+      "link": "https://www.reddit.com/r/travel/comments/1w72uf1/canada_trip_report_the_rockies_are_justifiably/",
+      "date": "2026-09-04T12:21:05+00:00",
+      "summary": "This was our big trip for the year both in terms of distance and the amount of planning that went into it. We flew into Toronto before visiting Montreal by train, flying to Vancouver for a couple days then flying to Calgary to pick up an RV for the majority of",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
