@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-08T09:41:37.177Z",
-  "date": "2026-09-08",
+  "generatedAt": "2026-09-09T09:46:38.184Z",
+  "date": "2026-09-09",
   "rotation": {
     "places": [
-      "nuratau",
-      "spiti",
-      "dana"
+      "saomiguel-alt",
+      "gargano",
+      "matsu"
     ],
-    "tip": "waterpurify",
-    "eat": "kokoda"
+    "tip": "fees2026",
+    "eat": "crabtottori"
   },
   "counts": {
     "places": 87,
@@ -16,6 +16,17 @@
     "eats": 33
   },
   "feed": [
+    {
+      "title": "AO’s Favorite Unusual Sites to Spend a Night",
+      "link": "https://www.atlasobscura.com/articles/unusual-sites-to-spend-a-night",
+      "date": "Tue, 08 Sep 2026 10:09:00 -0400",
+      "summary": "Where to stay is a pivotal part of any trip, sometimes just as important as the destination itself. The place you rest your head can dictate not just the quality of sleep you get but the kinds of activities you choose, the people you meet, and the way you enga",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
     {
       "title": "Who Knew Illinois Had This Many Spooky Places?",
       "link": "https://www.atlasobscura.com/articles/illinois-spooky-places",
@@ -54,17 +65,6 @@
       "link": "https://www.atlasobscura.com/places/palm-temple",
       "date": "Thu, 03 Sep 2026 12:00:00 -0400",
       "summary": "Bristol has no shortage of churches, but one of its strangest temples is devoted to nature. Outside the University of Bristol’s School of Chemistry, artist Luke Jerram’s Palm Temple resembles a futuristic chapel made of wood and stained glass. Created in 2020 ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Prince of the Lilies Fresco in Heraklion, Greece",
-      "link": "https://www.atlasobscura.com/places/the-prince-of-the-lilies-fresco",
-      "date": "Thu, 03 Sep 2026 10:00:00 -0400",
-      "summary": "The Prince of the Lilies is one of the signature images of Minoan Crete, reproduced on postcards, book covers, and museum posters worldwide: a slender, muscular figure wearing a crown of lilies and peacock feathers, striding forward through a garden, one hand ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -127,17 +127,6 @@
       }
     },
     {
-      "title": "Some pics from my Germany and Switzerland trip",
-      "link": "https://www.reddit.com/r/travel/comments/1w4rtz1/some_pics_from_my_germany_and_switzerland_trip/",
-      "date": "2026-09-01T22:22:16+00:00",
-      "summary": "Sharing a few pics from my family trip in late August. We spend two weeks, split in the middle between small(ish) towns in Germany (half timber vibe + castles) and Swiss Alps. The itinerary was roughly: Heidelberg, Lucerne, Lauternbrunner/Wengen, Lake Constanc",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "Canada Trip Report - The Rockies are justifiably popular",
       "link": "https://www.reddit.com/r/travel/comments/1w72uf1/canada_trip_report_the_rockies_are_justifiably/",
       "date": "2026-09-04T12:21:05+00:00",
@@ -180,6 +169,17 @@
         "en": "r/travel",
         "ko": "r/travel"
       }
+    },
+    {
+      "title": "Stockholm Sweden",
+      "link": "https://www.reddit.com/r/travel/comments/1w7vumw/stockholm_sweden/",
+      "date": "2026-09-05T09:18:42+00:00",
+      "summary": "This Summer we went to Stockholm and there are some very cool places to visit. First of all Skansen which is a kind of Museum of traditional swedish buildings that were deconstructed somewhere in Sweden and then rebuilt in Skansen so actually a collection of r",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
     }
   ],
   "feedIsStale": false,
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
