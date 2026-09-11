@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-10T09:44:46.238Z",
-  "date": "2026-09-10",
+  "generatedAt": "2026-09-11T09:42:08.895Z",
+  "date": "2026-09-11",
   "rotation": {
     "places": [
-      "alentejo",
-      "plovdiv",
-      "ulleungdo"
+      "matsu",
+      "batanes",
+      "damaraland"
     ],
-    "tip": "ees",
-    "eat": "fafa"
+    "tip": "copies",
+    "eat": "khinkali"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "Saint John Anglican Cathedral in Belize City, Belize",
-      "link": "https://www.atlasobscura.com/places/saint-john-anglican-cathedral",
-      "date": "Wed, 09 Sep 2026 16:00:00 -0400",
-      "summary": "In 1812 the British Crown felt the need to establish more control over what had been a community of pirates in then British Honduras, now known as Belize. So they constructed the first church in the territory using slave labour, local mahogany, and red bricks ",
+      "title": "Argyle Street Ash Tree in Finnieston, Scotland",
+      "link": "https://www.atlasobscura.com/places/argyle-street-ash-tree",
+      "date": "Thu, 10 Sep 2026 14:00:00 -0400",
+      "summary": "If one should find themselves in the district of Finnieston, an up and coming, (if not trendy) area of Glasgow, they may come upon a rather unique and solitary street feature. Situated along Argyle Street, in front of a row of tenement flats, stands a rather i",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Ten Thousand Buddhas ‘Monastery’ in Hong Kong",
-      "link": "https://www.atlasobscura.com/places/ten-thousand-buddhas-monastery",
-      "date": "Wed, 09 Sep 2026 14:00:00 -0400",
-      "summary": "The Ten Thousand Buddhas Monastery is a misleading name that significantly downplays the number of Buddha effigies, as there are actually well over 12,000 statues present. Another misnomer lies in the fact that it is technically not a monastery, as no monks li",
+      "title": "Moaning Caverns in Vallecito, California",
+      "link": "https://www.atlasobscura.com/places/moaning-caverns",
+      "date": "Thu, 10 Sep 2026 14:00:00 -0400",
+      "summary": "Hidden beneath the Sierra Nevada foothills of California, Moaning Caverns is an enormous limestone cave with a history as unusual as its name. The cavern’s main chamber is so vast that the Statue of Liberty could reportedly fit inside it. One of its most strik",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Museo del Árbol in Nueva Alborada, Paraguay",
-      "link": "https://www.atlasobscura.com/places/museo-del-arbol",
-      "date": "Wed, 09 Sep 2026 12:00:00 -0400",
-      "summary": "Tucked away in the small community of Puerto Itá Cajón in Nueva Alborada, the Museo del Árbol is an unusual open-air museum where the forest itself becomes part of the exhibition. Rather than walking through conventional galleries, visitors follow trails throu",
+      "title": "The Most Unique Camping Spots Across the U.S.",
+      "link": "https://www.atlasobscura.com/articles/unique-us-camping-spots",
+      "date": "Thu, 10 Sep 2026 13:47:00 -0400",
+      "summary": "America’s geography is unmatched in diversity, spanning from scorching, sandy deserts to snow-capped mountains and dense swamps; coastal wetlands to high, grassy plains. There’s perhaps no better way to experience this incredible variety than by taking a back ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "The Peeping Tom of Tallinn in Tallinn, Estonia",
-      "link": "https://www.atlasobscura.com/places/the-peeping-tom-of-tallinn",
-      "date": "Wed, 09 Sep 2026 10:00:00 -0400",
-      "summary": "Hidden in plain sight near the top of an Art Nouveau house in Tallinn's Old Town, a bespectacled stone figure watches from the facade. His gaze is fixed across the street, toward the building opposite. Local legend has it that the figure was created as revenge",
+      "title": "The Schnoor in Bremen, Germany",
+      "link": "https://www.atlasobscura.com/places/the-schnoor",
+      "date": "Thu, 10 Sep 2026 12:00:00 -0400",
+      "summary": "The Schnoor is Bremen at its most storybook-like: a tangle of narrow Harry Potter-like lanes where tiny, slightly crooked houses seem to lean in for a chat. As the city’s oldest quarter, it turns an ordinary walk into a slow-motion treasure hunt for colorful f",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "September 11th Garden Braemar Stone in New York, New York",
-      "link": "https://www.atlasobscura.com/places/queen-elizabeth-ii-september-11th-garden-braemar-stone",
-      "date": "Wed, 09 Sep 2026 10:00:00 -0400",
-      "summary": "Following the tragic September 11, 2001, attacks that destroyed the World Trade Center in Manhattan, a series of memorials were created around the New York City area to remember the people who died in the attack. The Queen Elizabeth II September 11 th Garden, ",
+      "title": "‘The Rumour of Discord’ in Madrid, Spain",
+      "link": "https://www.atlasobscura.com/places/the-rumour-of-discord",
+      "date": "Thu, 10 Sep 2026 10:00:00 -0400",
+      "summary": "A new sculpture, commissioned by a luxury hotel, adorns the heart of Madrid and has not gone unnoticed. It is a stylized bronze horse that, defying gravity, seems to hang in mid-air, supported by only one hoof from a very high pedestal that never appears to be",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -138,6 +138,17 @@
       }
     },
     {
+      "title": "Annecy - the pearl of the French Alps",
+      "link": "https://www.reddit.com/r/travel/comments/1wblg79/annecy_the_pearl_of_the_french_alps/",
+      "date": "2026-09-09T13:21:56+00:00",
+      "summary": "These are not my words, but rather Raoul Blanchard's, due to the location of Annecy at the slope of the norther French Alps and by the lake that inherited the city´s name. I had this location of my wish list for quite a long time, but I wanted to visit it as a",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "I loved the Baltics",
       "link": "https://www.reddit.com/r/travel/comments/1w8xwek/i_loved_the_baltics/",
       "date": "2026-09-06T14:37:40+00:00",
@@ -149,21 +160,10 @@
       }
     },
     {
-      "title": "My solo Japan trip 2026",
-      "link": "https://www.reddit.com/r/travel/comments/1w665xl/my_solo_japan_trip_2026/",
-      "date": "2026-09-03T12:36:18+00:00",
-      "summary": "I also made an interactive Website for my trip but I'm not allowed to share it here if I understand the rules correclty. So please enjoy these pictures instead. Most of these are taken with a Samsung ZFlip 4. Some of them are taken with a Canon 750D. None of t",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "Annecy - the pearl of the French Alps",
-      "link": "https://www.reddit.com/r/travel/comments/1wblg79/annecy_the_pearl_of_the_french_alps/",
-      "date": "2026-09-09T13:21:56+00:00",
-      "summary": "These are not my words, but rather Raoul Blanchard's, due to the location of Annecy at the slope of the norther French Alps and by the lake that inherited the city´s name. I had this location of my wish list for quite a long time, but I wanted to visit it as a",
+      "title": "València for a weekend",
+      "link": "https://www.reddit.com/r/travel/comments/1wak8k1/valència_for_a_weekend/",
+      "date": "2026-09-08T10:09:04+00:00",
+      "summary": "This is the final stop of a 5-day vacation in southeastern Spain, after Murcia, Cartagena and Alicante. I had two full days in València, so I got to explore the city at a very slow pace, soaking in every marvellous building, entering almost every church I stum",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
