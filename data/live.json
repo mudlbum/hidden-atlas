@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-11T09:42:08.895Z",
-  "date": "2026-09-11",
+  "generatedAt": "2026-09-12T09:22:18.900Z",
+  "date": "2026-09-12",
   "rotation": {
     "places": [
-      "matsu",
-      "batanes",
-      "damaraland"
+      "bale",
+      "kotohira",
+      "santoantao"
     ],
-    "tip": "copies",
-    "eat": "khinkali"
+    "tip": "localsim",
+    "eat": "pastelnata"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "America’s Response Monument in New York, New York",
+      "link": "https://www.atlasobscura.com/places/america-responds-monument",
+      "date": "Fri, 11 Sep 2026 16:00:00 -0400",
+      "summary": "This is a statue memorializing the U.S. Army’s Green Berets and other Special Forces soldiers who gallantly brought the fight to the Taliban in Afghanistan in the early days after September 11th. During their action they spent time riding into combat on horseb",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Ebenezer Scrooge’s Gravestone in Shropshire, England",
+      "link": "https://www.atlasobscura.com/places/ebenezer-scrooges-gravestone",
+      "date": "Fri, 11 Sep 2026 14:00:00 -0400",
+      "summary": "“A Christmas Carol” starring George C Scott as Scrooge was filmed on location in Shrewsbury and broadcast on CBS in the United States and released in theaters in the UK in December 1984. An original gravestone, the details long weathered away, was used for the",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "The Quilters Hall of Fame in Marion, Indiana",
+      "link": "https://www.atlasobscura.com/places/the-quilters-hall-of-fame",
+      "date": "Fri, 11 Sep 2026 12:00:00 -0400",
+      "summary": "In a town known for basketball and as the birthplace of James Dean, perhaps the best-kept secret is the Quilters Hall of Fame. The inspiration for the Hall of Fame was the woman who owned the house, Marie Webster. Marie was born in nearby Wabash, Indiana, in 1",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Poste Thiers in Nice, France",
+      "link": "https://www.atlasobscura.com/places/poste-thiers",
+      "date": "Fri, 11 Sep 2026 10:00:00 -0400",
+      "summary": "Poste Thiers is the most famous red brick building in Nice. This iconic Post Office is located at 21 Avenue Thiers. Poste Thiers was built in 1931 by government architect Guillaume Tronchet. The construction used about 300,000 red bricks which were imported fr",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Argyle Street Ash Tree in Finnieston, Scotland",
       "link": "https://www.atlasobscura.com/places/argyle-street-ash-tree",
       "date": "Thu, 10 Sep 2026 14:00:00 -0400",
       "summary": "If one should find themselves in the district of Finnieston, an up and coming, (if not trendy) area of Glasgow, they may come upon a rather unique and solitary street feature. Situated along Argyle Street, in front of a row of tenement flats, stands a rather i",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Moaning Caverns in Vallecito, California",
-      "link": "https://www.atlasobscura.com/places/moaning-caverns",
-      "date": "Thu, 10 Sep 2026 14:00:00 -0400",
-      "summary": "Hidden beneath the Sierra Nevada foothills of California, Moaning Caverns is an enormous limestone cave with a history as unusual as its name. The cavern’s main chamber is so vast that the Statue of Liberty could reportedly fit inside it. One of its most strik",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Most Unique Camping Spots Across the U.S.",
-      "link": "https://www.atlasobscura.com/articles/unique-us-camping-spots",
-      "date": "Thu, 10 Sep 2026 13:47:00 -0400",
-      "summary": "America’s geography is unmatched in diversity, spanning from scorching, sandy deserts to snow-capped mountains and dense swamps; coastal wetlands to high, grassy plains. There’s perhaps no better way to experience this incredible variety than by taking a back ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Schnoor in Bremen, Germany",
-      "link": "https://www.atlasobscura.com/places/the-schnoor",
-      "date": "Thu, 10 Sep 2026 12:00:00 -0400",
-      "summary": "The Schnoor is Bremen at its most storybook-like: a tangle of narrow Harry Potter-like lanes where tiny, slightly crooked houses seem to lean in for a chat. As the city’s oldest quarter, it turns an ordinary walk into a slow-motion treasure hunt for colorful f",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "‘The Rumour of Discord’ in Madrid, Spain",
-      "link": "https://www.atlasobscura.com/places/the-rumour-of-discord",
-      "date": "Thu, 10 Sep 2026 10:00:00 -0400",
-      "summary": "A new sculpture, commissioned by a luxury hotel, adorns the heart of Madrid and has not gone unnoticed. It is a stylized bronze horse that, defying gravity, seems to hang in mid-air, supported by only one hoof from a very high pedestal that never appears to be",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -127,17 +127,6 @@
       }
     },
     {
-      "title": "Canada Trip Report - The Rockies are justifiably popular",
-      "link": "https://www.reddit.com/r/travel/comments/1w72uf1/canada_trip_report_the_rockies_are_justifiably/",
-      "date": "2026-09-04T12:21:05+00:00",
-      "summary": "This was our big trip for the year both in terms of distance and the amount of planning that went into it. We flew into Toronto before visiting Montreal by train, flying to Vancouver for a couple days then flying to Calgary to pick up an RV for the majority of",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "Annecy - the pearl of the French Alps",
       "link": "https://www.reddit.com/r/travel/comments/1wblg79/annecy_the_pearl_of_the_french_alps/",
       "date": "2026-09-09T13:21:56+00:00",
@@ -171,10 +160,21 @@
       }
     },
     {
-      "title": "Stockholm Sweden",
-      "link": "https://www.reddit.com/r/travel/comments/1w7vumw/stockholm_sweden/",
-      "date": "2026-09-05T09:18:42+00:00",
-      "summary": "This Summer we went to Stockholm and there are some very cool places to visit. First of all Skansen which is a kind of Museum of traditional swedish buildings that were deconstructed somewhere in Sweden and then rebuilt in Skansen so actually a collection of r",
+      "title": "Malaysia on Borneo - land of nature and kind people",
+      "link": "https://www.reddit.com/r/travel/comments/1w9qg8d/malaysia_on_borneo_land_of_nature_and_kind_people/",
+      "date": "2026-09-07T12:11:22+00:00",
+      "summary": "August 23 - September 2, 2026 2 things stood out to me during my visit to Malaysian Borneo - the beautiful wild nature and the even more beautiful Malaysian people. From day one, everyone was genuinely kind, helpful, and welcoming. Children waved at us with wa",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "Mount Rainer/leavanworth, USA",
+      "link": "https://www.reddit.com/r/travel/comments/1wccevk/mount_rainerleavanworth_usa/",
+      "date": "2026-09-10T07:45:38+00:00",
+      "summary": "3 day trips starting from vancouver Day 1: seattle downtown, pikes market, uwajimaya japanese market, mochithings. Day 2: woke up at 3am to drive up to mount rainer (took around 2h) and got there around 5:30am. The line was forming at the gate already. By 6:30",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
