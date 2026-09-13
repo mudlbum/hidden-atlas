@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-12T09:22:18.900Z",
-  "date": "2026-09-12",
+  "generatedAt": "2026-09-13T10:17:54.024Z",
+  "date": "2026-09-13",
   "rotation": {
     "places": [
-      "bale",
-      "kotohira",
-      "santoantao"
+      "lordhowe",
+      "rwenzori",
+      "ohrid"
     ],
-    "tip": "localsim",
-    "eat": "pastelnata"
+    "tip": "layover",
+    "eat": "pastilla"
   },
   "counts": {
     "places": 87,
@@ -127,6 +127,17 @@
       }
     },
     {
+      "title": "Norway 🇳🇴 ❤️",
+      "link": "https://www.reddit.com/r/travel/comments/1we3usz/norway/",
+      "date": "2026-09-12T05:33:46+00:00",
+      "summary": "I had a wonderful time in Norway. From the Art Nouveau charm of Ålesund and the breathtaking views of the Hjørundfjord to the lively streets of Oslo. Ålesund feels like a fairytale town, but the absolute highlight was a boat trip through the majestic Hjørundfj",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "Annecy - the pearl of the French Alps",
       "link": "https://www.reddit.com/r/travel/comments/1wblg79/annecy_the_pearl_of_the_french_alps/",
       "date": "2026-09-09T13:21:56+00:00",
@@ -149,32 +160,21 @@
       }
     },
     {
+      "title": "Everyone said there isn’t much to see in Brunei",
+      "link": "https://www.reddit.com/r/travel/comments/1wdeict/everyone_said_there_isnt_much_to_see_in_brunei/",
+      "date": "2026-09-11T12:11:48+00:00",
+      "summary": "September 4-5, 2026 And I believe they were right. In the capital city, the 2 main mosques sure are impressive, and the water village is an interesting visit too if you haven’t seen one before, but aside from some wild animals on the river or in the Tasek Lama",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "València for a weekend",
       "link": "https://www.reddit.com/r/travel/comments/1wak8k1/valència_for_a_weekend/",
       "date": "2026-09-08T10:09:04+00:00",
       "summary": "This is the final stop of a 5-day vacation in southeastern Spain, after Murcia, Cartagena and Alicante. I had two full days in València, so I got to explore the city at a very slow pace, soaking in every marvellous building, entering almost every church I stum",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "Malaysia on Borneo - land of nature and kind people",
-      "link": "https://www.reddit.com/r/travel/comments/1w9qg8d/malaysia_on_borneo_land_of_nature_and_kind_people/",
-      "date": "2026-09-07T12:11:22+00:00",
-      "summary": "August 23 - September 2, 2026 2 things stood out to me during my visit to Malaysian Borneo - the beautiful wild nature and the even more beautiful Malaysian people. From day one, everyone was genuinely kind, helpful, and welcoming. Children waved at us with wa",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "Mount Rainer/leavanworth, USA",
-      "link": "https://www.reddit.com/r/travel/comments/1wccevk/mount_rainerleavanworth_usa/",
-      "date": "2026-09-10T07:45:38+00:00",
-      "summary": "3 day trips starting from vancouver Day 1: seattle downtown, pikes market, uwajimaya japanese market, mochithings. Day 2: woke up at 3am to drive up to mount rainer (took around 2h) and got there around 5:30am. The line was forming at the gate already. By 6:30",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -208,6 +208,6 @@
   ],
   "enrichment": {
     "ok": 0,
-    "failed": 0
+    "failed": 6
   }
 }
