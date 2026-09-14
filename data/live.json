@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-13T10:17:54.024Z",
-  "date": "2026-09-13",
+  "generatedAt": "2026-09-14T10:39:28.708Z",
+  "date": "2026-09-14",
   "rotation": {
     "places": [
-      "lordhowe",
-      "rwenzori",
-      "ohrid"
+      "tusheti",
+      "jaffna",
+      "saotome"
     ],
-    "tip": "layover",
-    "eat": "pastilla"
+    "tip": "seat",
+    "eat": "ceviche"
   },
   "counts": {
     "places": 87,
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Argyle Street Ash Tree in Finnieston, Scotland",
-      "link": "https://www.atlasobscura.com/places/argyle-street-ash-tree",
+      "title": "Moaning Caverns in Vallecito, California",
+      "link": "https://www.atlasobscura.com/places/moaning-caverns",
       "date": "Thu, 10 Sep 2026 14:00:00 -0400",
-      "summary": "If one should find themselves in the district of Finnieston, an up and coming, (if not trendy) area of Glasgow, they may come upon a rather unique and solitary street feature. Situated along Argyle Street, in front of a row of tenement flats, stands a rather i",
+      "summary": "Hidden beneath the Sierra Nevada foothills of California, Moaning Caverns is an enormous limestone cave with a history as unusual as its name. The cavern’s main chamber is so vast that the Statue of Liberty could reportedly fit inside it. One of its most strik",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -72,65 +72,21 @@
       }
     },
     {
-      "title": "Holafly Plans: The Best eSIM Plan for Long Term Travelers",
-      "link": "https://www.nomadicmatt.com/travel-blogs/holafly-plans/",
-      "date": "Tue, 28 Jul 2026 16:40:13 +0000",
-      "summary": "There are a lot of eSIM companies in the world. They all work a similar way: you download their app, pick your package, install the eSIM into your smartphone, and off you go. There’s many I like. But one I like more than the rest is Holafly and I’ve been using",
-      "source": "nomadic-matt",
-      "sourceLabel": {
-        "en": "Nomadic Matt",
-        "ko": "노매딕 맷"
-      }
-    },
-    {
-      "title": "Nomad Citizen: A New Social Safety Net for Entrepreneurs",
-      "link": "https://www.nomadicmatt.com/travel-blogs/nomad-citizen-review/",
-      "date": "Thu, 18 Jun 2026 12:07:22 +0000",
-      "summary": "If you’re a digital nomad or a location-independent business owner, you’re either overpaying for fragmented insurance coverage (travel, medical, etc.) or just badly underinsured. You have a health plan, travel insurance, and maybe some medical evacuation cover",
-      "source": "nomadic-matt",
-      "sourceLabel": {
-        "en": "Nomadic Matt",
-        "ko": "노매딕 맷"
-      }
-    },
-    {
-      "title": "Faye Travel Insurance: The Best New Company Out there",
-      "link": "https://www.nomadicmatt.com/travel-blogs/faye-travel-insurance-review/",
-      "date": "Wed, 03 Jun 2026 13:05:03 +0000",
-      "summary": "We may receive compensation from Faye as an advertising partner. However, this does not influence our evaluations. Our opinions are our own. I’ve been writing about travel for nearly two decades and, in that time, I’ve watched the travel insurance industry cha",
-      "source": "nomadic-matt",
-      "sourceLabel": {
-        "en": "Nomadic Matt",
-        "ko": "노매딕 맷"
-      }
-    },
-    {
-      "title": "Madrid 5-Day Itinerary: A Guide to Culture, Gastronomy, and Local Life",
-      "link": "https://www.nomadicmatt.com/travel-blogs/madrid-five-day-itinerary/",
-      "date": "Wed, 06 May 2026 07:50:57 +0000",
-      "summary": "Home to some 3.5 million people, Madrid is the capital of Spain and the country’s largest city. Though it’s somewhat sprawling, the city boasts stunning architecture, incredible food, and an energetic nightlife that stretches until dawn. Over 10 million people",
-      "source": "nomadic-matt",
-      "sourceLabel": {
-        "en": "Nomadic Matt",
-        "ko": "노매딕 맷"
-      }
-    },
-    {
-      "title": "Capital One Venture Business Card Review",
-      "link": "https://www.nomadicmatt.com/travel-blogs/capital-one-venture-business-review/",
-      "date": "Fri, 01 May 2026 15:30:42 +0000",
-      "summary": "If you’re a traveler like me, chances are you’re always on the lookout for ways to make your trips more affordable. That’s why I collect points and miles: they help me lower my travel costs so I can spend my money on what’s actually important…which is usually ",
-      "source": "nomadic-matt",
-      "sourceLabel": {
-        "en": "Nomadic Matt",
-        "ko": "노매딕 맷"
-      }
-    },
-    {
       "title": "Norway 🇳🇴 ❤️",
       "link": "https://www.reddit.com/r/travel/comments/1we3usz/norway/",
       "date": "2026-09-12T05:33:46+00:00",
       "summary": "I had a wonderful time in Norway. From the Art Nouveau charm of Ålesund and the breathtaking views of the Hjørundfjord to the lively streets of Oslo. Ålesund feels like a fairytale town, but the absolute highlight was a boat trip through the majestic Hjørundfj",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "Celebrating 35 years of life with a solo trip to Vietnam.",
+      "link": "https://www.reddit.com/r/travel/comments/1wfexcr/celebrating_35_years_of_life_with_a_solo_trip_to/",
+      "date": "2026-09-13T18:05:58+00:00",
+      "summary": "I recently turned 35, and I decided to celebrate it by taking a solo trip to Vietnam. It was not my first time in Vietnam, but it was my first time travelling there alone. And honestly, it was one of the best decisions I have made in a long time. I have been w",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -149,10 +105,10 @@
       }
     },
     {
-      "title": "I loved the Baltics",
-      "link": "https://www.reddit.com/r/travel/comments/1w8xwek/i_loved_the_baltics/",
-      "date": "2026-09-06T14:37:40+00:00",
-      "summary": "This was my first solo trip abroad and I really enjoyed it! I spent 9 days across Lithuania, Latvia, and Estonia (3 days in each country). As a history and Christianity nerd, it was perfect for me. Safety: As a young woman travelling alone, I never once felt u",
+      "title": "Travelled to Europe as an Indian - my observarions",
+      "link": "https://www.reddit.com/r/travel/comments/1wfsve6/travelled_to_europe_as_an_indian_my_observarions/",
+      "date": "2026-09-14T04:01:14+00:00",
+      "summary": "Images 1 2 3 and 5 - Switzerland Images 4 and 6 Paris I visited France and Switzerland this summer, and honestly, one of the biggest surprises for me was how wrong my perception had been. As an Indian, I'd always felt that the beauty of Europe, and especially ",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -169,17 +125,6 @@
         "en": "r/travel",
         "ko": "r/travel"
       }
-    },
-    {
-      "title": "València for a weekend",
-      "link": "https://www.reddit.com/r/travel/comments/1wak8k1/valència_for_a_weekend/",
-      "date": "2026-09-08T10:09:04+00:00",
-      "summary": "This is the final stop of a 5-day vacation in southeastern Spain, after Murcia, Cartagena and Alicante. I had two full days in València, so I got to explore the city at a very slow pace, soaking in every marvellous building, entering almost every church I stum",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
     }
   ],
   "feedIsStale": false,
@@ -191,8 +136,9 @@
     },
     {
       "id": "nomadic-matt",
-      "ok": true,
-      "count": 5
+      "ok": false,
+      "error": "reachable but produced 0 items — feed may have moved or been retired",
+      "optional": false
     },
     {
       "id": "reddit-travel",
@@ -207,7 +153,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
-    "failed": 6
+    "ok": 6,
+    "failed": 0
   }
 }
