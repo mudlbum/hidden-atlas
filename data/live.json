@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-14T10:39:28.708Z",
-  "date": "2026-09-14",
+  "generatedAt": "2026-09-15T10:05:58.077Z",
+  "date": "2026-09-15",
   "rotation": {
     "places": [
-      "tusheti",
-      "jaffna",
-      "saotome"
+      "jardin",
+      "ometepe",
+      "quilotoa"
     ],
-    "tip": "seat",
-    "eat": "ceviche"
+    "tip": "positioning",
+    "eat": "lupulu"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "America’s Response Monument in New York, New York",
-      "link": "https://www.atlasobscura.com/places/america-responds-monument",
-      "date": "Fri, 11 Sep 2026 16:00:00 -0400",
-      "summary": "This is a statue memorializing the U.S. Army’s Green Berets and other Special Forces soldiers who gallantly brought the fight to the Taliban in Afghanistan in the early days after September 11th. During their action they spent time riding into combat on horseb",
+      "title": "'Pyramide de Verlée' in Havelange, Belgium",
+      "link": "https://www.atlasobscura.com/places/pyramide-de-verlee",
+      "date": "Mon, 14 Sep 2026 16:00:00 -0400",
+      "summary": "Verlée is a small hamlet located an hour and a quarter's drive south-east of Brussels. Apart from a few limestone farmhouses, the village itself is small and of little interest. However, when leaving Verlée via the road to Petit Avin, visitors are surprised to",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Ebenezer Scrooge’s Gravestone in Shropshire, England",
-      "link": "https://www.atlasobscura.com/places/ebenezer-scrooges-gravestone",
-      "date": "Fri, 11 Sep 2026 14:00:00 -0400",
-      "summary": "“A Christmas Carol” starring George C Scott as Scrooge was filmed on location in Shrewsbury and broadcast on CBS in the United States and released in theaters in the UK in December 1984. An original gravestone, the details long weathered away, was used for the",
+      "title": "Cryptid Tourism: The Best Museums, Destinations & Festivals Across America",
+      "link": "https://www.atlasobscura.com/articles/cryptid-tourism-across-america",
+      "date": "Mon, 14 Sep 2026 14:17:00 -0400",
+      "summary": "What is a cryptid? A cryptid is an animal whose existence has been suggested but not proven by science—creatures like Bigfoot, the Loch Ness Monster, the Chupacabra, and the Jersey Devil. The term comes from cryptozoology, the study of “hidden animals.” Quick ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "The Quilters Hall of Fame in Marion, Indiana",
-      "link": "https://www.atlasobscura.com/places/the-quilters-hall-of-fame",
-      "date": "Fri, 11 Sep 2026 12:00:00 -0400",
-      "summary": "In a town known for basketball and as the birthplace of James Dean, perhaps the best-kept secret is the Quilters Hall of Fame. The inspiration for the Hall of Fame was the woman who owned the house, Marie Webster. Marie was born in nearby Wabash, Indiana, in 1",
+      "title": "Gods of Olympus of La Ribota Park in Alcorcón, Spain",
+      "link": "https://www.atlasobscura.com/places/gods-of-olympus-of-la-ribota-park",
+      "date": "Mon, 14 Sep 2026 14:00:00 -0400",
+      "summary": "You don’t normally expect to encounter the gods of Olympus while strolling through a suburban park outside Madrid. But Alcorcón, a city better known for apartment blocks and shopping centers than classical mythology, has quietly created its own version of Moun",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "Poste Thiers in Nice, France",
-      "link": "https://www.atlasobscura.com/places/poste-thiers",
-      "date": "Fri, 11 Sep 2026 10:00:00 -0400",
-      "summary": "Poste Thiers is the most famous red brick building in Nice. This iconic Post Office is located at 21 Avenue Thiers. Poste Thiers was built in 1931 by government architect Guillaume Tronchet. The construction used about 300,000 red bricks which were imported fr",
+      "title": "Linh Phong Pagoda in Cat Tien, Vietnam",
+      "link": "https://www.atlasobscura.com/places/linh-phong-pagoda",
+      "date": "Mon, 14 Sep 2026 12:00:00 -0400",
+      "summary": "Linh Phong Pagoda, widely known locally as Ong Nui Pagoda, stands as one of the most sacred and culturally significant spiritual landmarks in the region, dramatically positioned against the slopes of the rugged Ba Mountain range. Rooted in centuries of local h",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Moaning Caverns in Vallecito, California",
-      "link": "https://www.atlasobscura.com/places/moaning-caverns",
-      "date": "Thu, 10 Sep 2026 14:00:00 -0400",
-      "summary": "Hidden beneath the Sierra Nevada foothills of California, Moaning Caverns is an enormous limestone cave with a history as unusual as its name. The cavern’s main chamber is so vast that the Statue of Liberty could reportedly fit inside it. One of its most strik",
+      "title": "Intschi-Reuss Bridge in Gurtnellen, Switzerland",
+      "link": "https://www.atlasobscura.com/places/intschi-reuss-bridge",
+      "date": "Mon, 14 Sep 2026 10:00:00 -0400",
+      "summary": "A bridge not for the ones who are afraid of heights... The Intschi-Reuss bridge is mainly used as a railway bridge. In the end, there isn't much to connect on both sides of the bridge. But to let the few inhabitants on one side of the bridge access the bus sta",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -72,10 +72,65 @@
       }
     },
     {
-      "title": "Norway 🇳🇴 ❤️",
-      "link": "https://www.reddit.com/r/travel/comments/1we3usz/norway/",
-      "date": "2026-09-12T05:33:46+00:00",
-      "summary": "I had a wonderful time in Norway. From the Art Nouveau charm of Ålesund and the breathtaking views of the Hjørundfjord to the lively streets of Oslo. Ålesund feels like a fairytale town, but the absolute highlight was a boat trip through the majestic Hjørundfj",
+      "title": "Holafly Plans: The Best eSIM Plan for Long Term Travelers",
+      "link": "https://www.nomadicmatt.com/travel-blogs/holafly-plans/",
+      "date": "Tue, 28 Jul 2026 16:40:13 +0000",
+      "summary": "There are a lot of eSIM companies in the world. They all work a similar way: you download their app, pick your package, install the eSIM into your smartphone, and off you go. There’s many I like. But one I like more than the rest is Holafly and I’ve been using",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Nomad Citizen: A New Social Safety Net for Entrepreneurs",
+      "link": "https://www.nomadicmatt.com/travel-blogs/nomad-citizen-review/",
+      "date": "Thu, 18 Jun 2026 12:07:22 +0000",
+      "summary": "If you’re a digital nomad or a location-independent business owner, you’re either overpaying for fragmented insurance coverage (travel, medical, etc.) or just badly underinsured. You have a health plan, travel insurance, and maybe some medical evacuation cover",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Faye Travel Insurance: The Best New Company Out there",
+      "link": "https://www.nomadicmatt.com/travel-blogs/faye-travel-insurance-review/",
+      "date": "Wed, 03 Jun 2026 13:05:03 +0000",
+      "summary": "We may receive compensation from Faye as an advertising partner. However, this does not influence our evaluations. Our opinions are our own. I’ve been writing about travel for nearly two decades and, in that time, I’ve watched the travel insurance industry cha",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Madrid 5-Day Itinerary: A Guide to Culture, Gastronomy, and Local Life",
+      "link": "https://www.nomadicmatt.com/travel-blogs/madrid-five-day-itinerary/",
+      "date": "Wed, 06 May 2026 07:50:57 +0000",
+      "summary": "Home to some 3.5 million people, Madrid is the capital of Spain and the country’s largest city. Though it’s somewhat sprawling, the city boasts stunning architecture, incredible food, and an energetic nightlife that stretches until dawn. Over 10 million people",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Capital One Venture Business Card Review",
+      "link": "https://www.nomadicmatt.com/travel-blogs/capital-one-venture-business-review/",
+      "date": "Fri, 01 May 2026 15:30:42 +0000",
+      "summary": "If you’re a traveler like me, chances are you’re always on the lookout for ways to make your trips more affordable. That’s why I collect points and miles: they help me lower my travel costs so I can spend my money on what’s actually important…which is usually ",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Travelled to Europe as an Indian - my observarions",
+      "link": "https://www.reddit.com/r/travel/comments/1wfsve6/travelled_to_europe_as_an_indian_my_observarions/",
+      "date": "2026-09-14T04:01:14+00:00",
+      "summary": "Images 1 2 3 and 5 - Switzerland Images 4 and 6 Paris I visited France and Switzerland this summer, and honestly, one of the biggest surprises for me was how wrong my perception had been. As an Indian, I'd always felt that the beauty of Europe, and especially ",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -94,32 +149,32 @@
       }
     },
     {
+      "title": "Solo Iceland Trip - Ring Road!",
+      "link": "https://www.reddit.com/r/travel/comments/1wfmphp/solo_iceland_trip_ring_road/",
+      "date": "2026-09-13T23:10:58+00:00",
+      "summary": "I recently got back from my solo camping trip around Iceland! I went from Sept 3 - Sept 12 and rented a camper van and stayed in campsites along Route 1 while I made my way around the country. Iceland was absolutely beautiful and I'd go back in a heartbeat. Th",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "Norway 🇳🇴 ❤️",
+      "link": "https://www.reddit.com/r/travel/comments/1we3usz/norway/",
+      "date": "2026-09-12T05:33:46+00:00",
+      "summary": "I had a wonderful time in Norway. From the Art Nouveau charm of Ålesund and the breathtaking views of the Hjørundfjord to the lively streets of Oslo. Ålesund feels like a fairytale town, but the absolute highlight was a boat trip through the majestic Hjørundfj",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "Annecy - the pearl of the French Alps",
       "link": "https://www.reddit.com/r/travel/comments/1wblg79/annecy_the_pearl_of_the_french_alps/",
       "date": "2026-09-09T13:21:56+00:00",
       "summary": "These are not my words, but rather Raoul Blanchard's, due to the location of Annecy at the slope of the norther French Alps and by the lake that inherited the city´s name. I had this location of my wish list for quite a long time, but I wanted to visit it as a",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "Travelled to Europe as an Indian - my observarions",
-      "link": "https://www.reddit.com/r/travel/comments/1wfsve6/travelled_to_europe_as_an_indian_my_observarions/",
-      "date": "2026-09-14T04:01:14+00:00",
-      "summary": "Images 1 2 3 and 5 - Switzerland Images 4 and 6 Paris I visited France and Switzerland this summer, and honestly, one of the biggest surprises for me was how wrong my perception had been. As an Indian, I'd always felt that the beauty of Europe, and especially ",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "Everyone said there isn’t much to see in Brunei",
-      "link": "https://www.reddit.com/r/travel/comments/1wdeict/everyone_said_there_isnt_much_to_see_in_brunei/",
-      "date": "2026-09-11T12:11:48+00:00",
-      "summary": "September 4-5, 2026 And I believe they were right. In the capital city, the 2 main mosques sure are impressive, and the water village is an interesting visit too if you haven’t seen one before, but aside from some wild animals on the river or in the Tasek Lama",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -136,9 +191,8 @@
     },
     {
       "id": "nomadic-matt",
-      "ok": false,
-      "error": "reachable but produced 0 items — feed may have moved or been retired",
-      "optional": false
+      "ok": true,
+      "count": 5
     },
     {
       "id": "reddit-travel",
@@ -153,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
