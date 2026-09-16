@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-15T10:05:58.077Z",
-  "date": "2026-09-15",
+  "generatedAt": "2026-09-16T09:57:30.955Z",
+  "date": "2026-09-16",
   "rotation": {
     "places": [
-      "jardin",
-      "ometepe",
-      "quilotoa"
+      "nyungwe",
+      "usambara",
+      "naxos"
     ],
-    "tip": "positioning",
-    "eat": "lupulu"
+    "tip": "packcube",
+    "eat": "honghapbap"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Cafe Tito in Sarajevo, Bosnia and Herzegovina",
+      "link": "https://www.atlasobscura.com/places/cafe-tito",
+      "date": "Tue, 15 Sep 2026 16:00:00 -0400",
+      "summary": "Josef Broz Tito occupied a unique place in the cultural memory of the countries that previously comprised Yugoslavia. To some, he was a human rights-violating authoritarian. To others, he was a “benevolent dictator” who kept simmering ethnic tensions from boil",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "The Adam and Eve House in Nice, France",
+      "link": "https://www.atlasobscura.com/places/the-adam-and-eve-house",
+      "date": "Tue, 15 Sep 2026 14:00:00 -0400",
+      "summary": "Located at 8 rue Poissonnerie, this ancient house is famous for its impressive façade dating back to 1584. This makes it one of the last remaining examples of such a painted house from that period left in the city. The facade was decorated using \"sgraffito\" a ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "The Mountain House in Woodside, California",
+      "link": "https://www.atlasobscura.com/places/the-mountain-house",
+      "date": "Tue, 15 Sep 2026 12:00:00 -0400",
+      "summary": "The Mountain House isn't just a restaurant; it's a dining experience tucked among the redwoods of Kings Mountain in Woodside California. A winding mountain road must be traveled to reach the destination nestled beneath some of California's tallest trees. The r",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Larz Anderson Auto Museum in Brookline, Massachusetts",
+      "link": "https://www.atlasobscura.com/places/larz-anderson-auto-museum",
+      "date": "Tue, 15 Sep 2026 10:00:00 -0400",
+      "summary": "Located slightly northwest of Harvard's Arnold Arboretum and within a residential area is Larz Anderson Park. A relatively small park compared to others in the area, but within this park contains a grand carriage house built during the Victorian era and housed",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "'Pyramide de Verlée' in Havelange, Belgium",
       "link": "https://www.atlasobscura.com/places/pyramide-de-verlee",
       "date": "Mon, 14 Sep 2026 16:00:00 -0400",
       "summary": "Verlée is a small hamlet located an hour and a quarter's drive south-east of Brussels. Apart from a few limestone farmhouses, the village itself is small and of little interest. However, when leaving Verlée via the road to Petit Avin, visitors are surprised to",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Cryptid Tourism: The Best Museums, Destinations & Festivals Across America",
-      "link": "https://www.atlasobscura.com/articles/cryptid-tourism-across-america",
-      "date": "Mon, 14 Sep 2026 14:17:00 -0400",
-      "summary": "What is a cryptid? A cryptid is an animal whose existence has been suggested but not proven by science—creatures like Bigfoot, the Loch Ness Monster, the Chupacabra, and the Jersey Devil. The term comes from cryptozoology, the study of “hidden animals.” Quick ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Gods of Olympus of La Ribota Park in Alcorcón, Spain",
-      "link": "https://www.atlasobscura.com/places/gods-of-olympus-of-la-ribota-park",
-      "date": "Mon, 14 Sep 2026 14:00:00 -0400",
-      "summary": "You don’t normally expect to encounter the gods of Olympus while strolling through a suburban park outside Madrid. But Alcorcón, a city better known for apartment blocks and shopping centers than classical mythology, has quietly created its own version of Moun",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Linh Phong Pagoda in Cat Tien, Vietnam",
-      "link": "https://www.atlasobscura.com/places/linh-phong-pagoda",
-      "date": "Mon, 14 Sep 2026 12:00:00 -0400",
-      "summary": "Linh Phong Pagoda, widely known locally as Ong Nui Pagoda, stands as one of the most sacred and culturally significant spiritual landmarks in the region, dramatically positioned against the slopes of the rugged Ba Mountain range. Rooted in centuries of local h",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Intschi-Reuss Bridge in Gurtnellen, Switzerland",
-      "link": "https://www.atlasobscura.com/places/intschi-reuss-bridge",
-      "date": "Mon, 14 Sep 2026 10:00:00 -0400",
-      "summary": "A bridge not for the ones who are afraid of heights... The Intschi-Reuss bridge is mainly used as a railway bridge. In the end, there isn't much to connect on both sides of the bridge. But to let the few inhabitants on one side of the bridge access the bus sta",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
