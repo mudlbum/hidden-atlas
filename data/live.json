@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-16T09:57:30.955Z",
-  "date": "2026-09-16",
+  "generatedAt": "2026-09-17T09:59:41.065Z",
+  "date": "2026-09-17",
   "rotation": {
     "places": [
-      "nyungwe",
-      "usambara",
-      "naxos"
+      "senja",
+      "curonian",
+      "taitung"
     ],
-    "tip": "packcube",
-    "eat": "honghapbap"
+    "tip": "soloeat",
+    "eat": "potatonaxos"
   },
   "counts": {
     "places": 87,
@@ -16,6 +16,17 @@
     "eats": 33
   },
   "feed": [
+    {
+      "title": "The Academy of Natural Sciences in Philadelphia, Pennsylvania",
+      "link": "https://www.atlasobscura.com/places/the-academy-of-natural-sciences",
+      "date": "Wed, 16 Sep 2026 20:55:00 -0400",
+      "summary": "The Academy of Natural Sciences is the oldest natural history museum in the country (and the Americas). It has everything the curious could hope for -- dinosaurs, ancient fish and birds, an emphasis on conservation, and a deep-seated appreciation for the natur",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
     {
       "title": "Cafe Tito in Sarajevo, Bosnia and Herzegovina",
       "link": "https://www.atlasobscura.com/places/cafe-tito",
@@ -54,17 +65,6 @@
       "link": "https://www.atlasobscura.com/places/larz-anderson-auto-museum",
       "date": "Tue, 15 Sep 2026 10:00:00 -0400",
       "summary": "Located slightly northwest of Harvard's Arnold Arboretum and within a residential area is Larz Anderson Park. A relatively small park compared to others in the area, but within this park contains a grand carriage house built during the Victorian era and housed",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "'Pyramide de Verlée' in Havelange, Belgium",
-      "link": "https://www.atlasobscura.com/places/pyramide-de-verlee",
-      "date": "Mon, 14 Sep 2026 16:00:00 -0400",
-      "summary": "Verlée is a small hamlet located an hour and a quarter's drive south-east of Brussels. Apart from a few limestone farmhouses, the village itself is small and of little interest. However, when leaving Verlée via the road to Petit Avin, visitors are surprised to",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -138,17 +138,6 @@
       }
     },
     {
-      "title": "Celebrating 35 years of life with a solo trip to Vietnam.",
-      "link": "https://www.reddit.com/r/travel/comments/1wfexcr/celebrating_35_years_of_life_with_a_solo_trip_to/",
-      "date": "2026-09-13T18:05:58+00:00",
-      "summary": "I recently turned 35, and I decided to celebrate it by taking a solo trip to Vietnam. It was not my first time in Vietnam, but it was my first time travelling there alone. And honestly, it was one of the best decisions I have made in a long time. I have been w",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "Solo Iceland Trip - Ring Road!",
       "link": "https://www.reddit.com/r/travel/comments/1wfmphp/solo_iceland_trip_ring_road/",
       "date": "2026-09-13T23:10:58+00:00",
@@ -160,10 +149,10 @@
       }
     },
     {
-      "title": "Norway 🇳🇴 ❤️",
-      "link": "https://www.reddit.com/r/travel/comments/1we3usz/norway/",
-      "date": "2026-09-12T05:33:46+00:00",
-      "summary": "I had a wonderful time in Norway. From the Art Nouveau charm of Ålesund and the breathtaking views of the Hjørundfjord to the lively streets of Oslo. Ålesund feels like a fairytale town, but the absolute highlight was a boat trip through the majestic Hjørundfj",
+      "title": "One week in the South of France (September 2026).",
+      "link": "https://www.reddit.com/r/travel/comments/1whcfhv/one_week_in_the_south_of_france_september_2026/",
+      "date": "2026-09-15T20:47:58+00:00",
+      "summary": "Hello I spent a week in september in the French riviera. We took the train from Paris to Nice which was about 5 hours. To explore all the cities we also used the train. It was very simple. The color of water was just spectacular. Some beaches were not that cro",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +160,21 @@
       }
     },
     {
-      "title": "Annecy - the pearl of the French Alps",
-      "link": "https://www.reddit.com/r/travel/comments/1wblg79/annecy_the_pearl_of_the_french_alps/",
-      "date": "2026-09-09T13:21:56+00:00",
-      "summary": "These are not my words, but rather Raoul Blanchard's, due to the location of Annecy at the slope of the norther French Alps and by the lake that inherited the city´s name. I had this location of my wish list for quite a long time, but I wanted to visit it as a",
+      "title": "Celebrating 35 years of life with a solo trip to Vietnam.",
+      "link": "https://www.reddit.com/r/travel/comments/1wfexcr/celebrating_35_years_of_life_with_a_solo_trip_to/",
+      "date": "2026-09-13T18:05:58+00:00",
+      "summary": "I recently turned 35, and I decided to celebrate it by taking a solo trip to Vietnam. It was not my first time in Vietnam, but it was my first time travelling there alone. And honestly, it was one of the best decisions I have made in a long time. I have been w",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "Norway 🇳🇴 ❤️",
+      "link": "https://www.reddit.com/r/travel/comments/1we3usz/norway/",
+      "date": "2026-09-12T05:33:46+00:00",
+      "summary": "I had a wonderful time in Norway. From the Art Nouveau charm of Ålesund and the breathtaking views of the Hjørundfjord to the lively streets of Oslo. Ålesund feels like a fairytale town, but the absolute highlight was a boat trip through the majestic Hjørundfj",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
