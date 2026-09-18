@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-17T09:59:41.065Z",
-  "date": "2026-09-17",
+  "generatedAt": "2026-09-18T09:46:22.115Z",
+  "date": "2026-09-18",
   "rotation": {
     "places": [
-      "senja",
-      "curonian",
-      "taitung"
+      "chiloe",
+      "flinders",
+      "vjosa"
     ],
-    "tip": "soloeat",
-    "eat": "potatonaxos"
+    "tip": "reviews",
+    "eat": "beshbarmak"
   },
   "counts": {
     "places": 87,
@@ -16,6 +16,39 @@
     "eats": 33
   },
   "feed": [
+    {
+      "title": "The Grand Mesa in Cedaredge, Colorado",
+      "link": "https://www.atlasobscura.com/places/the-grand-mesa",
+      "date": "Thu, 17 Sep 2026 18:00:00 -0400",
+      "summary": "Rising high above the vibrant browns and reds of the westerner Colorado landscape, stand the Grand Mesa. Touted as the highest flat topped mountain in the world, the Grand Mesa spans roughly 500 acres and stretches 40 miles in Garfield, Grand and Delta countie",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "The Warner Theatre in Erie, Pennsylvania",
+      "link": "https://www.atlasobscura.com/places/the-warner-theatre",
+      "date": "Thu, 17 Sep 2026 10:15:00 -0400",
+      "summary": "This opulent cinema in downtown Erie, commissioned by Warner Bros. Studios and designed by Chicago-based architects Rapp & Rapp, first opened its doors in 1931. Built for $1.5 million (about $32.95 million today), the grand venue channeled French Renaissance s",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Where to Find the World’s Best Soup",
+      "link": "https://www.atlasobscura.com/articles/worlds-best-soup",
+      "date": "Thu, 17 Sep 2026 10:01:00 -0400",
+      "summary": "20,000 BC was a monumental year in history. Why? The first pot of soup was crafted in a cave in modern-day China. To create their savory broth, prehistoric humans boiled animal bones and entrails in crude pits, then slurped their handiwork from some of the wor",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
     {
       "title": "The Academy of Natural Sciences in Philadelphia, Pennsylvania",
       "link": "https://www.atlasobscura.com/places/the-academy-of-natural-sciences",
@@ -32,39 +65,6 @@
       "link": "https://www.atlasobscura.com/places/cafe-tito",
       "date": "Tue, 15 Sep 2026 16:00:00 -0400",
       "summary": "Josef Broz Tito occupied a unique place in the cultural memory of the countries that previously comprised Yugoslavia. To some, he was a human rights-violating authoritarian. To others, he was a “benevolent dictator” who kept simmering ethnic tensions from boil",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Adam and Eve House in Nice, France",
-      "link": "https://www.atlasobscura.com/places/the-adam-and-eve-house",
-      "date": "Tue, 15 Sep 2026 14:00:00 -0400",
-      "summary": "Located at 8 rue Poissonnerie, this ancient house is famous for its impressive façade dating back to 1584. This makes it one of the last remaining examples of such a painted house from that period left in the city. The facade was decorated using \"sgraffito\" a ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Mountain House in Woodside, California",
-      "link": "https://www.atlasobscura.com/places/the-mountain-house",
-      "date": "Tue, 15 Sep 2026 12:00:00 -0400",
-      "summary": "The Mountain House isn't just a restaurant; it's a dining experience tucked among the redwoods of Kings Mountain in Woodside California. A winding mountain road must be traveled to reach the destination nestled beneath some of California's tallest trees. The r",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Larz Anderson Auto Museum in Brookline, Massachusetts",
-      "link": "https://www.atlasobscura.com/places/larz-anderson-auto-museum",
-      "date": "Tue, 15 Sep 2026 10:00:00 -0400",
-      "summary": "Located slightly northwest of Harvard's Arnold Arboretum and within a residential area is Larz Anderson Park. A relatively small park compared to others in the area, but within this park contains a grand carriage house built during the Victorian era and housed",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -138,10 +138,10 @@
       }
     },
     {
-      "title": "Solo Iceland Trip - Ring Road!",
-      "link": "https://www.reddit.com/r/travel/comments/1wfmphp/solo_iceland_trip_ring_road/",
-      "date": "2026-09-13T23:10:58+00:00",
-      "summary": "I recently got back from my solo camping trip around Iceland! I went from Sept 3 - Sept 12 and rented a camper van and stayed in campsites along Route 1 while I made my way around the country. Iceland was absolutely beautiful and I'd go back in a heartbeat. Th",
+      "title": "One week in the South of France (September 2026).",
+      "link": "https://www.reddit.com/r/travel/comments/1whcfhv/one_week_in_the_south_of_france_september_2026/",
+      "date": "2026-09-15T20:47:58+00:00",
+      "summary": "Hello I spent a week in september in the French riviera. We took the train from Paris to Nice which was about 5 hours. To explore all the cities we also used the train. It was very simple. The color of water was just spectacular. Some beaches were not that cro",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -149,10 +149,10 @@
       }
     },
     {
-      "title": "One week in the South of France (September 2026).",
-      "link": "https://www.reddit.com/r/travel/comments/1whcfhv/one_week_in_the_south_of_france_september_2026/",
-      "date": "2026-09-15T20:47:58+00:00",
-      "summary": "Hello I spent a week in september in the French riviera. We took the train from Paris to Nice which was about 5 hours. To explore all the cities we also used the train. It was very simple. The color of water was just spectacular. Some beaches were not that cro",
+      "title": "Solo Iceland Trip - Ring Road!",
+      "link": "https://www.reddit.com/r/travel/comments/1wfmphp/solo_iceland_trip_ring_road/",
+      "date": "2026-09-13T23:10:58+00:00",
+      "summary": "I recently got back from my solo camping trip around Iceland! I went from Sept 3 - Sept 12 and rented a camper van and stayed in campsites along Route 1 while I made my way around the country. Iceland was absolutely beautiful and I'd go back in a heartbeat. Th",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
