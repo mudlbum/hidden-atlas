@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-18T09:46:22.115Z",
-  "date": "2026-09-18",
+  "generatedAt": "2026-09-19T09:31:11.184Z",
+  "date": "2026-09-19",
   "rotation": {
     "places": [
-      "chiloe",
-      "flinders",
-      "vjosa"
+      "gjirokaster",
+      "niue",
+      "kosrae"
     ],
-    "tip": "reviews",
-    "eat": "beshbarmak"
+    "tip": "landborder",
+    "eat": "tarte"
   },
   "counts": {
     "places": 87,
@@ -16,6 +16,39 @@
     "eats": 33
   },
   "feed": [
+    {
+      "title": "The Mack Truck Museum in Allentown, Pennsylvania",
+      "link": "https://www.atlasobscura.com/places/the-mack-truck-museum",
+      "date": "Fri, 18 Sep 2026 16:00:00 -0400",
+      "summary": "The Mack Museum was created in 1984 and commemorates Mack history through preserving truck build records, service and parts information, engineering drawings, photos, memorabilia and a collection of vintage Mack truck models. After being founded in Brooklyn, N",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Old Sagiada in Greece",
+      "link": "https://www.atlasobscura.com/places/old-sagiada",
+      "date": "Fri, 18 Sep 2026 14:00:00 -0400",
+      "summary": "The town of Old Sagiada was burned and looted in the Second World War by the German occupiers and local Muslims after the inhabitants fled. The abandoned houses are fascinating since many of the walls are still standing, showing a glimpse of the original archi",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Holy Trinity Oak Tree Chapel in Čibukovac, Serbia",
+      "link": "https://www.atlasobscura.com/places/holy-trinity-oak-tree-chapel",
+      "date": "Fri, 18 Sep 2026 12:00:00 -0400",
+      "summary": "The Holy Trinity oak chapel in Čibukovac, a small village near Kraljevo, is built inside a pedunculate oak believed to be over 500 years old. It is thought to be the oldest oak in Serbia. The tree stands more than 30 metres tall, with a trunk circumference of ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
     {
       "title": "The Grand Mesa in Cedaredge, Colorado",
       "link": "https://www.atlasobscura.com/places/the-grand-mesa",
@@ -32,39 +65,6 @@
       "link": "https://www.atlasobscura.com/places/the-warner-theatre",
       "date": "Thu, 17 Sep 2026 10:15:00 -0400",
       "summary": "This opulent cinema in downtown Erie, commissioned by Warner Bros. Studios and designed by Chicago-based architects Rapp & Rapp, first opened its doors in 1931. Built for $1.5 million (about $32.95 million today), the grand venue channeled French Renaissance s",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Where to Find the World’s Best Soup",
-      "link": "https://www.atlasobscura.com/articles/worlds-best-soup",
-      "date": "Thu, 17 Sep 2026 10:01:00 -0400",
-      "summary": "20,000 BC was a monumental year in history. Why? The first pot of soup was crafted in a cave in modern-day China. To create their savory broth, prehistoric humans boiled animal bones and entrails in crude pits, then slurped their handiwork from some of the wor",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Academy of Natural Sciences in Philadelphia, Pennsylvania",
-      "link": "https://www.atlasobscura.com/places/the-academy-of-natural-sciences",
-      "date": "Wed, 16 Sep 2026 20:55:00 -0400",
-      "summary": "The Academy of Natural Sciences is the oldest natural history museum in the country (and the Americas). It has everything the curious could hope for -- dinosaurs, ancient fish and birds, an emphasis on conservation, and a deep-seated appreciation for the natur",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Cafe Tito in Sarajevo, Bosnia and Herzegovina",
-      "link": "https://www.atlasobscura.com/places/cafe-tito",
-      "date": "Tue, 15 Sep 2026 16:00:00 -0400",
-      "summary": "Josef Broz Tito occupied a unique place in the cultural memory of the countries that previously comprised Yugoslavia. To some, he was a human rights-violating authoritarian. To others, he was a “benevolent dictator” who kept simmering ethnic tensions from boil",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "Norway 🇳🇴 ❤️",
-      "link": "https://www.reddit.com/r/travel/comments/1we3usz/norway/",
-      "date": "2026-09-12T05:33:46+00:00",
-      "summary": "I had a wonderful time in Norway. From the Art Nouveau charm of Ålesund and the breathtaking views of the Hjørundfjord to the lively streets of Oslo. Ålesund feels like a fairytale town, but the absolute highlight was a boat trip through the majestic Hjørundfj",
+      "title": "Dolomites blew me away",
+      "link": "https://www.reddit.com/r/travel/comments/1wj5loz/dolomites_blew_me_away/",
+      "date": "2026-09-17T20:37:32+00:00",
+      "summary": "My wife and I took a week trip to the Dolomites, both Ortisei and Cortina d’Ampezzo. I’ve been to NZ, Patagonia, Switzerland, Banff, etc and I’m not sure I’ve seen landscapes as beautiful as the Dolomites. We spent 3 nights in Ortisei and 2 in Cortina. Day 1- ",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
-    "failed": 0
+    "ok": 5,
+    "failed": 1
   }
 }
