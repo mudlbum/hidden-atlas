@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-19T09:31:11.184Z",
-  "date": "2026-09-19",
+  "generatedAt": "2026-09-20T09:49:21.835Z",
+  "date": "2026-09-20",
   "rotation": {
     "places": [
-      "gjirokaster",
-      "niue",
-      "kosrae"
+      "assynt",
+      "tottori",
+      "nuratau"
     ],
-    "tip": "landborder",
-    "eat": "tarte"
+    "tip": "trains",
+    "eat": "pastelnata"
   },
   "counts": {
     "places": 87,
@@ -138,6 +138,17 @@
       }
     },
     {
+      "title": "Two weeks in Namibia- a dream.",
+      "link": "https://www.reddit.com/r/travel/comments/1wkj528/two_weeks_in_namibia_a_dream/",
+      "date": "2026-09-19T10:55:35+00:00",
+      "summary": "33F and 34M, recently returned from our two week self driving trip honeymoon through Namibia and it exceeded all expectations I could have ever had. We did what seemed to be the normal tourist route, Windhoek - Sesriem- Swakopmund - Khorixas - Etosha West and ",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "One week in the South of France (September 2026).",
       "link": "https://www.reddit.com/r/travel/comments/1whcfhv/one_week_in_the_south_of_france_september_2026/",
       "date": "2026-09-15T20:47:58+00:00",
@@ -164,17 +175,6 @@
       "link": "https://www.reddit.com/r/travel/comments/1wfexcr/celebrating_35_years_of_life_with_a_solo_trip_to/",
       "date": "2026-09-13T18:05:58+00:00",
       "summary": "I recently turned 35, and I decided to celebrate it by taking a solo trip to Vietnam. It was not my first time in Vietnam, but it was my first time travelling there alone. And honestly, it was one of the best decisions I have made in a long time. I have been w",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "Dolomites blew me away",
-      "link": "https://www.reddit.com/r/travel/comments/1wj5loz/dolomites_blew_me_away/",
-      "date": "2026-09-17T20:37:32+00:00",
-      "summary": "My wife and I took a week trip to the Dolomites, both Ortisei and Cortina d’Ampezzo. I’ve been to NZ, Patagonia, Switzerland, Banff, etc and I’m not sure I’ve seen landscapes as beautiful as the Dolomites. We spent 3 nights in Ortisei and 2 in Cortina. Day 1- ",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 5,
-    "failed": 1
+    "ok": 6,
+    "failed": 0
   }
 }
