@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-21T10:44:46.495Z",
-  "date": "2026-09-21",
+  "generatedAt": "2026-09-22T09:57:55.928Z",
+  "date": "2026-09-22",
   "rotation": {
     "places": [
-      "cabopolonio",
-      "berat",
-      "saomiguel-alt"
+      "sinesaloum",
+      "liuwa",
+      "haapai"
     ],
-    "tip": "shoes",
-    "eat": "khinkali"
+    "tip": "cashbuffer",
+    "eat": "pampaku"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Benedictine Monastery Holy Trinity of Las Condes in Las Condes, Chile",
+      "link": "https://www.atlasobscura.com/places/benedictine-monastery-holy-trinity-of-las-condes",
+      "date": "Mon, 21 Sep 2026 16:00:00 -0400",
+      "summary": "A beautifully designed modern church and monastery of the 1960s. The site has been considered a link from city to the mountains. Walking up the main driveway gradually exposes the Andes before revealing the church. The church itself utilises a suspended cube d",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Old Route 5 Stone Wall in Nova Scotia",
+      "link": "https://www.atlasobscura.com/places/old-route-5-stone-wall",
+      "date": "Mon, 21 Sep 2026 14:00:00 -0400",
+      "summary": "This is a hidden gem in Cape Breton, Nova Scotia where a waterfall flows through an old stone wall, and cascades over mossy rocks in a steep, mossy canyon surrounded by birch trees. The waterfall and two other creeks converge in this canyon, before disappearin",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Puerta del Hospital de la Latina in Madrid, Spain",
+      "link": "https://www.atlasobscura.com/places/puerta-del-hospital-de-la-latina",
+      "date": "Mon, 21 Sep 2026 12:00:00 -0400",
+      "summary": "There is something delightfully disorienting about stumbling across a 500-year-old Gothic doorway in the grounds of Madrid’s School of Architecture. Surrounded by modern university buildings and the comings and goings of students, the ornate stone portal looks",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Roman Baths of Slovenia (Rimski Terma) in Slovenia",
+      "link": "https://www.atlasobscura.com/places/roman-baths-of-slovenia-rimski-terma",
+      "date": "Mon, 21 Sep 2026 10:00:00 -0400",
+      "summary": "In a valley surrounded by forested mountains is a mineral spring and baths in use since the Roman Empire. The baths were frequented by soldiers and royalty who wanted to take advantage of its purported healing properties. The land around the baths feature hist",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "The Mack Truck Museum in Allentown, Pennsylvania",
       "link": "https://www.atlasobscura.com/places/the-mack-truck-museum",
       "date": "Fri, 18 Sep 2026 16:00:00 -0400",
       "summary": "The Mack Museum was created in 1984 and commemorates Mack history through preserving truck build records, service and parts information, engineering drawings, photos, memorabilia and a collection of vintage Mack truck models. After being founded in Brooklyn, N",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Old Sagiada in Greece",
-      "link": "https://www.atlasobscura.com/places/old-sagiada",
-      "date": "Fri, 18 Sep 2026 14:00:00 -0400",
-      "summary": "The town of Old Sagiada was burned and looted in the Second World War by the German occupiers and local Muslims after the inhabitants fled. The abandoned houses are fascinating since many of the walls are still standing, showing a glimpse of the original archi",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Holy Trinity Oak Tree Chapel in Čibukovac, Serbia",
-      "link": "https://www.atlasobscura.com/places/holy-trinity-oak-tree-chapel",
-      "date": "Fri, 18 Sep 2026 12:00:00 -0400",
-      "summary": "The Holy Trinity oak chapel in Čibukovac, a small village near Kraljevo, is built inside a pedunculate oak believed to be over 500 years old. It is thought to be the oldest oak in Serbia. The tree stands more than 30 metres tall, with a trunk circumference of ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Grand Mesa in Cedaredge, Colorado",
-      "link": "https://www.atlasobscura.com/places/the-grand-mesa",
-      "date": "Thu, 17 Sep 2026 18:00:00 -0400",
-      "summary": "Rising high above the vibrant browns and reds of the westerner Colorado landscape, stand the Grand Mesa. Touted as the highest flat topped mountain in the world, the Grand Mesa spans roughly 500 acres and stretches 40 miles in Garfield, Grand and Delta countie",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Warner Theatre in Erie, Pennsylvania",
-      "link": "https://www.atlasobscura.com/places/the-warner-theatre",
-      "date": "Thu, 17 Sep 2026 10:15:00 -0400",
-      "summary": "This opulent cinema in downtown Erie, commissioned by Warner Bros. Studios and designed by Chicago-based architects Rapp & Rapp, first opened its doors in 1931. Built for $1.5 million (about $32.95 million today), the grand venue channeled French Renaissance s",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -138,10 +138,10 @@
       }
     },
     {
-      "title": "One week in the South of France (September 2026).",
-      "link": "https://www.reddit.com/r/travel/comments/1whcfhv/one_week_in_the_south_of_france_september_2026/",
-      "date": "2026-09-15T20:47:58+00:00",
-      "summary": "Hello I spent a week in september in the French riviera. We took the train from Paris to Nice which was about 5 hours. To explore all the cities we also used the train. It was very simple. The color of water was just spectacular. Some beaches were not that cro",
+      "title": "Week in Ireland🇮🇪",
+      "link": "https://www.reddit.com/r/travel/comments/1wlfm4k/week_in_ireland/",
+      "date": "2026-09-20T12:19:16+00:00",
+      "summary": "For over five years, I had wanted to visit Ireland, and this September, I finally made it happen. This country is truly breathtaking, whether you are drawn to its unique and distinctive landscapes or its fascinating historical monuments. The highlight of the e",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -149,10 +149,10 @@
       }
     },
     {
-      "title": "Week in Ireland🇮🇪",
-      "link": "https://www.reddit.com/r/travel/comments/1wlfm4k/week_in_ireland/",
-      "date": "2026-09-20T12:19:16+00:00",
-      "summary": "For over five years, I had wanted to visit Ireland, and this September, I finally made it happen. This country is truly breathtaking, whether you are drawn to its unique and distinctive landscapes or its fascinating historical monuments. The highlight of the e",
+      "title": "One week in the South of France (September 2026).",
+      "link": "https://www.reddit.com/r/travel/comments/1whcfhv/one_week_in_the_south_of_france_september_2026/",
+      "date": "2026-09-15T20:47:58+00:00",
+      "summary": "Hello I spent a week in september in the French riviera. We took the train from Paris to Nice which was about 5 hours. To explore all the cities we also used the train. It was very simple. The color of water was just spectacular. Some beaches were not that cro",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "Dolomites blew me away",
-      "link": "https://www.reddit.com/r/travel/comments/1wj5loz/dolomites_blew_me_away/",
-      "date": "2026-09-17T20:37:32+00:00",
-      "summary": "My wife and I took a week trip to the Dolomites, both Ortisei and Cortina d’Ampezzo. I’ve been to NZ, Patagonia, Switzerland, Banff, etc and I’m not sure I’ve seen landscapes as beautiful as the Dolomites. We spent 3 nights in Ortisei and 2 in Cortina. Day 1- ",
+      "title": "Two days in Iceland with my wife",
+      "link": "https://www.reddit.com/r/travel/comments/1wkziz4/two_days_in_iceland_with_my_wife/",
+      "date": "2026-09-19T22:26:28+00:00",
+      "summary": "[OC] Photo 1 - Seljalandsfoss Photo 2 - Gullfoss Photo 3 - Reynisfjara Beach Photo 4,5 - Sólheimajökull Photo 6 - Þingvellir National Park Photo 7 - Brúarárfoss Photo 8 - Hallgrímskirkja Photo 9 - view from a platform on the road to Reykjavik We had a short tw",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
