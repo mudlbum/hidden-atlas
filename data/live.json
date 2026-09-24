@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-23T09:59:41.767Z",
-  "date": "2026-09-23",
+  "generatedAt": "2026-09-24T10:01:42.017Z",
+  "date": "2026-09-24",
   "rotation": {
     "places": [
-      "greatbasin",
-      "lencois",
-      "koreanpark"
+      "rodrigues",
+      "yap",
+      "viscri"
     ],
-    "tip": "protectedbooking",
-    "eat": "pastilla"
+    "tip": "trains",
+    "eat": "nasisumba"
   },
   "counts": {
     "places": 87,
@@ -16,6 +16,50 @@
     "eats": 33
   },
   "feed": [
+    {
+      "title": "The Créac'h Lighthouse in Ouessant, France",
+      "link": "https://www.atlasobscura.com/places/the-creach-lighthouse",
+      "date": "Wed, 23 Sep 2026 16:00:00 -0400",
+      "summary": "At 47 metres tall, with a range of 60 kilometres, the Créac'h Lighthouse is the most powerful lighthouse in Europe. Located on the island of Ouessant, it marks the entrance to the English Channel. The lighthouse is currently undergoing renovation, but it remai",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Colle Eletto Cableway in Gubbio, Italy",
+      "link": "https://www.atlasobscura.com/places/colle-eletto-cableway",
+      "date": "Wed, 23 Sep 2026 14:00:00 -0400",
+      "summary": "An old-style cableway built in the sixties. The cableway starts near Gubbio city center and bring you to the top of Monte Ingino, where the Sant'Ubaldo basilica is. Cabins are indeed open air cages, suitable for up two people, in which you stay standing. Moreo",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Sydney’s Philanthropic Bronze Boar in Sydney, Australia",
+      "link": "https://www.atlasobscura.com/places/sydneys-philanthropic-bronze-boar",
+      "date": "Wed, 23 Sep 2026 12:00:00 -0400",
+      "summary": "Along the sidewalks of Macquarie Street, in the shadow of the grand stone arches of Sydney Hospital, sits a striking geographical and cultural anomaly. A bronze wild boar squats above a fountain basin, its snout worn down to a polished, gleaming gold. Anyone w",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "The Guthrie Center in Great Barrington, Massachusetts",
+      "link": "https://www.atlasobscura.com/places/the-guthrie-center",
+      "date": "Wed, 23 Sep 2026 10:00:00 -0400",
+      "summary": "No American Thanksgiving dinner is complete without turkey, stuffing, gravy, and \"Alice's Restaurant Massacree\" by Arlo Guthrie, son of legendary folksinger Woody Guthrie and a talented songwriter in his own right. Based on a true story, the ballad recounts an",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
     {
       "title": "On the Trail of the Mothman",
       "link": "https://www.atlasobscura.com/articles/podcast-on-the-trail-of-the-mothman",
@@ -28,47 +72,58 @@
       }
     },
     {
-      "title": "Huu Nha Basalt Column Waterfall in Vinh Son, Vietnam",
-      "link": "https://www.atlasobscura.com/places/huu-nha-basalt-column-waterfall",
-      "date": "Tue, 22 Sep 2026 16:00:00 -0400",
-      "summary": "Deep within the rugged mountain forests of Vinh Son lies Huu Nha Waterfall, also known locally as Bat Waterfall, a striking geological wonder that remains largely untouched by mainstream tourism. The defining feature of this remote site is an ancient cliff fac",
-      "source": "atlas-obscura",
+      "title": "Holafly Plans: The Best eSIM Plan for Long Term Travelers",
+      "link": "https://www.nomadicmatt.com/travel-blogs/holafly-plans/",
+      "date": "Tue, 28 Jul 2026 16:40:13 +0000",
+      "summary": "There are a lot of eSIM companies in the world. They all work a similar way: you download their app, pick your package, install the eSIM into your smartphone, and off you go. There’s many I like. But one I like more than the rest is Holafly and I’ve been using",
+      "source": "nomadic-matt",
       "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
       }
     },
     {
-      "title": "The Nick Weerts Memorial Phone Booth in Madison, Wisconsin",
-      "link": "https://www.atlasobscura.com/places/the-nick-weerts-memorial-phone-booth-nwmpb",
-      "date": "Tue, 22 Sep 2026 14:00:00 -0400",
-      "summary": "There is a phone booth on Madison’s East Side where picking up the receiver connects the caller to no one—and, in a way, to quite a lot of people. The Nick Weerts Memorial Phone Booth was created in memory of Nicholas Bennett Weerts, who died unexpectedly in 2",
-      "source": "atlas-obscura",
+      "title": "Nomad Citizen: A New Social Safety Net for Entrepreneurs",
+      "link": "https://www.nomadicmatt.com/travel-blogs/nomad-citizen-review/",
+      "date": "Thu, 18 Jun 2026 12:07:22 +0000",
+      "summary": "If you’re a digital nomad or a location-independent business owner, you’re either overpaying for fragmented insurance coverage (travel, medical, etc.) or just badly underinsured. You have a health plan, travel insurance, and maybe some medical evacuation cover",
+      "source": "nomadic-matt",
       "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
       }
     },
     {
-      "title": "Allen County Historical Society and Museum in Lima, Ohio",
-      "link": "https://www.atlasobscura.com/places/allen-county-historical-society-and-museum",
-      "date": "Tue, 22 Sep 2026 13:30:00 -0400",
-      "summary": "If the entirety of this museum wasn’t so peculiar already, the James E. Grosjean Room at the Allen County Historical Museum would be a place of magic surrealism; a tactile portal to the past in the midst of the proverbial Rust Belt town built quickly on oil. L",
-      "source": "atlas-obscura",
+      "title": "Faye Travel Insurance: The Best New Company Out there",
+      "link": "https://www.nomadicmatt.com/travel-blogs/faye-travel-insurance-review/",
+      "date": "Wed, 03 Jun 2026 13:05:03 +0000",
+      "summary": "We may receive compensation from Faye as an advertising partner. However, this does not influence our evaluations. Our opinions are our own. I’ve been writing about travel for nearly two decades and, in that time, I’ve watched the travel insurance industry cha",
+      "source": "nomadic-matt",
       "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
       }
     },
     {
-      "title": "Ohio's Small Town Museum in Ashville, Ohio",
-      "link": "https://www.atlasobscura.com/places/ohio-small-town-museum",
-      "date": "Tue, 22 Sep 2026 13:22:00 -0400",
-      "summary": "With travel nonexistent, the summer of 2020 was devastating for tiny institutions which usually operate on an ever-shrinking budget, rely on donations or grants to stay afloat, and run with a skeleton crew of volunteers. Some literally have trouble leaving the",
-      "source": "atlas-obscura",
+      "title": "Madrid 5-Day Itinerary: A Guide to Culture, Gastronomy, and Local Life",
+      "link": "https://www.nomadicmatt.com/travel-blogs/madrid-five-day-itinerary/",
+      "date": "Wed, 06 May 2026 07:50:57 +0000",
+      "summary": "Home to some 3.5 million people, Madrid is the capital of Spain and the country’s largest city. Though it’s somewhat sprawling, the city boasts stunning architecture, incredible food, and an energetic nightlife that stretches until dawn. Over 10 million people",
+      "source": "nomadic-matt",
       "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Capital One Venture Business Card Review",
+      "link": "https://www.nomadicmatt.com/travel-blogs/capital-one-venture-business-review/",
+      "date": "Fri, 01 May 2026 15:30:42 +0000",
+      "summary": "If you’re a traveler like me, chances are you’re always on the lookout for ways to make your trips more affordable. That’s why I collect points and miles: they help me lower my travel costs so I can spend my money on what’s actually important…which is usually ",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
       }
     },
     {
@@ -87,6 +142,17 @@
       "link": "https://www.reddit.com/r/travel/comments/1wlfm4k/week_in_ireland/",
       "date": "2026-09-20T12:19:16+00:00",
       "summary": "For over five years, I had wanted to visit Ireland, and this September, I finally made it happen. This country is truly breathtaking, whether you are drawn to its unique and distinctive landscapes or its fascinating historical monuments. The highlight of the e",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "I’m tired of being told to “skip the touristy places”",
+      "link": "https://www.reddit.com/r/travel/comments/1wo2r20/im_tired_of_being_told_to_skip_the_touristy_places/",
+      "date": "2026-09-23T10:58:29+00:00",
+      "summary": "As a new international traveler, I honestly hate the whole “skip the popular places and go somewhere less touristy” advice. I feel like this is always said by experienced travelers who already had their chance to see the Eiffel Tower, the Colosseum, Venice, th",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -114,17 +180,6 @@
         "en": "r/travel",
         "ko": "r/travel"
       }
-    },
-    {
-      "title": "Dolomites blew me away",
-      "link": "https://www.reddit.com/r/travel/comments/1wj5loz/dolomites_blew_me_away/",
-      "date": "2026-09-17T20:37:32+00:00",
-      "summary": "My wife and I took a week trip to the Dolomites, both Ortisei and Cortina d’Ampezzo. I’ve been to NZ, Patagonia, Switzerland, Banff, etc and I’m not sure I’ve seen landscapes as beautiful as the Dolomites. We spent 3 nights in Ortisei and 2 in Cortina. Day 1- ",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
     }
   ],
   "feedIsStale": false,
@@ -136,9 +191,8 @@
     },
     {
       "id": "nomadic-matt",
-      "ok": false,
-      "error": "reachable but produced 0 items — feed may have moved or been retired",
-      "optional": false
+      "ok": true,
+      "count": 5
     },
     {
       "id": "reddit-travel",
@@ -153,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
-    "failed": 0
+    "ok": 0,
+    "failed": 6
   }
 }
