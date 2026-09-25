@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-24T10:01:42.017Z",
-  "date": "2026-09-24",
+  "generatedAt": "2026-09-25T10:12:02.448Z",
+  "date": "2026-09-25",
   "rotation": {
     "places": [
-      "rodrigues",
-      "yap",
-      "viscri"
+      "semuc",
+      "atiu",
+      "rakiura"
     ],
-    "tip": "trains",
-    "eat": "nasisumba"
+    "tip": "scamtaxi",
+    "eat": "capers"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "The Créac'h Lighthouse in Ouessant, France",
-      "link": "https://www.atlasobscura.com/places/the-creach-lighthouse",
-      "date": "Wed, 23 Sep 2026 16:00:00 -0400",
-      "summary": "At 47 metres tall, with a range of 60 kilometres, the Créac'h Lighthouse is the most powerful lighthouse in Europe. Located on the island of Ouessant, it marks the entrance to the English Channel. The lighthouse is currently undergoing renovation, but it remai",
+      "title": "Connell Lake Dam in Ketchikan, Alaska",
+      "link": "https://www.atlasobscura.com/places/connell-lake-dam",
+      "date": "Thu, 24 Sep 2026 16:00:00 -0400",
+      "summary": "The Connell Lake dam is an imposing, almost gothic structure. Weather-worn and cracked in places, it blocks fish passage on Ward Creek. Frequently flagged by federal agencies like NOAA Fisheries, the dam cuts off miles of vital fish habitat. In 1954, the dam s",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Colle Eletto Cableway in Gubbio, Italy",
-      "link": "https://www.atlasobscura.com/places/colle-eletto-cableway",
-      "date": "Wed, 23 Sep 2026 14:00:00 -0400",
-      "summary": "An old-style cableway built in the sixties. The cableway starts near Gubbio city center and bring you to the top of Monte Ingino, where the Sant'Ubaldo basilica is. Cabins are indeed open air cages, suitable for up two people, in which you stay standing. Moreo",
+      "title": "14 Real Places That Haunt the Pages of Literature",
+      "link": "https://www.atlasobscura.com/articles/14-haunted-places-from-literature",
+      "date": "Thu, 24 Sep 2026 15:02:00 -0400",
+      "summary": "One of literature’s greatest gifts is its ability to transport us to other worlds: some utopian and fantastical, others dark and unnerving, scary and supernatural ... This guide is all about the latter (which are, arguably, much more fun). These are the novels",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Sydney’s Philanthropic Bronze Boar in Sydney, Australia",
-      "link": "https://www.atlasobscura.com/places/sydneys-philanthropic-bronze-boar",
-      "date": "Wed, 23 Sep 2026 12:00:00 -0400",
-      "summary": "Along the sidewalks of Macquarie Street, in the shadow of the grand stone arches of Sydney Hospital, sits a striking geographical and cultural anomaly. A bronze wild boar squats above a fountain basin, its snout worn down to a polished, gleaming gold. Anyone w",
+      "title": "The Press Mosaic in Baku, Azerbaijan",
+      "link": "https://www.atlasobscura.com/places/the-press-mosaic",
+      "date": "Thu, 24 Sep 2026 14:00:00 -0400",
+      "summary": "The building that printed Soviet Azerbaijan's newspapers and books is shaped like an open book. It takes a moment to register from the pavement, and then it becomes difficult to see anything else: two great pages picked out in cut stone, spread wide across the",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "The Guthrie Center in Great Barrington, Massachusetts",
-      "link": "https://www.atlasobscura.com/places/the-guthrie-center",
-      "date": "Wed, 23 Sep 2026 10:00:00 -0400",
-      "summary": "No American Thanksgiving dinner is complete without turkey, stuffing, gravy, and \"Alice's Restaurant Massacree\" by Arlo Guthrie, son of legendary folksinger Woody Guthrie and a talented songwriter in his own right. Based on a true story, the ballad recounts an",
+      "title": "Replica of the Portal of the Casa de la Cadena in Navalcarnero, Spain",
+      "link": "https://www.atlasobscura.com/places/replica-of-the-portal-of-the-casa-de-la-cadena",
+      "date": "Thu, 24 Sep 2026 12:00:00 -0400",
+      "summary": "Navalcarnero may be a small town southwest of Madrid, but its streets are steeped in history. Founded in the 15th century, it became an important stop between Madrid and Toledo and is now particularly celebrated for its wine production. The town's vineyards fo",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "On the Trail of the Mothman",
-      "link": "https://www.atlasobscura.com/articles/podcast-on-the-trail-of-the-mothman",
-      "date": "Tue, 22 Sep 2026 17:15:00 -0400",
-      "summary": "Listen and subscribe on Apple Podcasts , Spotify , and all major podcast apps. Amanda McGowan : Every small town has that one spot where people sneak off to at night. In Point Pleasant, West Virginia, back in the 1960s, that place was the McClintic Wildlife Ma",
+      "title": "House of the Gladiators in Episkopi, Cyprus",
+      "link": "https://www.atlasobscura.com/places/house-of-the-gladiators",
+      "date": "Thu, 24 Sep 2026 10:00:00 -0400",
+      "summary": "Kourion's ruins are full of mosaics: mythological scenes, geometric patterns, hunting parties. But tucked near the main courtyard of one villa is something the rest of the island almost never shows: gladiators, fighting, identified by name. According to Cyprus",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
