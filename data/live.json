@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-25T10:12:02.448Z",
-  "date": "2026-09-25",
+  "generatedAt": "2026-09-26T09:52:38.173Z",
+  "date": "2026-09-26",
   "rotation": {
     "places": [
-      "semuc",
-      "atiu",
-      "rakiura"
+      "huasteca",
+      "tanna",
+      "tsingy"
     ],
-    "tip": "scamtaxi",
-    "eat": "capers"
+    "tip": "cashbuffer",
+    "eat": "jaffnacrab"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "First Bank of Murphy in Murphy, North Carolina",
+      "link": "https://www.atlasobscura.com/places/first-bank-of-murphy-fairycross-bottle-shop",
+      "date": "Fri, 25 Sep 2026 16:00:00 -0400",
+      "summary": "Welcome to one of Downtown Murphy’s oldest buildings and quite possibly one of its most colorful. This was once the Bank of Murphy, established on January 16, 1899. Today, it’s home to FairyCross Bottle Shop. Apparently, after more than a century, this buildin",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "The People’s Treasure in Bishkek, Kyrgyzstan",
+      "link": "https://www.atlasobscura.com/places/the-people-s-treasure",
+      "date": "Fri, 25 Sep 2026 14:00:00 -0400",
+      "summary": "Outside the Kyrgyz National Academy of Sciences, at the western end of Chuy Avenue, a mass of rust-red concrete blocks juts out over the pavement — part tree, part cloud, part city skyline tipped on its side. Small brass plaques are fixed to the ends of the bl",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Con Chim Islet in Tuy Phuoc Dong, Vietnam",
+      "link": "https://www.atlasobscura.com/places/con-chim-islet",
+      "date": "Fri, 25 Sep 2026 12:00:00 -0400",
+      "summary": "Far beyond the sun drenched beach resorts of coastal Vietnam lies an unexpected wilderness that most travelers entirely overlook. Con Chim Islet is a hidden oasis anchoring the vast expanse of Thi Nai Lagoon, defined by an ancient and sprawling labyrinth of ma",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "WWI Pillbox in Southwold, England",
+      "link": "https://www.atlasobscura.com/places/the-ww1-pillbox-reydon-suffolk-england",
+      "date": "Fri, 25 Sep 2026 10:00:00 -0400",
+      "summary": "For decades this rare 100 year-old 'Pillbox' or defensive bunker had been neglected and vandalised, until it was about to be demolished in 2023. Built by the military during World War One to guard a strategic bridge over a once-tidal creek on the East Coast of",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Connell Lake Dam in Ketchikan, Alaska",
       "link": "https://www.atlasobscura.com/places/connell-lake-dam",
       "date": "Thu, 24 Sep 2026 16:00:00 -0400",
       "summary": "The Connell Lake dam is an imposing, almost gothic structure. Weather-worn and cracked in places, it blocks fish passage on Ward Creek. Frequently flagged by federal agencies like NOAA Fisheries, the dam cuts off miles of vital fish habitat. In 1954, the dam s",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "14 Real Places That Haunt the Pages of Literature",
-      "link": "https://www.atlasobscura.com/articles/14-haunted-places-from-literature",
-      "date": "Thu, 24 Sep 2026 15:02:00 -0400",
-      "summary": "One of literature’s greatest gifts is its ability to transport us to other worlds: some utopian and fantastical, others dark and unnerving, scary and supernatural ... This guide is all about the latter (which are, arguably, much more fun). These are the novels",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Press Mosaic in Baku, Azerbaijan",
-      "link": "https://www.atlasobscura.com/places/the-press-mosaic",
-      "date": "Thu, 24 Sep 2026 14:00:00 -0400",
-      "summary": "The building that printed Soviet Azerbaijan's newspapers and books is shaped like an open book. It takes a moment to register from the pavement, and then it becomes difficult to see anything else: two great pages picked out in cut stone, spread wide across the",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Replica of the Portal of the Casa de la Cadena in Navalcarnero, Spain",
-      "link": "https://www.atlasobscura.com/places/replica-of-the-portal-of-the-casa-de-la-cadena",
-      "date": "Thu, 24 Sep 2026 12:00:00 -0400",
-      "summary": "Navalcarnero may be a small town southwest of Madrid, but its streets are steeped in history. Founded in the 15th century, it became an important stop between Madrid and Toledo and is now particularly celebrated for its wine production. The town's vineyards fo",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "House of the Gladiators in Episkopi, Cyprus",
-      "link": "https://www.atlasobscura.com/places/house-of-the-gladiators",
-      "date": "Thu, 24 Sep 2026 10:00:00 -0400",
-      "summary": "Kourion's ruins are full of mosaics: mythological scenes, geometric patterns, hunting parties. But tucked near the main courtyard of one villa is something the rest of the island almost never shows: gladiators, fighting, identified by name. According to Cyprus",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -138,17 +138,6 @@
       }
     },
     {
-      "title": "Week in Ireland🇮🇪",
-      "link": "https://www.reddit.com/r/travel/comments/1wlfm4k/week_in_ireland/",
-      "date": "2026-09-20T12:19:16+00:00",
-      "summary": "For over five years, I had wanted to visit Ireland, and this September, I finally made it happen. This country is truly breathtaking, whether you are drawn to its unique and distinctive landscapes or its fascinating historical monuments. The highlight of the e",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "I’m tired of being told to “skip the touristy places”",
       "link": "https://www.reddit.com/r/travel/comments/1wo2r20/im_tired_of_being_told_to_skip_the_touristy_places/",
       "date": "2026-09-23T10:58:29+00:00",
@@ -160,10 +149,10 @@
       }
     },
     {
-      "title": "Maui, Hawaii",
-      "link": "https://www.reddit.com/r/travel/comments/1wjsw4w/maui_hawaii/",
-      "date": "2026-09-18T15:12:04+00:00",
-      "summary": "We traveled through Maui for 9 days, here are some of our pictures! The weather was perfect, every day was a warm 85 degrees and low humidity, and the sun was out everyday, so we got super lucky. Would absolutely go back! Pic 1: Somewhere along the Road to Han",
+      "title": "Week in Ireland🇮🇪",
+      "link": "https://www.reddit.com/r/travel/comments/1wlfm4k/week_in_ireland/",
+      "date": "2026-09-20T12:19:16+00:00",
+      "summary": "For over five years, I had wanted to visit Ireland, and this September, I finally made it happen. This country is truly breathtaking, whether you are drawn to its unique and distinctive landscapes or its fascinating historical monuments. The highlight of the e",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -175,6 +164,17 @@
       "link": "https://www.reddit.com/r/travel/comments/1wkziz4/two_days_in_iceland_with_my_wife/",
       "date": "2026-09-19T22:26:28+00:00",
       "summary": "[OC] Photo 1 - Seljalandsfoss Photo 2 - Gullfoss Photo 3 - Reynisfjara Beach Photo 4,5 - Sólheimajökull Photo 6 - Þingvellir National Park Photo 7 - Brúarárfoss Photo 8 - Hallgrímskirkja Photo 9 - view from a platform on the road to Reykjavik We had a short tw",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "Cycling London to Amsterdam (at 17)",
+      "link": "https://www.reddit.com/r/travel/comments/1wmibo6/cycling_london_to_amsterdam_at_17/",
+      "date": "2026-09-21T16:51:12+00:00",
+      "summary": "I embarked upon my first ever cycle tour at 17 years old. It was a 350 mile route from London to Amsterdam (through England, France, Belgium, and the Netherlands via the Dover-Calais ferry). It took 6 days to cycle and I stayed in Herne Bay (Eng), Calais (Fra)",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -208,6 +208,6 @@
   ],
   "enrichment": {
     "ok": 0,
-    "failed": 6
+    "failed": 0
   }
 }
