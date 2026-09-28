@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-27T10:33:41.828Z",
-  "date": "2026-09-27",
+  "generatedAt": "2026-09-28T11:42:08.035Z",
+  "date": "2026-09-28",
   "rotation": {
     "places": [
-      "sumba",
-      "tafraout",
-      "huayhuash"
+      "catlins",
+      "charyn",
+      "driftless"
     ],
-    "tip": "protectedbooking",
-    "eat": "ourite"
+    "tip": "visaonarrival",
+    "eat": "irenteplate"
   },
   "counts": {
     "places": 87,
@@ -127,6 +127,17 @@
       }
     },
     {
+      "title": "Two Weeks in Vietnam",
+      "link": "https://www.reddit.com/r/travel/comments/1wrnw9i/two_weeks_in_vietnam/",
+      "date": "2026-09-27T16:00:49+00:00",
+      "summary": "I did another whirlwind trip through a country in Southeast Asia, and I have to say, it’s been one of the most enjoyable trips I’ve done in a long time. There’s something unique about Vietnam that gives it an exceptional charm, where even motorcycle traffic ca",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "I’m tired of being told to “skip the touristy places”",
       "link": "https://www.reddit.com/r/travel/comments/1wo2r20/im_tired_of_being_told_to_skip_the_touristy_places/",
       "date": "2026-09-23T10:58:29+00:00",
@@ -138,10 +149,10 @@
       }
     },
     {
-      "title": "Week in Ireland🇮🇪",
-      "link": "https://www.reddit.com/r/travel/comments/1wlfm4k/week_in_ireland/",
-      "date": "2026-09-20T12:19:16+00:00",
-      "summary": "For over five years, I had wanted to visit Ireland, and this September, I finally made it happen. This country is truly breathtaking, whether you are drawn to its unique and distinctive landscapes or its fascinating historical monuments. The highlight of the e",
+      "title": "8 Day Private Tour of the Faroe Islands",
+      "link": "https://www.reddit.com/r/travel/comments/1wnxrpl/8_day_private_tour_of_the_faroe_islands/",
+      "date": "2026-09-23T06:06:19+00:00",
+      "summary": "Summer of 2025 I embarked on a 10 day journey hiking through the Faroe Islands. 8 days was on a private tour being accompanied by a local guide. For those who don’t know, the Faroe Islands are a group of islands nestled between Iceland and Norway and are gover",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -153,17 +164,6 @@
       "link": "https://www.reddit.com/r/travel/comments/1wmibo6/cycling_london_to_amsterdam_at_17/",
       "date": "2026-09-21T16:51:12+00:00",
       "summary": "I embarked upon my first ever cycle tour at 17 years old. It was a 350 mile route from London to Amsterdam (through England, France, Belgium, and the Netherlands via the Dover-Calais ferry). It took 6 days to cycle and I stayed in Herne Bay (Eng), Calais (Fra)",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "8 Day Private Tour of the Faroe Islands",
-      "link": "https://www.reddit.com/r/travel/comments/1wnxrpl/8_day_private_tour_of_the_faroe_islands/",
-      "date": "2026-09-23T06:06:19+00:00",
-      "summary": "Summer of 2025 I embarked on a 10 day journey hiking through the Faroe Islands. 8 days was on a private tour being accompanied by a local guide. For those who don’t know, the Faroe Islands are a group of islands nestled between Iceland and Norway and are gover",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
