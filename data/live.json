@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-28T11:42:08.035Z",
-  "date": "2026-09-28",
+  "generatedAt": "2026-09-29T11:22:26.909Z",
+  "date": "2026-09-29",
   "rotation": {
     "places": [
-      "catlins",
-      "charyn",
-      "driftless"
+      "spiti",
+      "dana",
+      "fogo"
     ],
-    "tip": "visaonarrival",
-    "eat": "irenteplate"
+    "tip": "festivals",
+    "eat": "tarte"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Wahpper: The World’s Largest Catfish in Wahpeton, North Dakota",
+      "link": "https://www.atlasobscura.com/places/wahpper-the-worlds-largest-catfish",
+      "date": "Mon, 28 Sep 2026 16:00:00 -0400",
+      "summary": "Where the Bois de Sioux and Otter Tail rivers merge in southeastern North Dakota, the Red River of the North begins its winding trek northward into Canada. The river is renowned across the continent as an angler’s mecca for trophy channel catfish—monsters that",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Hood River Pumping Station and Pipeline Trail in Hood River, Oregon",
+      "link": "https://www.atlasobscura.com/places/hood-river-pumping-station-and-pipeline-trail",
+      "date": "Mon, 28 Sep 2026 14:00:00 -0400",
+      "summary": "This is a place with two unique and magical places to see. The first, the abandoned Hood River Pumping Station, is at the parking lot to the Hood River Pipeline Trail. It is a decommissioned hydroelectric facility that used to supply electricity to Hood River,",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "The Ivanhoe Clock in Leeds, England",
+      "link": "https://www.atlasobscura.com/places/the-ivanhoe-clock",
+      "date": "Mon, 28 Sep 2026 12:00:00 -0400",
+      "summary": "At one end of Thornton’s Arcade, beneath its elegant glass roof, four Victorian characters wait for their cue. When the clock strikes, Robin Hood, Friar Tuck, Richard the Lionheart, and Gurth the Swineherd spring into action, raising their fists to strike a be",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Wild Bird Petroglyph in Phippsburg, Maine",
+      "link": "https://www.atlasobscura.com/places/wild-bird-petroglyph",
+      "date": "Mon, 28 Sep 2026 10:00:00 -0400",
+      "summary": "Inspired by the natural environment in Phippsburg, there are a series of petroglyphs in the deep woods near the Center Ponds Trailhead located at 125 Parker Head Road. This site has one of Kevin's largest collections of petroglyphs to date, with over ten diffe",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Is Alton, Illinois America’s Most Haunted Small Town?",
       "link": "https://www.atlasobscura.com/articles/podcast-alton-illinois-haunted-town",
       "date": "Sat, 26 Sep 2026 09:15:00 -0400",
       "summary": "Listen and subscribe on Apple Podcasts , Spotify , and all major podcast apps. Troy Taylor: There’s a story about a phantom riverboat that I always liked, about how if you heard the riverboat whistle blow on a foggy morning but you never saw the boat, that mea",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "First Bank of Murphy in Murphy, North Carolina",
-      "link": "https://www.atlasobscura.com/places/first-bank-of-murphy-fairycross-bottle-shop",
-      "date": "Fri, 25 Sep 2026 16:00:00 -0400",
-      "summary": "Welcome to one of Downtown Murphy’s oldest buildings and quite possibly one of its most colorful. This was once the Bank of Murphy, established on January 16, 1899. Today, it’s home to FairyCross Bottle Shop. Apparently, after more than a century, this buildin",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The People’s Treasure in Bishkek, Kyrgyzstan",
-      "link": "https://www.atlasobscura.com/places/the-people-s-treasure",
-      "date": "Fri, 25 Sep 2026 14:00:00 -0400",
-      "summary": "Outside the Kyrgyz National Academy of Sciences, at the western end of Chuy Avenue, a mass of rust-red concrete blocks juts out over the pavement — part tree, part cloud, part city skyline tipped on its side. Small brass plaques are fixed to the ends of the bl",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Con Chim Islet in Tuy Phuoc Dong, Vietnam",
-      "link": "https://www.atlasobscura.com/places/con-chim-islet",
-      "date": "Fri, 25 Sep 2026 12:00:00 -0400",
-      "summary": "Far beyond the sun drenched beach resorts of coastal Vietnam lies an unexpected wilderness that most travelers entirely overlook. Con Chim Islet is a hidden oasis anchoring the vast expanse of Thi Nai Lagoon, defined by an ancient and sprawling labyrinth of ma",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "WWI Pillbox in Southwold, England",
-      "link": "https://www.atlasobscura.com/places/the-ww1-pillbox-reydon-suffolk-england",
-      "date": "Fri, 25 Sep 2026 10:00:00 -0400",
-      "summary": "For decades this rare 100 year-old 'Pillbox' or defensive bunker had been neglected and vandalised, until it was about to be demolished in 2023. Built by the military during World War One to guard a strategic bridge over a once-tidal creek on the East Coast of",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -160,10 +160,10 @@
       }
     },
     {
-      "title": "Cycling London to Amsterdam (at 17)",
-      "link": "https://www.reddit.com/r/travel/comments/1wmibo6/cycling_london_to_amsterdam_at_17/",
-      "date": "2026-09-21T16:51:12+00:00",
-      "summary": "I embarked upon my first ever cycle tour at 17 years old. It was a 350 mile route from London to Amsterdam (through England, France, Belgium, and the Netherlands via the Dover-Calais ferry). It took 6 days to cycle and I stayed in Herne Bay (Eng), Calais (Fra)",
+      "title": "Two Weeks in Athens and Crete - Beaches, Mountains, Ruins, and Cats",
+      "link": "https://www.reddit.com/r/travel/comments/1wpylai/two_weeks_in_athens_and_crete_beaches_mountains/",
+      "date": "2026-09-25T14:59:33+00:00",
+      "summary": "Manassa Rose M shipwreck, Kissamos (unedited!) Delphi Delphi Arachova Fortezza of Rethymno Venetian harbor, Rethymno Elafonisi Beach Preveli Beach Old Town, Chania Venizelos Graves viewpoint, Chania Botanical Garden of Crete Venizelos Graves, Chania Rafina Pho",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "Two Weeks in Athens and Crete - Beaches, Mountains, Ruins, and Cats",
-      "link": "https://www.reddit.com/r/travel/comments/1wpylai/two_weeks_in_athens_and_crete_beaches_mountains/",
-      "date": "2026-09-25T14:59:33+00:00",
-      "summary": "Manassa Rose M shipwreck, Kissamos (unedited!) Delphi Delphi Arachova Fortezza of Rethymno Venetian harbor, Rethymno Elafonisi Beach Preveli Beach Old Town, Chania Venizelos Graves viewpoint, Chania Botanical Garden of Crete Venizelos Graves, Chania Rafina Pho",
+      "title": "Costa Rica🇨🇷",
+      "link": "https://www.reddit.com/r/travel/comments/1wqp8pc/costa_rica/",
+      "date": "2026-09-26T12:25:09+00:00",
+      "summary": "Costa Rica was even more beautiful than I expected. I loved the beaches, lush nature, wildlife, and the overall relaxed “pura vida” vibe. There’s such a great mix of adventure and places where you can simply slow down and enjoy the surroundings. The sunsets, t",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
