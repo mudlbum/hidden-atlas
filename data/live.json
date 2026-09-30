@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-29T11:22:26.909Z",
-  "date": "2026-09-29",
+  "generatedAt": "2026-09-30T11:10:46.176Z",
+  "date": "2026-09-30",
   "rotation": {
     "places": [
-      "spiti",
-      "dana",
-      "fogo"
+      "tottori",
+      "nuratau",
+      "spiti"
     ],
-    "tip": "festivals",
-    "eat": "tarte"
+    "tip": "fees2026",
+    "eat": "pampaku"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "23rd Street Mural in Austin, Texas",
+      "link": "https://www.atlasobscura.com/places/23rd-street-mural",
+      "date": "Tue, 29 Sep 2026 16:00:00 -0400",
+      "summary": "Painted in 1974 on the side of a building near the University of Texas campus, the 23rd Street Mural looks at first like a gloriously weird artifact from old Austin. Look closer and things get stranger. Its sprawling cast of characters, creatures and landmarks",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Dr. Bhau Daji Lad Museum in Mumbai, India",
+      "link": "https://www.atlasobscura.com/places/dr-bhau-daji-lad-museum",
+      "date": "Tue, 29 Sep 2026 14:00:00 -0400",
+      "summary": "Within the premises of Veermata Jijabai Bhosale Udyan in Mumbai’s Byculla area stands an extremely stately turquoise building, reminiscent of old British mansions. It houses Dr. Bhau Daji Lad Museum, the oldest museum in the city. Established in 1857, it was f",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Airpower Museum in Ottumwa, Iowa",
+      "link": "https://www.atlasobscura.com/places/airpower-museum",
+      "date": "Tue, 29 Sep 2026 12:00:00 -0400",
+      "summary": "The Airpower museum is nestled between crop fields in the middle of Iowa. It is located adjacent to the Antique Airfield property so general aviation pilots can land their planes right next to the museum for a visit if arriving via air is more your speed. The ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Metro Argüelles Mosaic in Madrid, Spain",
+      "link": "https://www.atlasobscura.com/places/metro-arguelles-mosaic",
+      "date": "Tue, 29 Sep 2026 10:00:00 -0400",
+      "summary": "Madrid’s Metro is more than a way to get around the city. Over the years, the network has continually sought to improve and embellish its stations, turning otherwise functional spaces into unexpected galleries. Among the tiled walls, historic details, and cont",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Wahpper: The World’s Largest Catfish in Wahpeton, North Dakota",
       "link": "https://www.atlasobscura.com/places/wahpper-the-worlds-largest-catfish",
       "date": "Mon, 28 Sep 2026 16:00:00 -0400",
       "summary": "Where the Bois de Sioux and Otter Tail rivers merge in southeastern North Dakota, the Red River of the North begins its winding trek northward into Canada. The river is renowned across the continent as an angler’s mecca for trophy channel catfish—monsters that",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Hood River Pumping Station and Pipeline Trail in Hood River, Oregon",
-      "link": "https://www.atlasobscura.com/places/hood-river-pumping-station-and-pipeline-trail",
-      "date": "Mon, 28 Sep 2026 14:00:00 -0400",
-      "summary": "This is a place with two unique and magical places to see. The first, the abandoned Hood River Pumping Station, is at the parking lot to the Hood River Pipeline Trail. It is a decommissioned hydroelectric facility that used to supply electricity to Hood River,",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Ivanhoe Clock in Leeds, England",
-      "link": "https://www.atlasobscura.com/places/the-ivanhoe-clock",
-      "date": "Mon, 28 Sep 2026 12:00:00 -0400",
-      "summary": "At one end of Thornton’s Arcade, beneath its elegant glass roof, four Victorian characters wait for their cue. When the clock strikes, Robin Hood, Friar Tuck, Richard the Lionheart, and Gurth the Swineherd spring into action, raising their fists to strike a be",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Wild Bird Petroglyph in Phippsburg, Maine",
-      "link": "https://www.atlasobscura.com/places/wild-bird-petroglyph",
-      "date": "Mon, 28 Sep 2026 10:00:00 -0400",
-      "summary": "Inspired by the natural environment in Phippsburg, there are a series of petroglyphs in the deep woods near the Center Ponds Trailhead located at 125 Parker Head Road. This site has one of Kevin's largest collections of petroglyphs to date, with over ten diffe",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Is Alton, Illinois America’s Most Haunted Small Town?",
-      "link": "https://www.atlasobscura.com/articles/podcast-alton-illinois-haunted-town",
-      "date": "Sat, 26 Sep 2026 09:15:00 -0400",
-      "summary": "Listen and subscribe on Apple Podcasts , Spotify , and all major podcast apps. Troy Taylor: There’s a story about a phantom riverboat that I always liked, about how if you heard the riverboat whistle blow on a foggy morning but you never saw the boat, that mea",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -138,21 +138,10 @@
       }
     },
     {
-      "title": "I’m tired of being told to “skip the touristy places”",
-      "link": "https://www.reddit.com/r/travel/comments/1wo2r20/im_tired_of_being_told_to_skip_the_touristy_places/",
-      "date": "2026-09-23T10:58:29+00:00",
-      "summary": "As a new international traveler, I honestly hate the whole “skip the popular places and go somewhere less touristy” advice. I feel like this is always said by experienced travelers who already had their chance to see the Eiffel Tower, the Colosseum, Venice, th",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "8 Day Private Tour of the Faroe Islands",
-      "link": "https://www.reddit.com/r/travel/comments/1wnxrpl/8_day_private_tour_of_the_faroe_islands/",
-      "date": "2026-09-23T06:06:19+00:00",
-      "summary": "Summer of 2025 I embarked on a 10 day journey hiking through the Faroe Islands. 8 days was on a private tour being accompanied by a local guide. For those who don’t know, the Faroe Islands are a group of islands nestled between Iceland and Norway and are gover",
+      "title": "Indonesia seems to have it all",
+      "link": "https://www.reddit.com/r/travel/comments/1wt6k2l/indonesia_seems_to_have_it_all/",
+      "date": "2026-09-29T10:29:42+00:00",
+      "summary": "September 8-27, 2026 And I haven’t even explored it in its entirety. From volcanoes and rice fields to local villages and bustling towns, temples, caves, beaches, waterfalls, and all kinds of unique wildlife. And to top it all off, incredibly kind, open, and w",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -175,6 +164,17 @@
       "link": "https://www.reddit.com/r/travel/comments/1wqp8pc/costa_rica/",
       "date": "2026-09-26T12:25:09+00:00",
       "summary": "Costa Rica was even more beautiful than I expected. I loved the beaches, lush nature, wildlife, and the overall relaxed “pura vida” vibe. There’s such a great mix of adventure and places where you can simply slow down and enjoy the surroundings. The sunsets, t",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "9 Days in Georgia",
+      "link": "https://www.reddit.com/r/travel/comments/1wp7466/9_days_in_georgia/",
+      "date": "2026-09-24T16:57:58+00:00",
+      "summary": "Image descriptions 1) Khachapuri - traditional Georgian cheese bread. How can you go wrong!?! 2) Tbilisi sulpher baths 3) Wine tasting / getting real tipsy 4) Escalator to Tbilisi subway. 5) Kahsbegi area 6) Mass 7) Georgian Military highway 8) Dariali Monaste",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
-    "failed": 0
+    "ok": 5,
+    "failed": 1
   }
 }
