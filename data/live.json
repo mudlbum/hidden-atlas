@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-30T11:10:46.176Z",
-  "date": "2026-09-30",
+  "generatedAt": "2026-10-01T11:37:34.900Z",
+  "date": "2026-10-01",
   "rotation": {
     "places": [
-      "tottori",
-      "nuratau",
-      "spiti"
+      "raivavae",
+      "nyungwe",
+      "usambara"
     ],
-    "tip": "fees2026",
-    "eat": "pampaku"
+    "tip": "localsim",
+    "eat": "cocoa"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "23rd Street Mural in Austin, Texas",
-      "link": "https://www.atlasobscura.com/places/23rd-street-mural",
-      "date": "Tue, 29 Sep 2026 16:00:00 -0400",
-      "summary": "Painted in 1974 on the side of a building near the University of Texas campus, the 23rd Street Mural looks at first like a gloriously weird artifact from old Austin. Look closer and things get stranger. Its sprawling cast of characters, creatures and landmarks",
+      "title": "Queen’s Surf Beach in Honolulu, Hawaii",
+      "link": "https://www.atlasobscura.com/places/queens-surf-beach",
+      "date": "Wed, 30 Sep 2026 16:00:00 -0400",
+      "summary": "In the 1970s, Queen’s Surf Beach in Waikiki became a popular gathering and organizing space for members of Hawaiʻi’s diverse LGBTQ+ Māhū communities. It was a place where people could relax and be themselves in a society where sexual and gender diversity were ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Dr. Bhau Daji Lad Museum in Mumbai, India",
-      "link": "https://www.atlasobscura.com/places/dr-bhau-daji-lad-museum",
-      "date": "Tue, 29 Sep 2026 14:00:00 -0400",
-      "summary": "Within the premises of Veermata Jijabai Bhosale Udyan in Mumbai’s Byculla area stands an extremely stately turquoise building, reminiscent of old British mansions. It houses Dr. Bhau Daji Lad Museum, the oldest museum in the city. Established in 1857, it was f",
+      "title": "Havneholmen Metro Station in Copenhagen, Denmark",
+      "link": "https://www.atlasobscura.com/places/havneholmen-metro-station",
+      "date": "Wed, 30 Sep 2026 14:00:00 -0400",
+      "summary": "Step onto the platform at Copenhagen's Havneholmen metro station, which opened in 2024, and something is not quite right: a bench hangs from the ceiling, a trash can juts sideways from a wall, an information screen tilts out at an odd angle, and the clocks ove",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Airpower Museum in Ottumwa, Iowa",
-      "link": "https://www.atlasobscura.com/places/airpower-museum",
-      "date": "Tue, 29 Sep 2026 12:00:00 -0400",
-      "summary": "The Airpower museum is nestled between crop fields in the middle of Iowa. It is located adjacent to the Antique Airfield property so general aviation pilots can land their planes right next to the museum for a visit if arriving via air is more your speed. The ",
+      "title": "The Best Haunted Hotels to Book for a Spooky Getaway",
+      "link": "https://www.atlasobscura.com/articles/best-haunted-hotels-for-a-spooky-getaway",
+      "date": "Wed, 30 Sep 2026 12:53:00 -0400",
+      "summary": "Nothing beats staying in a hotel whose suites hold some stories — especially if they’re of the spooky variety. The same friends who roll their eyes at mentions of luxury amenities and amazing views will be wide-eyed when you tell them about the ghost you accid",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "Metro Argüelles Mosaic in Madrid, Spain",
-      "link": "https://www.atlasobscura.com/places/metro-arguelles-mosaic",
-      "date": "Tue, 29 Sep 2026 10:00:00 -0400",
-      "summary": "Madrid’s Metro is more than a way to get around the city. Over the years, the network has continually sought to improve and embellish its stations, turning otherwise functional spaces into unexpected galleries. Among the tiled walls, historic details, and cont",
+      "title": "Musee Industrie Lithique in Laayoune, Morocco",
+      "link": "https://www.atlasobscura.com/places/musee-industrie-lithique",
+      "date": "Wed, 30 Sep 2026 12:00:00 -0400",
+      "summary": "Thousands of years of Laayoune-area history are preserved in the small Musee Industrie Lithique, run by the eccentric Mr. Taki. Each glass case within the museum contains dozens of objects collected by or sent to Mr. Taki, from fossils to prehistoric tools. Ou",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Wahpper: The World’s Largest Catfish in Wahpeton, North Dakota",
-      "link": "https://www.atlasobscura.com/places/wahpper-the-worlds-largest-catfish",
-      "date": "Mon, 28 Sep 2026 16:00:00 -0400",
-      "summary": "Where the Bois de Sioux and Otter Tail rivers merge in southeastern North Dakota, the Red River of the North begins its winding trek northward into Canada. The river is renowned across the continent as an angler’s mecca for trophy channel catfish—monsters that",
+      "title": "Site of the Malbone Street Wreck in Brooklyn, New York",
+      "link": "https://www.atlasobscura.com/places/site-of-the-malbone-street-wreck",
+      "date": "Wed, 30 Sep 2026 10:00:00 -0400",
+      "summary": "The Malbone Street wreck was the worst catastrophe in the history of the New York City subway system and the worst train crash in New York State. Almost 100 people died—an exact number was never determined—and around 250 riders injured, roughly half of the pas",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -149,6 +149,17 @@
       }
     },
     {
+      "title": "A week in Tunisia as a solo woman🇹🇳☝🏽",
+      "link": "https://www.reddit.com/r/travel/comments/1wtzvto/a_week_in_tunisia_as_a_solo_woman/",
+      "date": "2026-09-30T08:54:01+00:00",
+      "summary": "If anyone is interested in the location of the pictures I included a breakdown below: Image one - Ribat of Monastir Image two - El Jem Image three - Matamata Image four - Chott El Jerid (Salt Lake) Image five - Karouain Mosque Image six - Dougga Image seven - ",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "Two Weeks in Athens and Crete - Beaches, Mountains, Ruins, and Cats",
       "link": "https://www.reddit.com/r/travel/comments/1wpylai/two_weeks_in_athens_and_crete_beaches_mountains/",
       "date": "2026-09-25T14:59:33+00:00",
@@ -164,17 +175,6 @@
       "link": "https://www.reddit.com/r/travel/comments/1wqp8pc/costa_rica/",
       "date": "2026-09-26T12:25:09+00:00",
       "summary": "Costa Rica was even more beautiful than I expected. I loved the beaches, lush nature, wildlife, and the overall relaxed “pura vida” vibe. There’s such a great mix of adventure and places where you can simply slow down and enjoy the surroundings. The sunsets, t",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "9 Days in Georgia",
-      "link": "https://www.reddit.com/r/travel/comments/1wp7466/9_days_in_georgia/",
-      "date": "2026-09-24T16:57:58+00:00",
-      "summary": "Image descriptions 1) Khachapuri - traditional Georgian cheese bread. How can you go wrong!?! 2) Tbilisi sulpher baths 3) Wine tasting / getting real tipsy 4) Escalator to Tbilisi subway. 5) Kahsbegi area 6) Mass 7) Georgian Military highway 8) Dariali Monaste",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 5,
-    "failed": 1
+    "ok": 6,
+    "failed": 0
   }
 }
