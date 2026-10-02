@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-01T11:37:34.900Z",
-  "date": "2026-10-01",
+  "generatedAt": "2026-10-02T11:06:48.652Z",
+  "date": "2026-10-02",
   "rotation": {
     "places": [
-      "raivavae",
-      "nyungwe",
-      "usambara"
+      "kotorbay",
+      "gjirokaster",
+      "niue"
     ],
-    "tip": "localsim",
-    "eat": "cocoa"
+    "tip": "powerbank",
+    "eat": "crabtottori"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "18th Century Pirate’s Jolly Roger in Portsmouth, England",
+      "link": "https://www.atlasobscura.com/places/18th-century-pirates-jolly-roger",
+      "date": "Thu, 01 Oct 2026 16:00:00 -0400",
+      "summary": "The National Museum of the Royal Navy in Portsmouth displays a genuine Jolly Roger, captured from pirates off the North African coast in 1790 by Admiral Richard Curry. Surviving pirate flags are almost unheard of anywhere in the world, since they were cheap, d",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Southwick House in England",
+      "link": "https://www.atlasobscura.com/places/southwick-house",
+      "date": "Thu, 01 Oct 2026 14:00:00 -0400",
+      "summary": "What an unusual place in a quaint English village!! Not to mention the yummy Tea House on the High Street in the village. Southwick House was the home to SHAEF (Supreme Headquarters Allied Expeditionary Force) in the lead up to D-Day. Thus, it is THE HOUSE whe",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Mini Statues of Uzhhorod in Uzhhorod, Ukraine",
+      "link": "https://www.atlasobscura.com/places/mini-statues-of-uzhhorod",
+      "date": "Thu, 01 Oct 2026 12:00:00 -0400",
+      "summary": "More than 80 miniature sculptures, which capture pieces of Transcarpthian culture, are scattered throughout Uzhhorod. They can be found in alleyways and on railings, outside restaurants and shops, and even beside some of the city’s most iconic cultural monumen",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Camp Butner Museum in Butner, North Carolina",
+      "link": "https://www.atlasobscura.com/places/camp-butner-museum",
+      "date": "Thu, 01 Oct 2026 10:00:00 -0400",
+      "summary": "The Camp Butner Museum preserves the remarkable story of a World War II training camp that seemingly appeared overnight across more than 40,000 acres of North Carolina farmland, displacing hundreds of local families as nearly 1,800 military buildings rose in a",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Queen’s Surf Beach in Honolulu, Hawaii",
       "link": "https://www.atlasobscura.com/places/queens-surf-beach",
       "date": "Wed, 30 Sep 2026 16:00:00 -0400",
       "summary": "In the 1970s, Queen’s Surf Beach in Waikiki became a popular gathering and organizing space for members of Hawaiʻi’s diverse LGBTQ+ Māhū communities. It was a place where people could relax and be themselves in a society where sexual and gender diversity were ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Havneholmen Metro Station in Copenhagen, Denmark",
-      "link": "https://www.atlasobscura.com/places/havneholmen-metro-station",
-      "date": "Wed, 30 Sep 2026 14:00:00 -0400",
-      "summary": "Step onto the platform at Copenhagen's Havneholmen metro station, which opened in 2024, and something is not quite right: a bench hangs from the ceiling, a trash can juts sideways from a wall, an information screen tilts out at an odd angle, and the clocks ove",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Best Haunted Hotels to Book for a Spooky Getaway",
-      "link": "https://www.atlasobscura.com/articles/best-haunted-hotels-for-a-spooky-getaway",
-      "date": "Wed, 30 Sep 2026 12:53:00 -0400",
-      "summary": "Nothing beats staying in a hotel whose suites hold some stories — especially if they’re of the spooky variety. The same friends who roll their eyes at mentions of luxury amenities and amazing views will be wide-eyed when you tell them about the ghost you accid",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Musee Industrie Lithique in Laayoune, Morocco",
-      "link": "https://www.atlasobscura.com/places/musee-industrie-lithique",
-      "date": "Wed, 30 Sep 2026 12:00:00 -0400",
-      "summary": "Thousands of years of Laayoune-area history are preserved in the small Musee Industrie Lithique, run by the eccentric Mr. Taki. Each glass case within the museum contains dozens of objects collected by or sent to Mr. Taki, from fossils to prehistoric tools. Ou",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Site of the Malbone Street Wreck in Brooklyn, New York",
-      "link": "https://www.atlasobscura.com/places/site-of-the-malbone-street-wreck",
-      "date": "Wed, 30 Sep 2026 10:00:00 -0400",
-      "summary": "The Malbone Street wreck was the worst catastrophe in the history of the New York City subway system and the worst train crash in New York State. Almost 100 people died—an exact number was never determined—and around 250 riders injured, roughly half of the pas",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "Costa Rica🇨🇷",
-      "link": "https://www.reddit.com/r/travel/comments/1wqp8pc/costa_rica/",
-      "date": "2026-09-26T12:25:09+00:00",
-      "summary": "Costa Rica was even more beautiful than I expected. I loved the beaches, lush nature, wildlife, and the overall relaxed “pura vida” vibe. There’s such a great mix of adventure and places where you can simply slow down and enjoy the surroundings. The sunsets, t",
+      "title": "Venice is like a completely different world",
+      "link": "https://www.reddit.com/r/travel/comments/1wtm264/venice_is_like_a_completely_different_world/",
+      "date": "2026-09-29T21:02:20+00:00",
+      "summary": "I genuinely can't believe how pretty Venice is. Like everywhere I look is stunning. It's exactly like all the movies and photos that I've seen my whole life, but seeing it in person is wild. Wild. There are so many other tourists here, a part of me feels bad f",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
