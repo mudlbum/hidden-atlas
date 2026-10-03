@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-02T11:06:48.652Z",
-  "date": "2026-10-02",
+  "generatedAt": "2026-10-03T10:24:57.471Z",
+  "date": "2026-10-03",
   "rotation": {
     "places": [
-      "kotorbay",
-      "gjirokaster",
-      "niue"
+      "damaraland",
+      "chiloe",
+      "flinders"
     ],
-    "tip": "powerbank",
-    "eat": "crabtottori"
+    "tip": "atmfx",
+    "eat": "curanto"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "18th Century Pirate’s Jolly Roger in Portsmouth, England",
-      "link": "https://www.atlasobscura.com/places/18th-century-pirates-jolly-roger",
-      "date": "Thu, 01 Oct 2026 16:00:00 -0400",
-      "summary": "The National Museum of the Royal Navy in Portsmouth displays a genuine Jolly Roger, captured from pirates off the North African coast in 1790 by Admiral Richard Curry. Surviving pirate flags are almost unheard of anywhere in the world, since they were cheap, d",
+      "title": "Queer Arts Featured in San Francisco, California",
+      "link": "https://www.atlasobscura.com/places/queer-arts-featured",
+      "date": "Fri, 02 Oct 2026 16:13:00 -0400",
+      "summary": "The storefront where Harvey Milk sold film and strategized his historic run for San Francisco supervisor has found a fitting second act. Today it's home to Queer Arts Featured, better known as Queer AF: part gallery, part boutique, and part community gathering",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Southwick House in England",
-      "link": "https://www.atlasobscura.com/places/southwick-house",
-      "date": "Thu, 01 Oct 2026 14:00:00 -0400",
-      "summary": "What an unusual place in a quaint English village!! Not to mention the yummy Tea House on the High Street in the village. Southwick House was the home to SHAEF (Supreme Headquarters Allied Expeditionary Force) in the lead up to D-Day. Thus, it is THE HOUSE whe",
+      "title": "The Abandoned Monorail of Melaka in Melaka, Malaysia",
+      "link": "https://www.atlasobscura.com/places/the-abandoned-monorail-of-melaka",
+      "date": "Fri, 02 Oct 2026 16:00:00 -0400",
+      "summary": "Several monorail systems were built in Malaysia in the 2000s, and while quite a few no longer exist, the one in Kuala Lumpur still runs and is popular. In 2008 in Melaka, the decision was made to build a monorail system as part of a development called 'The Sho",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Mini Statues of Uzhhorod in Uzhhorod, Ukraine",
-      "link": "https://www.atlasobscura.com/places/mini-statues-of-uzhhorod",
-      "date": "Thu, 01 Oct 2026 12:00:00 -0400",
-      "summary": "More than 80 miniature sculptures, which capture pieces of Transcarpthian culture, are scattered throughout Uzhhorod. They can be found in alleyways and on railings, outside restaurants and shops, and even beside some of the city’s most iconic cultural monumen",
+      "title": "The Mocking Mural in Oslo City Hall in Oslo, Norway",
+      "link": "https://www.atlasobscura.com/places/the-mocking-mural-in-oslo-city-hall",
+      "date": "Fri, 02 Oct 2026 14:00:00 -0400",
+      "summary": "Oslo city hall (Rådhuset) is one of the countries most visited tourist sites, famous for hosting the annual Nobel Peace Prize ceremony. However, few make it to the richly decorated second floor. In 1937-8, Artist Willi Midelfart was commissioned to create Det ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "Camp Butner Museum in Butner, North Carolina",
-      "link": "https://www.atlasobscura.com/places/camp-butner-museum",
-      "date": "Thu, 01 Oct 2026 10:00:00 -0400",
-      "summary": "The Camp Butner Museum preserves the remarkable story of a World War II training camp that seemingly appeared overnight across more than 40,000 acres of North Carolina farmland, displacing hundreds of local families as nearly 1,800 military buildings rose in a",
+      "title": "Grand Vista Sanitarium in Richmond, California",
+      "link": "https://www.atlasobscura.com/places/grande-vista-sanitarium-belgum-sanitarium",
+      "date": "Fri, 02 Oct 2026 12:00:00 -0400",
+      "summary": "The Bay Area’s regional parks are one of the many jewels that make the Bay the gem that it is, but few are aware of the ruins of a once-grand sanitarium nestled right within the hills of Wildcat Canyon Regional Park. The remnants of the estate are all that rem",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Queen’s Surf Beach in Honolulu, Hawaii",
-      "link": "https://www.atlasobscura.com/places/queens-surf-beach",
-      "date": "Wed, 30 Sep 2026 16:00:00 -0400",
-      "summary": "In the 1970s, Queen’s Surf Beach in Waikiki became a popular gathering and organizing space for members of Hawaiʻi’s diverse LGBTQ+ Māhū communities. It was a place where people could relax and be themselves in a society where sexual and gender diversity were ",
+      "title": "Ancient Hon Chuong Cham Tower in De Gi, Vietnam",
+      "link": "https://www.atlasobscura.com/places/ancient-hon-chuong-cham-tower",
+      "date": "Fri, 02 Oct 2026 10:00:00 -0400",
+      "summary": "Deep within the rugged heights of De Gi in Phu Cat lies one of the most obscure and isolated ancient architectural puzzles in Vietnam. Hon Chuong Tower is a tiny, solitary Cham ruin standing defiantly atop a massive rocky outcrop at an altitude of 779 meters. ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -160,10 +160,10 @@
       }
     },
     {
-      "title": "Two Weeks in Athens and Crete - Beaches, Mountains, Ruins, and Cats",
-      "link": "https://www.reddit.com/r/travel/comments/1wpylai/two_weeks_in_athens_and_crete_beaches_mountains/",
-      "date": "2026-09-25T14:59:33+00:00",
-      "summary": "Manassa Rose M shipwreck, Kissamos (unedited!) Delphi Delphi Arachova Fortezza of Rethymno Venetian harbor, Rethymno Elafonisi Beach Preveli Beach Old Town, Chania Venizelos Graves viewpoint, Chania Botanical Garden of Crete Venizelos Graves, Chania Rafina Pho",
+      "title": "Venice is like a completely different world",
+      "link": "https://www.reddit.com/r/travel/comments/1wtm264/venice_is_like_a_completely_different_world/",
+      "date": "2026-09-29T21:02:20+00:00",
+      "summary": "I genuinely can't believe how pretty Venice is. Like everywhere I look is stunning. It's exactly like all the movies and photos that I've seen my whole life, but seeing it in person is wild. Wild. There are so many other tourists here, a part of me feels bad f",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "Venice is like a completely different world",
-      "link": "https://www.reddit.com/r/travel/comments/1wtm264/venice_is_like_a_completely_different_world/",
-      "date": "2026-09-29T21:02:20+00:00",
-      "summary": "I genuinely can't believe how pretty Venice is. Like everywhere I look is stunning. It's exactly like all the movies and photos that I've seen my whole life, but seeing it in person is wild. Wild. There are so many other tourists here, a part of me feels bad f",
+      "title": "My 12-Day Solo Trip to France",
+      "link": "https://www.reddit.com/r/travel/comments/1wvnjzw/my_12day_solo_trip_to_france/",
+      "date": "2026-10-02T07:30:42+00:00",
+      "summary": "This August, I took a trip through France. Here was my itinerary: Nice (and surroundings) - Marseille - Carcassonne - Toulouse - Bordeaux - Paris. I used trains to travel between cities. So, here are some pictures from my trip: 1-2 - Nice 3 - Menton 4 - Saint ",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -208,6 +208,6 @@
   ],
   "enrichment": {
     "ok": 0,
-    "failed": 0
+    "failed": 6
   }
 }
