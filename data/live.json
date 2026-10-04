@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-03T10:24:57.471Z",
-  "date": "2026-10-03",
+  "generatedAt": "2026-10-04T11:07:14.680Z",
+  "date": "2026-10-04",
   "rotation": {
     "places": [
-      "damaraland",
-      "chiloe",
-      "flinders"
+      "chapada",
+      "lordhowe",
+      "rwenzori"
     ],
-    "tip": "atmfx",
-    "eat": "curanto"
+    "tip": "etias",
+    "eat": "sarawaklaksa"
   },
   "counts": {
     "places": 87,
@@ -160,10 +160,10 @@
       }
     },
     {
-      "title": "Venice is like a completely different world",
-      "link": "https://www.reddit.com/r/travel/comments/1wtm264/venice_is_like_a_completely_different_world/",
-      "date": "2026-09-29T21:02:20+00:00",
-      "summary": "I genuinely can't believe how pretty Venice is. Like everywhere I look is stunning. It's exactly like all the movies and photos that I've seen my whole life, but seeing it in person is wild. Wild. There are so many other tourists here, a part of me feels bad f",
+      "title": "Been to London four times in the past year(for work) and it’s the city that keeps on giving",
+      "link": "https://www.reddit.com/r/travel/comments/1ww5zor/been_to_london_four_times_in_the_past_yearfor/",
+      "date": "2026-10-02T21:38:22+00:00",
+      "summary": "I’m American and I’ve been to London four times in the past year for work, and it’s probably the city I’ve enjoyed returning to the most. I think a lot of visitors only really see the tourist corridor around Westminster, Trafalgar Square, Big Ben and Buckingha",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
-    "failed": 6
+    "ok": 6,
+    "failed": 0
   }
 }
