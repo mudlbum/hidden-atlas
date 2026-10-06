@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-05T12:17:09.003Z",
-  "date": "2026-10-05",
+  "generatedAt": "2026-10-06T12:02:12.321Z",
+  "date": "2026-10-06",
   "rotation": {
     "places": [
-      "savaii",
-      "bale",
-      "kotohira"
+      "orkhon",
+      "jardin",
+      "ometepe"
     ],
-    "tip": "markets",
-    "eat": "kokoda"
+    "tip": "trains",
+    "eat": "tarte"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "Queer Arts Featured in San Francisco, California",
-      "link": "https://www.atlasobscura.com/places/queer-arts-featured",
-      "date": "Fri, 02 Oct 2026 16:13:00 -0400",
-      "summary": "The storefront where Harvey Milk sold film and strategized his historic run for San Francisco supervisor has found a fitting second act. Today it's home to Queer Arts Featured, better known as Queer AF: part gallery, part boutique, and part community gathering",
+      "title": "‘Bear With Me’ in Bristol, England",
+      "link": "https://www.atlasobscura.com/places/bear-with-me",
+      "date": "Mon, 05 Oct 2026 16:00:00 -0400",
+      "summary": "Bristol is famous for turning its streets into an open-air gallery, from Banksy’s work to its ever-changing murals, stencils, and sculptures. Tucked into a nook overlooking Jacob’s Wells Road, Bear With Me is one of the city’s more unexpected interventions: a ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "The Abandoned Monorail of Melaka in Melaka, Malaysia",
-      "link": "https://www.atlasobscura.com/places/the-abandoned-monorail-of-melaka",
-      "date": "Fri, 02 Oct 2026 16:00:00 -0400",
-      "summary": "Several monorail systems were built in Malaysia in the 2000s, and while quite a few no longer exist, the one in Kuala Lumpur still runs and is popular. In 2008 in Melaka, the decision was made to build a monorail system as part of a development called 'The Sho",
+      "title": "Üç Haclı Kilise in Çavuşin, Turkey",
+      "link": "https://www.atlasobscura.com/places/uc-hacli-kilise",
+      "date": "Mon, 05 Oct 2026 14:00:00 -0400",
+      "summary": "In the red valley, one can find Üç Haclı Kilise, also known as Three Crosses church. It is carved directly into the rock. Though heavily eroded, it is thought that the church housed a monastic community. The church contains some beautiful frescoes, which were ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "The Mocking Mural in Oslo City Hall in Oslo, Norway",
-      "link": "https://www.atlasobscura.com/places/the-mocking-mural-in-oslo-city-hall",
-      "date": "Fri, 02 Oct 2026 14:00:00 -0400",
-      "summary": "Oslo city hall (Rådhuset) is one of the countries most visited tourist sites, famous for hosting the annual Nobel Peace Prize ceremony. However, few make it to the richly decorated second floor. In 1937-8, Artist Willi Midelfart was commissioned to create Det ",
+      "title": "‘Deep Silent Gaze’ in Limassol, Cyprus",
+      "link": "https://www.atlasobscura.com/places/deep-silent-gaze",
+      "date": "Mon, 05 Oct 2026 12:00:00 -0400",
+      "summary": "Set into a low wall, this mosaic looks at first like a study in ocean life: teal petals fanned out like sea anemones, iridescent glass discs catching the light like fish scales, a palette drawn straight from creatures of the deep. It was made in 2025 by pupils",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "Grand Vista Sanitarium in Richmond, California",
-      "link": "https://www.atlasobscura.com/places/grande-vista-sanitarium-belgum-sanitarium",
-      "date": "Fri, 02 Oct 2026 12:00:00 -0400",
-      "summary": "The Bay Area’s regional parks are one of the many jewels that make the Bay the gem that it is, but few are aware of the ruins of a once-grand sanitarium nestled right within the hills of Wildcat Canyon Regional Park. The remnants of the estate are all that rem",
+      "title": "Two Rivers Heritage Museum in Washougal, Washington",
+      "link": "https://www.atlasobscura.com/places/two-rivers-heritage-museum",
+      "date": "Mon, 05 Oct 2026 10:16:00 -0400",
+      "summary": "When you see this museum from the street, you might assume that it's a little one-room operation, but you couldn't be more wrong! Two Rivers is truly bigger on the inside, in a way that makes everyone remark, \"It just keeps going...!\" And this museum is jam pa",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Ancient Hon Chuong Cham Tower in De Gi, Vietnam",
-      "link": "https://www.atlasobscura.com/places/ancient-hon-chuong-cham-tower",
-      "date": "Fri, 02 Oct 2026 10:00:00 -0400",
-      "summary": "Deep within the rugged heights of De Gi in Phu Cat lies one of the most obscure and isolated ancient architectural puzzles in Vietnam. Hon Chuong Tower is a tiny, solitary Cham ruin standing defiantly atop a massive rocky outcrop at an altitude of 779 meters. ",
+      "title": "Gravesite of Justice Willam Cushing in Scituate, Massachusetts",
+      "link": "https://www.atlasobscura.com/places/gravesite-of-justice-willam-cushing",
+      "date": "Mon, 05 Oct 2026 10:00:00 -0400",
+      "summary": "South of the town of Scituate (pronounced /SIT-you-it/), roughly a mile and a half from the Atlantic coast of Massachusetts, nestled in the second-smallest state park in Massachusetts, at the end of a secluded but luxurious residential street, is the gravesite",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -72,14 +72,58 @@
       }
     },
     {
-      "title": "Indonesia seems to have it all",
-      "link": "https://www.reddit.com/r/travel/comments/1wt6k2l/indonesia_seems_to_have_it_all/",
-      "date": "2026-09-29T10:29:42+00:00",
-      "summary": "September 8-27, 2026 And I haven’t even explored it in its entirety. From volcanoes and rice fields to local villages and bustling towns, temples, caves, beaches, waterfalls, and all kinds of unique wildlife. And to top it all off, incredibly kind, open, and w",
-      "source": "reddit-travel",
+      "title": "Holafly Plans: The Best eSIM Plan for Long Term Travelers",
+      "link": "https://www.nomadicmatt.com/travel-blogs/holafly-plans/",
+      "date": "Tue, 28 Jul 2026 16:40:13 +0000",
+      "summary": "There are a lot of eSIM companies in the world. They all work a similar way: you download their app, pick your package, install the eSIM into your smartphone, and off you go. There’s many I like. But one I like more than the rest is Holafly and I’ve been using",
+      "source": "nomadic-matt",
       "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Nomad Citizen: A New Social Safety Net for Entrepreneurs",
+      "link": "https://www.nomadicmatt.com/travel-blogs/nomad-citizen-review/",
+      "date": "Thu, 18 Jun 2026 12:07:22 +0000",
+      "summary": "If you’re a digital nomad or a location-independent business owner, you’re either overpaying for fragmented insurance coverage (travel, medical, etc.) or just badly underinsured. You have a health plan, travel insurance, and maybe some medical evacuation cover",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Faye Travel Insurance: The Best New Company Out there",
+      "link": "https://www.nomadicmatt.com/travel-blogs/faye-travel-insurance-review/",
+      "date": "Wed, 03 Jun 2026 13:05:03 +0000",
+      "summary": "We may receive compensation from Faye as an advertising partner. However, this does not influence our evaluations. Our opinions are our own. I’ve been writing about travel for nearly two decades and, in that time, I’ve watched the travel insurance industry cha",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Madrid 5-Day Itinerary: A Guide to Culture, Gastronomy, and Local Life",
+      "link": "https://www.nomadicmatt.com/travel-blogs/madrid-five-day-itinerary/",
+      "date": "Wed, 06 May 2026 07:50:57 +0000",
+      "summary": "Home to some 3.5 million people, Madrid is the capital of Spain and the country’s largest city. Though it’s somewhat sprawling, the city boasts stunning architecture, incredible food, and an energetic nightlife that stretches until dawn. Over 10 million people",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
+      }
+    },
+    {
+      "title": "Capital One Venture Business Card Review",
+      "link": "https://www.nomadicmatt.com/travel-blogs/capital-one-venture-business-review/",
+      "date": "Fri, 01 May 2026 15:30:42 +0000",
+      "summary": "If you’re a traveler like me, chances are you’re always on the lookout for ways to make your trips more affordable. That’s why I collect points and miles: they help me lower my travel costs so I can spend my money on what’s actually important…which is usually ",
+      "source": "nomadic-matt",
+      "sourceLabel": {
+        "en": "Nomadic Matt",
+        "ko": "노매딕 맷"
       }
     },
     {
@@ -116,6 +160,17 @@
       }
     },
     {
+      "title": "First Trip Ever to Egypt",
+      "link": "https://www.reddit.com/r/travel/comments/1wxfy0p/first_trip_ever_to_egypt/",
+      "date": "2026-10-04T13:39:35+00:00",
+      "summary": "Our first trip ever to Egypt, and my first time bringing my Fujifilm camera overseas. The view was truly incredible as it woke up the kid inside me who was obsessed with Ancient Egyptian history. Seeing these magnificent structures and tombs in person was like",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "Venice is like a completely different world",
       "link": "https://www.reddit.com/r/travel/comments/1wtm264/venice_is_like_a_completely_different_world/",
       "date": "2026-09-29T21:02:20+00:00",
@@ -136,9 +191,8 @@
     },
     {
       "id": "nomadic-matt",
-      "ok": false,
-      "error": "reachable but produced 0 items — feed may have moved or been retired",
-      "optional": false
+      "ok": true,
+      "count": 5
     },
     {
       "id": "reddit-travel",
@@ -153,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
