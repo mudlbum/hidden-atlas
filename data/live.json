@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-06T12:02:12.321Z",
-  "date": "2026-10-06",
+  "generatedAt": "2026-10-07T11:47:45.141Z",
+  "date": "2026-10-07",
   "rotation": {
     "places": [
-      "orkhon",
-      "jardin",
-      "ometepe"
+      "sado",
+      "tusheti",
+      "jaffna"
     ],
-    "tip": "trains",
-    "eat": "tarte"
+    "tip": "scamtaxi",
+    "eat": "beshbarmak"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Pinkie the Pink Elephant in Sun Prairie, Wisconsin",
+      "link": "https://www.atlasobscura.com/places/pinkie-the-pink-elephant",
+      "date": "Tue, 06 Oct 2026 16:00:00 -0400",
+      "summary": "DeForest, Wisconsin, United States--A fiberglass giant pink elephant with glasses, also known as “Pinkie the Elephant” or “Pinky the Elephant” is a roadside attraction in DeForest, Wisconsin; situated near a Shell gas station and convenient store with fresh an",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Tomb of Mem de Sá in Salvador, Brazil",
+      "link": "https://www.atlasobscura.com/places/catedral-basilica-de-salvador-tomb-of-mem-de-sa",
+      "date": "Tue, 06 Oct 2026 14:00:00 -0400",
+      "summary": "Located in the heart of Salvador’s historic center, the Catedral Basílica de Salvador stands in the famous Terreiro de Jesus, surrounded by some of the city’s oldest streets and churches. Its richly decorated Baroque interior, covered in intricate carvings, go",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Round Barn Capital of the World in Rochester, Indiana",
+      "link": "https://www.atlasobscura.com/places/round-barn-capital-of-the-world",
+      "date": "Tue, 06 Oct 2026 12:00:00 -0400",
+      "summary": "Your typical barn employs a rectangular shape, with various styles of roofing. However, rectangular barns use material inefficiently; a round design allows a larger area to be enclosed by the same amount of siding. By the early 20th century, round barns were f",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Susannah Place in The Rocks, Australia",
+      "link": "https://www.atlasobscura.com/places/susannah-place",
+      "date": "Tue, 06 Oct 2026 10:00:00 -0400",
+      "summary": "Located in The Rocks, Sydney's oldest neighborhood, the four humble terrace houses that make up Susannah Place were built in 1844 by Irish immigrants. For over 150 years, the row housed more than 100 working class families ranging from the families of Greek sh",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "‘Bear With Me’ in Bristol, England",
       "link": "https://www.atlasobscura.com/places/bear-with-me",
       "date": "Mon, 05 Oct 2026 16:00:00 -0400",
       "summary": "Bristol is famous for turning its streets into an open-air gallery, from Banksy’s work to its ever-changing murals, stencils, and sculptures. Tucked into a nook overlooking Jacob’s Wells Road, Bear With Me is one of the city’s more unexpected interventions: a ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Üç Haclı Kilise in Çavuşin, Turkey",
-      "link": "https://www.atlasobscura.com/places/uc-hacli-kilise",
-      "date": "Mon, 05 Oct 2026 14:00:00 -0400",
-      "summary": "In the red valley, one can find Üç Haclı Kilise, also known as Three Crosses church. It is carved directly into the rock. Though heavily eroded, it is thought that the church housed a monastic community. The church contains some beautiful frescoes, which were ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "‘Deep Silent Gaze’ in Limassol, Cyprus",
-      "link": "https://www.atlasobscura.com/places/deep-silent-gaze",
-      "date": "Mon, 05 Oct 2026 12:00:00 -0400",
-      "summary": "Set into a low wall, this mosaic looks at first like a study in ocean life: teal petals fanned out like sea anemones, iridescent glass discs catching the light like fish scales, a palette drawn straight from creatures of the deep. It was made in 2025 by pupils",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Two Rivers Heritage Museum in Washougal, Washington",
-      "link": "https://www.atlasobscura.com/places/two-rivers-heritage-museum",
-      "date": "Mon, 05 Oct 2026 10:16:00 -0400",
-      "summary": "When you see this museum from the street, you might assume that it's a little one-room operation, but you couldn't be more wrong! Two Rivers is truly bigger on the inside, in a way that makes everyone remark, \"It just keeps going...!\" And this museum is jam pa",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Gravesite of Justice Willam Cushing in Scituate, Massachusetts",
-      "link": "https://www.atlasobscura.com/places/gravesite-of-justice-willam-cushing",
-      "date": "Mon, 05 Oct 2026 10:00:00 -0400",
-      "summary": "South of the town of Scituate (pronounced /SIT-you-it/), roughly a mile and a half from the Atlantic coast of Massachusetts, nestled in the second-smallest state park in Massachusetts, at the end of a secluded but luxurious residential street, is the gravesite",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -127,10 +127,10 @@
       }
     },
     {
-      "title": "A week in Tunisia as a solo woman🇹🇳☝🏽",
-      "link": "https://www.reddit.com/r/travel/comments/1wtzvto/a_week_in_tunisia_as_a_solo_woman/",
-      "date": "2026-09-30T08:54:01+00:00",
-      "summary": "If anyone is interested in the location of the pictures I included a breakdown below: Image one - Ribat of Monastir Image two - El Jem Image three - Matamata Image four - Chott El Jerid (Salt Lake) Image five - Karouain Mosque Image six - Dougga Image seven - ",
+      "title": "My 12-Day Solo Trip to France",
+      "link": "https://www.reddit.com/r/travel/comments/1wvnjzw/my_12day_solo_trip_to_france/",
+      "date": "2026-10-02T07:30:42+00:00",
+      "summary": "This August, I took a trip through France. Here was my itinerary: Nice (and surroundings) - Marseille - Carcassonne - Toulouse - Bordeaux - Paris. I used trains to travel between cities. So, here are some pictures from my trip: 1-2 - Nice 3 - Menton 4 - Saint ",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -149,10 +149,10 @@
       }
     },
     {
-      "title": "My 12-Day Solo Trip to France",
-      "link": "https://www.reddit.com/r/travel/comments/1wvnjzw/my_12day_solo_trip_to_france/",
-      "date": "2026-10-02T07:30:42+00:00",
-      "summary": "This August, I took a trip through France. Here was my itinerary: Nice (and surroundings) - Marseille - Carcassonne - Toulouse - Bordeaux - Paris. I used trains to travel between cities. So, here are some pictures from my trip: 1-2 - Nice 3 - Menton 4 - Saint ",
+      "title": "A visit to the beautiful North Cascades in Washington",
+      "link": "https://www.reddit.com/r/travel/comments/1wyo7gp/a_visit_to_the_beautiful_north_cascades_in/",
+      "date": "2026-10-05T23:59:10+00:00",
+      "summary": "9/14-9/18 Had an incredible trip to visit the North Cascades which I’ve been hoping to do for a few years. There is always the risk of fires/smoke this time of year and while there was a bit of smoke on certain days and in certain areas, I lucked out in genera",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "Venice is like a completely different world",
-      "link": "https://www.reddit.com/r/travel/comments/1wtm264/venice_is_like_a_completely_different_world/",
-      "date": "2026-09-29T21:02:20+00:00",
-      "summary": "I genuinely can't believe how pretty Venice is. Like everywhere I look is stunning. It's exactly like all the movies and photos that I've seen my whole life, but seeing it in person is wild. Wild. There are so many other tourists here, a part of me feels bad f",
+      "title": "10 Days on the Amalfi Coast & in Rome",
+      "link": "https://www.reddit.com/r/travel/comments/1wugkiq/10_days_on_the_amalfi_coast_in_rome/",
+      "date": "2026-09-30T20:56:02+00:00",
+      "summary": "Well, here I am on the last evening of my first trip to Europe. I am from North America and have not travelled much at all in the last 10 or so years, I live in a very popular area for tourism and visitation and I am thankful everyday to live in such a beautif",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
