@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-07T11:47:45.141Z",
-  "date": "2026-10-07",
+  "generatedAt": "2026-10-08T12:02:21.491Z",
+  "date": "2026-10-08",
   "rotation": {
     "places": [
-      "sado",
-      "tusheti",
-      "jaffna"
+      "catlins",
+      "charyn",
+      "driftless"
     ],
-    "tip": "scamtaxi",
-    "eat": "beshbarmak"
+    "tip": "photopeople",
+    "eat": "khachapuri"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Benedict Arnold's Grave at St. Mary’s Battersea in London, England",
+      "link": "https://www.atlasobscura.com/places/benedict-arnolds-grave-at-st-marys-battersea",
+      "date": "Wed, 07 Oct 2026 16:00:00 -0400",
+      "summary": "St. Mary's Church, quietly nestled along the south side of the river Thames, serves as the final resting spot for the infamous Revolutionary War turncoat Benedict Arnold, his equally infamous wife Peggy Shippen Arnold, who relocated to London after their plans",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Ham Ho in Binh Phu, Vietnam",
+      "link": "https://www.atlasobscura.com/places/ham-ho",
+      "date": "Wed, 07 Oct 2026 14:00:00 -0400",
+      "summary": "Deep within the rugged interior of Tay Son district, Ham Ho presents a striking clash of raw geological wonder and fierce military history. A wild mountain river tears through a colossal maze of jagged granite boulders and dense forest canopy, creating natural",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Khada Parsi Statue in Mumbai, India",
+      "link": "https://www.atlasobscura.com/places/khada-parsi-statue",
+      "date": "Wed, 07 Oct 2026 12:00:00 -0400",
+      "summary": "In Mumbai’s Byculla area, under the Byculla Bridge, a tall cast-iron statue stands at the traffic junction. It is popularly known as Khada Parsi Statue. It is the statue of Seth Cursetjee Manockjee (1763-1845), a Parsi businessman and philanthropist. The statu",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Fort Breendonk in Willebroek, Belgium",
+      "link": "https://www.atlasobscura.com/places/fort-breendonk",
+      "date": "Wed, 07 Oct 2026 10:00:00 -0400",
+      "summary": "Fort van Breendonk is a transit camp and WWII Nazi Prison in Willebroek, Belgium. It was originally built between 1906 and 1913 and has been used in both World War I and World War II. It was used as a prison camp for the detention of political prisoners, resis",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Pinkie the Pink Elephant in Sun Prairie, Wisconsin",
       "link": "https://www.atlasobscura.com/places/pinkie-the-pink-elephant",
       "date": "Tue, 06 Oct 2026 16:00:00 -0400",
       "summary": "DeForest, Wisconsin, United States--A fiberglass giant pink elephant with glasses, also known as “Pinkie the Elephant” or “Pinky the Elephant” is a roadside attraction in DeForest, Wisconsin; situated near a Shell gas station and convenient store with fresh an",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Tomb of Mem de Sá in Salvador, Brazil",
-      "link": "https://www.atlasobscura.com/places/catedral-basilica-de-salvador-tomb-of-mem-de-sa",
-      "date": "Tue, 06 Oct 2026 14:00:00 -0400",
-      "summary": "Located in the heart of Salvador’s historic center, the Catedral Basílica de Salvador stands in the famous Terreiro de Jesus, surrounded by some of the city’s oldest streets and churches. Its richly decorated Baroque interior, covered in intricate carvings, go",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Round Barn Capital of the World in Rochester, Indiana",
-      "link": "https://www.atlasobscura.com/places/round-barn-capital-of-the-world",
-      "date": "Tue, 06 Oct 2026 12:00:00 -0400",
-      "summary": "Your typical barn employs a rectangular shape, with various styles of roofing. However, rectangular barns use material inefficiently; a round design allows a larger area to be enclosed by the same amount of siding. By the early 20th century, round barns were f",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Susannah Place in The Rocks, Australia",
-      "link": "https://www.atlasobscura.com/places/susannah-place",
-      "date": "Tue, 06 Oct 2026 10:00:00 -0400",
-      "summary": "Located in The Rocks, Sydney's oldest neighborhood, the four humble terrace houses that make up Susannah Place were built in 1844 by Irish immigrants. For over 150 years, the row housed more than 100 working class families ranging from the families of Greek sh",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "‘Bear With Me’ in Bristol, England",
-      "link": "https://www.atlasobscura.com/places/bear-with-me",
-      "date": "Mon, 05 Oct 2026 16:00:00 -0400",
-      "summary": "Bristol is famous for turning its streets into an open-air gallery, from Banksy’s work to its ever-changing murals, stencils, and sculptures. Tucked into a nook overlooking Jacob’s Wells Road, Bear With Me is one of the city’s more unexpected interventions: a ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -127,6 +127,28 @@
       }
     },
     {
+      "title": "day 3 of cairo and i’m just tired and miserable.",
+      "link": "https://www.reddit.com/r/travel/comments/1wzsn9h/day_3_of_cairo_and_im_just_tired_and_miserable/",
+      "date": "2026-10-07T10:04:28+00:00",
+      "summary": "for some background, i’m 21, american, and traveling solo. I’ve traveled internationally before, so i came into egypt genuinely excited to experience somewhere very different from home, and i’m not someone who expected cairo to feel like europe or the us. i kn",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "A visit to the beautiful North Cascades in Washington",
+      "link": "https://www.reddit.com/r/travel/comments/1wyo7gp/a_visit_to_the_beautiful_north_cascades_in/",
+      "date": "2026-10-05T23:59:10+00:00",
+      "summary": "9/14-9/18 Had an incredible trip to visit the North Cascades which I’ve been hoping to do for a few years. There is always the risk of fires/smoke this time of year and while there was a bit of smoke on certain days and in certain areas, I lucked out in genera",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "My 12-Day Solo Trip to France",
       "link": "https://www.reddit.com/r/travel/comments/1wvnjzw/my_12day_solo_trip_to_france/",
       "date": "2026-10-02T07:30:42+00:00",
@@ -149,32 +171,10 @@
       }
     },
     {
-      "title": "A visit to the beautiful North Cascades in Washington",
-      "link": "https://www.reddit.com/r/travel/comments/1wyo7gp/a_visit_to_the_beautiful_north_cascades_in/",
-      "date": "2026-10-05T23:59:10+00:00",
-      "summary": "9/14-9/18 Had an incredible trip to visit the North Cascades which I’ve been hoping to do for a few years. There is always the risk of fires/smoke this time of year and while there was a bit of smoke on certain days and in certain areas, I lucked out in genera",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "First Trip Ever to Egypt",
       "link": "https://www.reddit.com/r/travel/comments/1wxfy0p/first_trip_ever_to_egypt/",
       "date": "2026-10-04T13:39:35+00:00",
       "summary": "Our first trip ever to Egypt, and my first time bringing my Fujifilm camera overseas. The view was truly incredible as it woke up the kid inside me who was obsessed with Ancient Egyptian history. Seeing these magnificent structures and tombs in person was like",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "10 Days on the Amalfi Coast & in Rome",
-      "link": "https://www.reddit.com/r/travel/comments/1wugkiq/10_days_on_the_amalfi_coast_in_rome/",
-      "date": "2026-09-30T20:56:02+00:00",
-      "summary": "Well, here I am on the last evening of my first trip to Europe. I am from North America and have not travelled much at all in the last 10 or so years, I live in a very popular area for tourism and visitation and I am thankful everyday to live in such a beautif",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
