@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-08T12:02:21.491Z",
-  "date": "2026-10-08",
+  "generatedAt": "2026-10-09T11:54:13.437Z",
+  "date": "2026-10-09",
   "rotation": {
     "places": [
-      "catlins",
-      "charyn",
-      "driftless"
+      "spiti",
+      "dana",
+      "fogo"
     ],
-    "tip": "photopeople",
-    "eat": "khachapuri"
+    "tip": "insurance",
+    "eat": "muhlama"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "Benedict Arnold's Grave at St. Mary’s Battersea in London, England",
-      "link": "https://www.atlasobscura.com/places/benedict-arnolds-grave-at-st-marys-battersea",
-      "date": "Wed, 07 Oct 2026 16:00:00 -0400",
-      "summary": "St. Mary's Church, quietly nestled along the south side of the river Thames, serves as the final resting spot for the infamous Revolutionary War turncoat Benedict Arnold, his equally infamous wife Peggy Shippen Arnold, who relocated to London after their plans",
+      "title": "Oculus Tower in Ferrara, Italy",
+      "link": "https://www.atlasobscura.com/places/oculus-tower",
+      "date": "Thu, 08 Oct 2026 16:00:00 -0400",
+      "summary": "At first glance, the Oculus Tower looks more like a futuristic arena than part of an old distillery. Rising from the remains of the former Eridania industrial complex in Ferrara, this seven-story circular concrete structure was once the heart of a large alcoho",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Ham Ho in Binh Phu, Vietnam",
-      "link": "https://www.atlasobscura.com/places/ham-ho",
-      "date": "Wed, 07 Oct 2026 14:00:00 -0400",
-      "summary": "Deep within the rugged interior of Tay Son district, Ham Ho presents a striking clash of raw geological wonder and fierce military history. A wild mountain river tears through a colossal maze of jagged granite boulders and dense forest canopy, creating natural",
+      "title": "The Reading Room in Chattanooga, Tennessee",
+      "link": "https://www.atlasobscura.com/places/the-reading-room",
+      "date": "Thu, 08 Oct 2026 14:52:00 -0400",
+      "summary": "Is there a better pairing than a good book and a great drink? You can find both at this cozy bar on the east side of Chattanooga. But the books lining the walls of the Reading Room are not just decoration. They are for sale, and their journey began, appropriat",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Khada Parsi Statue in Mumbai, India",
-      "link": "https://www.atlasobscura.com/places/khada-parsi-statue",
-      "date": "Wed, 07 Oct 2026 12:00:00 -0400",
-      "summary": "In Mumbai’s Byculla area, under the Byculla Bridge, a tall cast-iron statue stands at the traffic junction. It is popularly known as Khada Parsi Statue. It is the statue of Seth Cursetjee Manockjee (1763-1845), a Parsi businessman and philanthropist. The statu",
+      "title": "It All Comes Together in Chattanooga",
+      "link": "https://www.atlasobscura.com/articles/it-all-comes-together-in-chattanooga",
+      "date": "Thu, 08 Oct 2026 14:51:00 -0400",
+      "summary": "Chattanooga may be best known for its natural beauty, surrounded by mountains, valleys, and the Tennessee River. This charming Appalachian city is also home to annual music festivals like the IBMA World of Bluegrass and the 3 Sisters Bluegrass Festival . The s",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "Fort Breendonk in Willebroek, Belgium",
-      "link": "https://www.atlasobscura.com/places/fort-breendonk",
-      "date": "Wed, 07 Oct 2026 10:00:00 -0400",
-      "summary": "Fort van Breendonk is a transit camp and WWII Nazi Prison in Willebroek, Belgium. It was originally built between 1906 and 1913 and has been used in both World War I and World War II. It was used as a prison camp for the detention of political prisoners, resis",
+      "title": "Eastern California Museum in Independence, California",
+      "link": "https://www.atlasobscura.com/places/eastern-california-museum",
+      "date": "Thu, 08 Oct 2026 14:00:00 -0400",
+      "summary": "100 years ago, if you lived long enough in the rural American West, it was entirely reasonable, that at some point, you might find yourself with a ever shrinking amount of teeth and a surplus of coyotes. Such was the position George Washington Hancock found hi",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Pinkie the Pink Elephant in Sun Prairie, Wisconsin",
-      "link": "https://www.atlasobscura.com/places/pinkie-the-pink-elephant",
-      "date": "Tue, 06 Oct 2026 16:00:00 -0400",
-      "summary": "DeForest, Wisconsin, United States--A fiberglass giant pink elephant with glasses, also known as “Pinkie the Elephant” or “Pinky the Elephant” is a roadside attraction in DeForest, Wisconsin; situated near a Shell gas station and convenient store with fresh an",
+      "title": "Jason Miller Statue in Scranton, Pennsylvania",
+      "link": "https://www.atlasobscura.com/places/jason-miller-statue",
+      "date": "Thu, 08 Oct 2026 12:00:00 -0400",
+      "summary": "In 2009 Jason Miller, who played Father Karras in The Exorcist and won a Pulitzer Prize for writing That Championship Season, was immortalized forever with his bronze statue in Scranton Courthouse Square. Miller was also in such notable films as Rudy, Toy Sold",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -149,17 +149,6 @@
       }
     },
     {
-      "title": "My 12-Day Solo Trip to France",
-      "link": "https://www.reddit.com/r/travel/comments/1wvnjzw/my_12day_solo_trip_to_france/",
-      "date": "2026-10-02T07:30:42+00:00",
-      "summary": "This August, I took a trip through France. Here was my itinerary: Nice (and surroundings) - Marseille - Carcassonne - Toulouse - Bordeaux - Paris. I used trains to travel between cities. So, here are some pictures from my trip: 1-2 - Nice 3 - Menton 4 - Saint ",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "Been to London four times in the past year(for work) and it’s the city that keeps on giving",
       "link": "https://www.reddit.com/r/travel/comments/1ww5zor/been_to_london_four_times_in_the_past_yearfor/",
       "date": "2026-10-02T21:38:22+00:00",
@@ -175,6 +164,17 @@
       "link": "https://www.reddit.com/r/travel/comments/1wxfy0p/first_trip_ever_to_egypt/",
       "date": "2026-10-04T13:39:35+00:00",
       "summary": "Our first trip ever to Egypt, and my first time bringing my Fujifilm camera overseas. The view was truly incredible as it woke up the kid inside me who was obsessed with Ancient Egyptian history. Seeing these magnificent structures and tombs in person was like",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "Italy mid August",
+      "link": "https://www.reddit.com/r/travel/comments/1x0xewa/italy_mid_august/",
+      "date": "2026-10-08T17:40:37+00:00",
+      "summary": "7 days in Italy: Rome -> Lake Como -> Positano Rome – Busy and hot, but exploring early in the morning and around sunset made all the difference. Visiting the Colosseum in the evening light was definitely a highlight. The sheer amount of history in this city m",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
