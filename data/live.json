@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-09T11:54:13.437Z",
-  "date": "2026-10-09",
+  "generatedAt": "2026-10-10T11:11:14.026Z",
+  "date": "2026-10-10",
   "rotation": {
     "places": [
-      "spiti",
-      "dana",
-      "fogo"
+      "senja",
+      "curonian",
+      "taitung"
     ],
-    "tip": "insurance",
-    "eat": "muhlama"
+    "tip": "esim",
+    "eat": "cocoa"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "Oculus Tower in Ferrara, Italy",
-      "link": "https://www.atlasobscura.com/places/oculus-tower",
-      "date": "Thu, 08 Oct 2026 16:00:00 -0400",
-      "summary": "At first glance, the Oculus Tower looks more like a futuristic arena than part of an old distillery. Rising from the remains of the former Eridania industrial complex in Ferrara, this seven-story circular concrete structure was once the heart of a large alcoho",
+      "title": "Wood Street Steps in Philadelphia, Pennsylvania",
+      "link": "https://www.atlasobscura.com/places/the-william-penn-wood-street-steps",
+      "date": "Fri, 09 Oct 2026 16:00:00 -0400",
+      "summary": "The Wood Street Steps are the last surviving examples of 10 or more stairways Philadelphia founder William Penn commissioned along the original Delaware Riverbank. Why are they important? Penn felt all citizens should have public access to the river wharves. S",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "The Reading Room in Chattanooga, Tennessee",
-      "link": "https://www.atlasobscura.com/places/the-reading-room",
-      "date": "Thu, 08 Oct 2026 14:52:00 -0400",
-      "summary": "Is there a better pairing than a good book and a great drink? You can find both at this cozy bar on the east side of Chattanooga. But the books lining the walls of the Reading Room are not just decoration. They are for sale, and their journey began, appropriat",
+      "title": "High Shoals Falls in Hiawassee, Georgia",
+      "link": "https://www.atlasobscura.com/places/high-shoals-falls",
+      "date": "Fri, 09 Oct 2026 14:00:00 -0400",
+      "summary": "High Shoals Falls is a secluded waterfall. To get there you must access the trailhead on Indian Grave Gap Rd in Hiawassee, Ga. The drive up the mountain is exhilarating. Once you reach the trailhead, you begin descending the mountain. The trail leads you down ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "It All Comes Together in Chattanooga",
-      "link": "https://www.atlasobscura.com/articles/it-all-comes-together-in-chattanooga",
-      "date": "Thu, 08 Oct 2026 14:51:00 -0400",
-      "summary": "Chattanooga may be best known for its natural beauty, surrounded by mountains, valleys, and the Tennessee River. This charming Appalachian city is also home to annual music festivals like the IBMA World of Bluegrass and the 3 Sisters Bluegrass Festival . The s",
+      "title": "Tiptree Jam Museum in Tiptree, England",
+      "link": "https://www.atlasobscura.com/places/tiptree-jam-museum",
+      "date": "Fri, 09 Oct 2026 12:00:00 -0400",
+      "summary": "If you have stayed in hotels in the UK, you likely got a mini jam from Wilkin & Sons at your breakfast buffet. In a converted barn on the grounds of the Wilkin & Sons preserve factory in an Essex village, the Tiptree Jam Museum tells the story of one of Britai",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "Eastern California Museum in Independence, California",
-      "link": "https://www.atlasobscura.com/places/eastern-california-museum",
-      "date": "Thu, 08 Oct 2026 14:00:00 -0400",
-      "summary": "100 years ago, if you lived long enough in the rural American West, it was entirely reasonable, that at some point, you might find yourself with a ever shrinking amount of teeth and a surplus of coyotes. Such was the position George Washington Hancock found hi",
+      "title": "Gold Rush Cabin in Dawson City, Yukon",
+      "link": "https://www.atlasobscura.com/places/gold-rush-cabin",
+      "date": "Fri, 09 Oct 2026 10:00:00 -0400",
+      "summary": "No one knows exactly when Dawson City's Gold Rush Cabin was built, but historical records place it here by 1900 and suggest it may be somewhat older. Its earliest documented connections are to the Trading & Exploring Company, one of the businesses operating in",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Jason Miller Statue in Scranton, Pennsylvania",
-      "link": "https://www.atlasobscura.com/places/jason-miller-statue",
-      "date": "Thu, 08 Oct 2026 12:00:00 -0400",
-      "summary": "In 2009 Jason Miller, who played Father Karras in The Exorcist and won a Pulitzer Prize for writing That Championship Season, was immortalized forever with his bronze statue in Scranton Courthouse Square. Miller was also in such notable films as Rudy, Toy Sold",
+      "title": "Atlas Obscura’s Guide to America’s Most Haunted Cemeteries",
+      "link": "https://www.atlasobscura.com/articles/america-haunted-cemeteries",
+      "date": "Fri, 09 Oct 2026 08:54:00 -0400",
+      "summary": "It’s nice to imagine death as an endless deep sleep, but not everyone is so lucky. In cemeteries across the U.S., you’ll find souls whose final resting places are not, in fact, restful at all. Perhaps they died with scores unsettled or, perhaps, their graves w",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -149,10 +149,10 @@
       }
     },
     {
-      "title": "Been to London four times in the past year(for work) and it’s the city that keeps on giving",
-      "link": "https://www.reddit.com/r/travel/comments/1ww5zor/been_to_london_four_times_in_the_past_yearfor/",
-      "date": "2026-10-02T21:38:22+00:00",
-      "summary": "I’m American and I’ve been to London four times in the past year for work, and it’s probably the city I’ve enjoyed returning to the most. I think a lot of visitors only really see the tourist corridor around Westminster, Trafalgar Square, Big Ben and Buckingha",
+      "title": "Italy mid August",
+      "link": "https://www.reddit.com/r/travel/comments/1x0xewa/italy_mid_august/",
+      "date": "2026-10-08T17:40:37+00:00",
+      "summary": "7 days in Italy: Rome -> Lake Como -> Positano Rome – Busy and hot, but exploring early in the morning and around sunset made all the difference. Visiting the Colosseum in the evening light was definitely a highlight. The sheer amount of history in this city m",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "Italy mid August",
-      "link": "https://www.reddit.com/r/travel/comments/1x0xewa/italy_mid_august/",
-      "date": "2026-10-08T17:40:37+00:00",
-      "summary": "7 days in Italy: Rome -> Lake Como -> Positano Rome – Busy and hot, but exploring early in the morning and around sunset made all the difference. Visiting the Colosseum in the evening light was definitely a highlight. The sheer amount of history in this city m",
+      "title": "3 Days in Istanbul",
+      "link": "https://www.reddit.com/r/travel/comments/1wxp6ly/3_days_in_istanbul/",
+      "date": "2026-10-04T20:06:11+00:00",
+      "summary": "I had a layover in Istanbul and three days to explore the city. I was overwhelmed by its sheer size. Even though I only saw a very small part of it, I was amazed by all the impressions and experiences. I especially enjoyed taking the ferry across the Bosphorus",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
