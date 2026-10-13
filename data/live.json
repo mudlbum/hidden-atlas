@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-12T13:10:47.001Z",
-  "date": "2026-10-12",
+  "generatedAt": "2026-10-13T12:43:08.298Z",
+  "date": "2026-10-13",
   "rotation": {
     "places": [
-      "jardin",
-      "ometepe",
-      "quilotoa"
+      "bale",
+      "kotohira",
+      "santoantao"
     ],
-    "tip": "festivals",
-    "eat": "bunuelosdealgas"
+    "tip": "visaonarrival",
+    "eat": "solover"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "World’s Largest M in Platteville, Wisconsin",
+      "link": "https://www.atlasobscura.com/places/worlds-largest-m",
+      "date": "Mon, 12 Oct 2026 16:00:00 -0400",
+      "summary": "Four miles northeast of Platteville, a gigantic white “M” dominates the landscape. At 241 feet high and 214 feet wide, it is the world’s largest “M”. Set at a 45-degree angle and facing south, the landmark proudly celebrates the region’s mining heritage. The s",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Alton Military Prison Site in Alton, Illinois",
+      "link": "https://www.atlasobscura.com/places/alton-military-prison-site",
+      "date": "Mon, 12 Oct 2026 14:00:00 -0400",
+      "summary": "Alton, Illinois's State Penitentiary officially opened in 1833, making it the first state prison in Illinois. It was used to incarcerate convicted criminals from across the state and later served as a military prison. During the Civil War, the facility became ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Macedonian Tomb of Agios Athanasios in Agios Athanasios, Greece",
+      "link": "https://www.atlasobscura.com/places/macedonian-tomb-of-agios-athanasios",
+      "date": "Mon, 12 Oct 2026 12:00:00 -0400",
+      "summary": "Encased safely inside a concrete protective shell beneath a 12-metre-high burial mound (tumulus) is a late 4th-century BC Macedonian tomb holding a breathtaking secret: flawlessly preserved, 2,400-year-old fresco paintings. Though ancient grave robbers strippe",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Statue of Žorik in Tallinn, Estonia",
+      "link": "https://www.atlasobscura.com/places/statue-of-zorik",
+      "date": "Mon, 12 Oct 2026 10:00:00 -0400",
+      "summary": "Žorik was the best-known dog in Tallinn for most of his roughly fifteen years alive, at a time when free-roaming dogs had already grown rare in the city. Born in 2007 in Kalamaja, once a working-class fishing district that has since gentrified, he lost his fir",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Wood Street Steps in Philadelphia, Pennsylvania",
       "link": "https://www.atlasobscura.com/places/the-william-penn-wood-street-steps",
       "date": "Fri, 09 Oct 2026 16:00:00 -0400",
       "summary": "The Wood Street Steps are the last surviving examples of 10 or more stairways Philadelphia founder William Penn commissioned along the original Delaware Riverbank. Why are they important? Penn felt all citizens should have public access to the river wharves. S",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "High Shoals Falls in Hiawassee, Georgia",
-      "link": "https://www.atlasobscura.com/places/high-shoals-falls",
-      "date": "Fri, 09 Oct 2026 14:00:00 -0400",
-      "summary": "High Shoals Falls is a secluded waterfall. To get there you must access the trailhead on Indian Grave Gap Rd in Hiawassee, Ga. The drive up the mountain is exhilarating. Once you reach the trailhead, you begin descending the mountain. The trail leads you down ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Tiptree Jam Museum in Tiptree, England",
-      "link": "https://www.atlasobscura.com/places/tiptree-jam-museum",
-      "date": "Fri, 09 Oct 2026 12:00:00 -0400",
-      "summary": "If you have stayed in hotels in the UK, you likely got a mini jam from Wilkin & Sons at your breakfast buffet. In a converted barn on the grounds of the Wilkin & Sons preserve factory in an Essex village, the Tiptree Jam Museum tells the story of one of Britai",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Gold Rush Cabin in Dawson City, Yukon",
-      "link": "https://www.atlasobscura.com/places/gold-rush-cabin",
-      "date": "Fri, 09 Oct 2026 10:00:00 -0400",
-      "summary": "No one knows exactly when Dawson City's Gold Rush Cabin was built, but historical records place it here by 1900 and suggest it may be somewhat older. Its earliest documented connections are to the Trading & Exploring Company, one of the businesses operating in",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Atlas Obscura’s Guide to America’s Most Haunted Cemeteries",
-      "link": "https://www.atlasobscura.com/articles/america-haunted-cemeteries",
-      "date": "Fri, 09 Oct 2026 08:54:00 -0400",
-      "summary": "It’s nice to imagine death as an endless deep sleep, but not everyone is so lucky. In cemeteries across the U.S., you’ll find souls whose final resting places are not, in fact, restful at all. Perhaps they died with scores unsettled or, perhaps, their graves w",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -127,17 +127,6 @@
       }
     },
     {
-      "title": "A visit to the beautiful North Cascades in Washington",
-      "link": "https://www.reddit.com/r/travel/comments/1wyo7gp/a_visit_to_the_beautiful_north_cascades_in/",
-      "date": "2026-10-05T23:59:10+00:00",
-      "summary": "9/14-9/18 Had an incredible trip to visit the North Cascades which I’ve been hoping to do for a few years. There is always the risk of fires/smoke this time of year and while there was a bit of smoke on certain days and in certain areas, I lucked out in genera",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "Italy mid August",
       "link": "https://www.reddit.com/r/travel/comments/1x0xewa/italy_mid_august/",
       "date": "2026-10-08T17:40:37+00:00",
@@ -180,6 +169,17 @@
         "en": "r/travel",
         "ko": "r/travel"
       }
+    },
+    {
+      "title": "Trip to China",
+      "link": "https://www.reddit.com/r/travel/comments/1x2qqt6/trip_to_china/",
+      "date": "2026-10-10T21:35:12+00:00",
+      "summary": "Arrived recently from a 2.5-week trip to China and I got a pretty positive experience there. I started in Shanghai, where I stayed for about 4 days. After that, my next stop was in Hangzhou, followed by Luoyang (about 2 days for each city). Luoyang served as a",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
     }
   ],
   "feedIsStale": false,
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
