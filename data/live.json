@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-13T12:43:08.298Z",
-  "date": "2026-10-13",
+  "generatedAt": "2026-10-14T10:13:54.979Z",
+  "date": "2026-10-14",
   "rotation": {
     "places": [
-      "bale",
-      "kotohira",
-      "santoantao"
+      "lordhowe",
+      "rwenzori",
+      "ohrid"
     ],
-    "tip": "visaonarrival",
-    "eat": "solover"
+    "tip": "fees2026",
+    "eat": "tarairice"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "World’s Largest M in Platteville, Wisconsin",
-      "link": "https://www.atlasobscura.com/places/worlds-largest-m",
-      "date": "Mon, 12 Oct 2026 16:00:00 -0400",
-      "summary": "Four miles northeast of Platteville, a gigantic white “M” dominates the landscape. At 241 feet high and 214 feet wide, it is the world’s largest “M”. Set at a 45-degree angle and facing south, the landmark proudly celebrates the region’s mining heritage. The s",
+      "title": "Art of Play in Brooklyn, New York",
+      "link": "https://www.atlasobscura.com/places/art-of-play-brooklyn",
+      "date": "Tue, 13 Oct 2026 17:49:00 -0400",
+      "summary": "A tiny mechanical bird named Molly has become an unlikely celebrity in Brooklyn. She sings, she dances, and she recently found herself at the center of a very public feud. Molly lives at Art of Play, a unique curiosity shop on Atlantic Avenue filled with puzzl",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Alton Military Prison Site in Alton, Illinois",
-      "link": "https://www.atlasobscura.com/places/alton-military-prison-site",
-      "date": "Mon, 12 Oct 2026 14:00:00 -0400",
-      "summary": "Alton, Illinois's State Penitentiary officially opened in 1833, making it the first state prison in Illinois. It was used to incarcerate convicted criminals from across the state and later served as a military prison. During the Civil War, the facility became ",
+      "title": "Thorla-McKee Well in Caldwell, Ohio",
+      "link": "https://www.atlasobscura.com/places/thorla-mckee-well",
+      "date": "Tue, 13 Oct 2026 16:00:00 -0400",
+      "summary": "Find someone who loves you the way America loves petroleum. As of 2023, the United States is both the largest producer and consumer of oil, each day extracting some 23 billion barrels and guzzling 20 billion. It's become a meme at this point that if black gold",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Macedonian Tomb of Agios Athanasios in Agios Athanasios, Greece",
-      "link": "https://www.atlasobscura.com/places/macedonian-tomb-of-agios-athanasios",
-      "date": "Mon, 12 Oct 2026 12:00:00 -0400",
-      "summary": "Encased safely inside a concrete protective shell beneath a 12-metre-high burial mound (tumulus) is a late 4th-century BC Macedonian tomb holding a breathtaking secret: flawlessly preserved, 2,400-year-old fresco paintings. Though ancient grave robbers strippe",
+      "title": "‘Birds of the World in the Skies Over Alcorcón’ in Alcorcón, Spain",
+      "link": "https://www.atlasobscura.com/places/birds-of-the-world-in-the-skies-over-alcorcon-statue",
+      "date": "Tue, 13 Oct 2026 14:00:00 -0400",
+      "summary": "Look up in Alcorcón and you might spot a flock of birds frozen forever in flight. They won’t migrate, sing, or flap their wings, but these colorful creatures have an important story to tell. Birds of the World in the Skies Over Alcorcón, created in 2009 by Per",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "Statue of Žorik in Tallinn, Estonia",
-      "link": "https://www.atlasobscura.com/places/statue-of-zorik",
-      "date": "Mon, 12 Oct 2026 10:00:00 -0400",
-      "summary": "Žorik was the best-known dog in Tallinn for most of his roughly fifteen years alive, at a time when free-roaming dogs had already grown rare in the city. Born in 2007 in Kalamaja, once a working-class fishing district that has since gentrified, he lost his fir",
+      "title": "Steaming Tender Restaurant in Palmer, Massachusetts",
+      "link": "https://www.atlasobscura.com/places/steaming-tender-restaurant",
+      "date": "Tue, 13 Oct 2026 12:00:00 -0400",
+      "summary": "Palmer, Massachusetts is a relatively small city around 15 miles from the City of Springfield. It’s the smallest city in the state and it’s one of the handfuls of cities that calls itself a town within the official name. The nickname of the city is \"Town of Se",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Wood Street Steps in Philadelphia, Pennsylvania",
-      "link": "https://www.atlasobscura.com/places/the-william-penn-wood-street-steps",
-      "date": "Fri, 09 Oct 2026 16:00:00 -0400",
-      "summary": "The Wood Street Steps are the last surviving examples of 10 or more stairways Philadelphia founder William Penn commissioned along the original Delaware Riverbank. Why are they important? Penn felt all citizens should have public access to the river wharves. S",
+      "title": "Kanmon Pedestrian Tunnel in Shimonoseki, Japan",
+      "link": "https://www.atlasobscura.com/places/kanmon-pedestrian-tunnel",
+      "date": "Tue, 13 Oct 2026 10:00:00 -0400",
+      "summary": "Almost nobody realizes Japan's main islands can be crossed on foot, at the midpoint of 780 meters of tiled corridor a painted line marks the boundary between Yamaguchi and Fukuoka prefectures. The Shimonoseki entrance opens onto Mimosusogawa Park, overlooking ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -149,6 +149,17 @@
       }
     },
     {
+      "title": "India, you were amazing! 12 days of solo motorcycle travel in the most populous country on earth.",
+      "link": "https://www.reddit.com/r/travel/comments/1x4rkx0/india_you_were_amazing_12_days_of_solo_motorcycle/",
+      "date": "2026-10-13T08:57:09+00:00",
+      "summary": "Hey everyone, i recently visited India for the first time and thought it might be fun to share my experience on this sub. SOME ADDITIONAL CONTEXT I went solo, without my usual trusted travel partner (aka my girlfriend) since her visa got rejected. This refusal",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "Foreign broke travellers in Phnom Penh, Cambodia.....Seriously what the hell is going on?!",
       "link": "https://www.reddit.com/r/travel/comments/1x1hb82/foreign_broke_travellers_in_phnom_penh/",
       "date": "2026-10-09T09:58:16+00:00",
@@ -164,17 +175,6 @@
       "link": "https://www.reddit.com/r/travel/comments/1x2wwpz/trip_to_iqaluit_nunavut/",
       "date": "2026-10-11T02:42:03+00:00",
       "summary": "This past summer I was lucky to visit Iqaluit, Nunavut for a week. I loved it up there so much. I flew direct from Ottawa with Canadian North airlines. I stayed at the Frobisher Inn, which was clean, comfortable, and centrally located. I spent my days doing am",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "Trip to China",
-      "link": "https://www.reddit.com/r/travel/comments/1x2qqt6/trip_to_china/",
-      "date": "2026-10-10T21:35:12+00:00",
-      "summary": "Arrived recently from a 2.5-week trip to China and I got a pretty positive experience there. I started in Shanghai, where I stayed for about 4 days. After that, my next stop was in Hangzhou, followed by Luoyang (about 2 days for each city). Luoyang served as a",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
