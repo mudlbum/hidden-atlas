@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-14T10:13:54.979Z",
-  "date": "2026-10-14",
+  "generatedAt": "2026-10-15T09:55:04.313Z",
+  "date": "2026-10-15",
   "rotation": {
     "places": [
-      "lordhowe",
-      "rwenzori",
-      "ohrid"
+      "alentejo",
+      "plovdiv",
+      "ulleungdo"
     ],
-    "tip": "fees2026",
-    "eat": "tarairice"
+    "tip": "waterpurify",
+    "eat": "boerewors"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Rhossili Down Radar Station in Hillend, Wales",
+      "link": "https://www.atlasobscura.com/places/rhossili-down-radar-station",
+      "date": "Wed, 14 Oct 2026 16:00:00 -0400",
+      "summary": "Situated atop the north western end of Rhossili Downs, the Rhossili Down radar station was built in 1942, as part of 'Chain Home Low', a network of World War II radar stations covering the Bristol Channel. Operated by the Army and Royal Air Force with the aim ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "‘Cross-legged’ in Pristina, Kosovo",
+      "link": "https://www.atlasobscura.com/places/cross-legged",
+      "date": "Wed, 14 Oct 2026 14:00:00 -0400",
+      "summary": "During the 1990 protests, thousands of Kosovo Albanians gathered peacefully in Pristina to oppose the Serbian regime. Among them was Faik Rexhepi, a chemical engineer from nearby Presheva, who joined the protesters after learning of a visit by a US delegation ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Ta Kon Citadel in Vinh Son, Vietnam",
+      "link": "https://www.atlasobscura.com/places/ta-kon-citadel",
+      "date": "Wed, 14 Oct 2026 12:00:00 -0400",
+      "summary": "Hidden deep within the remote mountains of Vinh Son, Ta Kon Citadel looks at first glance like the forgotten ruins of a colossal ancient fortress swallowed by the primeval jungle. The geological centerpiece is a massive stone wall stretching 500 to 600 meters ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "St. Michael’s Roman Catholic Church in Brooklyn, New York",
+      "link": "https://www.atlasobscura.com/places/st-michael-s-roman-catholic-church",
+      "date": "Wed, 14 Oct 2026 10:00:00 -0400",
+      "summary": "Initially conceived by and built to serve the Irish community of Sunset Park, Brooklyn, this striking Catholic Church was completed in 1905. When completed, and for decades thereafter, it stood as the second-tallest structure in Brooklyn, behind the Williamsbu",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Art of Play in Brooklyn, New York",
       "link": "https://www.atlasobscura.com/places/art-of-play-brooklyn",
       "date": "Tue, 13 Oct 2026 17:49:00 -0400",
       "summary": "A tiny mechanical bird named Molly has become an unlikely celebrity in Brooklyn. She sings, she dances, and she recently found herself at the center of a very public feud. Molly lives at Art of Play, a unique curiosity shop on Atlantic Avenue filled with puzzl",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Thorla-McKee Well in Caldwell, Ohio",
-      "link": "https://www.atlasobscura.com/places/thorla-mckee-well",
-      "date": "Tue, 13 Oct 2026 16:00:00 -0400",
-      "summary": "Find someone who loves you the way America loves petroleum. As of 2023, the United States is both the largest producer and consumer of oil, each day extracting some 23 billion barrels and guzzling 20 billion. It's become a meme at this point that if black gold",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "‘Birds of the World in the Skies Over Alcorcón’ in Alcorcón, Spain",
-      "link": "https://www.atlasobscura.com/places/birds-of-the-world-in-the-skies-over-alcorcon-statue",
-      "date": "Tue, 13 Oct 2026 14:00:00 -0400",
-      "summary": "Look up in Alcorcón and you might spot a flock of birds frozen forever in flight. They won’t migrate, sing, or flap their wings, but these colorful creatures have an important story to tell. Birds of the World in the Skies Over Alcorcón, created in 2009 by Per",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Steaming Tender Restaurant in Palmer, Massachusetts",
-      "link": "https://www.atlasobscura.com/places/steaming-tender-restaurant",
-      "date": "Tue, 13 Oct 2026 12:00:00 -0400",
-      "summary": "Palmer, Massachusetts is a relatively small city around 15 miles from the City of Springfield. It’s the smallest city in the state and it’s one of the handfuls of cities that calls itself a town within the official name. The nickname of the city is \"Town of Se",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Kanmon Pedestrian Tunnel in Shimonoseki, Japan",
-      "link": "https://www.atlasobscura.com/places/kanmon-pedestrian-tunnel",
-      "date": "Tue, 13 Oct 2026 10:00:00 -0400",
-      "summary": "Almost nobody realizes Japan's main islands can be crossed on foot, at the midpoint of 780 meters of tiled corridor a painted line marks the boundary between Yamaguchi and Fukuoka prefectures. The Shimonoseki entrance opens onto Mimosusogawa Park, overlooking ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -160,10 +160,10 @@
       }
     },
     {
-      "title": "Foreign broke travellers in Phnom Penh, Cambodia.....Seriously what the hell is going on?!",
-      "link": "https://www.reddit.com/r/travel/comments/1x1hb82/foreign_broke_travellers_in_phnom_penh/",
-      "date": "2026-10-09T09:58:16+00:00",
-      "summary": "Hey all. First time posting here but just have to get this off of my chest. Been travelling around Asia for the best part of 7 years now (long long time I know!) but everytime I go to Phnom Penh this same experience keeps happening. Either a homeless drunk/dru",
+      "title": "Krakow, Poland. A city I’d happily return to",
+      "link": "https://www.reddit.com/r/travel/comments/1x5mu2g/krakow_poland_a_city_id_happily_return_to/",
+      "date": "2026-10-14T09:35:19+00:00",
+      "summary": "I’ve always wanted to visit Poland in some capacity and after finally making it to Krakow, I can honestly say it exceeded every expectation I had. It’s easily one of my favourite European city breaks so far. I visited from the 7th to the 11th this month. The f",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "Trip to Iqaluit, Nunavut 🇨🇦",
-      "link": "https://www.reddit.com/r/travel/comments/1x2wwpz/trip_to_iqaluit_nunavut/",
-      "date": "2026-10-11T02:42:03+00:00",
-      "summary": "This past summer I was lucky to visit Iqaluit, Nunavut for a week. I loved it up there so much. I flew direct from Ottawa with Canadian North airlines. I stayed at the Frobisher Inn, which was clean, comfortable, and centrally located. I spent my days doing am",
+      "title": "Foreign broke travellers in Phnom Penh, Cambodia.....Seriously what the hell is going on?!",
+      "link": "https://www.reddit.com/r/travel/comments/1x1hb82/foreign_broke_travellers_in_phnom_penh/",
+      "date": "2026-10-09T09:58:16+00:00",
+      "summary": "Hey all. First time posting here but just have to get this off of my chest. Been travelling around Asia for the best part of 7 years now (long long time I know!) but everytime I go to Phnom Penh this same experience keeps happening. Either a homeless drunk/dru",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
