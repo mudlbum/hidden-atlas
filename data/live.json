@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-15T09:55:04.313Z",
-  "date": "2026-10-15",
+  "generatedAt": "2026-10-16T09:50:07.165Z",
+  "date": "2026-10-16",
   "rotation": {
     "places": [
-      "alentejo",
-      "plovdiv",
-      "ulleungdo"
+      "matsu",
+      "batanes",
+      "damaraland"
     ],
-    "tip": "waterpurify",
-    "eat": "boerewors"
+    "tip": "shoes",
+    "eat": "cuscuzsantoantao"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Abandoned Agricultural Mill in Śmiałowice, Poland",
+      "link": "https://www.atlasobscura.com/places/abandoned-agricultural-mill-in-poland",
+      "date": "Thu, 15 Oct 2026 16:00:00 -0400",
+      "summary": "Tucked away in the Polish countryside stands an impressive early 20th-century agricultural mill complex that looks more like a grand estate than a heavy industrial facility. Dominated by a striking multi-story central tower with a decorative roof, the building",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Iron Fountain Gyumri in Gyumri, Armenia",
+      "link": "https://www.atlasobscura.com/places/iron-fountain-gyumri",
+      "date": "Thu, 15 Oct 2026 14:00:00 -0400",
+      "summary": "If you go there in late February, the gray sky matches the mood perfectly. You walk down the cracked concrete of what used to be a grand Soviet boulevard, passing decaying apartment blocks. Just behind some overgrown bushes which look like a makeshift camp. Th",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Milton College in Milton, Wisconsin",
+      "link": "https://www.atlasobscura.com/places/milton-college",
+      "date": "Thu, 15 Oct 2026 12:00:00 -0400",
+      "summary": "When Milton College finally closed its doors in 1982, it was the oldest institution of higher education in Wisconsin, beating the University of Wisconsin by four years. The college was originally called Du Lac Academy when it was founded in 1844. Main Hall and",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Grave of John Gray in Hiramsburg, Ohio",
+      "link": "https://www.atlasobscura.com/places/grave-of-john-gray",
+      "date": "Thu, 15 Oct 2026 10:00:00 -0400",
+      "summary": "John Gray was born the oldest of eight children on January 6, 1764 on property belonging to George Washington near his Mt. Vernon estate. Clearly a loyal follower of Washington, his father enlisted on the side of the Patriots but was killed at the Battle of Wh",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Rhossili Down Radar Station in Hillend, Wales",
       "link": "https://www.atlasobscura.com/places/rhossili-down-radar-station",
       "date": "Wed, 14 Oct 2026 16:00:00 -0400",
       "summary": "Situated atop the north western end of Rhossili Downs, the Rhossili Down radar station was built in 1942, as part of 'Chain Home Low', a network of World War II radar stations covering the Bristol Channel. Operated by the Army and Royal Air Force with the aim ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "‘Cross-legged’ in Pristina, Kosovo",
-      "link": "https://www.atlasobscura.com/places/cross-legged",
-      "date": "Wed, 14 Oct 2026 14:00:00 -0400",
-      "summary": "During the 1990 protests, thousands of Kosovo Albanians gathered peacefully in Pristina to oppose the Serbian regime. Among them was Faik Rexhepi, a chemical engineer from nearby Presheva, who joined the protesters after learning of a visit by a US delegation ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Ta Kon Citadel in Vinh Son, Vietnam",
-      "link": "https://www.atlasobscura.com/places/ta-kon-citadel",
-      "date": "Wed, 14 Oct 2026 12:00:00 -0400",
-      "summary": "Hidden deep within the remote mountains of Vinh Son, Ta Kon Citadel looks at first glance like the forgotten ruins of a colossal ancient fortress swallowed by the primeval jungle. The geological centerpiece is a massive stone wall stretching 500 to 600 meters ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "St. Michael’s Roman Catholic Church in Brooklyn, New York",
-      "link": "https://www.atlasobscura.com/places/st-michael-s-roman-catholic-church",
-      "date": "Wed, 14 Oct 2026 10:00:00 -0400",
-      "summary": "Initially conceived by and built to serve the Irish community of Sunset Park, Brooklyn, this striking Catholic Church was completed in 1905. When completed, and for decades thereafter, it stood as the second-tallest structure in Brooklyn, behind the Williamsbu",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Art of Play in Brooklyn, New York",
-      "link": "https://www.atlasobscura.com/places/art-of-play-brooklyn",
-      "date": "Tue, 13 Oct 2026 17:49:00 -0400",
-      "summary": "A tiny mechanical bird named Molly has become an unlikely celebrity in Brooklyn. She sings, she dances, and she recently found herself at the center of a very public feud. Molly lives at Art of Play, a unique curiosity shop on Atlantic Avenue filled with puzzl",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -127,32 +127,10 @@
       }
     },
     {
-      "title": "Italy mid August",
-      "link": "https://www.reddit.com/r/travel/comments/1x0xewa/italy_mid_august/",
-      "date": "2026-10-08T17:40:37+00:00",
-      "summary": "7 days in Italy: Rome -> Lake Como -> Positano Rome – Busy and hot, but exploring early in the morning and around sunset made all the difference. Visiting the Colosseum in the evening light was definitely a highlight. The sheer amount of history in this city m",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "Malta always surprises me! 🇲🇹",
       "link": "https://www.reddit.com/r/travel/comments/1x3fb4d/malta_always_surprises_me/",
       "date": "2026-10-11T18:17:12+00:00",
       "summary": "Hello everyone, There's something about Malta that keeps drawing me back. Every visit feels a little different, and even though I've explored quite a bit of these islands, I still find places and little details that catch my attention. One thing I really appre",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "India, you were amazing! 12 days of solo motorcycle travel in the most populous country on earth.",
-      "link": "https://www.reddit.com/r/travel/comments/1x4rkx0/india_you_were_amazing_12_days_of_solo_motorcycle/",
-      "date": "2026-10-13T08:57:09+00:00",
-      "summary": "Hey everyone, i recently visited India for the first time and thought it might be fun to share my experience on this sub. SOME ADDITIONAL CONTEXT I went solo, without my usual trusted travel partner (aka my girlfriend) since her visa got rejected. This refusal",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +149,32 @@
       }
     },
     {
+      "title": "India, you were amazing! 12 days of solo motorcycle travel in the most populous country on earth.",
+      "link": "https://www.reddit.com/r/travel/comments/1x4rkx0/india_you_were_amazing_12_days_of_solo_motorcycle/",
+      "date": "2026-10-13T08:57:09+00:00",
+      "summary": "Hey everyone, i recently visited India for the first time and thought it might be fun to share my experience on this sub. SOME ADDITIONAL CONTEXT I went solo, without my usual trusted travel partner (aka my girlfriend) since her visa got rejected. This refusal",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "Foreign broke travellers in Phnom Penh, Cambodia.....Seriously what the hell is going on?!",
       "link": "https://www.reddit.com/r/travel/comments/1x1hb82/foreign_broke_travellers_in_phnom_penh/",
       "date": "2026-10-09T09:58:16+00:00",
       "summary": "Hey all. First time posting here but just have to get this off of my chest. Been travelling around Asia for the best part of 7 years now (long long time I know!) but everytime I go to Phnom Penh this same experience keeps happening. Either a homeless drunk/dru",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "Trip to Iqaluit, Nunavut 🇨🇦",
+      "link": "https://www.reddit.com/r/travel/comments/1x2wwpz/trip_to_iqaluit_nunavut/",
+      "date": "2026-10-11T02:42:03+00:00",
+      "summary": "This past summer I was lucky to visit Iqaluit, Nunavut for a week. I loved it up there so much. I flew direct from Ottawa with Canadian North airlines. I stayed at the Frobisher Inn, which was clean, comfortable, and centrally located. I spent my days doing am",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
