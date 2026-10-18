@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-17T09:21:42.363Z",
-  "date": "2026-10-17",
+  "generatedAt": "2026-10-18T09:38:27.172Z",
+  "date": "2026-10-18",
   "rotation": {
     "places": [
-      "dana",
-      "fogo",
-      "kotorbay"
+      "charyn",
+      "driftless",
+      "raivavae"
     ],
-    "tip": "allergy",
-    "eat": "mudda"
+    "tip": "tipping",
+    "eat": "irenteplate"
   },
   "counts": {
     "places": 87,
@@ -127,6 +127,28 @@
       }
     },
     {
+      "title": "I…enjoyed Egypt?! Use a tour company!",
+      "link": "https://www.reddit.com/r/travel/comments/1x8bs91/ienjoyed_egypt_use_a_tour_company/",
+      "date": "2026-10-17T14:35:40+00:00",
+      "summary": "Writing this as I’m awaiting ~24 hours in flights back to the states. Just spent two weeks in Jordan/Egypt but wanted to post about Egypt specifically because of the consistently awful things I’ve read about it on Reddit before coming here. Wife and I had a ph",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "18 mesmerizing days in hong kong",
+      "link": "https://www.reddit.com/r/travel/comments/1x7l8yi/18_mesmerizing_days_in_hong_kong/",
+      "date": "2026-10-16T16:43:37+00:00",
+      "summary": "Spent about two and a half weeks in Hong Kong in late September. First ten days I was working out of Cyberport, then took a week off and moved over to the Kowloon side. All iPhone photos, mostly shot after work or late at night. I thought I'd come back with sk",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "Malta always surprises me! 🇲🇹",
       "link": "https://www.reddit.com/r/travel/comments/1x3fb4d/malta_always_surprises_me/",
       "date": "2026-10-11T18:17:12+00:00",
@@ -153,28 +175,6 @@
       "link": "https://www.reddit.com/r/travel/comments/1x4rkx0/india_you_were_amazing_12_days_of_solo_motorcycle/",
       "date": "2026-10-13T08:57:09+00:00",
       "summary": "Hey everyone, i recently visited India for the first time and thought it might be fun to share my experience on this sub. SOME ADDITIONAL CONTEXT I went solo, without my usual trusted travel partner (aka my girlfriend) since her visa got rejected. This refusal",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "18 mesmerizing days in hong kong",
-      "link": "https://www.reddit.com/r/travel/comments/1x7l8yi/18_mesmerizing_days_in_hong_kong/",
-      "date": "2026-10-16T16:43:37+00:00",
-      "summary": "Spent about two and a half weeks in Hong Kong in late September. First ten days I was working out of Cyberport, then took a week off and moved over to the Kowloon side. All iPhone photos, mostly shot after work or late at night. I thought I'd come back with sk",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "Trip to Iqaluit, Nunavut 🇨🇦",
-      "link": "https://www.reddit.com/r/travel/comments/1x2wwpz/trip_to_iqaluit_nunavut/",
-      "date": "2026-10-11T02:42:03+00:00",
-      "summary": "This past summer I was lucky to visit Iqaluit, Nunavut for a week. I loved it up there so much. I flew direct from Ottawa with Canadian North airlines. I stayed at the Frobisher Inn, which was clean, comfortable, and centrally located. I spent my days doing am",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
