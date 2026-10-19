@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-18T09:38:27.172Z",
-  "date": "2026-10-18",
+  "generatedAt": "2026-10-19T10:47:03.763Z",
+  "date": "2026-10-19",
   "rotation": {
     "places": [
-      "charyn",
-      "driftless",
-      "raivavae"
+      "kadavu",
+      "marovo",
+      "gasadalur"
     ],
-    "tip": "tipping",
-    "eat": "irenteplate"
+    "tip": "womensolo",
+    "eat": "kaymak"
   },
   "counts": {
     "places": 87,
@@ -149,17 +149,6 @@
       }
     },
     {
-      "title": "Malta always surprises me! 🇲🇹",
-      "link": "https://www.reddit.com/r/travel/comments/1x3fb4d/malta_always_surprises_me/",
-      "date": "2026-10-11T18:17:12+00:00",
-      "summary": "Hello everyone, There's something about Malta that keeps drawing me back. Every visit feels a little different, and even though I've explored quite a bit of these islands, I still find places and little details that catch my attention. One thing I really appre",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "Krakow, Poland. A city I’d happily return to",
       "link": "https://www.reddit.com/r/travel/comments/1x5mu2g/krakow_poland_a_city_id_happily_return_to/",
       "date": "2026-10-14T09:35:19+00:00",
@@ -175,6 +164,17 @@
       "link": "https://www.reddit.com/r/travel/comments/1x4rkx0/india_you_were_amazing_12_days_of_solo_motorcycle/",
       "date": "2026-10-13T08:57:09+00:00",
       "summary": "Hey everyone, i recently visited India for the first time and thought it might be fun to share my experience on this sub. SOME ADDITIONAL CONTEXT I went solo, without my usual trusted travel partner (aka my girlfriend) since her visa got rejected. This refusal",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "10 Days in Poland",
+      "link": "https://www.reddit.com/r/travel/comments/1x7yzjk/10_days_in_poland/",
+      "date": "2026-10-17T02:35:34+00:00",
+      "summary": "My wife and I spent a wonderful 10 days in Poland during the first couple of weeks of September. Here’s a quick summary of our highlights 2 days in Warsaw - old town, POLIN museum, Łazienki Park, University of Warsaw rooftop gardens Malbork Castle on the way f",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
