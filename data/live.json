@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-19T10:47:03.763Z",
-  "date": "2026-10-19",
+  "generatedAt": "2026-10-20T10:05:13.954Z",
+  "date": "2026-10-20",
   "rotation": {
     "places": [
-      "kadavu",
-      "marovo",
-      "gasadalur"
+      "bale",
+      "kotohira",
+      "santoantao"
     ],
-    "tip": "womensolo",
-    "eat": "kaymak"
+    "tip": "etiqshoes",
+    "eat": "boerewors"
   },
   "counts": {
     "places": 87,
@@ -16,6 +16,39 @@
     "eats": 33
   },
   "feed": [
+    {
+      "title": "Chapel of Expiation in Paris, France",
+      "link": "https://www.atlasobscura.com/places/chapel-of-expiation",
+      "date": "Mon, 19 Oct 2026 16:00:00 -0400",
+      "summary": "Seldom used today, the word \"expiation\" refers to the act of atoning for a sin. In the case of this elegant chapel, the sin in question was regicide. The Chapel of Expiation is built on top of the old Madeleine Cemetery, which became an egalitarian dumping gro",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Riga Ghetto and Latvian Holocaust Museum in Rīga, Latvia",
+      "link": "https://www.atlasobscura.com/places/riga-ghetto-and-latvian-holocaust-museum",
+      "date": "Mon, 19 Oct 2026 14:00:00 -0400",
+      "summary": "Established and opened in 2010 by the Shamir religious community with assistance from the Riga City Council, the Riga Ghetto and Latvian Holocaust Museum is located in the district of Spīķeri, close to its border with Latgale district, the site of the former J",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "House of Egyptian Architecture in Cairo, Egypt",
+      "link": "https://www.atlasobscura.com/places/house-of-egyptian-architecture",
+      "date": "Mon, 19 Oct 2026 10:00:00 -0400",
+      "summary": "The Ali Labib House, constructed by two brothers in the 1700s, is a rare example of a fully preserved Ottoman-era Cairene mansion, with elements drawn from both Ottoman Turkish and Egyptian Arab architectural traditions. Since 2010 it has housed the House of E",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
     {
       "title": "Smygehuk Fyr in Smygehuk, Sweden",
       "link": "https://www.atlasobscura.com/places/smygehuk-fyr",
@@ -32,39 +65,6 @@
       "link": "https://www.atlasobscura.com/places/commercial-signage-on-the-facade-of-gruta-77",
       "date": "Fri, 16 Oct 2026 14:00:00 -0400",
       "summary": "For nearly three decades, Gruta 77 has been a haven for Madrid’s rock and roll faithful. Right in the heart of Carabanchel, this legendary concert venue and rehearsal space has given punk rockers, and other musical misfits a place to gather, play loud, and kee",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Lubee Bat Conservancy in Gainesville, Florida",
-      "link": "https://www.atlasobscura.com/places/lubee-bat-conservancy",
-      "date": "Fri, 16 Oct 2026 12:00:00 -0400",
-      "summary": "Tucked into the “Are you sure we’re not lost?” countryside north of Gainesville sits Lubee Bat Conservancy, a small but world-renowned organization dedicated to saving bats and their habitats. If you thought the bat houses by the university were cool, wait unt",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Deadtime Stories Books & Gifts in Lansing, Michigan",
-      "link": "https://www.atlasobscura.com/places/deadtime-stories-books-gifts",
-      "date": "Fri, 16 Oct 2026 10:00:00 -0400",
-      "summary": "Deadtime Stories Books & Gifts is a weird little shop in Lansing’s REO Town that is probably best described as equal parts bookstore and spider shop. The store is packed with books both new and old, collectibles, antiques, oddities, and all kinds of strange th",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Where to See the World’s Most Famous Preserved Body Parts",
-      "link": "https://www.atlasobscura.com/articles/preserved-body-parts-around-the-world",
-      "date": "Fri, 16 Oct 2026 09:29:00 -0400",
-      "summary": "Sure, you’ve seen a dead body before, but have you ever seen a thumb preserved in salt? How about a saint’s heart shrouded in gold? Beyond the normal displays of skeletons in medical museums and holy leaders’ bodies in churches and temples, there’s a whole wor",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -149,10 +149,10 @@
       }
     },
     {
-      "title": "Krakow, Poland. A city I’d happily return to",
-      "link": "https://www.reddit.com/r/travel/comments/1x5mu2g/krakow_poland_a_city_id_happily_return_to/",
-      "date": "2026-10-14T09:35:19+00:00",
-      "summary": "I’ve always wanted to visit Poland in some capacity and after finally making it to Krakow, I can honestly say it exceeded every expectation I had. It’s easily one of my favourite European city breaks so far. I visited from the 7th to the 11th this month. The f",
+      "title": "Warsaw was not what I expected at all",
+      "link": "https://www.reddit.com/r/travel/comments/1x9bufb/warsaw_was_not_what_i_expected_at_all/",
+      "date": "2026-10-18T19:22:03+00:00",
+      "summary": "I was looking for somewhere in Europe for a long weekend with good value for money + a capital I'd never been to. Warsaw kept coming up in my research so I thought why not. The first thing that surprised me was how modern and clean the city is. Old and new arc",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -160,10 +160,10 @@
       }
     },
     {
-      "title": "India, you were amazing! 12 days of solo motorcycle travel in the most populous country on earth.",
-      "link": "https://www.reddit.com/r/travel/comments/1x4rkx0/india_you_were_amazing_12_days_of_solo_motorcycle/",
-      "date": "2026-10-13T08:57:09+00:00",
-      "summary": "Hey everyone, i recently visited India for the first time and thought it might be fun to share my experience on this sub. SOME ADDITIONAL CONTEXT I went solo, without my usual trusted travel partner (aka my girlfriend) since her visa got rejected. This refusal",
+      "title": "Krakow, Poland. A city I’d happily return to",
+      "link": "https://www.reddit.com/r/travel/comments/1x5mu2g/krakow_poland_a_city_id_happily_return_to/",
+      "date": "2026-10-14T09:35:19+00:00",
+      "summary": "I’ve always wanted to visit Poland in some capacity and after finally making it to Krakow, I can honestly say it exceeded every expectation I had. It’s easily one of my favourite European city breaks so far. I visited from the 7th to the 11th this month. The f",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
