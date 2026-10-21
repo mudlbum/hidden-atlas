@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-20T10:05:13.954Z",
-  "date": "2026-10-20",
+  "generatedAt": "2026-10-21T10:08:51.942Z",
+  "date": "2026-10-21",
   "rotation": {
     "places": [
-      "bale",
-      "kotohira",
-      "santoantao"
+      "jardin",
+      "ometepe",
+      "quilotoa"
     ],
-    "tip": "etiqshoes",
-    "eat": "boerewors"
+    "tip": "esim",
+    "eat": "tarairice"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Bedford Flag in Bedford, Massachusetts",
+      "link": "https://www.atlasobscura.com/places/bedford-flag",
+      "date": "Tue, 20 Oct 2026 16:00:00 -0400",
+      "summary": "In a small historic town on the outskirts of Boston lies the Bedford Flag, the oldest complete surviving flag in the United States. The flag’s almost-square base is an ornate crimson silk damask with a pattern of pomegranates, grapes, and leaves. Painted over ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Giant Perstorp Vinegar Bottle in Perstorp, Sweden",
+      "link": "https://www.atlasobscura.com/places/giant-perstorp-vinegar-bottle",
+      "date": "Tue, 20 Oct 2026 14:00:00 -0400",
+      "summary": "Perstorp's vinegar is a staple of Swedish kitchens, and most Swedes recognize its glass bottle . In 1881, the factory in Perstorp began producing acetic acid using raw materials from the area's beech forests. In this small town in southern Sweden, a nearly 16-",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "U.S. Civil War Veteran's Grave in Stockport, England",
+      "link": "https://www.atlasobscura.com/places/american-civil-war-veterans-grave-in-stockport-nw-england",
+      "date": "Tue, 20 Oct 2026 12:00:00 -0400",
+      "summary": "In a relatively small municipal cemetery in Stockport, Greater Manchester, UK is one of a limited number of known resting places of American Civil War veterans in the UK. The grave marker once had a 3ft high cross mounted above it but it has been damaged recen",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Paine House Museum in Coventry, Rhode Island",
+      "link": "https://www.atlasobscura.com/places/paine-house-museum",
+      "date": "Tue, 20 Oct 2026 10:00:00 -0400",
+      "summary": "Have $6 and an empty afternoon with not much else to do in Rhode Island? Well take a visit to this historical museum. Sometimes you may be lucky to encounter a farmer's market taking place on it's lawn during the warmer months, however the real charm is seeing",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Chapel of Expiation in Paris, France",
       "link": "https://www.atlasobscura.com/places/chapel-of-expiation",
       "date": "Mon, 19 Oct 2026 16:00:00 -0400",
       "summary": "Seldom used today, the word \"expiation\" refers to the act of atoning for a sin. In the case of this elegant chapel, the sin in question was regicide. The Chapel of Expiation is built on top of the old Madeleine Cemetery, which became an egalitarian dumping gro",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Riga Ghetto and Latvian Holocaust Museum in Rīga, Latvia",
-      "link": "https://www.atlasobscura.com/places/riga-ghetto-and-latvian-holocaust-museum",
-      "date": "Mon, 19 Oct 2026 14:00:00 -0400",
-      "summary": "Established and opened in 2010 by the Shamir religious community with assistance from the Riga City Council, the Riga Ghetto and Latvian Holocaust Museum is located in the district of Spīķeri, close to its border with Latgale district, the site of the former J",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "House of Egyptian Architecture in Cairo, Egypt",
-      "link": "https://www.atlasobscura.com/places/house-of-egyptian-architecture",
-      "date": "Mon, 19 Oct 2026 10:00:00 -0400",
-      "summary": "The Ali Labib House, constructed by two brothers in the 1700s, is a rare example of a fully preserved Ottoman-era Cairene mansion, with elements drawn from both Ottoman Turkish and Egyptian Arab architectural traditions. Since 2010 it has housed the House of E",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Smygehuk Fyr in Smygehuk, Sweden",
-      "link": "https://www.atlasobscura.com/places/smygehuk-fyr",
-      "date": "Fri, 16 Oct 2026 16:00:00 -0400",
-      "summary": "This pot-riveted iron lighthouse served as a light beacon for the Swedish coast from 1883 until 1973, to be later restored and re-lit in April 2001. It's tower is open to visitors and has a beautiful view from the top. The lighthouse keeper service spaces have",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Commercial Signage on the Façade of Gruta 77 in Madrid, Spain",
-      "link": "https://www.atlasobscura.com/places/commercial-signage-on-the-facade-of-gruta-77",
-      "date": "Fri, 16 Oct 2026 14:00:00 -0400",
-      "summary": "For nearly three decades, Gruta 77 has been a haven for Madrid’s rock and roll faithful. Right in the heart of Carabanchel, this legendary concert venue and rehearsal space has given punk rockers, and other musical misfits a place to gather, play loud, and kee",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -160,10 +160,10 @@
       }
     },
     {
-      "title": "Krakow, Poland. A city I’d happily return to",
-      "link": "https://www.reddit.com/r/travel/comments/1x5mu2g/krakow_poland_a_city_id_happily_return_to/",
-      "date": "2026-10-14T09:35:19+00:00",
-      "summary": "I’ve always wanted to visit Poland in some capacity and after finally making it to Krakow, I can honestly say it exceeded every expectation I had. It’s easily one of my favourite European city breaks so far. I visited from the 7th to the 11th this month. The f",
+      "title": "10 Days in Poland",
+      "link": "https://www.reddit.com/r/travel/comments/1x7yzjk/10_days_in_poland/",
+      "date": "2026-10-17T02:35:34+00:00",
+      "summary": "My wife and I spent a wonderful 10 days in Poland during the first couple of weeks of September. Here’s a quick summary of our highlights 2 days in Warsaw - old town, POLIN museum, Łazienki Park, University of Warsaw rooftop gardens Malbork Castle on the way f",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "10 Days in Poland",
-      "link": "https://www.reddit.com/r/travel/comments/1x7yzjk/10_days_in_poland/",
-      "date": "2026-10-17T02:35:34+00:00",
-      "summary": "My wife and I spent a wonderful 10 days in Poland during the first couple of weeks of September. Here’s a quick summary of our highlights 2 days in Warsaw - old town, POLIN museum, Łazienki Park, University of Warsaw rooftop gardens Malbork Castle on the way f",
+      "title": "Dear Japan.....",
+      "link": "https://www.reddit.com/r/travel/comments/1xans11/dear_japan/",
+      "date": "2026-10-20T09:44:09+00:00",
+      "summary": "I just got back from a 2 week long trip to the Japan. This was my 11th country and somehow, this was just different from anything or anywhere I have been till now. All I feel now is emptiness, I don't know how to cope with this. The pictures and videos are jus",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
