@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-21T10:08:51.942Z",
-  "date": "2026-10-21",
+  "generatedAt": "2026-10-22T10:11:25.842Z",
+  "date": "2026-10-22",
   "rotation": {
     "places": [
-      "jardin",
-      "ometepe",
-      "quilotoa"
+      "alentejo",
+      "plovdiv",
+      "ulleungdo"
     ],
-    "tip": "esim",
-    "eat": "tarairice"
+    "tip": "visaonarrival",
+    "eat": "mudda"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Hunebed D27 in Borger, Netherlands",
+      "link": "https://www.atlasobscura.com/places/hunebed-d27",
+      "date": "Wed, 21 Oct 2026 16:00:00 -0400",
+      "summary": "Just a short walk from the Hunebedcentrum in Borger stands D27, the largest dolmen in the Netherlands. At over 22 meters (74 feet) long and more than 5,000 years old, this megalithic monument was already ancient when Stonehenge was still centuries away. Massiv",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Grotta Tanaccia in San Marino, San Marino",
+      "link": "https://www.atlasobscura.com/places/grotta-tanaccia",
+      "date": "Wed, 21 Oct 2026 14:00:00 -0400",
+      "summary": "Grotta Tanaccia is an ancient rock niche on the edge of Monte Titano, located just outside the city walls near Montale Tower. The niche in the cliff face of Monte Titano, cave feels too grand a word for what you'll find, saw active use as a place of worship fr",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "PDX Carpet Memorial in Portland, Oregon",
+      "link": "https://www.atlasobscura.com/places/pdx-carpet-memorial-sign",
+      "date": "Wed, 21 Oct 2026 12:00:00 -0400",
+      "summary": "On the side of the Hampton Inn, in downtown Portland, Oregon, there is a sign commemorating the carpet of PDX airport. Beloved for its ugliness, the carpet was widely recognizable to travelers throughout the world. The carpet, designed by SRG Partnerships in 1",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Roundels of Historical Figures in Mumbai, India",
+      "link": "https://www.atlasobscura.com/places/roundels-of-historical-figures",
+      "date": "Wed, 21 Oct 2026 10:00:00 -0400",
+      "summary": "One of the most important landmarks in Mumbai is the Hutatma Chowk / Flora Fountain area. A major square and traffic junction, it is surrounded by vintage buildings, arcades and tree lined walkways. In the centre of the square is the iconic Flora Fountain dedi",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Bedford Flag in Bedford, Massachusetts",
       "link": "https://www.atlasobscura.com/places/bedford-flag",
       "date": "Tue, 20 Oct 2026 16:00:00 -0400",
       "summary": "In a small historic town on the outskirts of Boston lies the Bedford Flag, the oldest complete surviving flag in the United States. The flag’s almost-square base is an ornate crimson silk damask with a pattern of pomegranates, grapes, and leaves. Painted over ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Giant Perstorp Vinegar Bottle in Perstorp, Sweden",
-      "link": "https://www.atlasobscura.com/places/giant-perstorp-vinegar-bottle",
-      "date": "Tue, 20 Oct 2026 14:00:00 -0400",
-      "summary": "Perstorp's vinegar is a staple of Swedish kitchens, and most Swedes recognize its glass bottle . In 1881, the factory in Perstorp began producing acetic acid using raw materials from the area's beech forests. In this small town in southern Sweden, a nearly 16-",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "U.S. Civil War Veteran's Grave in Stockport, England",
-      "link": "https://www.atlasobscura.com/places/american-civil-war-veterans-grave-in-stockport-nw-england",
-      "date": "Tue, 20 Oct 2026 12:00:00 -0400",
-      "summary": "In a relatively small municipal cemetery in Stockport, Greater Manchester, UK is one of a limited number of known resting places of American Civil War veterans in the UK. The grave marker once had a 3ft high cross mounted above it but it has been damaged recen",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Paine House Museum in Coventry, Rhode Island",
-      "link": "https://www.atlasobscura.com/places/paine-house-museum",
-      "date": "Tue, 20 Oct 2026 10:00:00 -0400",
-      "summary": "Have $6 and an empty afternoon with not much else to do in Rhode Island? Well take a visit to this historical museum. Sometimes you may be lucky to encounter a farmer's market taking place on it's lawn during the warmer months, however the real charm is seeing",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Chapel of Expiation in Paris, France",
-      "link": "https://www.atlasobscura.com/places/chapel-of-expiation",
-      "date": "Mon, 19 Oct 2026 16:00:00 -0400",
-      "summary": "Seldom used today, the word \"expiation\" refers to the act of atoning for a sin. In the case of this elegant chapel, the sin in question was regicide. The Chapel of Expiation is built on top of the old Madeleine Cemetery, which became an egalitarian dumping gro",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -160,10 +160,10 @@
       }
     },
     {
-      "title": "10 Days in Poland",
-      "link": "https://www.reddit.com/r/travel/comments/1x7yzjk/10_days_in_poland/",
-      "date": "2026-10-17T02:35:34+00:00",
-      "summary": "My wife and I spent a wonderful 10 days in Poland during the first couple of weeks of September. Here’s a quick summary of our highlights 2 days in Warsaw - old town, POLIN museum, Łazienki Park, University of Warsaw rooftop gardens Malbork Castle on the way f",
+      "title": "Dear Japan.....",
+      "link": "https://www.reddit.com/r/travel/comments/1xans11/dear_japan/",
+      "date": "2026-10-20T09:44:09+00:00",
+      "summary": "I just got back from a 2 week long trip to the Japan. This was my 11th country and somehow, this was just different from anything or anywhere I have been till now. All I feel now is emptiness, I don't know how to cope with this. The pictures and videos are jus",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "Dear Japan.....",
-      "link": "https://www.reddit.com/r/travel/comments/1xans11/dear_japan/",
-      "date": "2026-10-20T09:44:09+00:00",
-      "summary": "I just got back from a 2 week long trip to the Japan. This was my 11th country and somehow, this was just different from anything or anywhere I have been till now. All I feel now is emptiness, I don't know how to cope with this. The pictures and videos are jus",
+      "title": "10 Days in Poland",
+      "link": "https://www.reddit.com/r/travel/comments/1x7yzjk/10_days_in_poland/",
+      "date": "2026-10-17T02:35:34+00:00",
+      "summary": "My wife and I spent a wonderful 10 days in Poland during the first couple of weeks of September. Here’s a quick summary of our highlights 2 days in Warsaw - old town, POLIN museum, Łazienki Park, University of Warsaw rooftop gardens Malbork Castle on the way f",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
