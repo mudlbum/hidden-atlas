@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-22T10:11:25.842Z",
-  "date": "2026-10-22",
+  "generatedAt": "2026-10-23T10:03:57.424Z",
+  "date": "2026-10-23",
   "rotation": {
     "places": [
-      "alentejo",
-      "plovdiv",
-      "ulleungdo"
+      "lordhowe",
+      "rwenzori",
+      "ohrid"
     ],
-    "tip": "visaonarrival",
-    "eat": "mudda"
+    "tip": "festivals",
+    "eat": "cuscuzsantoantao"
   },
   "counts": {
     "places": 87,
@@ -16,6 +16,28 @@
     "eats": 33
   },
   "feed": [
+    {
+      "title": "Ruins of the Ferenc József Bridge in Budapest, Hungary",
+      "link": "https://www.atlasobscura.com/places/ruins-of-the-destroyed-ferenc-jozsef-bridge",
+      "date": "Thu, 22 Oct 2026 12:00:00 -0400",
+      "summary": "Walking through Budapest, it is impossible to ignore the stunning bridges. One in particular garners the attention of tourists, the Szabadság híd , or Liberty Bridge. It is ornate, green, and connects two very important parts of the city — Gellert Hill and the",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "First Death Marker on the Trail of Death in Rochester, Indiana",
+      "link": "https://www.atlasobscura.com/places/first-death-marker-on-the-trail-of-death",
+      "date": "Thu, 22 Oct 2026 10:00:00 -0400",
+      "summary": "The first death during the forced removal and march was that of a child on September 5, 1838. This is a small portion of the tragic story of greed, western expansion, and lies that became known as the Potawatomi Trail of Death. On September 4, 1838, 859 Potawa",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
     {
       "title": "Hunebed D27 in Borger, Netherlands",
       "link": "https://www.atlasobscura.com/places/hunebed-d27",
@@ -43,28 +65,6 @@
       "link": "https://www.atlasobscura.com/places/pdx-carpet-memorial-sign",
       "date": "Wed, 21 Oct 2026 12:00:00 -0400",
       "summary": "On the side of the Hampton Inn, in downtown Portland, Oregon, there is a sign commemorating the carpet of PDX airport. Beloved for its ugliness, the carpet was widely recognizable to travelers throughout the world. The carpet, designed by SRG Partnerships in 1",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Roundels of Historical Figures in Mumbai, India",
-      "link": "https://www.atlasobscura.com/places/roundels-of-historical-figures",
-      "date": "Wed, 21 Oct 2026 10:00:00 -0400",
-      "summary": "One of the most important landmarks in Mumbai is the Hutatma Chowk / Flora Fountain area. A major square and traffic junction, it is surrounded by vintage buildings, arcades and tree lined walkways. In the centre of the square is the iconic Flora Fountain dedi",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Bedford Flag in Bedford, Massachusetts",
-      "link": "https://www.atlasobscura.com/places/bedford-flag",
-      "date": "Tue, 20 Oct 2026 16:00:00 -0400",
-      "summary": "In a small historic town on the outskirts of Boston lies the Bedford Flag, the oldest complete surviving flag in the United States. The flag’s almost-square base is an ornate crimson silk damask with a pattern of pomegranates, grapes, and leaves. Painted over ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
