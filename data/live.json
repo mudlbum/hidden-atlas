@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-23T10:03:57.424Z",
-  "date": "2026-10-23",
+  "generatedAt": "2026-10-24T09:32:25.744Z",
+  "date": "2026-10-24",
   "rotation": {
     "places": [
-      "lordhowe",
-      "rwenzori",
-      "ohrid"
+      "dana",
+      "fogo",
+      "kotorbay"
     ],
-    "tip": "festivals",
-    "eat": "cuscuzsantoantao"
+    "tip": "overtourism",
+    "eat": "khachapuri"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "Ruins of the Ferenc József Bridge in Budapest, Hungary",
-      "link": "https://www.atlasobscura.com/places/ruins-of-the-destroyed-ferenc-jozsef-bridge",
-      "date": "Thu, 22 Oct 2026 12:00:00 -0400",
-      "summary": "Walking through Budapest, it is impossible to ignore the stunning bridges. One in particular garners the attention of tourists, the Szabadság híd , or Liberty Bridge. It is ornate, green, and connects two very important parts of the city — Gellert Hill and the",
+      "title": "Indian Arts Center in Laguna, New Mexico",
+      "link": "https://www.atlasobscura.com/places/indian-arts-center",
+      "date": "Fri, 23 Oct 2026 16:00:00 -0400",
+      "summary": "Just outside Albuquerque along historic Route 66, sits an unassuming, albeit colorful little building. Adorned with paintings of Native women and traditional pottery, the Indian Arts Center offers an array of local pottery, textiles, jewelry, and other handcra",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "First Death Marker on the Trail of Death in Rochester, Indiana",
-      "link": "https://www.atlasobscura.com/places/first-death-marker-on-the-trail-of-death",
-      "date": "Thu, 22 Oct 2026 10:00:00 -0400",
-      "summary": "The first death during the forced removal and march was that of a child on September 5, 1838. This is a small portion of the tragic story of greed, western expansion, and lies that became known as the Potawatomi Trail of Death. On September 4, 1838, 859 Potawa",
+      "title": "Only-in-Anchorage Winter Traditions",
+      "link": "https://www.atlasobscura.com/articles/anchorage-alaska-winter-event-guide",
+      "date": "Fri, 23 Oct 2026 15:09:00 -0400",
+      "summary": "Winter brings out the best of Anchorage. Under a blanket of snow, the city comes alive with festivals exploring regional history, lively tributes to Indigenous culture, decades-old sled dog races, and comfort food best enjoyed with friends and family. Here, Al",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Hunebed D27 in Borger, Netherlands",
-      "link": "https://www.atlasobscura.com/places/hunebed-d27",
-      "date": "Wed, 21 Oct 2026 16:00:00 -0400",
-      "summary": "Just a short walk from the Hunebedcentrum in Borger stands D27, the largest dolmen in the Netherlands. At over 22 meters (74 feet) long and more than 5,000 years old, this megalithic monument was already ancient when Stonehenge was still centuries away. Massiv",
+      "title": "Anchorage: A City Within the Wild",
+      "link": "https://www.atlasobscura.com/articles/anchorage-a-city-within-the-wild-guide",
+      "date": "Fri, 23 Oct 2026 14:57:00 -0400",
+      "summary": "In Anchorage, exploring nature isn’t only for a rare free day or a well-planned vacation; it’s a part of daily life, as integral to the city as its infrastructure and cultural offerings. A day here may start with a morning walk on any of the hundreds of miles ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "Grotta Tanaccia in San Marino, San Marino",
-      "link": "https://www.atlasobscura.com/places/grotta-tanaccia",
-      "date": "Wed, 21 Oct 2026 14:00:00 -0400",
-      "summary": "Grotta Tanaccia is an ancient rock niche on the edge of Monte Titano, located just outside the city walls near Montale Tower. The niche in the cliff face of Monte Titano, cave feels too grand a word for what you'll find, saw active use as a place of worship fr",
+      "title": "Castillo de los Tres Santos Reyes del Morro (Morro Castle) in Havana, Cuba",
+      "link": "https://www.atlasobscura.com/places/castillo-de-los-tres-santos-reyes-del-morro-morro-castle",
+      "date": "Fri, 23 Oct 2026 14:00:00 -0400",
+      "summary": "Every night at 9:00 PM a reenactment of Colonial Spanish soldiers from the 18th century preform a ceremony to light a cannon. The sound can be heard from most places in Old Havana, but to be in the crowd at the castle and witness it close up is spectacular. Be",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "PDX Carpet Memorial in Portland, Oregon",
-      "link": "https://www.atlasobscura.com/places/pdx-carpet-memorial-sign",
-      "date": "Wed, 21 Oct 2026 12:00:00 -0400",
-      "summary": "On the side of the Hampton Inn, in downtown Portland, Oregon, there is a sign commemorating the carpet of PDX airport. Beloved for its ugliness, the carpet was widely recognizable to travelers throughout the world. The carpet, designed by SRG Partnerships in 1",
+      "title": "Where to See the World’s Creepiest Dolls and Toys",
+      "link": "https://www.atlasobscura.com/articles/where-to-see-the-world-s-creepiest-dolls-and-toys",
+      "date": "Fri, 23 Oct 2026 13:31:00 -0400",
+      "summary": "Humans have played with dolls for thousands of years, but it was not until the 18th century, when improved manufacturing rendered them more lifelike, that they started to be seen as sinister. Doll makers pivoted to porcelain skin, glass eyes, and wigs made of ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -138,17 +138,6 @@
       }
     },
     {
-      "title": "18 mesmerizing days in hong kong",
-      "link": "https://www.reddit.com/r/travel/comments/1x7l8yi/18_mesmerizing_days_in_hong_kong/",
-      "date": "2026-10-16T16:43:37+00:00",
-      "summary": "Spent about two and a half weeks in Hong Kong in late September. First ten days I was working out of Cyberport, then took a week off and moved over to the Kowloon side. All iPhone photos, mostly shot after work or late at night. I thought I'd come back with sk",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "Warsaw was not what I expected at all",
       "link": "https://www.reddit.com/r/travel/comments/1x9bufb/warsaw_was_not_what_i_expected_at_all/",
       "date": "2026-10-18T19:22:03+00:00",
@@ -171,10 +160,21 @@
       }
     },
     {
-      "title": "10 Days in Poland",
-      "link": "https://www.reddit.com/r/travel/comments/1x7yzjk/10_days_in_poland/",
-      "date": "2026-10-17T02:35:34+00:00",
-      "summary": "My wife and I spent a wonderful 10 days in Poland during the first couple of weeks of September. Here’s a quick summary of our highlights 2 days in Warsaw - old town, POLIN museum, Łazienki Park, University of Warsaw rooftop gardens Malbork Castle on the way f",
+      "title": "Two weeks in Austria",
+      "link": "https://www.reddit.com/r/travel/comments/1xblz0v/two_weeks_in_austria/",
+      "date": "2026-10-21T12:36:07+00:00",
+      "summary": "My girlfriend and I spent two weeks travelling around Austria in late September and early October. We’re from Switzerland and loved exploring our neighbouring country a bit more. Our favourite part was the Salzkammergut with its lakes. Grundlsee was especially",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "The beauty of Prince Edward Island, Canada, in October",
+      "link": "https://www.reddit.com/r/travel/comments/1x9aavc/the_beauty_of_prince_edward_island_canada_in/",
+      "date": "2026-10-18T18:20:54+00:00",
+      "summary": "Photos 1-5: Thunder Cove beach. Absolutely stunning and the cleanest beach I’ve ever seen (barely any seaweed, pure red sand, red cliffs). The ocean is magic. Photos 6-10: Victoria-by-the-Sea, one of the more popular places to visit. Everything was closed but ",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -208,6 +208,6 @@
   ],
   "enrichment": {
     "ok": 0,
-    "failed": 0
+    "failed": 6
   }
 }
