@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-24T09:32:25.744Z",
-  "date": "2026-10-24",
+  "generatedAt": "2026-10-25T09:49:11.554Z",
+  "date": "2026-10-25",
   "rotation": {
     "places": [
-      "dana",
-      "fogo",
-      "kotorbay"
+      "matsu",
+      "batanes",
+      "damaraland"
     ],
-    "tip": "overtourism",
-    "eat": "khachapuri"
+    "tip": "altitude",
+    "eat": "muhlama"
   },
   "counts": {
     "places": 87,
@@ -127,17 +127,6 @@
       }
     },
     {
-      "title": "I…enjoyed Egypt?! Use a tour company!",
-      "link": "https://www.reddit.com/r/travel/comments/1x8bs91/ienjoyed_egypt_use_a_tour_company/",
-      "date": "2026-10-17T14:35:40+00:00",
-      "summary": "Writing this as I’m awaiting ~24 hours in flights back to the states. Just spent two weeks in Jordan/Egypt but wanted to post about Egypt specifically because of the consistently awful things I’ve read about it on Reddit before coming here. Wife and I had a ph",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "Warsaw was not what I expected at all",
       "link": "https://www.reddit.com/r/travel/comments/1x9bufb/warsaw_was_not_what_i_expected_at_all/",
       "date": "2026-10-18T19:22:03+00:00",
@@ -164,6 +153,17 @@
       "link": "https://www.reddit.com/r/travel/comments/1xblz0v/two_weeks_in_austria/",
       "date": "2026-10-21T12:36:07+00:00",
       "summary": "My girlfriend and I spent two weeks travelling around Austria in late September and early October. We’re from Switzerland and loved exploring our neighbouring country a bit more. Our favourite part was the Salzkammergut with its lakes. Grundlsee was especially",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "A week in Syria",
+      "link": "https://www.reddit.com/r/travel/comments/1xbbjo0/a_week_in_syria/",
+      "date": "2026-10-21T02:41:21+00:00",
+      "summary": "Where do I even start, this country was unique but beautiful I had an incredible time here. I'm Canadian but I travelled with a Syrian friend who knows his way around here, so obviously this was not a hard travel for me, and I'm not an experienced traveller ei",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
-    "failed": 6
+    "ok": 6,
+    "failed": 0
   }
 }
