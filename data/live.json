@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-26T11:07:37.751Z",
-  "date": "2026-10-26",
+  "generatedAt": "2026-10-27T10:34:39.157Z",
+  "date": "2026-10-27",
   "rotation": {
     "places": [
-      "kadavu",
-      "marovo",
-      "gasadalur"
+      "charyn",
+      "driftless",
+      "raivavae"
     ],
-    "tip": "shoulder",
-    "eat": "bluecod"
+    "tip": "solo",
+    "eat": "sadonoodle"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "The Kuji Amber Museum in Kuji, Japan",
+      "link": "https://www.atlasobscura.com/places/the-kuji-amber-museum",
+      "date": "Mon, 26 Oct 2026 16:00:00 -0400",
+      "summary": "Although Japan is well-known for Akoya cultured pearls and jadeite jade, amber deposits can be found throughout much of the country from the Mikasa region of Hokkaidō to Shime in Fukuoka Prefecture. In the prefecture of Iwate, however, lies Kuji, a coastal cit",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Joseph W. Young Statue in Hollywood, Florida",
+      "link": "https://www.atlasobscura.com/places/joseph-w-young-statue",
+      "date": "Mon, 26 Oct 2026 14:00:00 -0400",
+      "summary": "If you're out for a stroll along Hollywood Boulevard you may come across a short walkway filled with a few benches and trees nestled between an apartment complex and optometrist storefront. Standing watch in front of this promenade like some sort of sentinel f",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "‘Night Song’ in Muncie, Indiana",
+      "link": "https://www.atlasobscura.com/places/night-song-at-riverbend-park",
+      "date": "Mon, 26 Oct 2026 12:00:00 -0400",
+      "summary": "Let's be frank. The young Native American man is playing his love's favorite song in hopes of tempting her out for a midnight rendezvous. And it appears to have worked! The “Night Song” sculpture was created by Joe Beeler and with the park was dedicated on Dec",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Flight of Dreams in Tokoname, Japan",
+      "link": "https://www.atlasobscura.com/places/flight-of-dreams",
+      "date": "Mon, 26 Oct 2026 10:00:00 -0400",
+      "summary": "Flight of Dreams is a small theme park originally designed by digital art creators, Teamlabs centred on the first ever Boeing 787 prototype ZA-001. It has now become a combined mini museum and children's playground houses within Chubu international airport in ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Indian Arts Center in Laguna, New Mexico",
       "link": "https://www.atlasobscura.com/places/indian-arts-center",
       "date": "Fri, 23 Oct 2026 16:00:00 -0400",
       "summary": "Just outside Albuquerque along historic Route 66, sits an unassuming, albeit colorful little building. Adorned with paintings of Native women and traditional pottery, the Indian Arts Center offers an array of local pottery, textiles, jewelry, and other handcra",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Only-in-Anchorage Winter Traditions",
-      "link": "https://www.atlasobscura.com/articles/anchorage-alaska-winter-event-guide",
-      "date": "Fri, 23 Oct 2026 15:09:00 -0400",
-      "summary": "Winter brings out the best of Anchorage. Under a blanket of snow, the city comes alive with festivals exploring regional history, lively tributes to Indigenous culture, decades-old sled dog races, and comfort food best enjoyed with friends and family. Here, Al",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Anchorage: A City Within the Wild",
-      "link": "https://www.atlasobscura.com/articles/anchorage-a-city-within-the-wild-guide",
-      "date": "Fri, 23 Oct 2026 14:57:00 -0400",
-      "summary": "In Anchorage, exploring nature isn’t only for a rare free day or a well-planned vacation; it’s a part of daily life, as integral to the city as its infrastructure and cultural offerings. A day here may start with a morning walk on any of the hundreds of miles ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Castillo de los Tres Santos Reyes del Morro (Morro Castle) in Havana, Cuba",
-      "link": "https://www.atlasobscura.com/places/castillo-de-los-tres-santos-reyes-del-morro-morro-castle",
-      "date": "Fri, 23 Oct 2026 14:00:00 -0400",
-      "summary": "Every night at 9:00 PM a reenactment of Colonial Spanish soldiers from the 18th century preform a ceremony to light a cannon. The sound can be heard from most places in Old Havana, but to be in the crowd at the castle and witness it close up is spectacular. Be",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Where to See the World’s Creepiest Dolls and Toys",
-      "link": "https://www.atlasobscura.com/articles/where-to-see-the-world-s-creepiest-dolls-and-toys",
-      "date": "Fri, 23 Oct 2026 13:31:00 -0400",
-      "summary": "Humans have played with dolls for thousands of years, but it was not until the 18th century, when improved manufacturing rendered them more lifelike, that they started to be seen as sinister. Doll makers pivoted to porcelain skin, glass eyes, and wigs made of ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -127,17 +127,6 @@
       }
     },
     {
-      "title": "Dear Japan.....",
-      "link": "https://www.reddit.com/r/travel/comments/1xans11/dear_japan/",
-      "date": "2026-10-20T09:44:09+00:00",
-      "summary": "I just got back from a 2 week long trip to the Japan. This was my 11th country and somehow, this was just different from anything or anywhere I have been till now. All I feel now is emptiness, I don't know how to cope with this. The pictures and videos are jus",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "Two weeks in Austria",
       "link": "https://www.reddit.com/r/travel/comments/1xblz0v/two_weeks_in_austria/",
       "date": "2026-10-21T12:36:07+00:00",
@@ -171,10 +160,21 @@
       }
     },
     {
-      "title": "Throwback to the otherworldly Socotra adventure",
-      "link": "https://www.reddit.com/r/travel/comments/1xao8ug/throwback_to_the_otherworldly_socotra_adventure/",
-      "date": "2026-10-20T10:12:01+00:00",
-      "summary": "November 18-24, 2025 About a year ago, just before the island closed down due to a conflict in the region, I got to experience an incredible adventure traveling around Socotra for a week. And I believe it’s fully deserving of the word ‘adventure’. It was a wee",
+      "title": "Zakynthos, Greece",
+      "link": "https://www.reddit.com/r/travel/comments/1xexyxc/zakynthos_greece/",
+      "date": "2026-10-25T09:31:46+00:00",
+      "summary": "Zakynthos, Ionian Islands, Greece. Amazing beaches and food. It gets very busy during July / August, luckily I was there in late September. A very green island with stunning waters, amazing boat trips and two very different faces - the South / East side has wa",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "Trip report: 1 month in Indonesia",
+      "link": "https://www.reddit.com/r/travel/comments/1xerdce/trip_report_1_month_in_indonesia/",
+      "date": "2026-10-25T03:06:03+00:00",
+      "summary": "I visited several regions of Indonesia during my 1 month trip this august, and eventhough it wasn't perfect, this was the best trip I've ever had! Itinerary: Jakarta-Malang-East Java-Lombok-Manado-Luwuk-Banggai Islands-Luwuk-Jakarta Price was around 75-100$ a ",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
