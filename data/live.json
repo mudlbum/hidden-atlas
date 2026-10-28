@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-27T10:34:39.157Z",
-  "date": "2026-10-27",
+  "generatedAt": "2026-10-28T11:21:03.252Z",
+  "date": "2026-10-28",
   "rotation": {
     "places": [
-      "charyn",
-      "driftless",
-      "raivavae"
+      "ribeira-sacra",
+      "kumano",
+      "songkul"
     ],
-    "tip": "solo",
-    "eat": "sadonoodle"
+    "tip": "womensolo",
+    "eat": "jaffnacrab"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Quang Trung Museum in Tây Sơn, Vietnam",
+      "link": "https://www.atlasobscura.com/places/quang-trung-museum",
+      "date": "Tue, 27 Oct 2026 16:00:00 -0400",
+      "summary": "Set against the rural backdrop of Tay Son district, the Quang Trung Museum rises as a powerful monument to one of the most brilliant military commanders in Vietnamese history, Emperor Quang Trung (Nguyen Hue). Erected directly upon the ancestral soil of the le",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Laredo’s Palace in Alcalá de Henares, Spain",
+      "link": "https://www.atlasobscura.com/places/laredos-palace",
+      "date": "Tue, 27 Oct 2026 14:00:00 -0400",
+      "summary": "As soon as you leave the Alcalá de Henares train station and walk toward the historic center, a richly decorated Neo‑Mudéjar brick building immediately stands out, reminiscent of Comillas Palace by Gaudí. This is Laredo Palace, created by Manuel José Laredo (1",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Hazelnut Inn in Chilliwack, British Columbia",
+      "link": "https://www.atlasobscura.com/places/hazelnut-inn",
+      "date": "Tue, 27 Oct 2026 12:00:00 -0400",
+      "summary": "In the rural village of Yarrow BC, a three-suite hotel contains a little castle with a moat, a sailing ship wedged into a tower, and an underground house beneath an artificial hillside. The Hazelnut Inn was built over nine years by the Imagination Corporation,",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Melvin-Lewis Pioneer Cemetery in Aurora, Colorado",
+      "link": "https://www.atlasobscura.com/places/melvin-lewis-pioneer-cemetery",
+      "date": "Tue, 27 Oct 2026 10:00:00 -0400",
+      "summary": "Tucked behind an unassuming Chick-Fil-A sits a small, 200x120 feet patch of grass bordered by a wrought iron fence. Behind the gates, the area houses the remains of early settlers as well as the ashes of over hundreds of others spanning over a century. In the ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "The Kuji Amber Museum in Kuji, Japan",
       "link": "https://www.atlasobscura.com/places/the-kuji-amber-museum",
       "date": "Mon, 26 Oct 2026 16:00:00 -0400",
       "summary": "Although Japan is well-known for Akoya cultured pearls and jadeite jade, amber deposits can be found throughout much of the country from the Mikasa region of Hokkaidō to Shime in Fukuoka Prefecture. In the prefecture of Iwate, however, lies Kuji, a coastal cit",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Joseph W. Young Statue in Hollywood, Florida",
-      "link": "https://www.atlasobscura.com/places/joseph-w-young-statue",
-      "date": "Mon, 26 Oct 2026 14:00:00 -0400",
-      "summary": "If you're out for a stroll along Hollywood Boulevard you may come across a short walkway filled with a few benches and trees nestled between an apartment complex and optometrist storefront. Standing watch in front of this promenade like some sort of sentinel f",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "‘Night Song’ in Muncie, Indiana",
-      "link": "https://www.atlasobscura.com/places/night-song-at-riverbend-park",
-      "date": "Mon, 26 Oct 2026 12:00:00 -0400",
-      "summary": "Let's be frank. The young Native American man is playing his love's favorite song in hopes of tempting her out for a midnight rendezvous. And it appears to have worked! The “Night Song” sculpture was created by Joe Beeler and with the park was dedicated on Dec",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Flight of Dreams in Tokoname, Japan",
-      "link": "https://www.atlasobscura.com/places/flight-of-dreams",
-      "date": "Mon, 26 Oct 2026 10:00:00 -0400",
-      "summary": "Flight of Dreams is a small theme park originally designed by digital art creators, Teamlabs centred on the first ever Boeing 787 prototype ZA-001. It has now become a combined mini museum and children's playground houses within Chubu international airport in ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Indian Arts Center in Laguna, New Mexico",
-      "link": "https://www.atlasobscura.com/places/indian-arts-center",
-      "date": "Fri, 23 Oct 2026 16:00:00 -0400",
-      "summary": "Just outside Albuquerque along historic Route 66, sits an unassuming, albeit colorful little building. Adorned with paintings of Native women and traditional pottery, the Indian Arts Center offers an array of local pottery, textiles, jewelry, and other handcra",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -127,6 +127,17 @@
       }
     },
     {
+      "title": "A visit to Europe’s least visited(and poorest) country: Moldova 🇲🇩",
+      "link": "https://www.reddit.com/r/travel/comments/1xgt9od/a_visit_to_europes_least_visitedand_poorest/",
+      "date": "2026-10-27T13:58:08+00:00",
+      "summary": "Pictured from my visit of March last year to Moldova. Took the Soviet overnight train from Bucharest to Chisinau, then explored Chisinau for a day seeing all the main sites and visiting Old Orhei Monastery in the countryside. On my second day I visited Transni",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "Two weeks in Austria",
       "link": "https://www.reddit.com/r/travel/comments/1xblz0v/two_weeks_in_austria/",
       "date": "2026-10-21T12:36:07+00:00",
@@ -138,21 +149,10 @@
       }
     },
     {
-      "title": "A week in Syria",
-      "link": "https://www.reddit.com/r/travel/comments/1xbbjo0/a_week_in_syria/",
-      "date": "2026-10-21T02:41:21+00:00",
-      "summary": "Where do I even start, this country was unique but beautiful I had an incredible time here. I'm Canadian but I travelled with a Syrian friend who knows his way around here, so obviously this was not a hard travel for me, and I'm not an experienced traveller ei",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "Fall New England Roadtrip",
-      "link": "https://www.reddit.com/r/travel/comments/1xch5b2/fall_new_england_roadtrip/",
-      "date": "2026-10-22T12:25:28+00:00",
-      "summary": "This was from a solo roadtrip from this time of year, two years ago. It would be best described as poker/hiking/photography trip, for pretty self explanatory reasons. Playing poker is kinda nice for solo travel, gives you something to do at night, plus if you’",
+      "title": "Poland might be my favorite country in Europe",
+      "link": "https://www.reddit.com/r/travel/comments/1xgyt89/poland_might_be_my_favorite_country_in_europe/",
+      "date": "2026-10-27T17:24:56+00:00",
+      "summary": "Pictures from my trip to Poland. I don’t know why more people don’t visit here, truly has everything. Also some of europes best food in my opinion(the polish donut is 🔥), and a surprisingly affordable country to travel. Also really cheap vodka lol. Spent a fe",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "Trip report: 1 month in Indonesia",
-      "link": "https://www.reddit.com/r/travel/comments/1xerdce/trip_report_1_month_in_indonesia/",
-      "date": "2026-10-25T03:06:03+00:00",
-      "summary": "I visited several regions of Indonesia during my 1 month trip this august, and eventhough it wasn't perfect, this was the best trip I've ever had! Itinerary: Jakarta-Malang-East Java-Lombok-Manado-Luwuk-Banggai Islands-Luwuk-Jakarta Price was around 75-100$ a ",
+      "title": "Fall New England Roadtrip",
+      "link": "https://www.reddit.com/r/travel/comments/1xch5b2/fall_new_england_roadtrip/",
+      "date": "2026-10-22T12:25:28+00:00",
+      "summary": "This was from a solo roadtrip from this time of year, two years ago. It would be best described as poker/hiking/photography trip, for pretty self explanatory reasons. Playing poker is kinda nice for solo travel, gives you something to do at night, plus if you’",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
