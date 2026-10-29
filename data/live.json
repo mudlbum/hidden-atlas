@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-28T11:21:03.252Z",
-  "date": "2026-10-28",
+  "generatedAt": "2026-10-29T11:31:19.675Z",
+  "date": "2026-10-29",
   "rotation": {
     "places": [
-      "ribeira-sacra",
-      "kumano",
-      "songkul"
+      "rodrigues",
+      "yap",
+      "viscri"
     ],
-    "tip": "womensolo",
-    "eat": "jaffnacrab"
+    "tip": "tipping",
+    "eat": "ourite"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Salle du Jeu de Paume in Versailles, France",
+      "link": "https://www.atlasobscura.com/places/salle-du-jeu-de-paume",
+      "date": "Wed, 28 Oct 2026 16:00:00 -0400",
+      "summary": "A few blocks from the lavish Palace of Versailles, hidden behind a small side street, you can find a commemoration of one of the most pivotal events in French history. Built so that the cream of the French nobility could have a place to play Jeu de Paume, a pr",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Arden Point and Glenclyffe in Philipstown, New York",
+      "link": "https://www.atlasobscura.com/places/arden-point-and-glenclyffe",
+      "date": "Wed, 28 Oct 2026 14:00:00 -0400",
+      "summary": "Starting at the metro north Garrison train station, this hiking trail has various unique parts. During the first leg, you will find what appears to be an abandoned entrance to a building, in the form of a brick wall with door/window openings covered in vines a",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "World’s Tallest Barber Pole in Forest Grove, Oregon",
+      "link": "https://www.atlasobscura.com/places/worlds-tallest-barber-pole",
+      "date": "Wed, 28 Oct 2026 12:00:00 -0400",
+      "summary": "There’s something wonderfully absurd about pulling into a quiet Oregon park and finding a 73-foot barber pole just… standing there like it owns the place. I stopped by in May and couldn’t stop grinning. Forest Grove put it up back in the ’70s because some barb",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Gnome Hill in White Hall, Maryland",
+      "link": "https://www.atlasobscura.com/places/gnome-hill",
+      "date": "Wed, 28 Oct 2026 10:00:00 -0400",
+      "summary": "Baltimore County's NCR Trail is a popular destination for running, walking, biking, and even tubing access. But it's also gnome to a unique and colorful landmark. Less than one mile north of the White Hall NCR Trail parking lot sits a small hill covered in gno",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Quang Trung Museum in Tây Sơn, Vietnam",
       "link": "https://www.atlasobscura.com/places/quang-trung-museum",
       "date": "Tue, 27 Oct 2026 16:00:00 -0400",
       "summary": "Set against the rural backdrop of Tay Son district, the Quang Trung Museum rises as a powerful monument to one of the most brilliant military commanders in Vietnamese history, Emperor Quang Trung (Nguyen Hue). Erected directly upon the ancestral soil of the le",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Laredo’s Palace in Alcalá de Henares, Spain",
-      "link": "https://www.atlasobscura.com/places/laredos-palace",
-      "date": "Tue, 27 Oct 2026 14:00:00 -0400",
-      "summary": "As soon as you leave the Alcalá de Henares train station and walk toward the historic center, a richly decorated Neo‑Mudéjar brick building immediately stands out, reminiscent of Comillas Palace by Gaudí. This is Laredo Palace, created by Manuel José Laredo (1",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Hazelnut Inn in Chilliwack, British Columbia",
-      "link": "https://www.atlasobscura.com/places/hazelnut-inn",
-      "date": "Tue, 27 Oct 2026 12:00:00 -0400",
-      "summary": "In the rural village of Yarrow BC, a three-suite hotel contains a little castle with a moat, a sailing ship wedged into a tower, and an underground house beneath an artificial hillside. The Hazelnut Inn was built over nine years by the Imagination Corporation,",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Melvin-Lewis Pioneer Cemetery in Aurora, Colorado",
-      "link": "https://www.atlasobscura.com/places/melvin-lewis-pioneer-cemetery",
-      "date": "Tue, 27 Oct 2026 10:00:00 -0400",
-      "summary": "Tucked behind an unassuming Chick-Fil-A sits a small, 200x120 feet patch of grass bordered by a wrought iron fence. Behind the gates, the area houses the remains of early settlers as well as the ashes of over hundreds of others spanning over a century. In the ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Kuji Amber Museum in Kuji, Japan",
-      "link": "https://www.atlasobscura.com/places/the-kuji-amber-museum",
-      "date": "Mon, 26 Oct 2026 16:00:00 -0400",
-      "summary": "Although Japan is well-known for Akoya cultured pearls and jadeite jade, amber deposits can be found throughout much of the country from the Mikasa region of Hokkaidō to Shime in Fukuoka Prefecture. In the prefecture of Iwate, however, lies Kuji, a coastal cit",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -138,10 +138,10 @@
       }
     },
     {
-      "title": "Two weeks in Austria",
-      "link": "https://www.reddit.com/r/travel/comments/1xblz0v/two_weeks_in_austria/",
-      "date": "2026-10-21T12:36:07+00:00",
-      "summary": "My girlfriend and I spent two weeks travelling around Austria in late September and early October. We’re from Switzerland and loved exploring our neighbouring country a bit more. Our favourite part was the Salzkammergut with its lakes. Grundlsee was especially",
+      "title": "Poland might be my favorite country in Europe",
+      "link": "https://www.reddit.com/r/travel/comments/1xgyt89/poland_might_be_my_favorite_country_in_europe/",
+      "date": "2026-10-27T17:24:56+00:00",
+      "summary": "Pictures from my trip to Poland. I don’t know why more people don’t visit here, truly has everything. Also some of europes best food in my opinion(the polish donut is 🔥), and a surprisingly affordable country to travel. Also really cheap vodka lol. Spent a fe",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -149,10 +149,10 @@
       }
     },
     {
-      "title": "Poland might be my favorite country in Europe",
-      "link": "https://www.reddit.com/r/travel/comments/1xgyt89/poland_might_be_my_favorite_country_in_europe/",
-      "date": "2026-10-27T17:24:56+00:00",
-      "summary": "Pictures from my trip to Poland. I don’t know why more people don’t visit here, truly has everything. Also some of europes best food in my opinion(the polish donut is 🔥), and a surprisingly affordable country to travel. Also really cheap vodka lol. Spent a fe",
+      "title": "1 week in Nicaragua 🇳🇮",
+      "link": "https://www.reddit.com/r/travel/comments/1xh77ek/1_week_in_nicaragua/",
+      "date": "2026-10-27T22:41:30+00:00",
+      "summary": "Pictures from my 1 week trip to Nicaragua. Flew into Managua on spirit for $120 (rip) and flew out of Liberia, Costa Rica for $189 on JetBlue. The border crossing was surprisingly easy by public transport. Spent day 1 in Leon seeing the city and volcano boardi",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "Fall New England Roadtrip",
-      "link": "https://www.reddit.com/r/travel/comments/1xch5b2/fall_new_england_roadtrip/",
-      "date": "2026-10-22T12:25:28+00:00",
-      "summary": "This was from a solo roadtrip from this time of year, two years ago. It would be best described as poker/hiking/photography trip, for pretty self explanatory reasons. Playing poker is kinda nice for solo travel, gives you something to do at night, plus if you’",
+      "title": "Trip report: 1 month in Indonesia",
+      "link": "https://www.reddit.com/r/travel/comments/1xerdce/trip_report_1_month_in_indonesia/",
+      "date": "2026-10-25T03:06:03+00:00",
+      "summary": "I visited several regions of Indonesia during my 1 month trip this august, and eventhough it wasn't perfect, this was the best trip I've ever had! Itinerary: Jakarta-Malang-East Java-Lombok-Manado-Luwuk-Banggai Islands-Luwuk-Jakarta Price was around 75-100$ a ",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
