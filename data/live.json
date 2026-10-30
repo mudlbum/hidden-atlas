@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-29T11:31:19.675Z",
-  "date": "2026-10-29",
+  "generatedAt": "2026-10-30T11:24:13.493Z",
+  "date": "2026-10-30",
   "rotation": {
     "places": [
-      "rodrigues",
-      "yap",
-      "viscri"
+      "marovo",
+      "gasadalur",
+      "senja"
     ],
-    "tip": "tipping",
-    "eat": "ourite"
+    "tip": "seat",
+    "eat": "solover"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Plaza Maria Pita in A Coruña, Spain",
+      "link": "https://www.atlasobscura.com/places/plaza-maria-pita",
+      "date": "Thu, 29 Oct 2026 16:00:00 -0400",
+      "summary": "You begin to see the plaza as parts of it starts to peek through the imposing arches surrounding the plaza in the old part of town. The massive, rectangular plaza is surprising in its sheer size at 10,000 square meters. It is surrounded by government buildings",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Phu Loc Champa Temple in An Nhon Bac, Vietnam",
+      "link": "https://www.atlasobscura.com/places/phu-loc-champa-temple",
+      "date": "Thu, 29 Oct 2026 14:00:00 -0400",
+      "summary": "Rising silently above the flat agricultural expanses of An Nhon Bac, the solitary silhouette of Phu Loc Champa Temple commands its hilltop domain like an ancient sentinel. Built during the 12th century, this weathered sanctuary stands roughly 15 meters tall wi",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Tai Hang Fire Dragon Dance in Hong Kong",
+      "link": "https://www.atlasobscura.com/places/tai-hang-fire-dragon-dance",
+      "date": "Thu, 29 Oct 2026 12:00:00 -0400",
+      "summary": "The Tai Hang Fire Dragon Dance was first performed in 1880, in what was then a small Hakka fishing and farming village. The tradition continues to this day, with the ceremony taking place on the evenings of the 14th, 15th and 16th days of the 8th lunar month. ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Durham Pump Station in Durham, North Carolina",
+      "link": "https://www.atlasobscura.com/places/durham-pump-station",
+      "date": "Thu, 29 Oct 2026 10:00:00 -0400",
+      "summary": "The brick and concrete foundations of a large pumping station sit at the water's edge in Eno River State Park. A few yards upstream, straddling Nancy Rhode Creek, the remains of a washed-out stone dam are among the many scattered remnants of the system that on",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Salle du Jeu de Paume in Versailles, France",
       "link": "https://www.atlasobscura.com/places/salle-du-jeu-de-paume",
       "date": "Wed, 28 Oct 2026 16:00:00 -0400",
       "summary": "A few blocks from the lavish Palace of Versailles, hidden behind a small side street, you can find a commemoration of one of the most pivotal events in French history. Built so that the cream of the French nobility could have a place to play Jeu de Paume, a pr",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Arden Point and Glenclyffe in Philipstown, New York",
-      "link": "https://www.atlasobscura.com/places/arden-point-and-glenclyffe",
-      "date": "Wed, 28 Oct 2026 14:00:00 -0400",
-      "summary": "Starting at the metro north Garrison train station, this hiking trail has various unique parts. During the first leg, you will find what appears to be an abandoned entrance to a building, in the form of a brick wall with door/window openings covered in vines a",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "World’s Tallest Barber Pole in Forest Grove, Oregon",
-      "link": "https://www.atlasobscura.com/places/worlds-tallest-barber-pole",
-      "date": "Wed, 28 Oct 2026 12:00:00 -0400",
-      "summary": "There’s something wonderfully absurd about pulling into a quiet Oregon park and finding a 73-foot barber pole just… standing there like it owns the place. I stopped by in May and couldn’t stop grinning. Forest Grove put it up back in the ’70s because some barb",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Gnome Hill in White Hall, Maryland",
-      "link": "https://www.atlasobscura.com/places/gnome-hill",
-      "date": "Wed, 28 Oct 2026 10:00:00 -0400",
-      "summary": "Baltimore County's NCR Trail is a popular destination for running, walking, biking, and even tubing access. But it's also gnome to a unique and colorful landmark. Less than one mile north of the White Hall NCR Trail parking lot sits a small hill covered in gno",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Quang Trung Museum in Tây Sơn, Vietnam",
-      "link": "https://www.atlasobscura.com/places/quang-trung-museum",
-      "date": "Tue, 27 Oct 2026 16:00:00 -0400",
-      "summary": "Set against the rural backdrop of Tay Son district, the Quang Trung Museum rises as a powerful monument to one of the most brilliant military commanders in Vietnamese history, Emperor Quang Trung (Nguyen Hue). Erected directly upon the ancestral soil of the le",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
