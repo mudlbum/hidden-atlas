@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-30T11:24:13.493Z",
-  "date": "2026-10-30",
+  "generatedAt": "2026-10-31T10:55:37.129Z",
+  "date": "2026-10-31",
   "rotation": {
     "places": [
-      "marovo",
-      "gasadalur",
-      "senja"
+      "bornholm",
+      "sado",
+      "tusheti"
     ],
-    "tip": "seat",
-    "eat": "solover"
+    "tip": "positioning",
+    "eat": "cocoa"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "Plaza Maria Pita in A Coruña, Spain",
-      "link": "https://www.atlasobscura.com/places/plaza-maria-pita",
-      "date": "Thu, 29 Oct 2026 16:00:00 -0400",
-      "summary": "You begin to see the plaza as parts of it starts to peek through the imposing arches surrounding the plaza in the old part of town. The massive, rectangular plaza is surprising in its sheer size at 10,000 square meters. It is surrounded by government buildings",
+      "title": "St. John's Episcopal Church in Franklin, Pennsylvania",
+      "link": "https://www.atlasobscura.com/places/st-johns-episcopal-church",
+      "date": "Fri, 30 Oct 2026 16:00:00 -0400",
+      "summary": "Nestled on a quiet back street in the once-booming oil town of Franklin, PA, sits St. John's Episcopal Church. While the exterior is pleasing and well-maintained, the true treasures are discovered once you pass through the large wood-and-iron doors. Every wind",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Phu Loc Champa Temple in An Nhon Bac, Vietnam",
-      "link": "https://www.atlasobscura.com/places/phu-loc-champa-temple",
-      "date": "Thu, 29 Oct 2026 14:00:00 -0400",
-      "summary": "Rising silently above the flat agricultural expanses of An Nhon Bac, the solitary silhouette of Phu Loc Champa Temple commands its hilltop domain like an ancient sentinel. Built during the 12th century, this weathered sanctuary stands roughly 15 meters tall wi",
+      "title": "8 Gargoyles and Grotesques Hiding in Plain Sight",
+      "link": "https://www.atlasobscura.com/articles/strange-gargoyles-and-grotesques-around-the-world",
+      "date": "Fri, 30 Oct 2026 15:55:00 -0400",
+      "summary": "What’s more wondrous than towering spires on a building? Stained glass? Vaulted windows, or garden roofs? One word: Ghouls. Nothing jazzes up a normal old cathedral or mansion more than a mischievous face etched in stone, smiling (or, more likely, grimacing) a",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Tai Hang Fire Dragon Dance in Hong Kong",
-      "link": "https://www.atlasobscura.com/places/tai-hang-fire-dragon-dance",
-      "date": "Thu, 29 Oct 2026 12:00:00 -0400",
-      "summary": "The Tai Hang Fire Dragon Dance was first performed in 1880, in what was then a small Hakka fishing and farming village. The tradition continues to this day, with the ceremony taking place on the evenings of the 14th, 15th and 16th days of the 8th lunar month. ",
+      "title": "Frank & Nancy’s Marine Corps Museum in De Pere, Wisconsin",
+      "link": "https://www.atlasobscura.com/places/frank-nancy-s-marine-corps-museum",
+      "date": "Fri, 30 Oct 2026 14:00:00 -0400",
+      "summary": "Frank Cornelius, a retired Korea and Vietnam War veteran has taken what started out as a personal collection of Marine Corps memorabilia and created a museum, with his wife Nancy. He gives guided tours (by appointment) during the summer months. The collection ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "Durham Pump Station in Durham, North Carolina",
-      "link": "https://www.atlasobscura.com/places/durham-pump-station",
-      "date": "Thu, 29 Oct 2026 10:00:00 -0400",
-      "summary": "The brick and concrete foundations of a large pumping station sit at the water's edge in Eno River State Park. A few yards upstream, straddling Nancy Rhode Creek, the remains of a washed-out stone dam are among the many scattered remnants of the system that on",
+      "title": "Giant Squid Museum in Luarca, Spain",
+      "link": "https://www.atlasobscura.com/places/giant-squid-museum",
+      "date": "Fri, 30 Oct 2026 12:00:00 -0400",
+      "summary": "Forget the kraken of sailors’ nightmares. The monster really does exist—and in the Asturian fishing town of Luarca, you can come face-to-face with one. Far from being a ship-swallowing beast, the giant squid is a mysterious inhabitant of the ocean depths whose",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Salle du Jeu de Paume in Versailles, France",
-      "link": "https://www.atlasobscura.com/places/salle-du-jeu-de-paume",
-      "date": "Wed, 28 Oct 2026 16:00:00 -0400",
-      "summary": "A few blocks from the lavish Palace of Versailles, hidden behind a small side street, you can find a commemoration of one of the most pivotal events in French history. Built so that the cream of the French nobility could have a place to play Jeu de Paume, a pr",
+      "title": "The Old Limestone Arch in Mumbai, India",
+      "link": "https://www.atlasobscura.com/places/the-old-limestone-arch",
+      "date": "Fri, 30 Oct 2026 10:00:00 -0400",
+      "summary": "In Mumbai’s Cumballa Hill area, there is a really old arch over a lane. The lane goes towards The B. D. Petit Parsee General Hospital. The foundation stone of the hospital was laid in 1907 by Sir George Clarke, the then Governor of Mumbai. The hospital played ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "Trip report: 1 month in Indonesia",
-      "link": "https://www.reddit.com/r/travel/comments/1xerdce/trip_report_1_month_in_indonesia/",
-      "date": "2026-10-25T03:06:03+00:00",
-      "summary": "I visited several regions of Indonesia during my 1 month trip this august, and eventhough it wasn't perfect, this was the best trip I've ever had! Itinerary: Jakarta-Malang-East Java-Lombok-Manado-Luwuk-Banggai Islands-Luwuk-Jakarta Price was around 75-100$ a ",
+      "title": "Budapest Trip April 2026",
+      "link": "https://www.reddit.com/r/travel/comments/1xj67mh/budapest_trip_april_2026/",
+      "date": "2026-10-30T04:44:25+00:00",
+      "summary": "Went to Budapest for a week as a part of larger trip that included Prague, Krakow and Bratislava. One of the most beautiful and underrated cities in Europe. Stunning architecture. Also one of the cleanest large cities in Europe. Onto the photos: Fisherman's Ba",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
