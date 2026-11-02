@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-01T11:50:34.096Z",
-  "date": "2026-11-01",
+  "generatedAt": "2026-11-02T13:30:35.523Z",
+  "date": "2026-11-02",
   "rotation": {
     "places": [
-      "kotorbay",
-      "gjirokaster",
-      "niue"
+      "raivavae",
+      "nyungwe",
+      "usambara"
     ],
-    "tip": "powerbank",
-    "eat": "bluecod"
+    "tip": "localsim",
+    "eat": "ourite"
   },
   "counts": {
     "places": 87,
@@ -138,6 +138,28 @@
       }
     },
     {
+      "title": "Day of the Dead in Oaxaca",
+      "link": "https://www.reddit.com/r/travel/comments/1xl2lyi/day_of_the_dead_in_oaxaca/",
+      "date": "2026-11-01T13:06:30+00:00",
+      "summary": "Getting the opportunity to spend Dia de los Muertos in Oaxaca was incredible. A beautiful holiday to share in plus the vibrant decorations, delicious food, and people is something to experience at least once. I'd definitely go at least a few days to a week bef",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "A sunny month in Ireland",
+      "link": "https://www.reddit.com/r/travel/comments/1xknqgz/a_sunny_month_in_ireland/",
+      "date": "2026-10-31T22:55:15+00:00",
+      "summary": "We spent a month in September touring Ireland in 2024 and loved it; both the land and locals were so wonderfull. My only worry is that we got so lucky with the weather that I’ll never get to see it in the same light again. Unseasonably warm weather that year a",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
       "title": "Poland might be my favorite country in Europe",
       "link": "https://www.reddit.com/r/travel/comments/1xgyt89/poland_might_be_my_favorite_country_in_europe/",
       "date": "2026-10-27T17:24:56+00:00",
@@ -153,28 +175,6 @@
       "link": "https://www.reddit.com/r/travel/comments/1xh77ek/1_week_in_nicaragua/",
       "date": "2026-10-27T22:41:30+00:00",
       "summary": "Pictures from my 1 week trip to Nicaragua. Flew into Managua on spirit for $120 (rip) and flew out of Liberia, Costa Rica for $189 on JetBlue. The border crossing was surprisingly easy by public transport. Spent day 1 in Leon seeing the city and volcano boardi",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "Budapest Trip April 2026",
-      "link": "https://www.reddit.com/r/travel/comments/1xj67mh/budapest_trip_april_2026/",
-      "date": "2026-10-30T04:44:25+00:00",
-      "summary": "Went to Budapest for a week as a part of larger trip that included Prague, Krakow and Bratislava. One of the most beautiful and underrated cities in Europe. Stunning architecture. Also one of the cleanest large cities in Europe. Onto the photos: Fisherman's Ba",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "A sunny month in Ireland",
-      "link": "https://www.reddit.com/r/travel/comments/1xknqgz/a_sunny_month_in_ireland/",
-      "date": "2026-10-31T22:55:15+00:00",
-      "summary": "We spent a month in September touring Ireland in 2024 and loved it; both the land and locals were so wonderfull. My only worry is that we got so lucky with the weather that I’ll never get to see it in the same light again. Unseasonably warm weather that year a",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
