@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-02T13:30:35.523Z",
-  "date": "2026-11-02",
+  "generatedAt": "2026-11-03T12:47:39.017Z",
+  "date": "2026-11-03",
   "rotation": {
     "places": [
-      "raivavae",
-      "nyungwe",
-      "usambara"
+      "gasadalur",
+      "senja",
+      "curonian"
     ],
-    "tip": "localsim",
-    "eat": "ourite"
+    "tip": "layover",
+    "eat": "jaffnacrab"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "St. John's Episcopal Church in Franklin, Pennsylvania",
-      "link": "https://www.atlasobscura.com/places/st-johns-episcopal-church",
-      "date": "Fri, 30 Oct 2026 16:00:00 -0400",
-      "summary": "Nestled on a quiet back street in the once-booming oil town of Franklin, PA, sits St. John's Episcopal Church. While the exterior is pleasing and well-maintained, the true treasures are discovered once you pass through the large wood-and-iron doors. Every wind",
+      "title": "Tomba Dei Gigante S’Ena e Thimes in Dorgali, Italy",
+      "link": "https://www.atlasobscura.com/places/tomba-dei-gigante-s-ena-e-thimes",
+      "date": "Mon, 02 Nov 2026 16:00:00 -0500",
+      "summary": "This huge and impressive Bronze Age tomb is about 5 minutes walk from the SP 38 road. There are directional arrows on the ground, consisting of stones arranged into arrow shapes, each of which is unique. The front face of the tomb is several very large stones ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "8 Gargoyles and Grotesques Hiding in Plain Sight",
-      "link": "https://www.atlasobscura.com/articles/strange-gargoyles-and-grotesques-around-the-world",
-      "date": "Fri, 30 Oct 2026 15:55:00 -0400",
-      "summary": "What’s more wondrous than towering spires on a building? Stained glass? Vaulted windows, or garden roofs? One word: Ghouls. Nothing jazzes up a normal old cathedral or mansion more than a mischievous face etched in stone, smiling (or, more likely, grimacing) a",
+      "title": "Leadenhall Wunderkammer in London, England",
+      "link": "https://www.atlasobscura.com/places/leadenhall-wunderkammer",
+      "date": "Mon, 02 Nov 2026 14:00:00 -0500",
+      "summary": "Translated from German, Wunderkammer means “room of wonder”, and the tiny shops tucked inside No. 27¼ at Leadenhall Market certainly live up to the name. Hidden among the grand Victorian architecture and bustling passages of the market, this whimsical installa",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Frank & Nancy’s Marine Corps Museum in De Pere, Wisconsin",
-      "link": "https://www.atlasobscura.com/places/frank-nancy-s-marine-corps-museum",
-      "date": "Fri, 30 Oct 2026 14:00:00 -0400",
-      "summary": "Frank Cornelius, a retired Korea and Vietnam War veteran has taken what started out as a personal collection of Marine Corps memorabilia and created a museum, with his wife Nancy. He gives guided tours (by appointment) during the summer months. The collection ",
+      "title": "Tugendamt und Pizzarand (Virtue Office and Pizza Crust) in Kleinmachnow, Germany",
+      "link": "https://www.atlasobscura.com/places/tugendamt-und-pizzarand-virtue-office-and-pizza-crust",
+      "date": "Mon, 02 Nov 2026 12:00:00 -0500",
+      "summary": "It is not a pretty place, and most drivers speed right past it without a second thought. Hurrying down the AVUS, onto the urban highway, and finally reaching the destination after a long drive—who actually bothers to obey the 60 km/h speed limit around the Che",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "Giant Squid Museum in Luarca, Spain",
-      "link": "https://www.atlasobscura.com/places/giant-squid-museum",
-      "date": "Fri, 30 Oct 2026 12:00:00 -0400",
-      "summary": "Forget the kraken of sailors’ nightmares. The monster really does exist—and in the Asturian fishing town of Luarca, you can come face-to-face with one. Far from being a ship-swallowing beast, the giant squid is a mysterious inhabitant of the ocean depths whose",
+      "title": "Red Barrels Historical Memorial in Lam Sin, Thailand",
+      "link": "https://www.atlasobscura.com/places/red-barrels-historical-memorial",
+      "date": "Mon, 02 Nov 2026 10:00:00 -0500",
+      "summary": "Near this site, and throughout southern Thailand in the early 1970s, there occurred an extremely horrific series of events which few persons outside of Thailand are aware of, and often falls upon deaf ears within. It was here that suspected members of the Comm",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "The Old Limestone Arch in Mumbai, India",
-      "link": "https://www.atlasobscura.com/places/the-old-limestone-arch",
-      "date": "Fri, 30 Oct 2026 10:00:00 -0400",
-      "summary": "In Mumbai’s Cumballa Hill area, there is a really old arch over a lane. The lane goes towards The B. D. Petit Parsee General Hospital. The foundation stone of the hospital was laid in 1907 by Sir George Clarke, the then Governor of Mumbai. The hospital played ",
+      "title": "Amelia Island Pirate Voyages in Fernandina Beach, Florida",
+      "link": "https://www.atlasobscura.com/places/amelia-island-pirate-voyages",
+      "date": "Mon, 02 Nov 2026 09:41:00 -0500",
+      "summary": "Through an unassuming gray shack in the Fernandina Harbor Marina, visitors board a 53-foot-long ship, The Flying Dutchman, for a high seas adventure like no other. The 90-minute to 2-hour voyage offers guests an immersive, family-friendly tour of Amelia Island",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
