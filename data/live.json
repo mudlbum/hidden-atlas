@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-03T12:47:39.017Z",
-  "date": "2026-11-03",
+  "generatedAt": "2026-11-04T12:59:32.773Z",
+  "date": "2026-11-04",
   "rotation": {
     "places": [
-      "gasadalur",
-      "senja",
-      "curonian"
+      "quilotoa",
+      "semuc",
+      "atiu"
     ],
-    "tip": "layover",
-    "eat": "jaffnacrab"
+    "tip": "scamtaxi",
+    "eat": "cuscuzsantoantao"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Miniature Landscapes in Beek-Ubbergen, Netherlands",
+      "link": "https://www.atlasobscura.com/places/miniature-landscapes",
+      "date": "Tue, 03 Nov 2026 16:00:00 -0500",
+      "summary": "If you like all things miniature, you simply have to go and visit the Miniature Landscape Museum in Beek-Ubbergen, close to Nijmegen. If you're incidentally also into badgers and into German expressionistic architecture, you're in for a treat! Or, if you don't",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "The Street Shrines of Victoria in Victoria, Malta",
+      "link": "https://www.atlasobscura.com/places/the-street-shrines-of-victoria-gozo",
+      "date": "Tue, 03 Nov 2026 14:00:00 -0500",
+      "summary": "Look up as you walk the old lanes of Victoria, Gozo's capital, and you'll start seeing them: small religious shrines — niċeċ in Maltese — set into house walls and above doorways. Some are elaborate stone niches holding carved saints under Baroque canopies; oth",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Muurhuizen (Wall Houses) in Amersfoort, Netherlands",
+      "link": "https://www.atlasobscura.com/places/muurhuizen-wall-houses",
+      "date": "Tue, 03 Nov 2026 12:00:00 -0500",
+      "summary": "If you want to feel a medieval vibe while walking only a few minutes from the city center? Take a stroll through the Muurhuizen street. This is unlike other places in the Netherlands, it's a really quiet street, almost without cars. Do keep in mind it's a resi",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "The Red Tower of Death in Karlovy Vary, Czechia",
+      "link": "https://www.atlasobscura.com/places/the-red-tower-of-death",
+      "date": "Tue, 03 Nov 2026 10:00:00 -0500",
+      "summary": "The Red Tower of Death (Rudá věž smrti in Czech) acquired its name both from its exposed red-brick architecture and, more symbolically, as a reference to the communist regime and the blood of the political prisoners who perished there. The tower served as a ce",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Tomba Dei Gigante S’Ena e Thimes in Dorgali, Italy",
       "link": "https://www.atlasobscura.com/places/tomba-dei-gigante-s-ena-e-thimes",
       "date": "Mon, 02 Nov 2026 16:00:00 -0500",
       "summary": "This huge and impressive Bronze Age tomb is about 5 minutes walk from the SP 38 road. There are directional arrows on the ground, consisting of stones arranged into arrow shapes, each of which is unique. The front face of the tomb is several very large stones ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Leadenhall Wunderkammer in London, England",
-      "link": "https://www.atlasobscura.com/places/leadenhall-wunderkammer",
-      "date": "Mon, 02 Nov 2026 14:00:00 -0500",
-      "summary": "Translated from German, Wunderkammer means “room of wonder”, and the tiny shops tucked inside No. 27¼ at Leadenhall Market certainly live up to the name. Hidden among the grand Victorian architecture and bustling passages of the market, this whimsical installa",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Tugendamt und Pizzarand (Virtue Office and Pizza Crust) in Kleinmachnow, Germany",
-      "link": "https://www.atlasobscura.com/places/tugendamt-und-pizzarand-virtue-office-and-pizza-crust",
-      "date": "Mon, 02 Nov 2026 12:00:00 -0500",
-      "summary": "It is not a pretty place, and most drivers speed right past it without a second thought. Hurrying down the AVUS, onto the urban highway, and finally reaching the destination after a long drive—who actually bothers to obey the 60 km/h speed limit around the Che",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Red Barrels Historical Memorial in Lam Sin, Thailand",
-      "link": "https://www.atlasobscura.com/places/red-barrels-historical-memorial",
-      "date": "Mon, 02 Nov 2026 10:00:00 -0500",
-      "summary": "Near this site, and throughout southern Thailand in the early 1970s, there occurred an extremely horrific series of events which few persons outside of Thailand are aware of, and often falls upon deaf ears within. It was here that suspected members of the Comm",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Amelia Island Pirate Voyages in Fernandina Beach, Florida",
-      "link": "https://www.atlasobscura.com/places/amelia-island-pirate-voyages",
-      "date": "Mon, 02 Nov 2026 09:41:00 -0500",
-      "summary": "Through an unassuming gray shack in the Fernandina Harbor Marina, visitors board a 53-foot-long ship, The Flying Dutchman, for a high seas adventure like no other. The 90-minute to 2-hour voyage offers guests an immersive, family-friendly tour of Amelia Island",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -127,17 +127,6 @@
       }
     },
     {
-      "title": "A visit to Europe’s least visited(and poorest) country: Moldova 🇲🇩",
-      "link": "https://www.reddit.com/r/travel/comments/1xgt9od/a_visit_to_europes_least_visitedand_poorest/",
-      "date": "2026-10-27T13:58:08+00:00",
-      "summary": "Pictured from my visit of March last year to Moldova. Took the Soviet overnight train from Bucharest to Chisinau, then explored Chisinau for a day seeing all the main sites and visiting Old Orhei Monastery in the countryside. On my second day I visited Transni",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "Day of the Dead in Oaxaca",
       "link": "https://www.reddit.com/r/travel/comments/1xl2lyi/day_of_the_dead_in_oaxaca/",
       "date": "2026-11-01T13:06:30+00:00",
@@ -160,10 +149,10 @@
       }
     },
     {
-      "title": "Poland might be my favorite country in Europe",
-      "link": "https://www.reddit.com/r/travel/comments/1xgyt89/poland_might_be_my_favorite_country_in_europe/",
-      "date": "2026-10-27T17:24:56+00:00",
-      "summary": "Pictures from my trip to Poland. I don’t know why more people don’t visit here, truly has everything. Also some of europes best food in my opinion(the polish donut is 🔥), and a surprisingly affordable country to travel. Also really cheap vodka lol. Spent a fe",
+      "title": "Switzerland - what a dream!",
+      "link": "https://www.reddit.com/r/travel/comments/1xlfhcx/switzerland_what_a_dream/",
+      "date": "2026-11-01T21:49:03+00:00",
+      "summary": "Just got back from an amazing trip around Europe, visiting Switzerland, Milan, Munich, and Salzburg. I spent the first 15 days exploring Switzerland with a Swiss Travel Pass. After that, I headed to Milan before returning to Switzerland to visit Montreux and B",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +160,21 @@
       }
     },
     {
-      "title": "1 week in Nicaragua 🇳🇮",
-      "link": "https://www.reddit.com/r/travel/comments/1xh77ek/1_week_in_nicaragua/",
-      "date": "2026-10-27T22:41:30+00:00",
-      "summary": "Pictures from my 1 week trip to Nicaragua. Flew into Managua on spirit for $120 (rip) and flew out of Liberia, Costa Rica for $189 on JetBlue. The border crossing was surprisingly easy by public transport. Spent day 1 in Leon seeing the city and volcano boardi",
+      "title": "Budapest Trip April 2026",
+      "link": "https://www.reddit.com/r/travel/comments/1xj67mh/budapest_trip_april_2026/",
+      "date": "2026-10-30T04:44:25+00:00",
+      "summary": "Went to Budapest for a week as a part of larger trip that included Prague, Krakow and Bratislava. One of the most beautiful and underrated cities in Europe. Stunning architecture. Also one of the cleanest large cities in Europe. Onto the photos: Fisherman's Ba",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "Azerbaijan October26",
+      "link": "https://www.reddit.com/r/travel/comments/1xjq55w/azerbaijan_october26/",
+      "date": "2026-10-30T20:16:00+00:00",
+      "summary": "Just got back from Azerbaijan and honestly, what an underrated country! Spent a few days exploring Baku, then rented a car and drove around the country, visiting Shamakhi, Gabala, Sheki, Lahij and a few other places. The landscapes were incredible, from mounta",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
