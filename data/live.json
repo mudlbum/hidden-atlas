@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-04T12:59:32.773Z",
-  "date": "2026-11-04",
+  "generatedAt": "2026-11-05T13:12:27.141Z",
+  "date": "2026-11-05",
   "rotation": {
     "places": [
-      "quilotoa",
-      "semuc",
-      "atiu"
+      "santoantao",
+      "rodrigues",
+      "yap"
     ],
-    "tip": "scamtaxi",
-    "eat": "cuscuzsantoantao"
+    "tip": "trains",
+    "eat": "mudda"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "Miniature Landscapes in Beek-Ubbergen, Netherlands",
-      "link": "https://www.atlasobscura.com/places/miniature-landscapes",
-      "date": "Tue, 03 Nov 2026 16:00:00 -0500",
-      "summary": "If you like all things miniature, you simply have to go and visit the Miniature Landscape Museum in Beek-Ubbergen, close to Nijmegen. If you're incidentally also into badgers and into German expressionistic architecture, you're in for a treat! Or, if you don't",
+      "title": "The Living Museum in Queens, New York",
+      "link": "https://www.atlasobscura.com/places/the-living-museum",
+      "date": "Wed, 04 Nov 2026 16:00:00 -0500",
+      "summary": "Tucked inside a building on the grounds of the Creedmoor Psychiatric Center, the Living Museum is a collection of artists’ work that feels nothing like a conventional museum. Established in 1983, it is a working creative space where psychiatric patients can cr",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "The Street Shrines of Victoria in Victoria, Malta",
-      "link": "https://www.atlasobscura.com/places/the-street-shrines-of-victoria-gozo",
-      "date": "Tue, 03 Nov 2026 14:00:00 -0500",
-      "summary": "Look up as you walk the old lanes of Victoria, Gozo's capital, and you'll start seeing them: small religious shrines — niċeċ in Maltese — set into house walls and above doorways. Some are elaborate stone niches holding carved saints under Baroque canopies; oth",
+      "title": "Barryscourt Castle in Cork, Ireland",
+      "link": "https://www.atlasobscura.com/places/barryscourt-castle",
+      "date": "Wed, 04 Nov 2026 14:00:00 -0500",
+      "summary": "Barryscourt Castle is one of those places in Cork where the landscape can make history feel surprisingly close. Just outside Carrigtwohill, the castle sits quietly behind its walls, but its stones contain traces of medieval power, rebellion, domestic life and ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Muurhuizen (Wall Houses) in Amersfoort, Netherlands",
-      "link": "https://www.atlasobscura.com/places/muurhuizen-wall-houses",
-      "date": "Tue, 03 Nov 2026 12:00:00 -0500",
-      "summary": "If you want to feel a medieval vibe while walking only a few minutes from the city center? Take a stroll through the Muurhuizen street. This is unlike other places in the Netherlands, it's a really quiet street, almost without cars. Do keep in mind it's a resi",
+      "title": "Gallery O on H Street in Washington, D.C.",
+      "link": "https://www.atlasobscura.com/places/gallery-o-on-h-street",
+      "date": "Wed, 04 Nov 2026 12:36:00 -0500",
+      "summary": "From the outside, Gallery O on H looks like an unassuming row of Washington, D.C. houses. But behind their ordinary facades lies a series of interconnected galleries, courtyards, and unexpected spaces filled with an extraordinary collection of art, unusual obj",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "The Red Tower of Death in Karlovy Vary, Czechia",
-      "link": "https://www.atlasobscura.com/places/the-red-tower-of-death",
-      "date": "Tue, 03 Nov 2026 10:00:00 -0500",
-      "summary": "The Red Tower of Death (Rudá věž smrti in Czech) acquired its name both from its exposed red-brick architecture and, more symbolically, as a reference to the communist regime and the blood of the political prisoners who perished there. The tower served as a ce",
+      "title": "'Tombe de la Famille Nagelmackers' in Liège, Belgium",
+      "link": "https://www.atlasobscura.com/places/tombe-de-la-famille-nagelmackers",
+      "date": "Wed, 04 Nov 2026 12:00:00 -0500",
+      "summary": "Angleur is a neighbourhood in the south of Liège. It is a one-hour-and-15-minute drive west of Brussels. The area itself is not particularly interesting; it is a residential neighbourhood located between Sart-Tilman Hill and the railway lines in the Ourthe Val",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Tomba Dei Gigante S’Ena e Thimes in Dorgali, Italy",
-      "link": "https://www.atlasobscura.com/places/tomba-dei-gigante-s-ena-e-thimes",
-      "date": "Mon, 02 Nov 2026 16:00:00 -0500",
-      "summary": "This huge and impressive Bronze Age tomb is about 5 minutes walk from the SP 38 road. There are directional arrows on the ground, consisting of stones arranged into arrow shapes, each of which is unique. The front face of the tomb is several very large stones ",
+      "title": "Egiategia in Ciboure, France",
+      "link": "https://www.atlasobscura.com/places/egiategia",
+      "date": "Wed, 04 Nov 2026 10:00:00 -0500",
+      "summary": "Just off the coast of Saint Jean De Luz, near the breakwater that protects the bay from Atlantic swells, floats a cheerful yellow buoy unnoticed by most tourists and beach-goers at the popular resort town across the harbor. It's easy to miss, but it's the only",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
