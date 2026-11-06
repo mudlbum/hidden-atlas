@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-05T13:12:27.141Z",
-  "date": "2026-11-05",
+  "generatedAt": "2026-11-06T12:57:19.967Z",
+  "date": "2026-11-06",
   "rotation": {
     "places": [
-      "santoantao",
-      "rodrigues",
-      "yap"
+      "ohrid",
+      "ribeira-sacra",
+      "kumano"
     ],
-    "tip": "trains",
-    "eat": "mudda"
+    "tip": "markets",
+    "eat": "muhlama"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "The Living Museum in Queens, New York",
-      "link": "https://www.atlasobscura.com/places/the-living-museum",
-      "date": "Wed, 04 Nov 2026 16:00:00 -0500",
-      "summary": "Tucked inside a building on the grounds of the Creedmoor Psychiatric Center, the Living Museum is a collection of artists’ work that feels nothing like a conventional museum. Established in 1983, it is a working creative space where psychiatric patients can cr",
+      "title": "Giant MacAskill’s Grave in Englishtown, Nova Scotia",
+      "link": "https://www.atlasobscura.com/places/giant-macaskill-s-grave",
+      "date": "Thu, 05 Nov 2026 16:00:00 -0500",
+      "summary": "Tucked away in a small cemetery in the Cape Breton community of Englishtown lies the grave of Angus MacAskill, better known as the Giant MacAskill or the Cape Breton Giant, a man whose extraordinary height and strength brought him international fame during the",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Barryscourt Castle in Cork, Ireland",
-      "link": "https://www.atlasobscura.com/places/barryscourt-castle",
-      "date": "Wed, 04 Nov 2026 14:00:00 -0500",
-      "summary": "Barryscourt Castle is one of those places in Cork where the landscape can make history feel surprisingly close. Just outside Carrigtwohill, the castle sits quietly behind its walls, but its stones contain traces of medieval power, rebellion, domestic life and ",
+      "title": "Kejimkujik Petroglyphs in Jakes Landing, Nova Scotia",
+      "link": "https://www.atlasobscura.com/places/kejimkujik-petroglyphs",
+      "date": "Thu, 05 Nov 2026 14:00:00 -0500",
+      "summary": "Along the shores of Kejimkujik Lake in Nova Scotia, more than 500 petroglyphs are etched into the smooth slate bedrock of Kejimkujik National Park and National Historic Site. The Mi’kmaq have lived, hunted, and fished in the Kejimkujik area since time immemori",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Gallery O on H Street in Washington, D.C.",
-      "link": "https://www.atlasobscura.com/places/gallery-o-on-h-street",
-      "date": "Wed, 04 Nov 2026 12:36:00 -0500",
-      "summary": "From the outside, Gallery O on H looks like an unassuming row of Washington, D.C. houses. But behind their ordinary facades lies a series of interconnected galleries, courtyards, and unexpected spaces filled with an extraordinary collection of art, unusual obj",
+      "title": "Tà Má Stream in Vietnam",
+      "link": "https://www.atlasobscura.com/places/ta-ma-stream",
+      "date": "Thu, 05 Nov 2026 12:00:00 -0500",
+      "summary": "Hidden deep within the remote highlands of Vinh Thanh district, Ta Ma Stream offers an arresting departure from the sun-drenched beaches of the coast. Flowing with icy, crystal-clear water year-round, the stream carves its way through a primeval woodland guard",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "'Tombe de la Famille Nagelmackers' in Liège, Belgium",
-      "link": "https://www.atlasobscura.com/places/tombe-de-la-famille-nagelmackers",
-      "date": "Wed, 04 Nov 2026 12:00:00 -0500",
-      "summary": "Angleur is a neighbourhood in the south of Liège. It is a one-hour-and-15-minute drive west of Brussels. The area itself is not particularly interesting; it is a residential neighbourhood located between Sart-Tilman Hill and the railway lines in the Ourthe Val",
+      "title": "Gods House Tower in Southampton, England",
+      "link": "https://www.atlasobscura.com/places/gods-house-tower",
+      "date": "Thu, 05 Nov 2026 10:00:00 -0500",
+      "summary": "GHT as we know it today was constructed over several hundred years and has held many different uses over that time. The oldest part of the building – originally known as God’s House Gate – was built in 1189 and named due to its proximity to the nearby God’s Ho",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Egiategia in Ciboure, France",
-      "link": "https://www.atlasobscura.com/places/egiategia",
-      "date": "Wed, 04 Nov 2026 10:00:00 -0500",
-      "summary": "Just off the coast of Saint Jean De Luz, near the breakwater that protects the bay from Atlantic swells, floats a cheerful yellow buoy unnoticed by most tourists and beach-goers at the popular resort town across the harbor. It's easy to miss, but it's the only",
+      "title": "Andrew Phung’s Favorite Calgary Spots",
+      "link": "https://www.atlasobscura.com/articles/podcast-andrew-phung-favorite-calgary-spots",
+      "date": "Thu, 05 Nov 2026 08:15:00 -0500",
+      "summary": "Listen and subscribe on Apple Podcasts , Spotify , and all major podcast apps. Andrew Phung: My friend and I were in Calgary at the same time, and I was like, “Yo, let me take you out for dinner.” And I remember getting to his hotel, and he’s like, “How’d you ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -160,10 +160,10 @@
       }
     },
     {
-      "title": "Budapest Trip April 2026",
-      "link": "https://www.reddit.com/r/travel/comments/1xj67mh/budapest_trip_april_2026/",
-      "date": "2026-10-30T04:44:25+00:00",
-      "summary": "Went to Budapest for a week as a part of larger trip that included Prague, Krakow and Bratislava. One of the most beautiful and underrated cities in Europe. Stunning architecture. Also one of the cleanest large cities in Europe. Onto the photos: Fisherman's Ba",
+      "title": "Autumn in the Alps - 3 Weeks in Germany, Austria, Italy & Slovenia",
+      "link": "https://www.reddit.com/r/travel/comments/1xod813/autumn_in_the_alps_3_weeks_in_germany_austria/",
+      "date": "2026-11-05T08:11:00+00:00",
+      "summary": "We just got back from a little over 3 weeks in the Alps. The trip was mostly a road trip with a few city days towards the end. For the route we started by flying into Munich and our first stop was Neuschwanstein Castle and then staying in Germany we spent a fe",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "Azerbaijan October26",
-      "link": "https://www.reddit.com/r/travel/comments/1xjq55w/azerbaijan_october26/",
-      "date": "2026-10-30T20:16:00+00:00",
-      "summary": "Just got back from Azerbaijan and honestly, what an underrated country! Spent a few days exploring Baku, then rented a car and drove around the country, visiting Shamakhi, Gabala, Sheki, Lahij and a few other places. The landscapes were incredible, from mounta",
+      "title": "Mount Fuji Japan 2026",
+      "link": "https://www.reddit.com/r/travel/comments/1xlu0yr/mount_fuji_japan_2026/",
+      "date": "2026-11-02T10:49:30+00:00",
+      "summary": "Spent a night in Fujiyoshida and happy to see Mt.Fuji peaking today. Japan has been sunny and rainy lately so it was really a hit or miss spending a night at this location. It’s such a beautiful view! 1,2 and 3rd slide Oiishi Park 4th slide Lake Kawaguchiko 5t",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
