@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-06T12:57:19.967Z",
-  "date": "2026-11-06",
+  "generatedAt": "2026-11-07T11:43:54.292Z",
+  "date": "2026-11-07",
   "rotation": {
     "places": [
-      "ohrid",
-      "ribeira-sacra",
-      "kumano"
+      "ulleungdo",
+      "nongkhiaw",
+      "jebelshams"
     ],
-    "tip": "markets",
-    "eat": "muhlama"
+    "tip": "etias",
+    "eat": "khachapuri"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Fuente de los Niños Miones in Guadalajara, Mexico",
+      "link": "https://www.atlasobscura.com/places/fuente-de-los-ninos-miones",
+      "date": "Fri, 06 Nov 2026 16:00:00 -0500",
+      "summary": "Framed by traditional black wrought ironwork, the Fuente de los Niños Miones delights passersby in Guadalajara's Historic Center, right in the Plaza Tapatía . This sculptural gem attracts curious travelers with its peculiar charm and a touch of urban cheekines",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Tarrafal Concentration Camp in Chão Bom, Cabo Verde",
+      "link": "https://www.atlasobscura.com/places/tarrafal-concentration-camp",
+      "date": "Fri, 06 Nov 2026 14:00:00 -0500",
+      "summary": "The camp opened in 1936, when the first group of about 150 prisoners arrived from Lisbon: communists, anarchists, trade unionists and sailors who had mutinied against Salazar's dictatorship. The location was chosen deliberately. It was isolated, hot, short on ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Al Qasr Al Ghamedh (Al Qassimi Palace) in Ras Al-Khaimah, United Arab Emirates",
+      "link": "https://www.atlasobscura.com/places/al-qasr-al-ghamedh-al-qassimi-palace",
+      "date": "Fri, 06 Nov 2026 12:00:00 -0500",
+      "summary": "Sitting upon one of the hills in Ras Al Khaimah, Al Qasimi Palace, also known as Al Qasr Al Ghamedh (the Haunted Palace), is one of the UAE's most fascinating landmarks. Commissioned by the late Sheikh Abdulaziz bin Humaid Al Qasimi, construction began in 1975",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Statue of Lord Laddu Gopal in Agra, India",
+      "link": "https://www.atlasobscura.com/places/26-foot-statue-of-lord-laddu-gopal",
+      "date": "Fri, 06 Nov 2026 10:00:00 -0500",
+      "summary": "Standing along Agra’s Yamuna River Promenade, the giant 26-foot-tall Lord Laddu Gopal statue is hard to miss. Created by the Agra Municipal Corporation as part of its \"Waste to Wonder\" initiative, the sculpture was built using more than two tonnes of discarded",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Giant MacAskill’s Grave in Englishtown, Nova Scotia",
       "link": "https://www.atlasobscura.com/places/giant-macaskill-s-grave",
       "date": "Thu, 05 Nov 2026 16:00:00 -0500",
       "summary": "Tucked away in a small cemetery in the Cape Breton community of Englishtown lies the grave of Angus MacAskill, better known as the Giant MacAskill or the Cape Breton Giant, a man whose extraordinary height and strength brought him international fame during the",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Kejimkujik Petroglyphs in Jakes Landing, Nova Scotia",
-      "link": "https://www.atlasobscura.com/places/kejimkujik-petroglyphs",
-      "date": "Thu, 05 Nov 2026 14:00:00 -0500",
-      "summary": "Along the shores of Kejimkujik Lake in Nova Scotia, more than 500 petroglyphs are etched into the smooth slate bedrock of Kejimkujik National Park and National Historic Site. The Mi’kmaq have lived, hunted, and fished in the Kejimkujik area since time immemori",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Tà Má Stream in Vietnam",
-      "link": "https://www.atlasobscura.com/places/ta-ma-stream",
-      "date": "Thu, 05 Nov 2026 12:00:00 -0500",
-      "summary": "Hidden deep within the remote highlands of Vinh Thanh district, Ta Ma Stream offers an arresting departure from the sun-drenched beaches of the coast. Flowing with icy, crystal-clear water year-round, the stream carves its way through a primeval woodland guard",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Gods House Tower in Southampton, England",
-      "link": "https://www.atlasobscura.com/places/gods-house-tower",
-      "date": "Thu, 05 Nov 2026 10:00:00 -0500",
-      "summary": "GHT as we know it today was constructed over several hundred years and has held many different uses over that time. The oldest part of the building – originally known as God’s House Gate – was built in 1189 and named due to its proximity to the nearby God’s Ho",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Andrew Phung’s Favorite Calgary Spots",
-      "link": "https://www.atlasobscura.com/articles/podcast-andrew-phung-favorite-calgary-spots",
-      "date": "Thu, 05 Nov 2026 08:15:00 -0500",
-      "summary": "Listen and subscribe on Apple Podcasts , Spotify , and all major podcast apps. Andrew Phung: My friend and I were in Calgary at the same time, and I was like, “Yo, let me take you out for dinner.” And I remember getting to his hotel, and he’s like, “How’d you ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -149,10 +149,10 @@
       }
     },
     {
-      "title": "Switzerland - what a dream!",
-      "link": "https://www.reddit.com/r/travel/comments/1xlfhcx/switzerland_what_a_dream/",
-      "date": "2026-11-01T21:49:03+00:00",
-      "summary": "Just got back from an amazing trip around Europe, visiting Switzerland, Milan, Munich, and Salzburg. I spent the first 15 days exploring Switzerland with a Swiss Travel Pass. After that, I headed to Milan before returning to Switzerland to visit Montreux and B",
+      "title": "Autumn in the Alps - 3 Weeks in Germany, Austria, Italy & Slovenia",
+      "link": "https://www.reddit.com/r/travel/comments/1xod813/autumn_in_the_alps_3_weeks_in_germany_austria/",
+      "date": "2026-11-05T08:11:00+00:00",
+      "summary": "We just got back from a little over 3 weeks in the Alps. The trip was mostly a road trip with a few city days towards the end. For the route we started by flying into Munich and our first stop was Neuschwanstein Castle and then staying in Germany we spent a fe",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -160,10 +160,10 @@
       }
     },
     {
-      "title": "Autumn in the Alps - 3 Weeks in Germany, Austria, Italy & Slovenia",
-      "link": "https://www.reddit.com/r/travel/comments/1xod813/autumn_in_the_alps_3_weeks_in_germany_austria/",
-      "date": "2026-11-05T08:11:00+00:00",
-      "summary": "We just got back from a little over 3 weeks in the Alps. The trip was mostly a road trip with a few city days towards the end. For the route we started by flying into Munich and our first stop was Neuschwanstein Castle and then staying in Germany we spent a fe",
+      "title": "Switzerland - what a dream!",
+      "link": "https://www.reddit.com/r/travel/comments/1xlfhcx/switzerland_what_a_dream/",
+      "date": "2026-11-01T21:49:03+00:00",
+      "summary": "Just got back from an amazing trip around Europe, visiting Switzerland, Milan, Munich, and Salzburg. I spent the first 15 days exploring Switzerland with a Swiss Travel Pass. After that, I headed to Milan before returning to Switzerland to visit Montreux and B",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
