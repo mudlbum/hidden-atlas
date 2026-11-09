@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-08T11:56:24.328Z",
-  "date": "2026-11-08",
+  "generatedAt": "2026-11-09T13:54:35.084Z",
+  "date": "2026-11-09",
   "rotation": {
     "places": [
-      "torotoro",
-      "alentejo",
-      "plovdiv"
+      "gargano",
+      "matsu",
+      "batanes"
     ],
-    "tip": "shoes",
-    "eat": "bunuelosdealgas"
+    "tip": "allergy",
+    "eat": "solover"
   },
   "counts": {
     "places": 87,
@@ -127,17 +127,6 @@
       }
     },
     {
-      "title": "Day of the Dead in Oaxaca",
-      "link": "https://www.reddit.com/r/travel/comments/1xl2lyi/day_of_the_dead_in_oaxaca/",
-      "date": "2026-11-01T13:06:30+00:00",
-      "summary": "Getting the opportunity to spend Dia de los Muertos in Oaxaca was incredible. A beautiful holiday to share in plus the vibrant decorations, delicious food, and people is something to experience at least once. I'd definitely go at least a few days to a week bef",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "Autumn in the Alps - 3 Weeks in Germany, Austria, Italy & Slovenia",
       "link": "https://www.reddit.com/r/travel/comments/1xod813/autumn_in_the_alps_3_weeks_in_germany_austria/",
       "date": "2026-11-05T08:11:00+00:00",
@@ -149,10 +138,10 @@
       }
     },
     {
-      "title": "Switzerland - what a dream!",
-      "link": "https://www.reddit.com/r/travel/comments/1xlfhcx/switzerland_what_a_dream/",
-      "date": "2026-11-01T21:49:03+00:00",
-      "summary": "Just got back from an amazing trip around Europe, visiting Switzerland, Milan, Munich, and Salzburg. I spent the first 15 days exploring Switzerland with a Swiss Travel Pass. After that, I headed to Milan before returning to Switzerland to visit Montreux and B",
+      "title": "Just got back from 7 days in Jordan with my friends. Petra, Wadi Rum, the Dead Sea and a river canyon Wadi Mujib",
+      "link": "https://www.reddit.com/r/travel/comments/1xq2374/just_got_back_from_7_days_in_jordan_with_my/",
+      "date": "2026-11-07T09:09:40+00:00",
+      "summary": "Just wanted to share some pics from a week in Jordan with four friends last month. Everyone told us that Jordan it’s basically Petra and that’s it, and Petra was incredible, but what surprised me most was everything around it. We went north to south. Amman and",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -160,10 +149,10 @@
       }
     },
     {
-      "title": "Mount Fuji Japan 2026",
-      "link": "https://www.reddit.com/r/travel/comments/1xlu0yr/mount_fuji_japan_2026/",
-      "date": "2026-11-02T10:49:30+00:00",
-      "summary": "Spent a night in Fujiyoshida and happy to see Mt.Fuji peaking today. Japan has been sunny and rainy lately so it was really a hit or miss spending a night at this location. It’s such a beautiful view! 1,2 and 3rd slide Oiishi Park 4th slide Lake Kawaguchiko 5t",
+      "title": "Verona – more than the famous balcony",
+      "link": "https://www.reddit.com/r/travel/comments/1xq5odi/verona_more_than_the_famous_balcony/",
+      "date": "2026-11-07T12:53:13+00:00",
+      "summary": "Verona is a very special city to me. I visited it 4 times and I spent more than a month there, learning Italian in a local school and I found it almost perfect. Right sized, walkable, and super varied. Roman, medieval, renaissance and modern buildings sometime",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -175,6 +164,17 @@
       "link": "https://www.reddit.com/r/travel/comments/1xm89yk/podgorica_to_venice/",
       "date": "2026-11-02T20:19:00+00:00",
       "summary": "Some shots I took during my trip from Montenegro to Italy last month. Spent a little less than 3 weeks going all the way by nightbuses starting in Podgorica towards Venice. Didn’t encounter rain a single day which made it even better and temperatures around 20",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "3 days in Budapest",
+      "link": "https://www.reddit.com/r/travel/comments/1xoortk/3_days_in_budapest/",
+      "date": "2026-11-05T17:32:24+00:00",
+      "summary": "Having already spent 10 days in Europe travelling within Germany and Austria, I wasn’t sure where to spend the rest of my days in Europe. Conveniently, Budapest was only a 6-hour bus journey from Salzburg, where I was staying at the time, and I decided to make",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
