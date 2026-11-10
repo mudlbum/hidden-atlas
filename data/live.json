@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-09T13:54:35.084Z",
-  "date": "2026-11-09",
+  "generatedAt": "2026-11-10T13:28:20.960Z",
+  "date": "2026-11-10",
   "rotation": {
     "places": [
-      "gargano",
-      "matsu",
-      "batanes"
+      "batanes",
+      "damaraland",
+      "chiloe"
     ],
-    "tip": "allergy",
-    "eat": "solover"
+    "tip": "womensolo",
+    "eat": "ourite"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "Fuente de los Niños Miones in Guadalajara, Mexico",
-      "link": "https://www.atlasobscura.com/places/fuente-de-los-ninos-miones",
-      "date": "Fri, 06 Nov 2026 16:00:00 -0500",
-      "summary": "Framed by traditional black wrought ironwork, the Fuente de los Niños Miones delights passersby in Guadalajara's Historic Center, right in the Plaza Tapatía . This sculptural gem attracts curious travelers with its peculiar charm and a touch of urban cheekines",
+      "title": "Check Out the Playlist for Our New Book",
+      "link": "https://www.atlasobscura.com/articles/check-out-the-playlist-for-our-new-book",
+      "date": "Tue, 10 Nov 2026 06:00:00 -0500",
+      "summary": "Our latest book, “America Obscura: An Explorer’s Guide to the Hidden Wonders of the United States,” has just been published. But it doesn’t just take you to Texas or Maine or Michigan. It takes you to a town called Hell, to a desert in one of the greenest stat",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Tarrafal Concentration Camp in Chão Bom, Cabo Verde",
-      "link": "https://www.atlasobscura.com/places/tarrafal-concentration-camp",
-      "date": "Fri, 06 Nov 2026 14:00:00 -0500",
-      "summary": "The camp opened in 1936, when the first group of about 150 prisoners arrived from Lisbon: communists, anarchists, trade unionists and sailors who had mutinied against Salazar's dictatorship. The location was chosen deliberately. It was isolated, hot, short on ",
+      "title": "Drunken Lampposts in Halifax, Nova Scotia",
+      "link": "https://www.atlasobscura.com/places/drunken-lampposts-halifax",
+      "date": "Mon, 09 Nov 2026 16:00:00 -0500",
+      "summary": "Along the Halifax Waterfront in Nova Scotia, a group of lampposts appears to have had a little too much to drink. Commonly known as the \"Drunken Lampposts,\" these unusual public art installations bring a humorous twist to the city's lively nightlife. Created b",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Al Qasr Al Ghamedh (Al Qassimi Palace) in Ras Al-Khaimah, United Arab Emirates",
-      "link": "https://www.atlasobscura.com/places/al-qasr-al-ghamedh-al-qassimi-palace",
-      "date": "Fri, 06 Nov 2026 12:00:00 -0500",
-      "summary": "Sitting upon one of the hills in Ras Al Khaimah, Al Qasimi Palace, also known as Al Qasr Al Ghamedh (the Haunted Palace), is one of the UAE's most fascinating landmarks. Commissioned by the late Sheikh Abdulaziz bin Humaid Al Qasimi, construction began in 1975",
+      "title": "Jurassic Jungle Boat Ride in Pigeon Forge, Tennessee",
+      "link": "https://www.atlasobscura.com/places/jurassic-jungle-boat-ride",
+      "date": "Mon, 09 Nov 2026 14:00:00 -0500",
+      "summary": "Just outside of Dollywood is a relatively nondescript building squished between many other independently operated tourist traps and minor amusement park attractions. Out of all of these offerings for family vacationers though, the Jurassic Jungle Boat Ride see",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "Statue of Lord Laddu Gopal in Agra, India",
-      "link": "https://www.atlasobscura.com/places/26-foot-statue-of-lord-laddu-gopal",
-      "date": "Fri, 06 Nov 2026 10:00:00 -0500",
-      "summary": "Standing along Agra’s Yamuna River Promenade, the giant 26-foot-tall Lord Laddu Gopal statue is hard to miss. Created by the Agra Municipal Corporation as part of its \"Waste to Wonder\" initiative, the sculpture was built using more than two tonnes of discarded",
+      "title": "Marvin the Mastodon in Stewiacke, Nova Scotia",
+      "link": "https://www.atlasobscura.com/places/marvin-the-mastodon",
+      "date": "Mon, 09 Nov 2026 12:00:00 -0500",
+      "summary": "Standing high above the highway in Stewiacke, Nova Scotia, is Marvin the Mastodon, a life-sized replica of a prehistoric giant that once roamed the region. Measuring 14 feet tall and 22 feet long, the enormous statue was erected at Mastodon Ridge in January 19",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Giant MacAskill’s Grave in Englishtown, Nova Scotia",
-      "link": "https://www.atlasobscura.com/places/giant-macaskill-s-grave",
-      "date": "Thu, 05 Nov 2026 16:00:00 -0500",
-      "summary": "Tucked away in a small cemetery in the Cape Breton community of Englishtown lies the grave of Angus MacAskill, better known as the Giant MacAskill or the Cape Breton Giant, a man whose extraordinary height and strength brought him international fame during the",
+      "title": "Mussel Village Bruinisse in Bruinisse, Netherlands",
+      "link": "https://www.atlasobscura.com/places/mussel-village-bruinisse",
+      "date": "Mon, 09 Nov 2026 10:00:00 -0500",
+      "summary": "On the edge of the lowlands of Zeeland lies a village dedicated to celebrating the mussel fishing industry. A vital part of life in Bruinisse for centuries, mussel farming has long been one of the main sources of income for the local area. Bruinisse harbour is",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -160,10 +160,10 @@
       }
     },
     {
-      "title": "Podgorica to Venice",
-      "link": "https://www.reddit.com/r/travel/comments/1xm89yk/podgorica_to_venice/",
-      "date": "2026-11-02T20:19:00+00:00",
-      "summary": "Some shots I took during my trip from Montenegro to Italy last month. Spent a little less than 3 weeks going all the way by nightbuses starting in Podgorica towards Venice. Didn’t encounter rain a single day which made it even better and temperatures around 20",
+      "title": "3 days in Budapest",
+      "link": "https://www.reddit.com/r/travel/comments/1xoortk/3_days_in_budapest/",
+      "date": "2026-11-05T17:32:24+00:00",
+      "summary": "Having already spent 10 days in Europe travelling within Germany and Austria, I wasn’t sure where to spend the rest of my days in Europe. Conveniently, Budapest was only a 6-hour bus journey from Salzburg, where I was staying at the time, and I decided to make",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "3 days in Budapest",
-      "link": "https://www.reddit.com/r/travel/comments/1xoortk/3_days_in_budapest/",
-      "date": "2026-11-05T17:32:24+00:00",
-      "summary": "Having already spent 10 days in Europe travelling within Germany and Austria, I wasn’t sure where to spend the rest of my days in Europe. Conveniently, Budapest was only a 6-hour bus journey from Salzburg, where I was staying at the time, and I decided to make",
+      "title": "I visited the remote village of Nagoro, a.k.a the Scarecrow Village, deep in the mountains of Iya Valley on Shikoku island, Japan",
+      "link": "https://www.reddit.com/r/travel/comments/1xmu4pv/i_visited_the_remote_village_of_nagoro_aka_the/",
+      "date": "2026-11-03T14:18:20+00:00",
+      "summary": "Population: approx. 25 human and over 300 dolls. The village is only a row of old houses stretched for a few hundred meters along a single road. Nagoro is a remote village situated deep in the mountains of Iya Valley. It is famously known as the Scarecrow Vill",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
