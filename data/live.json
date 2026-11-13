@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-12T13:46:11.653Z",
-  "date": "2026-11-12",
+  "generatedAt": "2026-11-13T13:07:03.559Z",
+  "date": "2026-11-13",
   "rotation": {
     "places": [
-      "rwenzori",
-      "ohrid",
-      "ribeira-sacra"
+      "kotohira",
+      "santoantao",
+      "rodrigues"
     ],
-    "tip": "vaccines",
-    "eat": "sadonoodle"
+    "tip": "errorfare",
+    "eat": "jaffnacrab"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "The Tar Pits in Lawton, Oklahoma",
+      "link": "https://www.atlasobscura.com/places/the-tar-pits-on-adams-hill-at-fort-sill-lawton-oklahoma-usa",
+      "date": "Thu, 12 Nov 2026 16:00:00 -0500",
+      "summary": "Oklahoma is known for its oil production. Normally, oil is trapped underneath impermeable rock and must be pumped out of the ground. Sometimes there is a gap in the impermeable rock, and oil oozes out of the ground. As the gaseous part of oil evaporates, it le",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "‘The Mother of the Sea’ (Sassuma Arnaa) in Nuuk, Greenland",
+      "link": "https://www.atlasobscura.com/places/the-mother-of-the-sea-sassuma-arnaa",
+      "date": "Thu, 12 Nov 2026 14:00:00 -0500",
+      "summary": "The Mother of the Sea - Sassuma Arnaa is a traditional Kalaallit tale. It goes something like this: The People from Kalaallit Nunaat have always relied on animals from the sea for hunting. Their ancestors were respecting the land and the balance with the sea, ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "The Dodder Rhino in Dublin, Ireland",
+      "link": "https://www.atlasobscura.com/places/the-dodder-rhino",
+      "date": "Thu, 12 Nov 2026 12:00:00 -0500",
+      "summary": "There are plenty of creatures to spot along Dublin's River Dodder, but few walkers expect to encounter a rhinoceros. Standing on a plinth in the middle of the river near Classon's Bridge is a remarkably lifelike, life-size bronze rhino that has become one of M",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "St. Patrick’s Church in Sydney, Nova Scotia",
+      "link": "https://www.atlasobscura.com/places/st-patrick-s-church",
+      "date": "Thu, 12 Nov 2026 10:00:00 -0500",
+      "summary": "Standing in the historic North End of Sydney, Nova Scotia, St. Patrick's Church is the oldest surviving Catholic church on Cape Breton Island. Behind its stone walls lies an unusual history of forbidden religious practices, forgotten burials, and reported para",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "The Invisible Lamplighter in The Hague, Netherlands",
       "link": "https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague",
       "date": "Wed, 11 Nov 2026 16:00:00 -0500",
       "summary": "If you ever find yourself wandering the quiet, postcard-perfect alleyways of The Hague, keep your eyes peeled around streetlamp height. Tucked into the charming cobbled sanctuary of Mallemolen , you’ll spot a gentleman mid-climb on a lamp post, his coat tails ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "John J. McGraw Monument in Truxton, New York",
-      "link": "https://www.atlasobscura.com/places/john-j-mcgraw-monument",
-      "date": "Wed, 11 Nov 2026 14:00:00 -0500",
-      "summary": "There are in Truxton, New York, three interrelated sites associated with legendary baseball manager John J. McGraw, who was born in that Central New York town in 1873. The three are a monument to the native son, a baseball field named in his honor, and a sign ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Tin Lizzy Ice Cream Man in Montpelier, Indiana",
-      "link": "https://www.atlasobscura.com/places/tin-lizzy-ice-cream-man",
-      "date": "Wed, 11 Nov 2026 12:00:00 -0500",
-      "summary": "The ice cream man is closed for business. No reason to stop; might as well pass him by. At the intersection of State Road 3 and State Road 18, west of the town of Montpelier, Indiana, the former Tin Lizzy Ice Cream Shop features a large fiberglass man who once",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Cossit House in Sydney, Nova Scotia",
-      "link": "https://www.atlasobscura.com/places/cossit-house",
-      "date": "Wed, 11 Nov 2026 10:00:00 -0500",
-      "summary": "Standing in the historic North End of Sydney, Nova Scotia, Cossit House is the city's oldest surviving residence and one of the oldest buildings on Cape Breton Island. Built in 1787, the house has witnessed more than two centuries of history, and according to ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Facade of the Old Mental Hospital in Hong Kong",
-      "link": "https://www.atlasobscura.com/places/facade-of-the-old-mental-hospital",
-      "date": "Tue, 10 Nov 2026 16:00:00 -0500",
-      "summary": "Modern day High Street in Hong Kong's Sai Ying Pun district is mostly known as a food destination, with many lively restaurants and eateries lining the street. However, at its eastern end, the aura feels vastly different due to the presence of a structure reno",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "3 days in Budapest",
-      "link": "https://www.reddit.com/r/travel/comments/1xoortk/3_days_in_budapest/",
-      "date": "2026-11-05T17:32:24+00:00",
-      "summary": "Having already spent 10 days in Europe travelling within Germany and Austria, I wasn’t sure where to spend the rest of my days in Europe. Conveniently, Budapest was only a 6-hour bus journey from Salzburg, where I was staying at the time, and I decided to make",
+      "title": "La dolce vita in Lake Como and Milan",
+      "link": "https://www.reddit.com/r/travel/comments/1xpsi0e/la_dolce_vita_in_lake_como_and_milan/",
+      "date": "2026-11-07T00:16:26+00:00",
+      "summary": "Spent five days total staying in Como Town and I thought it was a great choice to base ourselves in. It wasn't a huge city like Milan, and it was large enough to have plenty of restaurants/attractions and not feel claustrophobic like the more popular towns of ",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
