@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-13T13:07:03.559Z",
-  "date": "2026-11-13",
+  "generatedAt": "2026-11-14T12:11:54.353Z",
+  "date": "2026-11-14",
   "rotation": {
     "places": [
-      "kotohira",
-      "santoantao",
-      "rodrigues"
+      "ometepe",
+      "quilotoa",
+      "semuc"
     ],
-    "tip": "errorfare",
-    "eat": "jaffnacrab"
+    "tip": "overtourism",
+    "eat": "pastilla"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "The Areni-1 Cave Shoe in Yerevan, Armenia",
+      "link": "https://www.atlasobscura.com/places/the-areni-1-cave-shoe",
+      "date": "Fri, 13 Nov 2026 16:00:00 -0500",
+      "summary": "This leather shoe was discovered in Areni 1 cave during excavations in 2008. Made from a single piece of cowhide leather, and still with its leather laces it has been measured as corresponding to a modern US size 7 / EU size 37 / UK size 6. It is stuffed with ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Pensão Amor in Lisbon, Portugal",
+      "link": "https://www.atlasobscura.com/places/pensao-amor",
+      "date": "Fri, 13 Nov 2026 14:00:00 -0500",
+      "summary": "Walk down Pink Street in Lisbon’s Cais do Sodré and you’ll eventually find a door that looks like it has secrets. Pensão Amor building is a former brothel that has been transformed into a surprising space in Lisbon's port district. Cais do Sodré was once the s",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Sue Metal T-Rex Statue in Faith, South Dakota",
+      "link": "https://www.atlasobscura.com/places/sue-metal-t-rex-statue",
+      "date": "Fri, 13 Nov 2026 12:00:00 -0500",
+      "summary": "At the edge of the South Dakota prairie, a scrap-metal Tyrannosaurus rex rises from the small town of Faith. A tribute to one of the most famous dinosaurs ever unearthed. Built from recycled tractors and agricultural materials, this sculpture honors Sue, the l",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Xuan Phong Church in Tuy Phuoc Dong, Vietnam",
+      "link": "https://www.atlasobscura.com/places/xuan-phong-church",
+      "date": "Fri, 13 Nov 2026 10:00:00 -0500",
+      "summary": "Rising out of the rural landscapes of Tuy Phuoc, Xuan Phong Church presents an intriguing architectural cross-pollination that defies conventional ecclesiastical design. Originally established as a modest thatched sanctuary in the late nineteenth century, the ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "The Tar Pits in Lawton, Oklahoma",
       "link": "https://www.atlasobscura.com/places/the-tar-pits-on-adams-hill-at-fort-sill-lawton-oklahoma-usa",
       "date": "Thu, 12 Nov 2026 16:00:00 -0500",
       "summary": "Oklahoma is known for its oil production. Normally, oil is trapped underneath impermeable rock and must be pumped out of the ground. Sometimes there is a gap in the impermeable rock, and oil oozes out of the ground. As the gaseous part of oil evaporates, it le",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "‘The Mother of the Sea’ (Sassuma Arnaa) in Nuuk, Greenland",
-      "link": "https://www.atlasobscura.com/places/the-mother-of-the-sea-sassuma-arnaa",
-      "date": "Thu, 12 Nov 2026 14:00:00 -0500",
-      "summary": "The Mother of the Sea - Sassuma Arnaa is a traditional Kalaallit tale. It goes something like this: The People from Kalaallit Nunaat have always relied on animals from the sea for hunting. Their ancestors were respecting the land and the balance with the sea, ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Dodder Rhino in Dublin, Ireland",
-      "link": "https://www.atlasobscura.com/places/the-dodder-rhino",
-      "date": "Thu, 12 Nov 2026 12:00:00 -0500",
-      "summary": "There are plenty of creatures to spot along Dublin's River Dodder, but few walkers expect to encounter a rhinoceros. Standing on a plinth in the middle of the river near Classon's Bridge is a remarkably lifelike, life-size bronze rhino that has become one of M",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "St. Patrick’s Church in Sydney, Nova Scotia",
-      "link": "https://www.atlasobscura.com/places/st-patrick-s-church",
-      "date": "Thu, 12 Nov 2026 10:00:00 -0500",
-      "summary": "Standing in the historic North End of Sydney, Nova Scotia, St. Patrick's Church is the oldest surviving Catholic church on Cape Breton Island. Behind its stone walls lies an unusual history of forbidden religious practices, forgotten burials, and reported para",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Invisible Lamplighter in The Hague, Netherlands",
-      "link": "https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague",
-      "date": "Wed, 11 Nov 2026 16:00:00 -0500",
-      "summary": "If you ever find yourself wandering the quiet, postcard-perfect alleyways of The Hague, keep your eyes peeled around streetlamp height. Tucked into the charming cobbled sanctuary of Mallemolen , you’ll spot a gentleman mid-climb on a lamp post, his coat tails ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -138,10 +138,10 @@
       }
     },
     {
-      "title": "Just got back from 7 days in Jordan with my friends. Petra, Wadi Rum, the Dead Sea and a river canyon Wadi Mujib",
-      "link": "https://www.reddit.com/r/travel/comments/1xq2374/just_got_back_from_7_days_in_jordan_with_my/",
-      "date": "2026-11-07T09:09:40+00:00",
-      "summary": "Just wanted to share some pics from a week in Jordan with four friends last month. Everyone told us that Jordan it’s basically Petra and that’s it, and Petra was incredible, but what surprised me most was everything around it. We went north to south. Amman and",
+      "title": "Switzerland - 10 days in a fairy tale",
+      "link": "https://www.reddit.com/r/travel/comments/1xvo4r9/switzerland_10_days_in_a_fairy_tale/",
+      "date": "2026-11-14T00:11:53+00:00",
+      "summary": "We've been wanting to visit Switzerland for a while now but put it off for years due to the perceived cost. But with the ever rising Swiss Franc and rampant global inflation I decided to just bite the bullet and go this past October combining it with a trip to",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "La dolce vita in Lake Como and Milan",
-      "link": "https://www.reddit.com/r/travel/comments/1xpsi0e/la_dolce_vita_in_lake_como_and_milan/",
-      "date": "2026-11-07T00:16:26+00:00",
-      "summary": "Spent five days total staying in Como Town and I thought it was a great choice to base ourselves in. It wasn't a huge city like Milan, and it was large enough to have plenty of restaurants/attractions and not feel claustrophobic like the more popular towns of ",
+      "title": "Visited Lebanon twice this year! One of the most culturally distinctive places in the arab world",
+      "link": "https://www.reddit.com/r/travel/comments/1xq9s0o/visited_lebanon_twice_this_year_one_of_the_most/",
+      "date": "2026-11-07T16:01:18+00:00",
+      "summary": "Just wanted to share some pictures from my Lebanon trips. I visited for the first time back in March with my friends, fell in love with the country, then decided to come back again alone last month for 9 days. I visited Beirut, Byblos, Batroun and Douma. Beiru",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
