@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-14T12:11:54.353Z",
-  "date": "2026-11-14",
+  "generatedAt": "2026-11-15T12:44:48.253Z",
+  "date": "2026-11-15",
   "rotation": {
     "places": [
-      "ometepe",
-      "quilotoa",
-      "semuc"
+      "jaffna",
+      "saotome",
+      "huasteca"
     ],
-    "tip": "overtourism",
-    "eat": "pastilla"
+    "tip": "altitude",
+    "eat": "pastelnata"
   },
   "counts": {
     "places": 87,
@@ -127,17 +127,6 @@
       }
     },
     {
-      "title": "Airplane seat courtesy rules",
-      "link": "https://www.reddit.com/r/travel/comments/1xtjn8l/airplane_seat_courtesy_rules/",
-      "date": "2026-11-11T14:48:59+00:00",
-      "summary": "Traveling recently, had a lady sitting already in my assigned seat. I pointed it out when I got to my row and she said, \"Oh, you can't trade with me?\" Then gestured to the middle seat. I told her no, and she shrugged and moved saying that it didn't cost anythi",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
       "title": "Switzerland - 10 days in a fairy tale",
       "link": "https://www.reddit.com/r/travel/comments/1xvo4r9/switzerland_10_days_in_a_fairy_tale/",
       "date": "2026-11-14T00:11:53+00:00",
@@ -149,10 +138,10 @@
       }
     },
     {
-      "title": "Verona – more than the famous balcony",
-      "link": "https://www.reddit.com/r/travel/comments/1xq5odi/verona_more_than_the_famous_balcony/",
-      "date": "2026-11-07T12:53:13+00:00",
-      "summary": "Verona is a very special city to me. I visited it 4 times and I spent more than a month there, learning Italian in a local school and I found it almost perfect. Right sized, walkable, and super varied. Roman, medieval, renaissance and modern buildings sometime",
+      "title": "Airplane seat courtesy rules",
+      "link": "https://www.reddit.com/r/travel/comments/1xtjn8l/airplane_seat_courtesy_rules/",
+      "date": "2026-11-11T14:48:59+00:00",
+      "summary": "Traveling recently, had a lady sitting already in my assigned seat. I pointed it out when I got to my row and she said, \"Oh, you can't trade with me?\" Then gestured to the middle seat. I told her no, and she shrugged and moved saying that it didn't cost anythi",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -171,10 +160,21 @@
       }
     },
     {
-      "title": "Visited Lebanon twice this year! One of the most culturally distinctive places in the arab world",
-      "link": "https://www.reddit.com/r/travel/comments/1xq9s0o/visited_lebanon_twice_this_year_one_of_the_most/",
-      "date": "2026-11-07T16:01:18+00:00",
-      "summary": "Just wanted to share some pictures from my Lebanon trips. I visited for the first time back in March with my friends, fell in love with the country, then decided to come back again alone last month for 9 days. I visited Beirut, Byblos, Batroun and Douma. Beiru",
+      "title": "Mostar, Bosnia and Herzegovina",
+      "link": "https://www.reddit.com/r/travel/comments/1xuptp6/mostar_bosnia_and_herzegovina/",
+      "date": "2026-11-12T21:50:04+00:00",
+      "summary": "We did a 1 week travel to Bosnia and Herzegovina this year in September. The travel started in Sarajevo, we planned to go to Mostar by train, but because of a fire all the trains were cancelled, so we had to take the bus. The city has an amazing vibe, the hist",
+      "source": "reddit-travel",
+      "sourceLabel": {
+        "en": "r/travel",
+        "ko": "r/travel"
+      }
+    },
+    {
+      "title": "Autumn in the Black Forest, Germany",
+      "link": "https://www.reddit.com/r/travel/comments/1xshye7/autumn_in_the_black_forest_germany/",
+      "date": "2026-11-10T08:48:59+00:00",
+      "summary": "Extended weekend road trip through Germany's Black Forest NP. We did a few short hikes in the region. We did a few short hikes during that time: Day 1: Geroldsauer Wasserfälle and Grobbach and Ellbachsee Day 2: Allerheiligen Wasserfälle and Schurkopf Day 3: Bl",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
