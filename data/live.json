@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-15T12:44:48.253Z",
-  "date": "2026-11-15",
+  "generatedAt": "2026-11-16T13:39:29.417Z",
+  "date": "2026-11-16",
   "rotation": {
     "places": [
-      "jaffna",
-      "saotome",
-      "huasteca"
+      "curonian",
+      "taitung",
+      "sumba"
     ],
-    "tip": "altitude",
-    "eat": "pastelnata"
+    "tip": "offlinemaps",
+    "eat": "capers"
   },
   "counts": {
     "places": 87,
@@ -149,10 +149,10 @@
       }
     },
     {
-      "title": "Trying to fall in love with Rio de Janeiro",
-      "link": "https://www.reddit.com/r/travel/comments/1xrohxv/trying_to_fall_in_love_with_rio_de_janeiro/",
-      "date": "2026-11-09T10:41:45+00:00",
-      "summary": "November 3-6, 2026 Rio has always seemed to me like a place of dreams - a colorful and lively paradise with joyful people and living life to the fullest. As is often the case with dreams, this one too proved to be a bit different in reality. From a (failed) sc",
+      "title": "Mostar, Bosnia and Herzegovina",
+      "link": "https://www.reddit.com/r/travel/comments/1xuptp6/mostar_bosnia_and_herzegovina/",
+      "date": "2026-11-12T21:50:04+00:00",
+      "summary": "We did a 1 week travel to Bosnia and Herzegovina this year in September. The travel started in Sarajevo, we planned to go to Mostar by train, but because of a fire all the trains were cancelled, so we had to take the bus. The city has an amazing vibe, the hist",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -160,10 +160,10 @@
       }
     },
     {
-      "title": "Mostar, Bosnia and Herzegovina",
-      "link": "https://www.reddit.com/r/travel/comments/1xuptp6/mostar_bosnia_and_herzegovina/",
-      "date": "2026-11-12T21:50:04+00:00",
-      "summary": "We did a 1 week travel to Bosnia and Herzegovina this year in September. The travel started in Sarajevo, we planned to go to Mostar by train, but because of a fire all the trains were cancelled, so we had to take the bus. The city has an amazing vibe, the hist",
+      "title": "2 Weeks in Korea",
+      "link": "https://www.reddit.com/r/travel/comments/1xu85ti/2_weeks_in_korea/",
+      "date": "2026-11-12T09:13:02+00:00",
+      "summary": "Hey guys, I just came from a 2 week trip to South Korea. This isn't the first time I've been but it's the first time as an independent adult that I've gone. After this trip, I've definitely learned to appreciate just how cool Korea is. For such a small country",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
-    "failed": 0
+    "ok": 0,
+    "failed": 6
   }
 }
