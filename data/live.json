@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-16T13:39:29.417Z",
-  "date": "2026-11-16",
+  "generatedAt": "2026-11-17T14:24:27.914Z",
+  "date": "2026-11-17",
   "rotation": {
     "places": [
-      "curonian",
-      "taitung",
-      "sumba"
+      "usambara",
+      "naxos",
+      "assynt"
     ],
-    "tip": "offlinemaps",
-    "eat": "capers"
+    "tip": "passportvalidity",
+    "eat": "pampaku"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Agnese Visconti Memorial Plaque in Mantova, Italy",
+      "link": "https://www.atlasobscura.com/places/agnese-visconti-memorial-plaque",
+      "date": "Mon, 16 Nov 2026 16:00:00 -0500",
+      "summary": "Within the sprawling grounds of Mantua's Ducal Palace lies Piazza Pallone (now officially Piazza Lega Lombarda ), a quiet, tree-lined square, few tourists notice the simple stone plaque mounted on the perimeter wall enclosing the space. The plaque commemorates",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Hoang De Citadel (Thành Hoàng Đế) in An Nhon, Vietnam",
+      "link": "https://www.atlasobscura.com/places/hoang-de-citadel-thanh-hoang-d",
+      "date": "Mon, 16 Nov 2026 14:00:00 -0500",
+      "summary": "Looming over the quiet countryside of An Nhon, Hoang De Citadel represents an extraordinary historical palimpsest where two distinct Vietnamese empires converged upon a single plot of land. Originally built in the eleventh century as Vijaya, the formidable sto",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Pipe Creek Mercantile Trading House in Peru, Indiana",
+      "link": "https://www.atlasobscura.com/places/pipe-creek-mercantile-trading-house",
+      "date": "Mon, 16 Nov 2026 12:00:00 -0500",
+      "summary": "On the east side of State Road 31 near Peru, Indiana, sits a naval gun on the grounds of the Pipe Creek Mercantile Trading House. The shop features a wide selection of items in individual booths. If you go in not knowing what you are looking for, they probably",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "St. Matthew’s Chapel in Lisbon, New Hampshire",
+      "link": "https://www.atlasobscura.com/places/st-matthews-chapel",
+      "date": "Mon, 16 Nov 2026 10:00:00 -0500",
+      "summary": "St Matthews Chapel is an historic, darling, and well maintained church building located in the picturesque White Mountains of New Hampshire. Built in 1893 (1883 by some accounts - but the cornerstone lists 1893), it is said to be one of the most photographed c",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "The Areni-1 Cave Shoe in Yerevan, Armenia",
       "link": "https://www.atlasobscura.com/places/the-areni-1-cave-shoe",
       "date": "Fri, 13 Nov 2026 16:00:00 -0500",
       "summary": "This leather shoe was discovered in Areni 1 cave during excavations in 2008. Made from a single piece of cowhide leather, and still with its leather laces it has been measured as corresponding to a modern US size 7 / EU size 37 / UK size 6. It is stuffed with ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Pensão Amor in Lisbon, Portugal",
-      "link": "https://www.atlasobscura.com/places/pensao-amor",
-      "date": "Fri, 13 Nov 2026 14:00:00 -0500",
-      "summary": "Walk down Pink Street in Lisbon’s Cais do Sodré and you’ll eventually find a door that looks like it has secrets. Pensão Amor building is a former brothel that has been transformed into a surprising space in Lisbon's port district. Cais do Sodré was once the s",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Sue Metal T-Rex Statue in Faith, South Dakota",
-      "link": "https://www.atlasobscura.com/places/sue-metal-t-rex-statue",
-      "date": "Fri, 13 Nov 2026 12:00:00 -0500",
-      "summary": "At the edge of the South Dakota prairie, a scrap-metal Tyrannosaurus rex rises from the small town of Faith. A tribute to one of the most famous dinosaurs ever unearthed. Built from recycled tractors and agricultural materials, this sculpture honors Sue, the l",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Xuan Phong Church in Tuy Phuoc Dong, Vietnam",
-      "link": "https://www.atlasobscura.com/places/xuan-phong-church",
-      "date": "Fri, 13 Nov 2026 10:00:00 -0500",
-      "summary": "Rising out of the rural landscapes of Tuy Phuoc, Xuan Phong Church presents an intriguing architectural cross-pollination that defies conventional ecclesiastical design. Originally established as a modest thatched sanctuary in the late nineteenth century, the ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "The Tar Pits in Lawton, Oklahoma",
-      "link": "https://www.atlasobscura.com/places/the-tar-pits-on-adams-hill-at-fort-sill-lawton-oklahoma-usa",
-      "date": "Thu, 12 Nov 2026 16:00:00 -0500",
-      "summary": "Oklahoma is known for its oil production. Normally, oil is trapped underneath impermeable rock and must be pumped out of the ground. Sometimes there is a gap in the impermeable rock, and oil oozes out of the ground. As the gaseous part of oil evaporates, it le",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "title": "Autumn in the Black Forest, Germany",
-      "link": "https://www.reddit.com/r/travel/comments/1xshye7/autumn_in_the_black_forest_germany/",
-      "date": "2026-11-10T08:48:59+00:00",
-      "summary": "Extended weekend road trip through Germany's Black Forest NP. We did a few short hikes in the region. We did a few short hikes during that time: Day 1: Geroldsauer Wasserfälle and Grobbach and Ellbachsee Day 2: Allerheiligen Wasserfälle and Schurkopf Day 3: Bl",
+      "title": "“Poor Niagara” said Roosevelt when seeing Iguazu Falls",
+      "link": "https://www.reddit.com/r/travel/comments/1xua2zo/poor_niagara_said_roosevelt_when_seeing_iguazu/",
+      "date": "2026-11-12T11:10:29+00:00",
+      "summary": "November 8-9, 2026 And I have to admit the First Lady had a point. The Iguazu Falls are an absolutely massive and spectacular sight, so big it’s hard to wrap your head around - most impressively, it’s not “a” fall, but a collection of 200+ falls, stretching fo",
       "source": "reddit-travel",
       "sourceLabel": {
         "en": "r/travel",
@@ -207,7 +207,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
-    "failed": 6
+    "ok": 6,
+    "failed": 0
   }
 }
