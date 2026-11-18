@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-17T14:24:27.914Z",
-  "date": "2026-11-17",
+  "generatedAt": "2026-11-18T13:58:38.721Z",
+  "date": "2026-11-18",
   "rotation": {
     "places": [
-      "usambara",
-      "naxos",
-      "assynt"
+      "haapai",
+      "torotoro",
+      "alentejo"
     ],
-    "tip": "passportvalidity",
-    "eat": "pampaku"
+    "tip": "positioning",
+    "eat": "tarairice"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "Agnese Visconti Memorial Plaque in Mantova, Italy",
-      "link": "https://www.atlasobscura.com/places/agnese-visconti-memorial-plaque",
-      "date": "Mon, 16 Nov 2026 16:00:00 -0500",
-      "summary": "Within the sprawling grounds of Mantua's Ducal Palace lies Piazza Pallone (now officially Piazza Lega Lombarda ), a quiet, tree-lined square, few tourists notice the simple stone plaque mounted on the perimeter wall enclosing the space. The plaque commemorates",
+      "title": "Negro Leagues Baseball Museum in Kansas City, Missouri",
+      "link": "https://www.atlasobscura.com/places/negro-leagues-baseball-museum",
+      "date": "Tue, 17 Nov 2026 16:00:00 -0500",
+      "summary": "This privately funded, not-for-profit museum lets visitors witness the greatness and trials of the teams that made up the \"Original Eight\" of the Negro Leagues. In a self guided tour explore the informative and interactive exhibits featuring the photos, artifa",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Hoang De Citadel (Thành Hoàng Đế) in An Nhon, Vietnam",
-      "link": "https://www.atlasobscura.com/places/hoang-de-citadel-thanh-hoang-d",
-      "date": "Mon, 16 Nov 2026 14:00:00 -0500",
-      "summary": "Looming over the quiet countryside of An Nhon, Hoang De Citadel represents an extraordinary historical palimpsest where two distinct Vietnamese empires converged upon a single plot of land. Originally built in the eleventh century as Vijaya, the formidable sto",
+      "title": "Tam Thien Cave System (Tam Thiên Động) in Quy Nhon Dong, Vietnam",
+      "link": "https://www.atlasobscura.com/places/tam-thien-cave-system-tam-thien-d-ng",
+      "date": "Tue, 17 Nov 2026 14:00:00 -0500",
+      "summary": "Hidden along the rugged coastline near the famous Ky Co beach in Nhon Ly fishing village, Tam Thien Cave is an extraordinary system of three interconnected sea caves that remains largely unknown to most travelers. The site is uniquely ephemeral, surfacing only",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Pipe Creek Mercantile Trading House in Peru, Indiana",
-      "link": "https://www.atlasobscura.com/places/pipe-creek-mercantile-trading-house",
-      "date": "Mon, 16 Nov 2026 12:00:00 -0500",
-      "summary": "On the east side of State Road 31 near Peru, Indiana, sits a naval gun on the grounds of the Pipe Creek Mercantile Trading House. The shop features a wide selection of items in individual booths. If you go in not knowing what you are looking for, they probably",
+      "title": "Thermes Romains de Cimiez in Nice, France",
+      "link": "https://www.atlasobscura.com/places/thermes-romains-de-cimiez",
+      "date": "Tue, 17 Nov 2026 14:00:00 -0500",
+      "summary": "The Roman baths of Cimiez originally belonged to the ancient Roman city of Cemenelum, located in the modern district of Cimiez, Nice. The ruins of the frigidarium of the northern baths have always been visible, never having been covered over since Roman times.",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "St. Matthew’s Chapel in Lisbon, New Hampshire",
-      "link": "https://www.atlasobscura.com/places/st-matthews-chapel",
-      "date": "Mon, 16 Nov 2026 10:00:00 -0500",
-      "summary": "St Matthews Chapel is an historic, darling, and well maintained church building located in the picturesque White Mountains of New Hampshire. Built in 1893 (1883 by some accounts - but the cornerstone lists 1893), it is said to be one of the most photographed c",
+      "title": "Astronaut Roundabout in Valdemoro, Spain",
+      "link": "https://www.atlasobscura.com/places/astronaut-roundabout",
+      "date": "Tue, 17 Nov 2026 12:00:00 -0500",
+      "summary": "Valdemoro, a town south of Madrid better known for its proximity to Pinto than for space exploration, has an unlikely visitor from another world standing in the middle of one of its roundabouts. Francisco Leiro’s El Astronauta , installed in 2001, has become o",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "The Areni-1 Cave Shoe in Yerevan, Armenia",
-      "link": "https://www.atlasobscura.com/places/the-areni-1-cave-shoe",
-      "date": "Fri, 13 Nov 2026 16:00:00 -0500",
-      "summary": "This leather shoe was discovered in Areni 1 cave during excavations in 2008. Made from a single piece of cowhide leather, and still with its leather laces it has been measured as corresponding to a modern US size 7 / EU size 37 / UK size 6. It is stuffed with ",
+      "title": "Glass Wonders Gallery in Karpacz, Poland",
+      "link": "https://www.atlasobscura.com/places/glass-wonders-gallery",
+      "date": "Tue, 17 Nov 2026 10:00:00 -0500",
+      "summary": "Step into a realm where sand and fire transform into pure magic at the Glass Wonders Gallery in Karpacz. Nestled in the heart of the Karkonosze Mountains, this hidden gem turns an ordinary afternoon walk into a mesmerizing journey through light and color. Forg",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -125,61 +125,6 @@
         "en": "Nomadic Matt",
         "ko": "노매딕 맷"
       }
-    },
-    {
-      "title": "Switzerland - 10 days in a fairy tale",
-      "link": "https://www.reddit.com/r/travel/comments/1xvo4r9/switzerland_10_days_in_a_fairy_tale/",
-      "date": "2026-11-14T00:11:53+00:00",
-      "summary": "We've been wanting to visit Switzerland for a while now but put it off for years due to the perceived cost. But with the ever rising Swiss Franc and rampant global inflation I decided to just bite the bullet and go this past October combining it with a trip to",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "Airplane seat courtesy rules",
-      "link": "https://www.reddit.com/r/travel/comments/1xtjn8l/airplane_seat_courtesy_rules/",
-      "date": "2026-11-11T14:48:59+00:00",
-      "summary": "Traveling recently, had a lady sitting already in my assigned seat. I pointed it out when I got to my row and she said, \"Oh, you can't trade with me?\" Then gestured to the middle seat. I told her no, and she shrugged and moved saying that it didn't cost anythi",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "Mostar, Bosnia and Herzegovina",
-      "link": "https://www.reddit.com/r/travel/comments/1xuptp6/mostar_bosnia_and_herzegovina/",
-      "date": "2026-11-12T21:50:04+00:00",
-      "summary": "We did a 1 week travel to Bosnia and Herzegovina this year in September. The travel started in Sarajevo, we planned to go to Mostar by train, but because of a fire all the trains were cancelled, so we had to take the bus. The city has an amazing vibe, the hist",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "2 Weeks in Korea",
-      "link": "https://www.reddit.com/r/travel/comments/1xu85ti/2_weeks_in_korea/",
-      "date": "2026-11-12T09:13:02+00:00",
-      "summary": "Hey guys, I just came from a 2 week trip to South Korea. This isn't the first time I've been but it's the first time as an independent adult that I've gone. After this trip, I've definitely learned to appreciate just how cool Korea is. For such a small country",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
-    },
-    {
-      "title": "“Poor Niagara” said Roosevelt when seeing Iguazu Falls",
-      "link": "https://www.reddit.com/r/travel/comments/1xua2zo/poor_niagara_said_roosevelt_when_seeing_iguazu/",
-      "date": "2026-11-12T11:10:29+00:00",
-      "summary": "November 8-9, 2026 And I have to admit the First Lady had a point. The Iguazu Falls are an absolutely massive and spectacular sight, so big it’s hard to wrap your head around - most impressively, it’s not “a” fall, but a collection of 200+ falls, stretching fo",
-      "source": "reddit-travel",
-      "sourceLabel": {
-        "en": "r/travel",
-        "ko": "r/travel"
-      }
     }
   ],
   "feedIsStale": false,
@@ -196,8 +141,9 @@
     },
     {
       "id": "reddit-travel",
-      "ok": true,
-      "count": 5
+      "ok": false,
+      "error": "HTTP 404",
+      "optional": true
     },
     {
       "id": "reddit-solotravel",
@@ -207,7 +153,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
