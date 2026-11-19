@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-18T13:58:38.721Z",
-  "date": "2026-11-18",
+  "generatedAt": "2026-11-19T14:26:27.654Z",
+  "date": "2026-11-19",
   "rotation": {
     "places": [
-      "haapai",
-      "torotoro",
-      "alentejo"
+      "koreanpark",
+      "chapada",
+      "lordhowe"
     ],
-    "tip": "positioning",
-    "eat": "tarairice"
+    "tip": "seat",
+    "eat": "mudda"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
+      "link": "https://www.atlasobscura.com/places/binh-lam-champa-tower",
+      "date": "Wed, 18 Nov 2026 16:00:00 -0500",
+      "summary": "Unlike most surviving Cham towers that crown dramatic hilltops, Binh Lam Tower rises almost unexpectedly from the flat, verdant plains of a quiet lowland village. Constructed around the late tenth to early eleventh century, this 20-meter brick sanctuary serves",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
+      "link": "https://www.atlasobscura.com/places/national-underground-railroad-freedom-center",
+      "date": "Wed, 18 Nov 2026 14:00:00 -0500",
+      "summary": "The National Underground Railroad Freedom Center, located in Cincinnati along the banks of the Ohio River makes a solemn statement about the lives that were lived enslaved in the early history of the United States, and the many heroic men and women who played ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Veliki Kalnik Castle in Koprivnica, Croatia",
+      "link": "https://www.atlasobscura.com/places/veliki-kalnik-castle",
+      "date": "Wed, 18 Nov 2026 12:00:00 -0500",
+      "summary": "Above the village of Kalnik in northern Croatia, the walls of Veliki Kalnik Castle rise from a jagged rocky ridge. Built across several levels, the medieval stronghold follows the natural contours of the rock, making its surviving towers and walls appear to gr",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "The Crucified Tongkonan of Tolu Deri in North Toraja Regency, Indonesia",
+      "link": "https://www.atlasobscura.com/places/the-crucified-tongkonan-of-tolu-deri",
+      "date": "Wed, 18 Nov 2026 10:00:00 -0500",
+      "summary": "In the highland villages of North Toraja, the skyline is dominated by tongkonan —traditional ancestral houses with sweeping, boat-shaped saddle roofs that loom dramatically over the landscape. For centuries, these wooden structures have served as the spiritual",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Negro Leagues Baseball Museum in Kansas City, Missouri",
       "link": "https://www.atlasobscura.com/places/negro-leagues-baseball-museum",
       "date": "Tue, 17 Nov 2026 16:00:00 -0500",
       "summary": "This privately funded, not-for-profit museum lets visitors witness the greatness and trials of the teams that made up the \"Original Eight\" of the Negro Leagues. In a self guided tour explore the informative and interactive exhibits featuring the photos, artifa",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Tam Thien Cave System (Tam Thiên Động) in Quy Nhon Dong, Vietnam",
-      "link": "https://www.atlasobscura.com/places/tam-thien-cave-system-tam-thien-d-ng",
-      "date": "Tue, 17 Nov 2026 14:00:00 -0500",
-      "summary": "Hidden along the rugged coastline near the famous Ky Co beach in Nhon Ly fishing village, Tam Thien Cave is an extraordinary system of three interconnected sea caves that remains largely unknown to most travelers. The site is uniquely ephemeral, surfacing only",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Thermes Romains de Cimiez in Nice, France",
-      "link": "https://www.atlasobscura.com/places/thermes-romains-de-cimiez",
-      "date": "Tue, 17 Nov 2026 14:00:00 -0500",
-      "summary": "The Roman baths of Cimiez originally belonged to the ancient Roman city of Cemenelum, located in the modern district of Cimiez, Nice. The ruins of the frigidarium of the northern baths have always been visible, never having been covered over since Roman times.",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Astronaut Roundabout in Valdemoro, Spain",
-      "link": "https://www.atlasobscura.com/places/astronaut-roundabout",
-      "date": "Tue, 17 Nov 2026 12:00:00 -0500",
-      "summary": "Valdemoro, a town south of Madrid better known for its proximity to Pinto than for space exploration, has an unlikely visitor from another world standing in the middle of one of its roundabouts. Francisco Leiro’s El Astronauta , installed in 2001, has become o",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Glass Wonders Gallery in Karpacz, Poland",
-      "link": "https://www.atlasobscura.com/places/glass-wonders-gallery",
-      "date": "Tue, 17 Nov 2026 10:00:00 -0500",
-      "summary": "Step into a realm where sand and fire transform into pure magic at the Glass Wonders Gallery in Karpacz. Nestled in the heart of the Karkonosze Mountains, this hidden gem turns an ordinary afternoon walk into a mesmerizing journey through light and color. Forg",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -153,7 +153,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
