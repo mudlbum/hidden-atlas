@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-19T14:26:27.654Z",
-  "date": "2026-11-19",
+  "generatedAt": "2026-11-20T14:01:04.682Z",
+  "date": "2026-11-20",
   "rotation": {
     "places": [
-      "koreanpark",
-      "chapada",
-      "lordhowe"
+      "matsu",
+      "batanes",
+      "damaraland"
     ],
-    "tip": "seat",
-    "eat": "mudda"
+    "tip": "fees2026",
+    "eat": "khinkali"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
-      "link": "https://www.atlasobscura.com/places/binh-lam-champa-tower",
-      "date": "Wed, 18 Nov 2026 16:00:00 -0500",
-      "summary": "Unlike most surviving Cham towers that crown dramatic hilltops, Binh Lam Tower rises almost unexpectedly from the flat, verdant plains of a quiet lowland village. Constructed around the late tenth to early eleventh century, this 20-meter brick sanctuary serves",
+      "title": "Promotions Gallery in Paris, France",
+      "link": "https://www.atlasobscura.com/places/promotions-gallery",
+      "date": "Thu, 19 Nov 2026 16:00:00 -0500",
+      "summary": "Historically, a secret entrance at the School of Mines, known as the “Mines staircase,” provided students access to the Paris Catacombs . Although this private access is no longer available for use due to safety reasons, the General Inspector of Quarries still",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
-      "link": "https://www.atlasobscura.com/places/national-underground-railroad-freedom-center",
-      "date": "Wed, 18 Nov 2026 14:00:00 -0500",
-      "summary": "The National Underground Railroad Freedom Center, located in Cincinnati along the banks of the Ohio River makes a solemn statement about the lives that were lived enslaved in the early history of the United States, and the many heroic men and women who played ",
+      "title": "Čigoč Stork Village in Kratečko, Croatia",
+      "link": "https://www.atlasobscura.com/places/cigoc-stork-village",
+      "date": "Thu, 19 Nov 2026 14:00:00 -0500",
+      "summary": "In the Croatian village of Čigoč, some of the most conspicuous residents live above the rooftops. White storks build bulky nests on traditional wooden houses, sharing the settlement with the people below. Situated in Lonjsko Polje Nature Park beside the Tišina",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Veliki Kalnik Castle in Koprivnica, Croatia",
-      "link": "https://www.atlasobscura.com/places/veliki-kalnik-castle",
-      "date": "Wed, 18 Nov 2026 12:00:00 -0500",
-      "summary": "Above the village of Kalnik in northern Croatia, the walls of Veliki Kalnik Castle rise from a jagged rocky ridge. Built across several levels, the medieval stronghold follows the natural contours of the rock, making its surviving towers and walls appear to gr",
+      "title": "Thunder Hole in Bar Harbor, Maine",
+      "link": "https://www.atlasobscura.com/places/thunder-hole-in-acadia-national-park",
+      "date": "Thu, 19 Nov 2026 12:00:00 -0500",
+      "summary": "Located in Maine's Acadia National Park, along the rocky shoreline of Mount Desert Island, Thunder Hole is a natural geological formation known for producing a booming, thunder-like sound phenomenon that gives it its name, as well as for explosive water sprays",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "The Crucified Tongkonan of Tolu Deri in North Toraja Regency, Indonesia",
-      "link": "https://www.atlasobscura.com/places/the-crucified-tongkonan-of-tolu-deri",
-      "date": "Wed, 18 Nov 2026 10:00:00 -0500",
-      "summary": "In the highland villages of North Toraja, the skyline is dominated by tongkonan —traditional ancestral houses with sweeping, boat-shaped saddle roofs that loom dramatically over the landscape. For centuries, these wooden structures have served as the spiritual",
+      "title": "Abdulla Avloni Memorial Museum in Tashkent, Uzbekistan",
+      "link": "https://www.atlasobscura.com/places/abdulla-avloni-memorial-museum",
+      "date": "Thu, 19 Nov 2026 10:00:00 -0500",
+      "summary": "Most memorial museums stay put in the house of the person they remember. This one moved out. It was founded in 1968 in the Tashkent house where Abdulla Avloni (1878–1934) had lived with his family from 1910 until his death. Avloni was one of the Jadids, the Mu",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "Negro Leagues Baseball Museum in Kansas City, Missouri",
-      "link": "https://www.atlasobscura.com/places/negro-leagues-baseball-museum",
-      "date": "Tue, 17 Nov 2026 16:00:00 -0500",
-      "summary": "This privately funded, not-for-profit museum lets visitors witness the greatness and trials of the teams that made up the \"Original Eight\" of the Negro Leagues. In a self guided tour explore the informative and interactive exhibits featuring the photos, artifa",
+      "title": "Podcast: Exploring Alberta’s Rich History in Fiction",
+      "link": "https://www.atlasobscura.com/articles/podcast-exploring-alberta-s-rich-history-in-fiction",
+      "date": "Thu, 19 Nov 2026 07:15:00 -0500",
+      "summary": "Listen and subscribe on Apple Podcasts , Spotify , and all major podcast apps. In this episode of The Atlas Obscura Podcast , we’re exploring the surprising side of Alberta with the Canadian novelist Esi Edugyan. Our podcast is an audio guide to the world’s wo",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -153,7 +153,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
