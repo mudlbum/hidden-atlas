@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-23T15:58:40.448Z",
-  "date": "2026-11-23",
+  "generatedAt": "2026-11-24T15:53:33.997Z",
+  "date": "2026-11-24",
   "rotation": {
     "places": [
-      "alentejo",
-      "plovdiv",
-      "ulleungdo"
+      "soca",
+      "bornholm",
+      "sado"
     ],
-    "tip": "visaonarrival",
-    "eat": "pampaku"
+    "tip": "protectedbooking",
+    "eat": "capers"
   },
   "counts": {
     "places": 87,
@@ -17,10 +17,10 @@
   },
   "feed": [
     {
-      "title": "Sant Pere dels Avions in Sant Pere dels Arquells, Spain",
-      "link": "https://www.atlasobscura.com/places/sant-pere-dels-avions",
-      "date": "Mon, 23 Nov 2026 10:00:00 -0500",
-      "summary": "In a village of just sixty inhabitants in the heart of rural Catalonia, you’d expect to find stone buildings, farmland and perhaps a church. And sure enough, that’s exactly what you get. What you wouldn’t expect, though, is to stumble upon three Soviet fighter",
+      "title": "Macdonald Book Shop in Estes Park, Colorado",
+      "link": "https://www.atlasobscura.com/places/macdonald-book-shop-estes-park",
+      "date": "Tue, 24 Nov 2026 10:30:00 -0500",
+      "summary": "At Macdonald Book Shop, a cozy and beloved store in the Colorado mountain town of Estes Park, selling books began as a side hustle. J. Edward Macdonald bought a small log cabin in Estes Park in 1908 and opened a hardware and general store next door — with one ",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "title": "Alta Rock Carvings in Alta, Norway",
-      "link": "https://www.atlasobscura.com/places/alta-rock-carvings",
-      "date": "Fri, 20 Nov 2026 16:00:00 -0500",
-      "summary": "One of the most extraordinary attractions in northern Norway is Alta Museum's outdoor area, where thousands of prehistoric carvings can be found. These are not paintings or replicas displayed behind glass – they are original artworks carved directly into the b",
+      "title": "Historic Park Theatre in Estes Park, Colorado",
+      "link": "https://www.atlasobscura.com/places/historic-park-theatre",
+      "date": "Tue, 24 Nov 2026 10:26:00 -0500",
+      "summary": "The Historic Park Theatre’s most famous feature was born from heartbreak. Its tower, added by owner Ralph Gwynn in 1929, is known locally as the Tower of Love — not for the romance it celebrates but for the one that fell apart. Legend has it that Gwynn was lef",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "title": "Shrine of the Most Blessed Sacrement in Hanceville, Alabama",
-      "link": "https://www.atlasobscura.com/places/shrine-of-the-most-blessed-sacrement",
-      "date": "Fri, 20 Nov 2026 14:00:00 -0500",
-      "summary": "Extraordinary architecture designed to resemble a 13th-century Italian Franciscan church, particularly the Basilica of Saint Francis of Assisi. Marble floors, gold ornamentation, stained glass, and soaring ceilings. The Spanish religious-art workshop Talleres ",
+      "title": "Wasserspeier (‘Water Spitter’) in Bern, Switzerland",
+      "link": "https://www.atlasobscura.com/places/wasserspeier-water-spitter",
+      "date": "Tue, 24 Nov 2026 10:00:00 -0500",
+      "summary": "Since 1984, the dragon-like Wasserspeier (\"Water Spitter\") on Bern’s Münstergasse has been delighting and fooling locals and tourists alike. Every spring, artist Luciano Andreani (*1947) and homeowner Tinu Mühlethaler install the spout on the roof of the histo",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "title": "Visulahti Wax Museum in Mikkeli, Finland",
-      "link": "https://www.atlasobscura.com/places/visulahti-wax-museum",
-      "date": "Fri, 20 Nov 2026 12:00:00 -0500",
-      "summary": "Rather than being an impressive, polished wax museum, the Visulahti Wax Museum has become famous for its awkward, outdated, and sometimes unintentionally hilarious figures. The museum has something of a cult reputation in Finland. Its wax figures are famously ",
+      "title": "‘El Vagamundos’ in Madrid, Spain",
+      "link": "https://www.atlasobscura.com/places/el-vagamundos",
+      "date": "Mon, 23 Nov 2026 16:00:00 -0500",
+      "summary": "Airports are places of departures and arrivals, but what happens to those who never seem to leave? At Terminal 1 of Madrid-Barajas Airport, a bronze man sits quietly, apparently waiting for a flight that may never come. Known as El Vagamundos (The Wanderer), t",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "title": "City Island Nautical Museum in The Bronx, New York",
-      "link": "https://www.atlasobscura.com/places/city-island-nautical-museum",
-      "date": "Fri, 20 Nov 2026 10:00:00 -0500",
-      "summary": "It was perhaps inevitable that market-driven land use change would come to City Island; the beauty of the place is immediately apparent. Only a quarter-mile causeway separates the small island from the rest of the Bronx, one of the five boroughs of New York Ci",
+      "title": "Indianola in Port Lavaca, Texas",
+      "link": "https://www.atlasobscura.com/places/indianola",
+      "date": "Mon, 23 Nov 2026 14:00:00 -0500",
+      "summary": "Indianola, Texas a coastal town that was once the second largest port in Texas next to at the time Galveston.In 1956 the port received a shipment of camels as part of the United States Camel Corps experiment to replace horses and mules as the primary work anim",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -153,7 +153,7 @@
     }
   ],
   "enrichment": {
-    "ok": 6,
+    "ok": 0,
     "failed": 0
   }
 }
