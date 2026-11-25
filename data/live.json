@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-24T15:53:33.997Z",
-  "date": "2026-11-24",
+  "generatedAt": "2026-11-25T15:36:43.599Z",
+  "date": "2026-11-25",
   "rotation": {
     "places": [
-      "soca",
-      "bornholm",
-      "sado"
+      "suncheon",
+      "caobang",
+      "orkhon"
     ],
-    "tip": "protectedbooking",
-    "eat": "capers"
+    "tip": "cashbuffer",
+    "eat": "nasisumba"
   },
   "counts": {
     "places": 87,
@@ -17,54 +17,54 @@
   },
   "feed": [
     {
+      "title": "Beguinage of Anderlecht in Anderlecht, Belgium",
+      "link": "https://www.atlasobscura.com/places/beguinage-of-anderlecht",
+      "date": "Wed, 25 Nov 2026 10:00:00 -0500",
+      "summary": "Tucked away in the historic centre of Anderlecht, just a stone's throw from the Collegiate Church of Saints Peter and Guido, lies one of Brussels' lesser-known historical treasures: the Beguinage of Anderlecht. Founded in 1252, it is considered the smallest be",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Dinosaur Pulpit at Wat That Phra Aram in Tambon Nai Mueang, Thailand",
+      "link": "https://www.atlasobscura.com/places/dinosaur-pulpit-at-wat-that-phra-aram",
+      "date": "Tue, 24 Nov 2026 16:00:00 -0500",
+      "summary": "In a Buddhist temple in the northeast of Thailand, not far from the border with Laos, one can find the World's Only Dinosaur Pulpit. Located in the city of Khon Kean, the fourth-largest city in Thailand and the heart of the Isan region, the pulpit can be found",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Bolsover Town Earthworks in Bolsover, England",
+      "link": "https://www.atlasobscura.com/places/bolsover-town-earthworks",
+      "date": "Tue, 24 Nov 2026 14:00:00 -0500",
+      "summary": "The current iteration of Bolsover Castle, in the NE of Derbyshire, is not, despite its appearance, a defensive structure. It does look very reminiscent of the Norman white tower at the tower of London, but it is essentially a Jacobean residence dressed up for ",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
+      "title": "Walking East in Hong Kong",
+      "link": "https://www.atlasobscura.com/places/walking-east",
+      "date": "Tue, 24 Nov 2026 12:00:00 -0500",
+      "summary": "Portraying a man walking away from a modern office tower block, as if to explore the surrounding community, 'Walking East' is an impressive painted metal sculpture placed directly onto the street without a plinth. Its creator, French Hong Kong-based sculptor P",
+      "source": "atlas-obscura",
+      "sourceLabel": {
+        "en": "Atlas Obscura",
+        "ko": "아틀라스 옵스큐라"
+      }
+    },
+    {
       "title": "Macdonald Book Shop in Estes Park, Colorado",
       "link": "https://www.atlasobscura.com/places/macdonald-book-shop-estes-park",
       "date": "Tue, 24 Nov 2026 10:30:00 -0500",
       "summary": "At Macdonald Book Shop, a cozy and beloved store in the Colorado mountain town of Estes Park, selling books began as a side hustle. J. Edward Macdonald bought a small log cabin in Estes Park in 1908 and opened a hardware and general store next door — with one ",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Historic Park Theatre in Estes Park, Colorado",
-      "link": "https://www.atlasobscura.com/places/historic-park-theatre",
-      "date": "Tue, 24 Nov 2026 10:26:00 -0500",
-      "summary": "The Historic Park Theatre’s most famous feature was born from heartbreak. Its tower, added by owner Ralph Gwynn in 1929, is known locally as the Tower of Love — not for the romance it celebrates but for the one that fell apart. Legend has it that Gwynn was lef",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Wasserspeier (‘Water Spitter’) in Bern, Switzerland",
-      "link": "https://www.atlasobscura.com/places/wasserspeier-water-spitter",
-      "date": "Tue, 24 Nov 2026 10:00:00 -0500",
-      "summary": "Since 1984, the dragon-like Wasserspeier (\"Water Spitter\") on Bern’s Münstergasse has been delighting and fooling locals and tourists alike. Every spring, artist Luciano Andreani (*1947) and homeowner Tinu Mühlethaler install the spout on the roof of the histo",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "‘El Vagamundos’ in Madrid, Spain",
-      "link": "https://www.atlasobscura.com/places/el-vagamundos",
-      "date": "Mon, 23 Nov 2026 16:00:00 -0500",
-      "summary": "Airports are places of departures and arrivals, but what happens to those who never seem to leave? At Terminal 1 of Madrid-Barajas Airport, a bronze man sits quietly, apparently waiting for a flight that may never come. Known as El Vagamundos (The Wanderer), t",
-      "source": "atlas-obscura",
-      "sourceLabel": {
-        "en": "Atlas Obscura",
-        "ko": "아틀라스 옵스큐라"
-      }
-    },
-    {
-      "title": "Indianola in Port Lavaca, Texas",
-      "link": "https://www.atlasobscura.com/places/indianola",
-      "date": "Mon, 23 Nov 2026 14:00:00 -0500",
-      "summary": "Indianola, Texas a coastal town that was once the second largest port in Texas next to at the time Galveston.In 1956 the port received a shipment of camels as part of the United States Camel Corps experiment to replace horses and mules as the primary work anim",
       "source": "atlas-obscura",
       "sourceLabel": {
         "en": "Atlas Obscura",
@@ -153,7 +153,7 @@
     }
   ],
   "enrichment": {
-    "ok": 0,
+    "ok": 6,
     "failed": 0
   }
 }
